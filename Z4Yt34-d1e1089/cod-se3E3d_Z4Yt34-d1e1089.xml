@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 12, Quaestio 1 [Louvain 1564 Transcription]</title>
+        <author>Melchior Cano</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 12, Quaestio 1 [Louvain 1564 Transcription]</title>
+          <date when="2019-06-27">June 27, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-06-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="672"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="Z4Yt34-d1e1089">
+        <head xml:id="Z4Yt34-d1e1089-Hd1e95">Liber 12, Quaestio 1 [Louvain 1564 Transcription]</head> <!--listed as chapter 2 (following "prooemium") in 1564 transcription -->
+        <head xml:id="Z4Yt34-d1e1089-Hd1e100" type="question-title">Quid theologia sit, quae ei obiecta res, quis finis</head>
+        <p xml:id="Z4Yt34-d1e1089-d1e103">
+          <lb ed="#L"/>Propositum est nobis hoc libro de locorum Theolo<lb ed="#L"/>gicorum 
+          usu in scholae disputatione dicere. Id quo 
+          <lb ed="#L"/>recte atque ex ordine fiat, optimum fuerit initio de<lb ed="#L"/>finire 
+          quidnam: Theologia sit, quae illius quasi subiecta 
+          <lb ed="#L"/>materies, quis scopus, in quem theologo studia dirigenda 
+          <lb ed="#L"/>sint omnia.
+          <!-- possible para break -->
+          Ac Theologia quidem, si Graecam vocem in 
+          <lb ed="#L"/>Latinas vertimus, ratio est sermoque de Deo. Omnis au<lb ed="#L"/>tem, 
+          quae ratione et via de aliqua re suscipitur, institutio, 
+          <lb ed="#L"/>essentiam et potentias, quas vocant, ac caetera omnia vesti<lb ed="#L"/>gat 
+          quae illi rei sunt peculiariter ac proprie attributa. In 
+          <lb ed="#L"/>theologia ergo facultas quaedam intelligitur: quae Dei na<lb ed="#L"/>turam 
+          vim et proprietates inquirit. Nec vero Theologo 
+          <lb ed="#L"/>satis est, quae Deo in se absolute conueniunt, ea facultatis 
+          <lb ed="#L"/>suae uiribus iuribusque tribuere: nisi etiam illa vendicet, 
+          quae Deo quasi accidunt in ordine ad creaturas. Dei enim 
+          <lb ed="#L"/>notionem omni ex parte rimatur. Bipartita igitur est Theo<lb ed="#L"/>logiae 
+          tractatio: vna de Deo secundum se, altera de eodem, 
+          <lb ed="#L"/>quia rerum est principium ac finis. Nec theologus tamen 
+          <lb ed="#L"/>summa et infima, divina et humana miscet, sed adeo arti<lb ed="#L"/>culate 
+          clare, artificiose, haec componit illis, his illa iungit: 
+          <pb ed="#L" n="673"/>
+          <lb ed="#L"/>vt non modo nullam sibi vicissim obscuritatem afferant, ve<lb ed="#L"/>rum 
+          etiam vtraque vtrisque adhibeant lumen. Quid? quod 
+          <lb ed="#L"/>sicut solem intueri nequimus aduersum, eiusque radijs a<lb ed="#L"/>cies 
+          nostra sensusque vincitur: sic ad diuinae lucis obtu<lb ed="#L"/>tum 
+          mentis nostrae oculi hallucinantur et caligant. Quam<lb ed="#L"/>obrem 
+          necesse est, vt Deum sua natura inuisibilem in effe<lb ed="#L"/>ctis 
+          ceu in vmbra, in speculo, in imagine, in signis vesti<lb ed="#L"/>giisque 
+          cernamus. <quote xml:id="Z4Yt34-d1e1089-Qd1e168" ana="#rom1_20">Inuisibilia enim ipsius a creatura mundi 
+          <lb ed="#L"/>per ea, quae facta sunt intellecta conspiciuntur: sempiterna 
+          <lb ed="#L"/>quoque eius virtus et divinitas</quote>. Cum vero inter omnia, quae 
+          <lb ed="#L"/>oculorum sensu percipimus, rationalis creatura simillima 
+          <lb ed="#L"/>deo sit, ad imaginem quippe Dei factus est homo, nihil pro<lb ed="#L"/>fecto 
+          inuenias, in quo divina bonitas, potestas et sapientia 
+          <lb ed="#L"/>magis eluceant. Quare theologiae disciplina, quamuis de 
+          <lb ed="#L"/>Deo ipso praecipue sit, plurimum tamen circa homines hu<lb ed="#L"/>manaque 
+          versatur: et cum ex homine tum ex iis, quae Deus ho<lb ed="#L"/>mini 
+          fecit atque effecit, divinae naturae cognitionem quaerit.
+          Quod si potentiam, benignitatem et providentiam, Dei in<lb ed="#L"/>dagare 
+          et proferre proprium theologiae munus est, de fine, 
+          quem Deus non alium quam seipsum hominibus compa<lb ed="#L"/>rauit, 
+          deque mediis ad hunc finem necessarijs virtutibus, 
+          <lb ed="#L"/>legibus, gratia, incarnatione, sacramentis, longissima licet, 
+          <lb ed="#L"/>theologi disputatio, non est ab instituto theologiae alie<lb ed="#L"/>na: 
+          non solum ob eam causam quam <name>D. sane Thomas</name> gra<lb ed="#L"/>uem 
+          reddidit, ne Theologia, quae effectrix etiam est non mo<lb ed="#L"/>do 
+          speculatrix, manca et imminuta hac parte omissa linque<lb ed="#L"/>retur, 
+          sed multo magis quod eae res Dei ipsius probitatem, 
+          <lb ed="#L"/>aequitatem, virtutem, integritatem, beneficientiam, libe<lb ed="#L"/>ralitatem 
+          misericordiam, patientiam, longanimitatem insi<lb ed="#L"/>gniter 
+          et praeclare patefaciunt et illustrant. Cuius rei igno<lb ed="#L"/>ratio 
+          causa quibusdam erroris illius fuit, vt existimarent, 
+          <lb ed="#L"/>disciplinam hanc non esse contemplandi gratia inuentam, 
+          <lb ed="#L"/>sed agendi. At enim quibus argumentis vtantur, videamus.
+          <lb ed="#L"/>Primum contemplationis tractatus inquiunt, longe mi<lb ed="#L"/>nor 
+          est quam actionis. Illi enim <ref xml:id="Z4Yt34-d1e1089-Rd1e228">D. Thomas primam Sum<lb ed="#L"/>mae 
+          suae partem</ref> dedit, huic secundam et tertiam, quae vo<lb ed="#L"/>luminis 
+          magnitudine illam singulae etiam exsuperant. De 
+          <lb ed="#L"/>fine rursum ac mediis disputare, ad eam facultatem sine 
+          <lb ed="#L"/>dubio pertinet, quae aliquid molitur et agit. Nimirum 
+          <pb ed="#L" n="674"/>
+          <lb ed="#L"/>non ad mentem ea, sed ad affectum referuntur. Cum ergo 
+          <lb ed="#L"/>de fine et mediis humanae vitae plurimam theologus di<lb ed="#L"/>sputationem 
+          instituat, fieri videtur, vt theologiae vis non 
+          <lb ed="#L"/>in cernendo potissimum, sed in agendo sita sit. Theologiae 
+          <lb ed="#L"/>insuper et diuinarum scripturarum idem est finis. Nec 
+          <lb ed="#L"/>enim finem alium disciplinae eiusdem principia ac con<lb ed="#L"/>clusiones 
+          habent. At divinarum omnium scripturarum fi<lb ed="#L"/>nis 
+          dilectio est, ut <ref xml:id="Z4Yt34-d1e1089-Rd1e259">Augustinus <!-- (1 doctr. Christ. c. 35 et 36)--></ref> <ref xml:id="Z4Yt34-d1e1089-Rd1e263">Gregoriusque <!-- (hom. 10 in Ezech.)--></ref> testantur. 
+          <lb ed="#L"/>Non ergo Theologia praecipue ad contemplandum ten<lb ed="#L"/>dit. 
+          sed ad amandum.
+        </p>
+        <p xml:id="Z4Yt34-d1e1089-d1e272">
+          <lb ed="#L"/>Praeterea, quae doctrina cuiuspiam est speculatrix vena<lb ed="#L"/>trixque 
+          naturae, oculos maxime ad cernendum postulat, 
+          <lb ed="#L"/>non ad agendum vires. Nec stultitiae eos arguit, qui in 
+          <lb ed="#L"/>actione torpent, sed qui sunt in speculatione tardi. At 
+          <lb ed="#L"/>scriptura omnis a discipulis opera exigit, eosque cessatio<lb ed="#L"/>ne 
+          torpentes tanquam vanos et ociosos reprehendit. Non 
+          <lb ed="#L"/>igitur speculandi causa haec doctrina potissime traditur, 
+          <lb ed="#L"/>sed agendi.
+          <!-- possible break point -->
+          Ad haec fides in charitatem refertur, non 
+          <lb ed="#L"/>econtrario in fidem charitas: vt ex Matthaeo cap. 22 et ex 
+          <lb ed="#L"/>Apostolo 1 Corinthio 13 colligitur. Notitia ergo prin<lb ed="#L"/>cipiorum 
+          Theologiae, quam notitiam fidei vocabulo acci<lb ed="#L"/>pimus 
+          diligendi causa primum omnium fidelibus data 
+          <lb ed="#L"/>est. Causa quippe <foreign>pelekos</foreign>, quam finalem possumus inter<lb ed="#L"/>pretari 
+          eadem, et prima et principalis est. Quod si notio 
+          <lb ed="#L"/>principiorum doctrinae huius actuosa est, fides, scilicet, 
+          <lb ed="#L"/>quae per dilectionem operatur, conficitur sane, doctrinam 
+          <lb ed="#L"/>quoque ipsam ad mores primo vitaeque actionem attine<lb ed="#L"/>re.
+          <!-- break -->
+          Item si fides speculatio quaedam est, non moralis disci<lb ed="#L"/>plina: 
+          vnde illud? <quote xml:id="Z4Yt34-d1e1089-Qd1e322" ana="#iac2_20">Fides sine operibus mortua est</quote>? Vnde il<lb ed="#L"/>lud 
+          rursum? <quote xml:id="Z4Yt34-d1e1089-Qd1e328" ana="#lc1_77">Ad dandam scientiam salutis plebi eius in re<lb ed="#L"/>missionem 
+          peccatorum eorum</quote> Nam scientia salutis cor<lb ed="#L"/>poralis 
+          in praxim maxime spectat, in contemplationem 
+          <lb ed="#L"/>non item. Quid illa? <quote xml:id="Z4Yt34-d1e1089-Qd1e337" ana="#sap10_10">Dedit illi scientiam sanctorum</quote>, <quote xml:id="Z4Yt34-d1e1089-Qd1e340" ana="#prov9_10">scien<lb ed="#L"/>tia 
+          sanctorum prudentia</quote>. <quote xml:id="Z4Yt34-d1e1089-Qd1e346" ana="#IItim3_16 #IItim3_17">Omnis scriptura divinitus inspi<lb ed="#L"/>rata 
+          vtilis est, etc. vt perfectus sit homo Dei ad omne o<lb ed="#L"/>pus 
+          bonum instructus</quote>. <quote xml:id="Z4Yt34-d1e1089-Qd1e353" ana="#io20_31">Haec autem scripta sunt vt creda<lb ed="#L"/>tis 
+          et vt credentes vitam habeatis in nomine ipsius</quote>. Qui 
+          <lb ed="#L"/>dicit se nosse Deum, et mandata eius non seruat, mendax 
+          <lb ed="#L"/>est (1 Ioh. 2), aliaque huius generis sexcenta, quae in divina passim 
+          <pb ed="#L" n="675"/>
+          <lb ed="#L"/>scriptura reperiuntur? Ex quibus omnino videtur effi<lb ed="#L"/>ci, 
+          Theologiam non esse speculatricem, sed effectricem. 
+          <lb ed="#L"/>Atque adeo finem eius praecipuum non esse contempla<lb ed="#L"/>tionem, 
+          sed actionem. Id quod opinati sunt scholastici 
+          <lb ed="#L"/>quidam theologi in primis clari et nobiles. Qui in <ref xml:id="Z4Yt34-d1e1089-Rd1e375">ea 
+          <lb ed="#L"/>re <name ref="#Lombard">Magistrum</name></ref> forte sequuntur, hanc disciplinam ex vsu et 
+          <lb ed="#L"/>fruitione partientem. Nec intelligunt doctissimi viri, 
+          <lb ed="#L"/>sic enim mihi modestissimum est vocare illos, alium esse 
+          <lb ed="#L"/>finem doctrinae, alium doctoris: vel vt verbis differenti<lb ed="#L"/>bus 
+          rem fere eandem exprimamus, alium esse finem do<lb ed="#L"/>ctrinae 
+          primarium, alium postremum. Vt si verbi causa dic<lb ed="#L"/>imus, 
+          vini duos esse fines: vnum ad bibendum, alterum 
+          <lb ed="#L"/>ad medendum. Charitas ergo docentis Dei, atque ea 
+          <lb ed="#L"/>re doctrinae quidem huius finis est, at non primus, sed 
+          <lb ed="#L"/>secundus. Nam et cognitio contemplatioque naturae, 
+          <lb ed="#L"/>vt ait eleganter <name>Cicero</name>, manca quodammodo atque in<lb ed="#L"/>choata 
+          est, si nulla actio rerum consequatur. <quote xml:id="Z4Yt34-d1e1089-Qd1e409" ana="#sap13_1">Vani sunt, 
+          <lb ed="#L"/>Sapiens inquit, omnes homines, in quibus non subest 
+          <lb ed="#L"/>scientia Dei</quote>, etc. et alius item. <quote xml:id="Z4Yt34-d1e1089-Qd1e417" ana="#rom1_21">Quia cum cognouissent 
+          <lb ed="#L"/>Deum, non sicut Deum glorificauerunt, sed euanuerunt 
+          <lb ed="#L"/>in cogitationibus suis</quote>, etc. Quapropter si ex fine secun<lb ed="#L"/>do 
+          naturam disciplinae consideres, iam tibi physica in<lb ed="#L"/>ter 
+          actuosas numerabitur. Quid? quod finis noster 
+          <lb ed="#L"/>primus, vt <name>D. Thomas</name> verissime sentit, visio Dei est 
+          <lb ed="#L"/>clara et manifesta? Quia vero finem illum adipiscimur 
+          <lb ed="#L"/>mente et voluntate, cognitione et amore: fit, non vt co<lb ed="#L"/>gnitio 
+          ex se ad amorem sed vt utraque res ad visionem refe<lb ed="#L"/>ratur. 
+          Quod si cognitio viae ex se non nisi ad patriae co<lb ed="#L"/>gnitionem 
+          referenda est, quamuis illa non sit per se ido<lb ed="#L"/>nea 
+          nisi ei affectus dilectioque iungatur, visio vero Dei, 
+          <lb ed="#L"/>cuius fides seminarium est, contemplatio potissimum 
+          <lb ed="#L"/>est, non effectio, sequitur Theologiam maxime specula<lb ed="#L"/>tivam 
+          esse, non practicam. Liceat enim, quando de scho<lb ed="#L"/>lae 
+          disputatione habetur oratio, scholae verba vsurpare.
+          <lb ed="#L"/>Adde quod Theologia Dei naturam, potentiam et pro<lb ed="#L"/>prietatem 
+          inquirit. Est ergo Deus huius scientiae pro<lb ed="#L"/>prium 
+          obiectum, atque adeo speculationis causa comparatur. 
+          <lb ed="#L"/>Atque <ref xml:id="Z4Yt34-d1e1089-Rd1e464" target="http://scta.info/resource/adt-l12"><name>Augustinus</name><!-- (12 de Trin. c. 14 et 15)--></ref> aperte docet, sapientiam, de qua Apostolus I Cor. 
+          <lb ed="#L"/>12 loquitur, intellectualem notionem <!--esse--> et contemplationem rerum
+          <pb ed="#L" n="676"/>
+          <lb ed="#L"/>aeternarum. Sine dubio autem sacra doctrina sapientia est, 
+          eaque re speculativam esse constat. Quod, vt caetera ta<lb ed="#L"/>ceamus, 
+          vel Theologiae nomen prae se fert. Quemadmo<lb ed="#L"/>dum 
+          enim non solum asserere, sed etiam addubitare stul<lb ed="#L"/>tissimum est, 
+          num Physiologia Astrologiaque speculatri<lb ed="#L"/>ces 
+          sint an effectrices, quod nomina ipsa insignite egre<lb ed="#L"/>gieque 
+          declarant, contemplationem rerum ingeri, non mo<lb ed="#L"/>res 
+          et actionem. Tametsi Medici, Mautae, ac caeteri, qui 
+          <lb ed="#L"/>rebus publicis addicti et destinati sunt, otiosam naturae 
+          <lb ed="#L"/>astrorumque notionem aspernantur et fugiunt: quae actuo<lb ed="#L"/>sa 
+          est, eam et amplectuntur et colunt. Sic ambigere, theo<lb ed="#L"/>logia 
+          speculatrix ne sit an effectrix, a communi etiam me<lb ed="#L"/>diocrique 
+          intelligentia et sensu remotum est. Vtpote, cum 
+          <lb ed="#L"/>nihil aliud illa sit, quam ratio sermoque de Deo. Quan<lb ed="#L"/>quam 
+          viri prudentes vacantem, illam et otiosam esse no<lb ed="#L"/>lunt, 
+          sed: ad humanae vitae et vsum et finem accommoda<lb ed="#L"/>ri.
+          <!-- para break ??-->
+          Praeterea, Theologia omnem de Deo cognitionem 
+          <lb ed="#L"/>tradit, siue ea per naturae lumen, seu diuino solum mun<lb ed="#L"/>ere 
+          et illustratione habeatur. Cum igitur speculetur quic<lb ed="#L"/>quid 
+          de Deo cognoscere humana ingenia possunt, nimi<lb ed="#L"/>rum 
+          aut speculatiua est, aut scientia de Deo nulla esse spe<lb ed="#L"/>culatiua 
+          potest. Quod licet nonnulli huic argumento de<lb ed="#L"/>derint, 
+          adeo tamen absurdum est, vt refelli non debeat.
+          <lb ed="#L"/>Quid quod theologia nostra divinae sapientiae quae<lb ed="#L"/>dam 
+          impressio est, quae eadem et speculandi vim habet et 
+          <lb ed="#L"/>agendi? Nihil igitur obstat, cur non idem lumen vul<lb ed="#L"/>tus 
+          Dei, quod signatum est super nos, vtraque ostendat, 
+          <lb ed="#L"/>et quae contemplari oportet et quae agere. Sicut anima 
+          <lb ed="#L"/>rationalis quod formarum omnium praestantissima sit, vi<lb ed="#L"/>res 
+          quidem excellenter habet et sentiendi et vigendi, sed 
+          <lb ed="#L"/>in ea tamen vis intelligendi prima eademque praecipua est. 
+          <lb ed="#L"/>Nec vires illa exercet reliquas, nisi ut proprio tandem 
+          <lb ed="#L"/>intelligentiae munere perfungatur. In hunc itaque mo<lb ed="#L"/>dum 
+          <name>Divus Thomas</name> scienter ac perite dixit, Theologiam 
+          <lb ed="#L"/>muneribus utrisque fungi, et speculandi et agendi, quam<lb ed="#L"/>uis 
+          magis speculetur quam agat. Non enim agit, nisi quia 
+          <lb ed="#L"/>agendo ad perfectam Dei cognitionem tendit. Quibus 
+          <lb ed="#L"/>rebus breviter explicatis illa tria perspicue satis, et plane 
+          <lb ed="#L"/>intelliguntur, quae a principio huius capitis exponenda 
+          <pb ed="#L" n="677"/>
+          <lb ed="#L"/>suscepi, nempe quaenam sit Theologiae propria notio ac 
+          <lb ed="#L"/>definitio, quae rursum illi subiecta materies, circa quam 
+          <lb ed="#L"/>ipsa versetur, quis tandem illius finis tum primus tum se<lb ed="#L"/>cundus. 
+          Theologia scientia est, quae docet, quidnam na<lb ed="#L"/>tura 
+          divina sit, et quae naturae eius vires ac proprietates. 
+          <lb ed="#L"/>Deus ipse est doctrinae huic obiectum subiectumque pro<lb ed="#L"/>positum 
+          et quasi versanda materia, his enim modis res, 
+          <lb ed="#L"/>quam facultas quaelibet mente tractandam cognoscen<lb ed="#L"/>damque 
+          proponit a Philosophis appellatur. Finis prima<lb ed="#L"/>rius 
+          quidem, naturae divinae notio, et contemplatio per 
+          <lb ed="#L"/>Dei potentias, virtutes et proprietates explicata, postre<lb ed="#L"/>mus 
+          autem, earum rerum actio, quae ad mores sunt ac be<lb ed="#L"/>ne 
+          beateque vivendum necessariae. Et quidem quem vsum 
+          <lb ed="#L"/>loci Theologici habeant, vitae moribus et actionibus ac<lb ed="#L"/>commodatum 
+          non institui in praesentia dicere, quamuis 
+          <lb ed="#L"/>magnus ille omnino sit, et qui nobis disserendi praestaret 
+          <lb ed="#L"/>valde vtilem copiosamque materiam. Is tantum vsus, vt 
+          <lb ed="#L"/>supra dixi, nunc mihi expediendus est, quem Theologus 
+          <lb ed="#L"/>capere e locis potest, si in scholae disputationibus illos 
+          <lb ed="#L"/>verset et tractet, cum scilicet quantum potest, tantum co<lb ed="#L"/>gnoscere 
+          curat de Deo rebusque divinis.
+          <!-- para break -->
+          Non autem mi<lb ed="#L"/>hi 
+          excidit, scripsisse me in libro quinto, cum de ecclesiae 
+          <lb ed="#L"/>auctoritate in morum iudicio dicerem, duplicem esse de 
+          <lb ed="#L"/>rebus Theologicis quaestionem. Vnam, quae ad contem<lb ed="#L"/>plationem 
+          attineret, alteram, quae in motibus atque vsu 
+          <lb ed="#L"/>vitae sita esset. Quod a quibusdam sic accipi potest, tan<lb ed="#L"/>quam 
+          hoc, quod nunc habeo institutum, priori diuer<lb ed="#L"/>sum 
+          sit. Id vero a me procul aberit. Nanque aliud est loco<lb ed="#L"/>rum 
+          vsum Ecclesiasten in concione docere, vbi de mori<lb ed="#L"/>bus 
+          aut hortando, aut dehortando agitur, aliud Theologum 
+          <lb ed="#L"/>in vsu locorum instituere, cum in morum quaestionem incidit, 
+          sive illa sit earum rerum, quas scire ad salutem est necessa<lb ed="#L"/>rium 
+          sive earum etiam quae fuerint opportunae. Atque 
+          <lb ed="#L"/>contionatoribus, quemadmodum loca Theologica v<lb ed="#L"/>surpare 
+          debeant praescribere, id ego hoc tempore praeter<lb ed="#L"/>eundum 
+          censui. At quoniam quaestiones fidei et morum a 
+          <lb ed="#L"/>Theologo eadem via et ratione tractantur, quum in dis<lb ed="#L"/>putationem 
+          Theologiae veniunt, id ambigendum non est, 
+          <lb ed="#L"/>quae superiorum quaestionum praecepta fuerint, eadem ad 
+          <pb ed="#L" n="678"/>
+          <lb ed="#L"/>sequentes pertinere. Haec enim est vna res prorsus, ut non 
+          <lb ed="#L"/>differat multum inter fidei decreta et iudicia morum, ea<lb ed="#L"/>que 
+          est ex eisdem locis eademque propemodum forma 
+          <lb ed="#L"/>tractanda. Nec vero velim, vt rursum me quispiam in tam 
+          <lb ed="#L"/>frigida tamque ieiuna calumnia remoretur, quod Theo<lb ed="#L"/>logiam 
+          simpliciter et absque vllo temperamento scien<lb ed="#L"/>tiam 
+          nuncupauerim. Quasi nescirem Aristotelem in sci<lb ed="#L"/>entia 
+          euidentem, et claram conclusionis notitiam exige<lb ed="#L"/>re. 
+          Cuiusmodi quum in principiis Theologia non habeat, 
+          <lb ed="#L"/>ne in conclusionibus quidem habere potest. Pugnat e<lb ed="#L"/>nim 
+          rationis conclusionem dilucidam, apertam et mani<lb ed="#L"/>festam 
+          <lb ed="#L"/>effici, si res, e quibus illa colligitur, obscurae, o<lb ed="#L"/>pertae 
+          atque inuolutae sunt. Porro autem si non ut <name>Ari<lb ed="#L"/>stoteles</name>, 
+          vt sacri auctores, sic nos certe loquimur, qui do<lb ed="#L"/>ctrinam 
+          hanc scientiam absolute vocarunt. <quote xml:id="Z4Yt34-d1e1089-Qd1e690" source="http://scta.info/resource/adt-l14">Scire, Au<lb ed="#L"/>gustinus 
+          inquit quemadmodum fides et piis opituletur et contra impios defendatur proprio appellare vocabulo scientiam videtur Apostolus<!-- (14 de Trin. c. 1, n. 3)--></quote>. Illud autem sine dubio 
+          <lb ed="#L"/>munus Theologiae proprium et officium est. Et <name>Hiero<lb ed="#L"/>nymus</name>, 
+          vt alios omittam, scripturae sacrae doctrinam, quam 
+          <lb ed="#L"/>Theologi profitemur, scientiam sapientiamque passim 
+          <lb ed="#L"/>appellat. Quin sacrae litterae, ubi res certa est, ibi nullo 
+          <lb ed="#L"/>modo sciendi vocabulum reformidant. Nota sunt illa, 
+          scio quod redemptor meus uiuit, etc. <!--(Iob 19);--> Item, Scio, quod 
+          <lb ed="#L"/>certissime regnaturus sis, etc. <!--(1 Reg. 24)--> Item, Dedit illi scientiam 
+          <lb ed="#L"/>Sanctorum <!--(Sap. 10);--> Item, scientiam Dei inuenies, quia Domi<lb ed="#L"/>nus 
+          dat sapientiam, et ex ore eius prudentia et scientia <!--(Pru. 2).--> 
+          <lb ed="#L"/>Et Apostolus. Alii quidem per spiritum datur sermo sa<lb ed="#L"/>pientiae, 
+          alii autem sermo scientiae <!--(1 Cor. 12).--> Praeterea evidentiam 
+          <lb ed="#L"/>Aristoteles in disciplinis flagitat, vt rerum cognitio nec 
+          <lb ed="#L"/>fallere possit, nec mutari. Firmam enim immutabilemque 
+          <lb ed="#L"/>notionem scientiae vocabulum postulat. Cum igitur quae 
+          <lb ed="#L"/>res in fidem ac Theologiam incidunt, qua ratione in eas 
+          <lb ed="#L"/>incidunt, stabiles immobilesque sint, nec in eis Theolo<lb ed="#L"/>gus 
+          errare labi aut decipi queat: fit, vt sine perspicuita<lb ed="#L"/>te 
+          etiam Theologia scientiae proprie sibi appellationem 
+          <lb ed="#L"/>vendicet. Quae eadem causa subest, vt disciplina haec cir<lb ed="#L"/>ca 
+          res etiam contingentes, hoc est, sua natura minime ne<lb ed="#L"/>cessarias, 
+          sine sui nominis impendio et iactura versetur. 
+          <pb ed="#L" n="679"/>
+          <lb ed="#L"/>Necessitatem quippe in doctrina idcirco Aristoteles re<lb ed="#L"/>quisiuit, 
+          quod sine ea nec rerum nec cognitionis stabili<lb ed="#L"/>tas 
+          et immutabilitas appareret. At causae vel fortuito 
+          <lb ed="#L"/>antegressae harumque effecta, suapte natura parum firma 
+          <lb ed="#L"/>et constantia, vt sub Theologiam et fidem cadunt, non 
+          <lb ed="#L"/>mobilia et quae modo huc atque illuc transferantur, sed 
+          <lb ed="#L"/>certa immutataque perinde ac perennia manent. Quam<lb ed="#L"/>obrem 
+          vtraque Deus proprie scire dicitur, et quae neces<lb ed="#L"/>sario 
+          eueniunt, et quae nobis in casu et fortuna sunt po<lb ed="#L"/>sita. 
+          Rite ergo Theologiam scientiam dicimus, in qua 
+          <lb ed="#L"/>certitudo immobilis, firma constantia. et ut ita dicam, 
+          <lb ed="#L"/>infallibilitas cognitionis est. Quid quod Musica et A<lb ed="#L"/>stronomia 
+          a plerisque scientiae nuncupantur, et tamen 
+          <lb ed="#L"/>vix unus aut alter coelorum syderumque errantium con<lb ed="#L"/>uersiones, 
+          a quibus disciplinae illae nunc pendent, pro<lb ed="#L"/>prio 
+          vel instrumento vel experimento exploravit? Quin 
+          Astrologi fere iuniores veterum experimenta, tanquam 
+          <lb ed="#L"/>certa earum rerum praeiudicia sequuntur, quas ipsi tra<lb ed="#L"/>ctandas 
+          iudicandasque suscipiunt. Theologia igitur 
+          <lb ed="#L"/>iure quoque scientia vocitabitur, praesertim cum hu<lb ed="#L"/>ius 
+          doctrinae principiis accidat, vt obscure nobis sint 
+          <lb ed="#L"/>cognita. Nimirum enim, si nobis perspicua ac diluci<lb ed="#L"/>da 
+          forent, nihilo secius suum haec disciplina, et nomen 
+          <lb ed="#L"/>et rationem tueretur. Ac re vera, si modo Aristoteles 
+          <lb ed="#L"/>viueret, non aliud nomen inueniret, quo theologiam 
+          <lb ed="#L"/>aptius et congruentius appellaret. Nam fidem dicere, 
+          <lb ed="#L"/>quae non auctoritati proxime, sed rationi et syllogismo 
+          <lb ed="#L"/>innitatur, absurdum est. Alioqui si prior propositio cer<lb ed="#L"/>ta 
+          ex fide sit, posterior autem ratione naturae probabilis, 
+          <lb ed="#L"/>conclusionis fides erit, non opinio. Quod plane fal<lb ed="#L"/>sum est.
+        </p>
+        <p xml:id="Z4Yt34-d1e1089-d1e822">
+          <lb ed="#L"/>Theologiam ergo, quando aliud melius non occurrit, 
+          <lb ed="#L"/>scientiae vocabulo nuncupemus. Firma enim et stabilis earum 
+          <lb ed="#L"/>rerum perceptio et comprehensio est, quae e certis constan<lb ed="#L"/>tibusque 
+          principiis manifesta connexione nectuntur. Nec enim 
+          <lb ed="#L"/>illud vere dici potest, theologiae consequentias proba<lb ed="#L"/>biles 
+          et obscuras esse, non euidentes et firmas. Cuius rei 
+          <lb ed="#L"/>argumentum ponunt minime acutum, sed in primis he<lb ed="#L"/>bes, 
+          quod si certa esset claraque connexio, conclusiones 
+          <pb ed="#L" n="680"/>
+          <lb ed="#L"/>non iam ad Theologiam, sed ad fidem attinerent. Verum 
+          <lb ed="#L"/>haec ratio ridicula est, iure itaque a plerisque reprehendi<lb ed="#L"/>tur. 
+          Est enim facile et apertum fidei theologiaeque discri<lb ed="#L"/>men. 
+          Quod fides proxime et, vt ita dicam, immediate au<lb ed="#L"/>ctoritate 
+          nititur, Theologia vero proxime et immediate 
+          <lb ed="#L"/>ratione. Habent enim se, quemadmodum supra dixi, fides 
+          <lb ed="#L"/>et Theologia non aliter, quam habitus principiorum 
+          <lb ed="#L"/>et scientia conclusionum. Et sicut naturae lumen abs<lb ed="#L"/>que 
+          ratiocinationis medio, principiorum naturalium 
+          <lb ed="#L"/>notitiam efficit, ita lumen fidei nullo adhibito ratio<lb ed="#L"/>nis 
+          argumento, earum rerum persuasionem facit, quibus 
+          <lb ed="#L"/>fideles assentimur diuina solum auctoritate nixi. Non 
+          <lb ed="#L"/>igitur consecutionis euidentia et firmitas Theologiam 
+          <lb ed="#L"/>tollit, sed facit: non aufert, sed infert. Quanquam sunt in 
+          <lb ed="#L"/>hac, sicut et in aliis disciplinis, opinationes quaedam re<lb ed="#L"/>bus 
+          scitis exploratisque permixtae. Ac quemadmodum 
+          <lb ed="#L"/>doctrina physica, naturae licet ipsa congruens et consen<lb ed="#L"/>tanea, 
+          non omnes conclusiones explorate conficit: sed 
+          <lb ed="#L"/>quasdam probabili argumentatione suadet. Sic plurima 
+          <lb ed="#L"/>Theologus pronuntiat quidem constanter, certo, fiden<lb ed="#L"/>ter, 
+          in quibusdam tamen praeclare agi secum putat, si ve<lb ed="#L"/>risimile 
+          quod sit inuenerit. Nec arbitratur sese scire 
+          <lb ed="#L"/>quod nesciat: aut, perinde vt si omnia certa essent Theo<lb ed="#L"/>logiae 
+          dogmata, nihil formidat, nihil ambigit, sed illud ca<lb ed="#L"/>uet 
+          et prouidet, ne vniversis temere assentiens et valde 
+          <lb ed="#L"/>cuncta asseuerans earum etiam rerum auctoritatem, quae 
+          <lb ed="#L"/>sunt certiores et illustriores. amittat. Sed ad rem. Cum 
+          <lb ed="#L"/>incerta connexio est, vel altera propositio est incerta, quae 
+          <lb ed="#L"/>cum fidei principio sumitur, conclusionis opinio erit, 
+          <lb ed="#L"/>theologia proprie non erit. At sive ambo syllogismi 
+          <lb ed="#L"/>principia fidei sint, seu alterum ex fide certum, alterum 
+          <lb ed="#L"/>ex natura evidens, conclusio ad Theologiam pertinebit, 
+          <lb ed="#L"/>modo consecutio, aut clara luce naturae sit, aut fidei illu<lb ed="#L"/>stratione 
+          cognita. Haud enim secus, quod etsi dixi, saepe 
+          <lb ed="#L"/>ac saepius dicturus sum: haud secus, inquam, eiusmodi con<lb ed="#L"/>clusionis 
+          scientia refertur ad fidem, quam ad habitum prin<lb ed="#L"/>cipiorum 
+          naturales disciplinae. Quae quoniam ita sunt 
+          <lb ed="#L"/>in promptu, vt res argumentatione non egeat, his omis<lb ed="#L"/>sis 
+          pergamus ad reliqua.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
