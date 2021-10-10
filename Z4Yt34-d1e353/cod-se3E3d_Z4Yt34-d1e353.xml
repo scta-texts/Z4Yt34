@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="189"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e353"><!-- Z4Yt34-l3c4 -->
+            <head xml:id="Z4Yt34-d1e353-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e353-d1e109">
+               <lb ed="#L" n="16"/>cap. Quartum, vbi sternuntur viae ad traditiones 
+      <lb ed="#L" n="17"/>Christi O. Apostolorum 
+      inue<lb ed="#L" n="18" break="no"/>stigandas.
+    </p>
+            <p xml:id="Z4Yt34-d1e353-d1e118">
+               <lb ed="#L" n="19"/>His igitur cognitis, restat illud explicandum vbi 
+      to<lb ed="#L" n="20" break="no"/>tius orationis cardo versatur, quonam modo Theo 
+      <lb ed="#L" n="21"/>logo constare possit, hoc aut illud dogma ab Apostolis 
+      <lb ed="#L" n="22"/>esse traditum. Verbi causa ponamus aliqua, quae pateant 
+      <lb ed="#L" n="23"/>latius. Si in quaestionem veniat, num minores ordines, 
+      ie<lb ed="#L" n="24" break="no"/>iunium quadragesimae, baptisma paruulorum, imaginum 
+      <lb ed="#L" n="25"/>venerationem, symbolum fidei, ex traditione 
+      Apostolo<lb ed="#L" n="26" break="no"/>rum habeamus: id nunc explanandum esse dicimus, an ne 
+      <lb ed="#L" n="27"/>sit via aliqua plana &amp; expedita, qua ad certam earum 
+      re<lb ed="#L" n="28" break="no"/>rum intelligentiam valeat perueniri. Non enim sumus ij. 
+      <lb ed="#L" n="29"/>qui Pharisaeorum instar traditiones nostras velimus qua 
+      <lb ed="#L" n="30"/>n diuinas &amp; Apostolicas venditare, sed vbique gentium 
+      <lb ed="#L" n="31"/>cupimus, vt vera a falsis, ita ab humanis diuina 
+      secernere<lb ed="#L" n="32" break="no"/>Eo vero in loco maxime, vbi de dogmatis fidei 
+      catholi<lb ed="#L" n="33" break="no"/>cae agitur. Quo in loco quidem rerum illiusmodi permix 
+      <lb ed="#L" n="34"/>ta confusio perniciosissima est. Sunt igitur viae quatuor 
+      <lb ed="#L" n="35"/>apertae, quas si sequemur, traditionibus Apostolorum ve 
+      <lb ed="#L" n="36"/>stigandis minime aberrabimus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e353-d1e160">
+               <lb ed="#L" n="37"/>Prima via ab Augustino aperitur cum alijs locis, tum  
+      <!--201.xml-->
+      <pb ed="#L" n="190"/>
+               <lb ed="#L" n="1"/>lib. 4. cont. Donatist. in haec verba. Quod vniuersa tenet 
+      <lb ed="#L" n="2"/>ecclesia, nec concilijs institutum, sed semper retentum est: 
+      <lb ed="#L" n="3"/>non nisi auctoritate Apostolica traditum rectissime 
+      cre<lb ed="#L" n="4" break="no"/>ditur. Est autem ratio huius in promptu. Si enim 
+      consue<lb ed="#L" n="5" break="no"/>tudinis cuiusquam diu in tota ecclesia obseruatae, 
+      origi<lb ed="#L" n="6" break="no"/>nem &amp; principium, nec ad Summos Pontifices, nec ad eo 
+      <lb ed="#L" n="7"/>cilia episcoporum referre possumus: sed ea consuetudo 
+      <lb ed="#L" n="8"/>ad Auostolorum vsque tempora retro trahitur, 
+      confici<lb ed="#L" n="9" break="no"/>tur plane illam ab Apostolis esse profectam. Vt si in 
+      du<lb ed="#L" n="10" break="no"/>bium vocetur, an minores ordines, subdiaconatus, 
+      lecto<lb ed="#L" n="11" break="no"/>ratus, &amp; caeteri ex Apostolorum traditione in ecclesia sint,  
+      <lb ed="#L" n="12"/>hunc in modun peruestigabitur. Si horum ordinum 
+      ini<lb ed="#L" n="13" break="no"/>tium, vel a Damaso sit, vel a Symacho, vel ab vllo alio seu 
+      <lb ed="#L" n="14"/>Pontifice seu concilio, certe Apostolorum traditio non  
+      <lb ed="#L" n="15"/>fuit. Sin ante quemcunque Pontificem, ante quodcunque 
+      <lb ed="#L" n="16"/>etiam concilium, mentio huius rei apud priores habetur,  
+      <lb ed="#L" n="17"/>donec ad Apostolorum tempora peruentum est: tunc de 
+      <lb ed="#L" n="18"/>mum intelligimus, minores ordines ex Apostolica 
+      tradi<lb ed="#L" n="19" break="no"/>tione fuisse, vt &amp; re vera fuerunt. Quoniam non 
+      posterio<lb ed="#L" n="20" break="no"/>res modo, sed lgnatius epistola 8. ad Antiochenos, 
+      Dio<lb ed="#L" n="21" break="no"/>nyfius 3. cap. Eccle. Hierarch. Clemens in epistola ad vni 
+      <lb ed="#L" n="22"/>uersos, Anacletus in decretis suis, eius rei tanquam in 
+      ec<lb ed="#L" n="23" break="no"/>clesia iam acceptae meminerunt. Eadem quoque ratione 
+      <lb ed="#L" n="24"/>docebis Ieiunij legem traditionis Apostolicom fuisse. Cu 
+      <lb ed="#L" n="25"/>ius videlicet mentionem fecisse constat August, ad Casu 
+      <lb ed="#L" n="26"/>lanum epist. 86. &amp; ad Ianuarium epist. 118. &amp; 119. 
+      Hieron<lb ed="#L" n="27" break="no"/>ad Laetam de institutione filiae, &amp; libro 2. aduers: Iouiuia. 
+      <lb ed="#L" n="28"/>&amp; in Esaiam c. 58. Ambros: sermone 25. &amp; 38. Chryso. ad 
+      <lb ed="#L" n="29"/>pop. Antio. homi. 3. &amp; 16. Basilium cum in alijs concioni 
+      <lb ed="#L" n="30"/>pus, tum in eius initio, quam in ebriosos habuit, &amp; in 
+      po<lb ed="#L" n="31" break="no"/>steriore de ieiunio, Concil. Nicaen, referturque i8. 
+      distin<lb ed="#L" n="32" break="no"/>cap. habeatur, Concil. Laodic. multis capitibus. Sozxome 
+      <lb ed="#L" n="33"/>num hist. trip. lib. 1. c. 1O. Origene hom. 1O. in Leuit. 
+      Ire<lb ed="#L" n="34" break="no"/>naeum apud Euse. eccl. hist. Ii. 5. c. 24. Telesphorum in epi. ad 
+      <lb ed="#L" n="35"/>vniuersos, qui ieiunij nostri auctor falso a quibusdam 
+      exi<lb ed="#L" n="36" break="no"/>stimatur. Quoniam in epist. 4. ad Philippen. eius rei prior 
+      <lb ed="#L" n="37"/>meminit: atque habemus etiam Canonem Apostol. 6S. 
+      <lb ed="#L" n="38"/>probatum etiam a Trullan. Synod. Canone 9. &amp; 
+      Cano<lb ed="#L" n="39" break="no"/>ne 20. Quamobre vere ac iure Theophilus Alexa. libro  
+      <!--202.xml-->
+      <pb ed="#L" n="191"/>
+               <lb ed="#L" n="1"/>Paschali primo &amp; tertio, non solum legem ieiunij a 
+      ma<lb ed="#L" n="2" break="no"/>ioribus traditam esse, praescribit, sed affirmat fuisse 
+      e<lb ed="#L" n="3" break="no"/>uangelicam traditionem. Et Epiphanius haeresi 8O. vbi 
+      <lb ed="#L" n="4"/>doctrinam ecclesiae docet &amp; fidem, quae traditione 
+      eccle<lb ed="#L" n="5" break="no"/>siastica seruatur, cum meminit ieiunij quadragesimae, tum  
+      <lb ed="#L" n="6"/>dixit aperte Apostolos tradidisse iciunia. 4. &amp; 6. seriae. 
+      <lb ed="#L" n="7"/>Atque Leo Papa in concione de Pentec. cuius initium, 
+      Ple<lb ed="#L" n="8" break="no"/>nissime, ieiunium quatuor temporum Trinitatis ab aposto 
+      <lb ed="#L" n="9"/>lis dicit esse institutum. Hierony. autem ad Marcellam 
+      ad<lb ed="#L" n="10" break="no"/>uersus Montanum non obscure tradit, quadragesimam nos 
+      <lb ed="#L" n="11"/>secundum traditionem Apostolorum ieiunare. Quod 
+      ve<lb ed="#L" n="12" break="no"/>ro in hoc exemplo fecimus, id facere per multa possumus? 
+      <lb ed="#L" n="13"/>&amp; hac eadem ratione paruulorum baptisma, consecratio 
+      <lb ed="#L" n="14"/>nem virginum, Monasticam professionem, lucernas in tem 
+      <lb ed="#L" n="15"/>plis cereosque lucentes, imaginum venerationem, &amp; alia 
+      <lb ed="#L" n="16"/>id genus multa ab Apostolis tradita comprobare. Sane 
+      <lb ed="#L" n="17"/>qud in moribus diximus, idem in fidei dogmate seruandum 
+      <lb ed="#L" n="18"/>est, si vnumquodlibet nouum esse haeretici 
+      calumnien<lb ed="#L" n="19" break="no"/>tur. Cuius rei illustre exemplum habes apud Euseb. libro 
+      <lb ed="#L" n="20"/>eccle. hist. 5. c. vltim. Sed nos pergamus ad reliqua. 
+      <lb ed="#L" n="21"/>Secunda itaque via huic proxima, &amp; ea quidem expedi 
+      <lb ed="#L" n="22"/>tior est. Si quod fidei dogma patres ab initio secundum 
+      <lb ed="#L" n="23"/>suorum temporum successionem concordissime 
+      tenue<lb ed="#L" n="24" break="no"/>runt, huiusque contrarium vt haereticum refutarunt, quod 
+      <lb ed="#L" n="25"/>tamen e sacris literis non habetur, id nimirum per aposto 
+      <lb ed="#L" n="26"/>licam traditionem habet ecclesia. Exempla sint, perpetua 
+      <lb ed="#L" n="27"/>beatae Mariae virginitas, descensus Christi ad inferos, vt 
+      <lb ed="#L" n="28"/>animam Adae &amp; reliquorum patrum, qui ibi tenebantur, 
+      <lb ed="#L" n="29"/>erueret, certus euangeliorum numerus, &amp; caetera id 
+      ge<lb ed="#L" n="30" break="no"/>nus, quae, ne longum faciam, non sunt annumeranda. Om  
+      <lb ed="#L" n="31"/>nia siquidem fidei dogmata ab apostolis accepit ecclesia, 
+      <lb ed="#L" n="32"/>vel scripto, vel verbo. Quoniam ij ministri fuere 
+      sermo<lb ed="#L" n="33" break="no"/>nis, nec vllas in fide nouas reuelationes ecclesia habet: sed 
+      <lb ed="#L" n="34"/>eas seruat, quas Apostoli per Spiritum sanctum fideli 
+      po<lb ed="#L" n="35" break="no"/>pulo reliquerunt, quemadmodum postea sumus 
+      demon<lb ed="#L" n="36" break="no"/>straturi. 
+      </p>
+            <p xml:id="Z4Yt34-d1e353-d1e336">
+               <lb ed="#L" n="37"/>Tertia via, si quicquam est nunc in ecclesia communi 
+      <lb ed="#L" n="38"/>fidelium consensione probatum, quod tamen 
+      huma<lb ed="#L" n="39" break="no"/>na potestas, efficere non potuit, id ex Apostolorum 
+      <!--203.xml-->
+      <pb ed="#L" n="192"/>
+               <lb ed="#L" n="1"/>traditione necessario deriuatum est. Vt vota dissoluere 
+      <lb ed="#L" n="2"/>&amp; remittere iuramenta, non erat humanae potestatis: tum  
+      <lb ed="#L" n="3"/>quia iure naturae vota nuncupata Deo reddere &amp; iurame 
+      <lb ed="#L" n="4"/>ta seruare tenemur: humana vero facultas ea, quae iure 
+      <lb ed="#L" n="5"/>naturae debita &amp; constituta sunt, condonare ac 
+      tollere<lb ed="#L" n="6" break="no"/>non potest: vt <name xml:id="Z4Yt34-d1e353-Nd1e362">Gratian</name>. 13. distinct. statim a principio 
+      <lb ed="#L" n="7"/>docet. Tum etiam, quia in his, quae superiori ex 
+      con<lb ed="#L" n="8" break="no"/>uentione debentur, inferioris potestas nulla est. 
+      Eadem<lb ed="#L" n="9" break="no"/>que est ratio de matrimonij rati diremptione per 
+      mona<lb ed="#L" n="10" break="no"/>sticum solenne votum. Cum enim matrimonium etiam  
+      <lb ed="#L" n="11"/>non consummatum ante Euangelicam legem iure 
+      es<lb ed="#L" n="12" break="no"/>set naturae indissolubile, nec esset in Rep. humana 
+      facul<lb ed="#L" n="13" break="no"/>tas vlla eiusmodi matrimonij dirimendi, consequens fit, 
+      <lb ed="#L" n="14"/>hunc ecclesiae morem ex Christi &amp; Apostolorum institu 
+      <lb ed="#L" n="15"/>to descendisse. Nec enim credi potest ecclesiam Dei 
+      ali<lb ed="#L" n="16" break="no"/>quam sibi potestatem generaliter vsurpasse in his, quae ad 
+      <lb ed="#L" n="17"/>ius naturae pertinerent, nisi quam Christo &amp; Apostolis 
+      <lb ed="#L" n="18"/>tradentibus accepisset. Iam enim hic error esset grauis 
+      <lb ed="#L" n="19"/>in moribus, in quibus ecclesiam errare non posse, suo 
+      lo<lb ed="#L" n="20" break="no"/>co ostendemus. Nec me clam est, quo Alex. 3. aliter in 
+      po<lb ed="#L" n="21" break="no"/>stremo illo exemplo docere videatur. Cum enim illi esset 
+      <lb ed="#L" n="22"/>obiectum, non posse per solenne religionis votum 
+      matri<lb ed="#L" n="23" break="no"/>monium dirimi, quoniam scriptum esset, quod Deus coniun 
+      <lb ed="#L" n="24"/>xit, homo non separet: respondit, hoc scripturae 
+      testimo<lb ed="#L" n="25" break="no"/>nium de matrimonio consummato esse interpretandum. 
+      <lb ed="#L" n="26"/>Quo videlicet responso significauit, matrimonium ratum, 
+      <lb ed="#L" n="27"/>si consummatum non esset, licere humanitus separari. 
+      Ve<lb ed="#L" n="28" break="no"/>rum, vt omitta, quo verba illa Adae, hoc nunc os ex ossibus 
+      <lb ed="#L" n="29"/>meis, &amp; caro de carne mea, &amp; c. e quibus Dominus 
+      colle<lb ed="#L" n="30" break="no"/>git, quod coniunmxisset Deus, id hominem separare nec debe 
+      <lb ed="#L" n="31"/>re nec vero posse: eo tempore fuisse in paradiso dicta, quo 
+      <lb ed="#L" n="32"/>nondum erat matrimonium consummatum: vtque illud 
+      <lb ed="#L" n="33"/>etiam praeteream, quod matrimonij ipse contractus adeo 
+      <lb ed="#L" n="34"/>natura sua firmus ac perpetuus est, vt ne voluntate quidem 
+      <lb ed="#L" n="35"/>contrahentium dissolui possit, quae tamen hominum 
+      com<lb ed="#L" n="36" break="no"/>uentionibus dirimendis, valere solet plurimum : Certe 
+      <lb ed="#L" n="37"/>Theologis grauissimis semper absurdum visum est, 
+      ma<lb ed="#L" n="38" break="no"/>rimonium vllum per hominem separari. Quanto 
+      gra<lb ed="#L" n="39" break="no"/>uius Innocentius tertius, aliorsum quidem, sed ad hunc 
+      <!--204.xml-->
+      <pb ed="#L" n="193"/>
+               <lb ed="#L" n="1"/>etiam locum apposite dixit, non hominem, sed Deum id 
+      <lb ed="#L" n="2"/>soluere, quod Summus Pontifex non humana sed diuina 
+      <lb ed="#L" n="3"/>auctoritate dissolueret. Nimirum quod Dominus Petro 
+      <lb ed="#L" n="4"/>dixit, quodcunque solueris super terram, &amp; c. quousque &amp;  
+      <lb ed="#L" n="5"/>quatenus, vel amplificandum esset, vel etiam 
+      constrin<lb ed="#L" n="6" break="no"/>gendum, id ab Apostolis ecclesiam accepisse 
+      consenta<lb ed="#L" n="7" break="no"/>neum est. Qui eiusmodi res ad ecclesiae gubernationem 
+      <lb ed="#L" n="8"/>necessarias sine dubio tradidere. Atque tradunt nonnulli, 
+      <lb ed="#L" n="9"/>Ioannem Euangelistam iubente Christo ab sponsa sua 
+      <lb ed="#L" n="10"/>Euangelii gratia fuisse seiunctum. Hieronymus certe. I. 
+      <lb ed="#L" n="11"/>aduersus Iouinia. lib. Ioannem affirmat &amp; virginem 
+      fuis<lb ed="#L" n="12" break="no"/>se &amp; maritum. Theclam quoque Epiphanius. haere. 78. 
+      tra<lb ed="#L" n="13" break="no"/>dit a Paulo nuptiis exsolutam, cum sponsum haberet 
+      pri<lb ed="#L" n="14" break="no"/>marium vrbis formosissimum: &amp; virginem sanctam 
+      con<lb ed="#L" n="15" break="no"/>tempsisse terrena, vt caelestium potens efficeretur. Sed 
+      <lb ed="#L" n="16"/>contra Alexandrum dicimus. Nam hoc forte dicet 
+      ali<lb ed="#L" n="17" break="no"/>quis. Minime vero gentium. Nec enim statim Pontifici 
+      <lb ed="#L" n="18"/>contrarius est, qui argumento, quo catholici vrgentur,  
+      <lb ed="#L" n="19"/>aliam responsionem parat. De tertia igitur via dictum est 
+      <lb ed="#L" n="20"/>satis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e353-d1e486">
+               <lb ed="#L" n="21"/>Quarta via, eademque &amp; mollior &amp; tritior est 
+      huius<lb ed="#L" n="22" break="no"/>modi. Si viri ecclesiastici aliquod dogma, vel 
+      vnamqua<lb ed="#L" n="23" break="no"/>libet consuerudinem vno ore testentur nos ab 
+      Aposto<lb ed="#L" n="24" break="no"/>lis accepisse, sine dubio certum argumentum est, vt ita 
+      <lb ed="#L" n="25"/>esse credamus. Vt imagines ab Apostolis esse traditas 
+      <lb ed="#L" n="26"/>gatres in 7. Synos generali actione 6. dixerunt. Et 
+      sym<lb ed="#L" n="27" break="no"/>bolum fidei, quo vulgus fidem suam profitetur, ecclesiam  
+      <lb ed="#L" n="28"/>Apostolis tradentibus habuisse, auctores sunt Rufinus in 
+      <lb ed="#L" n="29"/>expositione symboli, Hieronymus ad Pammachium de 
+      <lb ed="#L" n="30"/>erroribus Ioan. Hieroso. Ambrosius in sermone 38. de 
+      <lb ed="#L" n="31"/>ieiuniis &amp; quadragesima. Cassianus libro sexto ad 
+      Leo<lb ed="#L" n="32" break="no"/>nem Imperatorem, Isidorus libr. 6. Etymol. capit. 18. Leo 
+      <lb ed="#L" n="33"/>papa in epistola octaua &amp; tertiadecima ad Augusta, 
+      Cle<lb ed="#L" n="34" break="no"/>mens in epistola prima ad Iacobum, si Clemens tamen 
+      il<lb ed="#L" n="35" break="no"/>lius epistolae auctor est. Sed de his hactenus. Nam 
+      plura<lb ed="#L" n="36" break="no"/>exempla ponere longum esset, nec ad rem, quam 
+      institui<lb ed="#L" n="37" break="no"/>mus, necessarium. Satis autem fuerit, quatuor vias 
+      demon<lb ed="#L" n="38" break="no"/>strasse, quibus traditionem aliquam esse Apostolicam,  
+      <lb ed="#L" n="39"/>inuestigetur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="516"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e854"><!-- Z4Yt34-l9c8 -->
+            <head xml:id="Z4Yt34-d1e854-Hd1e106">Caput 8</head>
+            <p xml:id="Z4Yt34-d1e854-d1e109">
+               <lb ed="#L" n="7"/>Caput octauum.
+    </p>
+            <p xml:id="Z4Yt34-d1e854-d1e114">
+               <lb ed="#L" n="8"/>Vibus rebus exposits, superest, vt doceamus, an hic 
+      <lb ed="#L" n="9"/>LMlocus in Theologia firmus, an potius infirmus sit. Vbi 
+      <lb ed="#L" n="10"/>nihil nobis immorandum esse video, cum 
+      naturaear<lb ed="#L" n="11" break="no"/>gumentationes constet vnas certas, alteras inc ertas esse. 
+      <lb ed="#L" n="12"/>Ac certae quidem sunt quas dialectici demonstrationes vo 
+      <lb ed="#L" n="13"/>eant, hoc est, quae ex perspicuis exploratisque principijs 
+      <lb ed="#L" n="14"/>aliquide certo euidenterque conficiunt. Incertae vero, quae, 
+      <lb ed="#L" n="15"/>licet probabiles sint, coniecturis tamen huc atque illuc 
+      <lb ed="#L" n="16"/>trahuntur: nullam habent suadendi necessitatem. Firmum  
+      <lb ed="#L" n="17"/>argumentum illud est, non longe est Deus ab vnoquoque 
+      <lb ed="#L" n="18"/>nostrum, in ipso enim viuimus, mouemur, &amp; sumus. Acto. 
+      <lb ed="#L" n="19"/>17. Illud item, qui plantauit aurem non audiet?: aut, qui fin 
+      <lb ed="#L" n="20"/>xit oculum non considerat?: Psal. 93. Atque illud etiam, 
+      e<lb ed="#L" n="21" break="no"/>dentes &amp; bibentes quae apud illos sunt, dignus est enim 
+      <lb ed="#L" n="22"/>operarius mercede sua. Lucae. 1O. &amp; 1. Cor. 9. Pobabile 
+      ar<lb ed="#L" n="23" break="no"/>gumentum hoc est, quo Petrus Actorum. 2. vtitur. Non 
+      <lb ed="#L" n="24"/>em ebrij sunt hi, cum sit hora diei tertia. Ita patet naturae 
+      <lb ed="#L" n="25"/>argumentationes, quae in vsum Theologiae veniunt, 
+      in<lb ed="#L" n="26" break="no"/>terdum infirmas, firmas nonnunquam esse. Nam qui 
+      om<lb ed="#L" n="27" break="no"/>nium rerum infinitam volunt esse quaestionem, &amp; nullo 
+      <lb ed="#L" n="28"/>loco veritatem fixam constantemque persistere, ij &amp; in na 
+      <lb ed="#L" n="29"/>turam ipsam &amp; in Deum impij sunt. Sapienter siquidem  
+      <lb ed="#L" n="30"/>apostolus, cum rationes a natura profectas manifestas esse 
+      <lb ed="#L" n="31"/>dixisset, tun demum ad Deum eas auctore reuocauit. Quod 
+      <lb ed="#L" n="32"/>notum est Dei, inquit, manifestum est illis. Deus enim illis 
+      <lb ed="#L" n="33"/>manifestauit. Num per angelos: Num per prophetas? Num 
+      <lb ed="#L" n="34"/>per apostolos? Minime id quidem. Sed inuisibilia Dei, ait,  
+      <lb ed="#L" n="35"/>a creatura mundi per ea quae facta sunt, intellecta 
+      conspi<lb ed="#L" n="36" break="no"/>ciuntur. Conspicuae igitur &amp; certae sunt quandoque 
+      na<lb ed="#L" n="37" break="no"/>turae rationes. Vani enimque, sunt omnes homines, in qui¬ 
+      <!--528.xml-->
+      <pb ed="#L" n="517"/>
+               <lb ed="#L" n="1"/>bus non subest scientia Dei, neque operibus attendentes 
+      <lb ed="#L" n="2"/>cognouerunt, quis esset artifex. Amagnitudine enim 
+      spe<lb ed="#L" n="3" break="no"/>ciei &amp; creaturae cognoscibiliter poterit creator horum  
+      <lb ed="#L" n="4"/>videri. Euidentes itaque sunt atque adeo firmae naturales 
+      <lb ed="#L" n="5"/>quaedam argumentationes. Non ergo speculatiuae 
+      disci<lb ed="#L" n="6" break="no"/>plinae, quae ex huiusmodi argumentationibus confsantur 
+      <lb ed="#L" n="7"/>&amp; efficiuntur, errores sunt inanesque fallaciae. Quod 
+      Lu<lb ed="#L" n="8" break="no"/>therus non stulte modo, verum impie etiam asseruit. Quod 
+      <lb ed="#L" n="9"/>enim humana scientia atque sapientia omnis a Deo sit, non 
+      <lb ed="#L" n="10"/>solum illo Apostoli testimonio, quod modo posuimus, 
+      <lb ed="#L" n="11"/>ostenditur, sed alijs etiam quae a Clemente Alexandrino 
+      <lb ed="#L" n="12"/>referuntur. Vnum est illud, omnis sapientia a domino Deo 
+      <lb ed="#L" n="13"/>est. Alterum illud, vocaui ex nomine Beseleel, &amp; impleui 
+      <lb ed="#L" n="14"/>eum sapientia &amp; intelligentia ad excogitandum quidquid 
+      <lb ed="#L" n="15"/>fabre fieri potest, &amp;c. Fabrilis igitur ars, atque omnis 
+      pro<lb ed="#L" n="16" break="no"/>inde humana disciplina, ad Deum tanquam ad fontem, &amp;  
+      <lb ed="#L" n="17"/>primum sapientiae cuiusque principium referenda est. Ex 
+      <lb ed="#L" n="18"/>quo &amp; multis alijs intelligi debet, qui philosophiam erro 
+      <lb ed="#L" n="19"/>rem esse inanemque fallaciam, eos non solum stultitiae, 
+      <lb ed="#L" n="20"/>sed etiam impietatis esse damnandos. Deus quippe 
+      veri<lb ed="#L" n="21" break="no"/>tas est, &amp; ab eo error est nullus. Qua ex re facile etiam intel 
+      <lb ed="#L" n="22"/>ligitur, cum Philosophiae rationes a diuina veritate sint 
+      <lb ed="#L" n="23"/>sumptae atque petitae, qui illas reijciuut, hos Dei veritati, 
+      <lb ed="#L" n="24"/>qua illae subsistunt, refragari. Nec quod tali fundamento 
+      <lb ed="#L" n="25"/>nititur imbecillum esse aut infirmum potest. Quocirca 
+      <lb ed="#L" n="26"/>frustra homines vani conabuntur philosophiae naturaeque  
+      <lb ed="#L" n="27"/>rationes euertere. Vtrumque enim lumen &amp; naturae &amp; 
+      fi<lb ed="#L" n="28" break="no"/>dei, quorum altero naturalia, altero supernaturalia videre 
+      <lb ed="#L" n="29"/>dicimur, a Deo est: Illa enim, erat lux vera, quae illuminat 
+      <lb ed="#L" n="30"/>omnem hominem: &amp; signatum est super nos lumen vultus 
+      <lb ed="#L" n="31"/>tui domine, ad naturalem etiam mentis illustrationem 
+      re<lb ed="#L" n="32" break="no"/>feruntur. Ita non minus a Deo falleremur, errantes in 
+      na<lb ed="#L" n="33" break="no"/>turae lumine, quam si per fidei lumen erraremus. Luminis 
+      <lb ed="#L" n="34"/>igitur naturalis ducatum, inuestigationem, argumenta, 
+      re<lb ed="#L" n="35" break="no"/>pellere, non modo stultum est, quod August. 4. de Trini. 
+      do<lb ed="#L" n="36" break="no"/>cet, verum etiam impium, quod hoc nos loco abunde 
+      docui<lb ed="#L" n="37" break="no"/>mus. Qui quidem locus concludi iam poterat, nisi prius 
+      ar<lb ed="#L" n="38" break="no"/>gumentis illis respondendum esset, quae haeretici contra 
+      po<lb ed="#L" n="39" break="no"/>fuerunt. Prima igitur videamus, deinceps ordine reliqua.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

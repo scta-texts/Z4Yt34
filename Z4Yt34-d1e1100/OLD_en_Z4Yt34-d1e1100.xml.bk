@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liber 12, Quaestio 2 [Louvain 1564 Transcription]</title>
+        <author>Melchior Cano</author>
+        <editor>Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Liber 12, Quaestio 2 [Louvain 1564 Transcription]</title>
+          <date when="2019-07-02">July 02, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="681"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="Z4Yt34-d1e1100">
+        <head xml:id="Z4Yt34-d1e1100-Hd1e95">Liber 12, Quaestio 2 [Louvain 1564 Transcription]</head> <!--listed as chapter 3 (following "prooemium") in 1564 transcription -->
+        <head xml:id="Z4Yt34-d1e1100-Hd1e100" type="question-title">Quae sint Theologiae principia</head>
+        <p xml:id="Z4Yt34-d1e1100-d1e103">
+          To be sure, 
+          since every discipline has some sources 
+          which we call the principles of a science, 
+          then some rivulets which, 
+          as if the ends of science, 
+          we call conclusions, 
+          it is necessary for the Theologian, who will be prepared, 
+          to learn the use of the places/locorum before all things,
+          for what else are the causes and principles of his ability,
+          which are connected effects with their causes and principles.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e121">
+          But the principles of theology should be known first 
+          for having known these things, 
+          we understand much more easily what is furthest removed.
+          But since ten types of places have been proposed 
+          we have added causes of each type, 
+          and before we have constituted these things, 
+          in which and of which the power and nature is contained, 
+          there will perhaps not be lacking 
+          one who holds this treatment to be superfluous, 
+          indeed even everything 
+          which we have instituted to say about these places/locorum. 
+          For it will be argued, 
+          that there are not other sources and places of theology 
+          <unclear>besides</unclear> <!-- dbcheck --> those which have indicated by digit (digito) 
+          and we have so openly and clearly explained the nature and power of those individual cases, 
+          such that we should easily able to grasp the arguments in that place,
+          unless we are truly slow.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e148">
+          What? For some say this,
+          have they not found this our art of theology, 
+          if this is an art, and its arguments, 
+          and treated other thins from others 
+          binding this theological matter by way and by reason? <!-- difficult -->
+          For would the 
+          <name xml:id="Z4Yt34-d1e1100-Nd1e121" ref="#Aquinas">Divine Thomas</name> the most perfect and absolute Theologian,
+          if one has judged this part of theology to be necessary, 
+          have omitted it as entirely untreated?
+          From which it does not seem true, 
+          since the other parts of theology 
+          are well described, 
+          while the last act is as if neglected by 
+          by a weak poet. 
+          Therefore why is it necessary to labor, 
+          or in what is it necessary 
+          to direct our cares and thoughts: 
+          if indeed we, by explicating the use of the places 
+          are able to produce nothing by it, 
+          nothing follows that is 
+          greatly useful or necessary for the theologians? <!-- very rough; needs more -->
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e179">
+          sed non poterunt huius<lb ed="#L"/>modi 
+          argutiae mentem meam e sua sede et statu dimouere. 
+          <lb ed="#L"/>Ego enim sic mihi persuasi, sic sentio, has nostras de locis 
+          <lb ed="#L"/>praeceptiones plurimas res continere, quoquo se theolo<lb ed="#L"/>gus 
+          vertit, praesto esse, nulla disputatione excludi. Nam 
+          <lb ed="#L"/>sive argumentum quaeritur ad theologiae probanda do<lb ed="#L"/>gmata 
+          firmissimum sive ratio ad sacras litteras explican<lb ed="#L"/>das 
+          aptissima quaeritur, aut haec ars est, aut nulla omnino, per 
+          <lb ed="#L"/>quam ea assequamur. Nullam vero dicere maximarum re<pb ed="#L" n="682"/><lb ed="#L"/>rum 
+          artem esse, cum minimarum sine arte nulla sit, homi<lb ed="#L"/>num 
+          est parum considerate loquentium, atque in maximis 
+          <lb ed="#L"/>rebus errantium.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e207">
+          Sed haec, quibus ad locorum cognitio<lb ed="#L"/>nem 
+          et usum cohortamur, accuratius essent forsitan dis<lb ed="#L"/>putanda. 
+          Quod aliis quidem libris fecimus.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e214">
+          Hoc autem tempore tantum nobis declarandum fuit, cur <name xml:id="Z4Yt34-d1e1100-Nd1e164">Di<lb ed="#L"/>vus 
+          Thomas</name> diligentissimus absolutissimusque theologus hunc de locis tractatum dereliquerit, si tam est,
+          <lb ed="#L"/>quam nos dicimus, Theologo necessarius. Et quidem 
+          <lb ed="#L"/><name xml:id="Z4Yt34-d1e1100-Nd1e172">Divus Thomas</name> in <ref xml:id="Z4Yt34-d1e1100-Rd1e227">I part. quaest. 1, arti. 8, ad secundum</ref> 
+          <lb ed="#L"/>restricte breuiterque, ut solet, Theologiae locos indica<lb ed="#L"/>uit, 
+          non omnes sed plerosque. Quin etiam, ut homo mi<lb ed="#L"/>nime 
+          ingratus illi me dedam, cui me tantopere debeo, et 
+          <lb ed="#L"/>huius officii seruitutem astringam testimonio sempiter<lb ed="#L"/>no, 
+          <name xml:id="Z4Yt34-d1e1100-Nd1e189">Divus Thomas</name> mihi et auctor et magister fuit huius 
+          <lb ed="#L"/>operis componendi.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e247">
+          Sed ille locorum fere naturam ex<lb ed="#L"/>plicuit 
+          presse et anguste ac suo demum modo. Non e<lb ed="#L"/>nim 
+          dilatat argumentum, sed quasi punctis, quod propo<lb ed="#L"/>nit, 
+          efficit. Rationem autem tractandi locos ipsos nec 
+          <lb ed="#L"/><name xml:id="Z4Yt34-d1e1100-Nd1e204">Divus Thomas</name> neque alius quisquam, quod equidem <unclear>sciam</unclear>, 
+          <lb ed="#L"/>conatus est explicare.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e266">
+          Quod idem <name xml:id="Z4Yt34-d1e1100-Nd1e216">Aristoteles</name> in locis 
+          dialecticis fecerat, qui locos ipsos varie ac fuse quidem 
+          <lb ed="#L"/>complexus est, sed non ostendit quo modo inueniendum 
+          <lb ed="#L"/>sit ex ipsis neque usum eorum demonstravit, qui in hac re 
+          <lb ed="#L"/>esset maximus et potissimus, sed usum nescio quem ad 
+          <lb ed="#L"/>probabilium et communium argumentorum inuentio<lb ed="#L"/>nem 
+          litteris prodidit, quem ignorare eruditi possunt, nec 
+          <lb ed="#L"/>magnam eruditionis iacturam facere. Quanquam <ref xml:id="Z4Yt34-d1e1100-Rd1e284">I to<lb ed="#L"/>pi. 
+          lib.</ref> ambitiose forte magis quam vere, quae in topicis 
+          <lb ed="#L"/>a se traduntur, ea quatuor usus habere ipse <name xml:id="Z4Yt34-d1e1100-Nd1e239">Aristoteles</name> 
+          <lb ed="#L"/>iactat.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e298">
+          Quid igitur? Si <name xml:id="Z4Yt34-d1e1100-Nd1e248">Divus Thomas</name> locorum usum si<lb ed="#L"/>lentio 
+          praeteriuit, persecuturus nisi aliquis casus aut occu<lb ed="#L"/>patio 
+          consilium eius praeuenisset? Aut si non res has con<lb ed="#L"/>sulto 
+          et iudicio persequi instituit, certe vel non omnia 
+          <lb ed="#L"/>possumus omnes, vel divinae procurationis fuit, ut prio<lb ed="#L"/>res 
+          aliquid posterioribus reliquerint, in quo elaborare 
+          <lb ed="#L"/>quoque ipsi, et exercere utiliter non solum memoriam, 
+          <lb ed="#L"/>sed etiam ingenium possent.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e319">
+          Hanc igitur partem relictam ex<lb ed="#L"/>plebimus 
+          nullius adminiculis, sed, ut dicitur, marte nostro. 
+          <pb ed="#L" n="683"/>
+          <lb ed="#L"/>Nec enim quicquam de locis theologiae post <name xml:id="Z4Yt34-d1e1100-Nd1e275">Divum 
+          Thomam</name> explicatum est, quod mihi probaretur de iis, quae in 
+          <lb ed="#L"/>manus nostras venerunt.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e333">
+          Quemadmodum igitur in re mi<lb ed="#L"/>litari 
+          solet, ubi dux non satis esse putat militibus arma da<lb ed="#L"/>re, 
+          sed docet quomodo sit ipsis utendum, manus illorum ap<lb ed="#L"/>tat, 
+          componit gradus, quando fugere adversarium debeant, 
+          <lb ed="#L"/>praecipit, quando insequi, quando fidere uiribus quando, 
+          <lb ed="#L"/>arte uti, quando ferire hostem quando eius ictus elude<lb ed="#L"/>re, 
+          ducit denique in aciem, praescribit ordinem, locum as<lb ed="#L"/>signat 
+          de quo iniussu suo non liceat eis discedere. Sic
+          <lb ed="#L"/>mihi videor facturus, si discipulos meos et informare et 
+          <lb ed="#L"/>instituere ad effigiem absolutae cuiusdam eruditionis vo<lb ed="#L"/>lo.
+          Nec verbis modo praefinire haec habeo, sed arreptis 
+          <lb ed="#L"/>etiam telis in ludicrum certamen descendere ad exemplum 
+          <lb ed="#L"/>posterorum. Quae tametsi non ad vulnus, sed ad speciem 
+          <lb ed="#L"/>valere uidentur, non inutilia erunt tamen. Quicquid enim 
+          <lb ed="#L"/>in his rebus ad aspectum venustum est, idem utiliter fit 
+          <lb ed="#L"/>ad veram pugnam, si quando illa cum adversariis com<lb ed="#L"/>mittatur.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e370">
+          Quod si quis sine arte id, quod artis est, effecit, 
+          <lb ed="#L"/>permittat obsecro mihi meisque similibus ut artem et prae<lb ed="#L"/>cepta 
+          adhibeamus. Sunt prata, quibus natiuus et indige<lb ed="#L"/>nitalis 
+          humor interius infusus est. Sunt quae nisi extrinse<lb ed="#L"/>cus 
+          humore allapso irrigari non possunt. At disserue<lb ed="#L"/>runt 
+          Theologi nonnulli ante me valde feliciter. Primum, 
+          idem erant expeditius certiusque facturi, si hoc genus ex<lb ed="#L"/>ercitationum 
+          nostrarum degustassent. Quamlibet ager 
+          <lb ed="#L"/>foecundus sit, foecundiorem eum tamen faciet agricola, 
+          <lb ed="#L"/>si diligenter et studiose colat. Sic igitur etsi ingeniis ma<lb ed="#L"/>gnis 
+          praediti quidam, copiam in Theologia disserendi si<lb ed="#L"/>ne 
+          arte consecuti sunt, ars tamen, ut <name xml:id="Z4Yt34-d1e1100-Nd1e341" ref="#Cicero">Tullius</name> ait, est dux 
+          <lb ed="#L"/>certior quam natura. Aliud enim est argumenta congere<lb ed="#L"/>re 
+          aut potius spargere ac dissipare, aliud eadem via et artifi<lb ed="#L"/>cio 
+          premere. Nam qui sciet ubi quidque positum sit quaque 
+          <lb ed="#L"/>eo veniat, is etiam si quid obrutum erit, poterit eruere, sem<lb ed="#L"/>perque 
+          esse in disputando suus.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e408">
+          Not thus if there was no one 
+          who artificially composed a digested places/locos "generatim"
+          no one who glued and tied together with reason
+          this scattered and fragmented part of theology: 
+          immediately our little work will be superfluous, but indeed 
+          <pb ed="#L" n="684"/> <!-- text says 484 -->
+          perhaps it is much more necessary 
+          for the learned and talented 
+          than without doubt the slow and basic without.
+          Then,
+          it does not seem to me, 
+          for it admitted what I think,
+          that the scholastic theologians 
+          distinguished the theological disputations 
+          in a very composed and ordered way.
+          I exclude here always the 
+          <name xml:id="Z4Yt34-d1e1100-Nd1e362">the Divine Thomas</name>, 
+          among whom one finds the marvelous contexts of things, 
+          the highest order of questions and articles, 
+          and an incredible composition of disciplines.
+          What can be said about his copious arguments. 
+          Since about nearly an infinity of questions 
+          in each part of examining 
+          there was facility and abundance, 
+          such that not always against all things, 
+          just as  <name xml:id="Z4Yt34-d1e1100-Nd1e365">Archesilas</name> disputed,
+          and nevertheless 
+          as in all things 
+          he expressed whatever was able to be said about each part.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e458">
+          Other school authors 
+          err a through a confusion of reason or order, 
+          namely having followed the  
+          <name xml:id="Z4Yt34-d1e1100-Nd1e371" ref="#Lombard">Master</name>, 
+          in whose four books of the Sentences
+          appears the reading of many saints
+          and for the time appears an erudition of no small amount. <!-- dbcheck -->
+          But beyond the words of <mentioned>distinctions</mentioned>, 
+          in which these books are divided, 
+          one sees nothing distinct 
+          or distributed rightly or in order.
+          
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e480">
+          Testimoniorum congeriem dicas potius, quam 
+          <lb ed="#L"/>dispositionem et rationem disciplinae. De trinitate pri<lb ed="#L"/>ma 
+          est illi disputatio. Ita prius relata quam absoluta 
+          <lb ed="#L"/>persequitur. Nam de iustitia et misericordia Dei in 4. 
+          <lb ed="#L"/>Senten. quasi praeteriens disputauit. De uirtutibus in tert<lb ed="#L"/>io. 
+          De vitiis quibusdam item in quarto. Innumera sunt 
+          <lb ed="#L"/>eiusmodi confuse ab illo perturbateque tractata. Quam<lb ed="#L"/>obrem 
+          scholasticis, qui huius vestigiis inhaeserunt, con<lb ed="#L"/>fusa 
+          etiam fere ac perturbata sunt omnia. Nec <name xml:id="Z4Yt34-d1e1100-Nd1e400" ref="#Lombard">Magistrum</name> 
+          <lb ed="#L"/>ego volo fraudare suo veteri nomine, magnum utique, 
+          <lb ed="#L"/>ut aetate illa, virum, et quem iure coluerint posteri. Nec 
+          <lb ed="#L"/>scholasticorum laudi, quam multorum saeculorum firma<lb ed="#L"/>uit 
+          opinio, detrahere quicquam volo. Sed ingenue ac 
+          <lb ed="#L"/>libere dico, quid in illis desideretur, quidque illi praesta<lb ed="#L"/>rent 
+          homines ingenio doctrinaque praestantes, nisi disse<lb ed="#L"/>rendi 
+          artem neglexissent. Nam quod spectat ad argu<lb ed="#L"/>menti 
+          inueniendi rationem, fontes quosdam uidentur 
+          <lb ed="#L"/>etiam ignorasse: adeo nulla ex quibusdam eorum fon<lb ed="#L"/>tium 
+          argumenta proferunt. Quotus enim quisque ex 
+          <pb ed="#L" n="685"/>
+          <lb ed="#L"/>traditionibus Christi et Apostolorum argumentatur? at<lb ed="#L"/>que 
+          ex conciliis raro, ex sacris literis non adeo frequen<lb ed="#L"/>ter, 
+          ex historia uix semel. At mea quidem sententia nemo 
+          <lb ed="#L"/>poterit omni laude esse cumulatus Theologus, nisi et erit 
+          <lb ed="#L"/>horum locorum omnium scientiam consecutus et ex eis 
+          <lb ed="#L"/>promptum, expeditumque pararit ad argumentandum u<lb ed="#L"/>sum.
+          Nam de locorum natura et vi quidem satis fateor supra a me dictum.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e542">
+          Sed in eisdem nunc non frustra versabimur, cum doce<lb ed="#L"/>bimus 
+          quisnam eorum locorum usus sit et quemadmodum 
+          <lb ed="#L"/>ex eis argumenta ducenda. Id quod non omnibus ita fa<lb ed="#L"/>cile 
+          est, ut nec praeceptis nec exemplis nostris indigeant. 
+          <lb ed="#L"/>Sed haec hactenus. Iam ad instituta pergamus. Ac ne plu<lb ed="#L"/>ra, 
+          quae sunt paene innumerabilia, consecter, comprehendam 
+          <lb ed="#L"/>brevi quae sint Theologiae principia. Theologiae natura<lb ed="#L"/>lis 
+          et supernaturalis, hinc enim ordiendum est, facilis est 
+          <lb ed="#L"/>et expedita distinctio. Theologiam naturalem voco Me<lb ed="#L"/>taphysicam, 
+          ea parte, qua Dei naturam per naturae ratio<lb ed="#L"/>nes 
+          inquirit. Quae est nobis, id est Christianis, cum phi<lb ed="#L"/>losophis 
+          gentium communis. Supernaturalem autem 
+          <lb ed="#L"/>eam <choice><sic>dio</sic><corr>dico</corr></choice>, quae eiusdem Dei et naturam et proprietates per 
+          <lb ed="#L"/>principia ea inuestigat, quae sunt hominibus divinitus re<lb ed="#L"/>velata. 
+          Reuelationem porro theologorum more hic 
+          <lb ed="#L"/>accipio, quae hominis et captum superat et ingenium. Nam 
+          <lb ed="#L"/>Paulus ea etiam, quae naturali ratione et lumine cogno<lb ed="#L"/>scuntur, 
+          Dei reuelationi et manifestationi tribuit. Atque 
+          <lb ed="#L"/>haec supernaturalis theologia propria est fidelium et 
+          <lb ed="#L"/>Christianorum, tanto disciplinis caeteris melior, quanto 
+          <lb ed="#L"/>divina auctoritas, in qua illa sustentatur, humana omni 
+          <lb ed="#L"/>ratione potior et antiquior est.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e596">
+          Recte igitur <ref xml:id="Z4Yt34-d1e1100-Rd1e598">D. Thomas<!-- (I.1.8 ad 2) --></ref> 
+          <lb ed="#L"/>docet, quod argumentari ex auctoritate est maxime pro<lb ed="#L"/>prium 
+          huius doctrinae: eo quod principia huius doctri<lb ed="#L"/>nae 
+          per reuelationem habentur: et sic oportet quod cre<lb ed="#L"/>datur 
+          auctoritati eorum quibus reuelatio facta est. Nec 
+          <lb ed="#L"/>hoc derogat dignitati huius doctrinae. Nam licet locus 
+          <lb ed="#L"/>ab auctoritate qui fundatur super ratione humana sit in<lb ed="#L"/>firmissimus, 
+          locus tamen ab auctoritate, qui fundatur super 
+          <lb ed="#L"/>reuelatione divina est efficacissimus. Tantum ille. <sic>Ego<!-- corr to Ergo ? --></sic> 
+          <lb ed="#L"/>quoniam omnis oratio, nobis de theologia, ea quae est 
+          <pb ed="#L" n="686"/>
+          <lb ed="#L"/>supra naturam instituitur, ideo huius solum principia quae et 
+          <lb ed="#L"/>qualia sint, exponendum est. Hoc vero ut scholae congrue<lb ed="#L"/>nter 
+          fiat, nodos illos et proferendos et soluendos puto, 
+          <lb ed="#L"/>qui rem totam istam illigant et impediunt. Primus est, 
+          <lb ed="#L"/>quod <name xml:id="Z4Yt34-d1e1100-Nd1e540">D. Thomas</name> paucis verbis multa peccare vide<lb ed="#L"/>tur. 
+          Unum, quod secum ipse pugnat. Modo enim ait arti<lb ed="#L"/>culos 
+          fidei esse theologiae principia <!--(I.1.7-8)-->, nunc autem illa om<lb ed="#L"/>nia, 
+          quae in sacris litteris continentur, <!--(I.1.8 ad 2; II-II.1.5. ad 2)--> imo aliquando uni<lb ed="#L"/>uersa 
+          etiam quae sunt divinitus revelata: <!--(I.1.5 ad 2 et art. 8 ad 2),--> in quibus tradi<lb ed="#L"/>tiones 
+          profecto Apostolorum sunt, quanquam in libris 
+          <lb ed="#L"/>canonicis non inueniuntur scriptae. Potestne magis se<lb ed="#L"/>cum 
+          ipse pugnare?
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e664">
+          Alterum peccatum, quod cum Pau<lb ed="#L"/>lus <!--(Heb. 11)--> 
+          inter ea, quae credere oportet, duo illa numeret, Deum 
+          <lb ed="#L"/>esse et esse remuneratorem inquirentium se, <name xml:id="Z4Yt34-d1e1100-Nd1e573">Divus Tho<lb ed="#L"/>mas</name> <!--(I.2.2 et II-II.1.5 ad 3)--> 
+          contra docet, illa fidei articulis minime comprehen<lb ed="#L"/>di 
+          sed a fide potius supponi. Non sunt igitur <name xml:id="Z4Yt34-d1e1100-Nd1e583">Divo 
+          <lb ed="#L"/>Thomae</name> haec Theologiae principia: si quidem non sunt 
+          <lb ed="#L"/>propositiones reuelatae quas fide credimus, sed natu<lb ed="#L"/>rae 
+          lumine ab hominibus cognoscuntur: ob idque fidem 
+          <lb ed="#L"/>ipsam antecedunt, cuius decreta ea demum sunt, quae in 
+          <lb ed="#L"/>propriis Theologiae principiis habere debemus. Nec a<lb ed="#L"/>postolo 
+          solum sed rationi quoque illi <name xml:id="Z4Yt34-d1e1100-Nd1e599">Divus Thomas</name> 
+          <lb ed="#L"/>videtur adversus, quae dilucide probat, Deum esse, pro<lb ed="#L"/>prium 
+          idemque primum censeri Theologiae principium. 
+          <lb ed="#L"/>Est enim Deus, ut supra dixi, res huic disciplinae proprie 
+          <lb ed="#L"/>subiecta. Omnis autem disciplina ponit in primis et rem 
+          <lb ed="#L"/>sibi subiectam esse, et quid etiam res illa sit. Deum itaque 
+          <lb ed="#L"/>esse, proprium est Theologiae principium: quia speculatrix 
+          <lb ed="#L"/>est. Nam quia et effectrix, illud habet principium primum, 
+          <lb ed="#L"/>Deum esse remuneratorem inquirentium se.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e719">
+          Tertium <name xml:id="Z4Yt34-d1e1100-Nd1e622">Di<lb ed="#L"/>vi 
+          Thomae</name> peccatum commune cum plerisque Theolo<lb ed="#L"/>gis, 
+          quod cum plurima sint a Deo revelata, non solum iis, 
+          qui canonicos libros scripserunt, sed aliis etiam sanctis 
+          <lb ed="#L"/>Dei hominibus Martino, Nicolao, Benedicto, Do<lb ed="#L"/>minico, 
+          Francisco, fidem et Theologiam asserit non 
+          <lb ed="#L"/>quibuslibet Dei reuelationibus niti, sed iis duntaxat quas 
+          <lb ed="#L"/>scripturae sacrae auctores habuere. Constat autem et di<lb ed="#L"/>vinam 
+          reuelationem generaliter esse fidei Theologiaeque 
+          <lb ed="#L"/>rationem formalem et fidem quibusque Dei dictis assentiri.
+          <pb ed="#L" n="687"/>
+          <lb ed="#L"/>Est nanque virtus quae Deo dicenti credit. Atque hic 
+          <lb ed="#L"/>nodus primus in verbis quidem <name xml:id="Z4Yt34-d1e1100-Nd1e649">D. Thomae</name> est. Nam se<lb ed="#L"/>cundus 
+          non modo <name xml:id="Z4Yt34-d1e1100-Nd1e654">Divum Thomam</name> sed ceteros fere 
+          <lb ed="#L"/>omnes adstringit. Nulla enim omnino disciplina sua prin<lb ed="#L"/>cipia 
+          ratiocinatione probat, sed ponit: idcirco enim 
+          <lb ed="#L"/>positiones seu petitiones nuncupantur. At Theologia 
+          <lb ed="#L"/>ea quae fides tenet ratiocinatione concludit: non ergo 
+          <lb ed="#L"/>eadem sunt huius disciplinae principia, quae et fidei de<lb ed="#L"/>creta. 
+          Quod vero Theologia fidei dogmata argumentan<lb ed="#L"/>do 
+          comprobet, multifariam suaderi potest. Primum quia 
+          <lb ed="#L"/>Deum esse unum, immortalem, rerum humanarum pro<lb ed="#L"/>curatorem, 
+          et caetera eiusmodi, per fidem a Christianis ac<lb ed="#L"/>cepta 
+          claris Philosophiae argumentis demonstramus. 
+          <lb ed="#L"/>Tum rursus, quia Deum esse creatorem, fidei articulus est; id 
+          <lb ed="#L"/>autem ratio quoque naturalis ostendit. Adde, quod <name xml:id="Z4Yt34-d1e1100-Nd1e683">apostolus 
+          <lb ed="#L"/>Petrus</name> <!--(1 Pet. 3)--> <quote xml:id="Z4Yt34-d1e1100-Qd1e789" ana="#Ipetr3_15" type="paraphrase">iubet nos esse paratos ad reddendam rationem de ea, 
+          <lb ed="#L"/>quae in nobis est spe</quote>: atque ideo de ea, quae in nobis est fide. 
+          <lb ed="#L"/>Adde etiam quod <quote xml:id="Z4Yt34-d1e1100-Qd1e797" ana="#Augustine_deTrinitate_14_1_3_b">huic scientiae attribuitur illud quo fides 
+          <lb ed="#L"/>saluberrima gignitur, nutritur, defenditur, roboratur</quote> 
+          <lb ed="#L"/>id quod ex <name xml:id="Z4Yt34-d1e1100-Nd1e705">D. Augustino</name> <!--(De Trin. XIV.1)--> acceptum omnium Theologo<lb ed="#L"/>rum 
+          ore teritur. Si ergo rerum naturalium cognitio, ut <name xml:id="Z4Yt34-d1e1100-Nd1e713">Augustinus</name> ait, fidem et gignit et nutrit et roborat: ni<lb ed="#L"/>mirum 
+          ea, quae fidei sunt, ratione naturali theologia pa<lb ed="#L"/>tefacit. 
+          Non ergo fides theologo principia tradit, nisi 
+          <lb ed="#L"/>sua ipse principia probet; quod ab omni prorsus discipli<lb ed="#L"/>na 
+          alienum esse, adeo explorate perceptum est et cogni<lb ed="#L"/>tum, 
+          ut non sit a me in praesentia confirmandum.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e826">
+          <!-- middle 687 -->
+          <lb ed="#L"/>Tertius nodus ex verbis quoque <name xml:id="Z4Yt34-d1e1100-Nd1e733">Divi Thomae</name> necti<lb ed="#L"/>tur. <!--(I.32.4).--> 
+          Docet nanque <!--Petrus--> ad fidem aliquid pertinere dupliciter. 
+          <lb ed="#L"/>Uno modo directe, sicut ea, quae nobis sunt principali<lb ed="#L"/>ter 
+          a Deo tradita. Alio modo indirecte, ut ea, quibus 
+          <lb ed="#L"/>negatis consequitur aliquid fidei manifeste contrarium. 
+          <lb ed="#L"/>Ut si quis neget Samuelem esse filium Helcanae: ex quo 
+          <lb ed="#L"/>sequitur divinam scripturam esse falsam. Hactenus non 
+          <lb ed="#L"/>verbis quidem eisdem, sed sensu eodem ille ait. Et rursum alio 
+          <lb ed="#L"/>loco <!--(II-II.2.5)--> affirmat, omnia, quae sunt in sacris literis tradita, prae<lb ed="#L"/>ter 
+          ea, quibus homo beatus efficitur, per accidens ad fidem 
+          <lb ed="#L"/>spectare. Ut <name xml:id="Z4Yt34-d1e1100-Nd1e764">Abraham</name> duos filios habuisse et <name xml:id="Z4Yt34-d1e1100-Nd1e767">David</name> fuisse fi<lb ed="#L"/>lium 
+          <name xml:id="Z4Yt34-d1e1100-Nd1e773">Isai</name>. Quod si eiusmodi, licet in libris sacris <sic>epresse</sic> etiam
+          <pb ed="#L" n="688"/>
+          <lb ed="#L"/>conscripta sint, indirecte tamen et per accidens ad fidem 
+          <lb ed="#L"/>attinent, non sunt profecto Theologiae principia. Nec 
+          <lb ed="#L"/>enim cuiusquam disciplinae fundamenta, fabricam illius 
+          <lb ed="#L"/>disciplinae ex accidenti et indirecte constituunt. Poteram 
+          <lb ed="#L"/>et aliis argumentis hanc quaestionem implicare: sed vere<lb ed="#L"/>bar 
+          ne, et haec quoque lectori delicato multa nimium vi<lb ed="#L"/>derentur. 
+          Atque haec pauca licet, urgent tamen et nihil re<lb ed="#L"/>mittunt 
+          ut omnia ea explanemus, quae Theologiae initiis 
+          <lb ed="#L"/>exponendis necessaria sunt. Expediemus itaque pri<lb ed="#L"/>mum, 
+          quaenam sit huius doctrinae ratio formalis. Deinde 
+          <lb ed="#L"/>quae eius nativa germanaque principia. Atque in his, quae 
+          <lb ed="#L"/>capitalia sint: quae vero legitima quidem, sed secundaria 
+          <lb ed="#L"/>tamen. Postremo, quae sint extranea et aliena, hoc est, 
+          <lb ed="#L"/>ascita et accersita ab exteris disciplinis.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e912">
+          <lb ed="#L"/>Formalis ratio Theologiae, quoniam illud in primis 
+          <lb ed="#L"/>suscepi explicandum, non est una et simplex, sed duplex 
+          <lb ed="#L"/>et bipartita. Est nanque ratio formalis rei obiectae, quia 
+          <lb ed="#L"/>res est, quo modo deitas Theologiae ratio dicitur. Est 
+          <lb ed="#L"/>item ratio rei, ut mentem ad assentiendum mouet, quem<lb ed="#L"/>admodum 
+          veritas prima reuelans Theologiae habetur 
+          <lb ed="#L"/>ratio. Sic rationes videndi intelligimus et colorem et lu<lb ed="#L"/>cem: 
+          colorem quidem priore modo, lucem autem poste<lb ed="#L"/>riore. 
+          Atque illam quidam vocant rationem quae, hanc 
+          <lb ed="#L"/>rationem sub qua. Puto nobis concedi oportere, ut scho<lb ed="#L"/>lae 
+          verbis utamur, si quando minus occurrent Latina. 
+          Quin Latina etiam interdum relinquenda sunt, ne in scho<lb ed="#L"/>lastica 
+          disputatione non tam explicasse res quam verba af<lb ed="#L"/>fectasse 
+          videamur. Quia vero de ratione formali, rei huic 
+          <lb ed="#L"/>doctrinae subiectae, quia res est, nulla esse potest inter viros 
+          <lb ed="#L"/>doctos controversia, de ratione formali ex parte habitus 
+          <lb ed="#L"/>et potentiae cognoscentis huiusmodi conclusiones statuo.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e949">
+          Primam: Ratio formalis fidei non est ratio Theolo<lb ed="#L"/>giae 
+          formalis. Nam si theologiae principia lumine pro<lb ed="#L"/>phetiae 
+          cognoscerentur, aut lumine etiam gloriae beato<lb ed="#L"/>rum, 
+          conclusiones nihilo secius ad Theologiam pertine<lb ed="#L"/>rent. 
+          Erat enim Christus Dominus longe omnium, qui<lb ed="#L"/>cunque 
+          fuerunt Theologia divinaeque naturae cognitione 
+          <lb ed="#L"/>princeps, qui tamen sine fide conclusionibus theologiae 
+          <lb ed="#L"/>assentiebatur. Exigit quippe fides in ratione sua formali
+          <pb ed="#L" n="689"/>
+          <lb ed="#L"/>obscurum quiddam et inuisum, cum sit <quote xml:id="Z4Yt34-d1e1100-Qd1e970" ana="#hebr11_1">substantia rerum 
+          sperandarum et argumentum non apparentium</quote>. Theo<lb ed="#L"/>logia 
+          vero evidens quoque et clara esse potest. Nam 
+          <lb ed="#L"/>est ratio sermoque de Deo. Atque inter prophetiam et 
+          fidem, si <name xml:id="Z4Yt34-d1e1100-Nd1e879">Divo Thomae</name> credimus, nonnihil interest, nec 
+          lumina sunt eadem quibus, vates ad vaticinandum, et fi<lb ed="#L"/>deles 
+          ad credendum illustrantur. At si uates illustratio<lb ed="#L"/>ne 
+          sua illa Theologiae principia cognoscat, et ea, quae 
+          <lb ed="#L"/>consequuntur ac repugnant, ratiocinando colligat, Theo<lb ed="#L"/>logus 
+          profecto erit, tametsi Theologiae eiusmodi ratio 
+          <lb ed="#L"/>formalis non fidei lumen sit, sed prophetiae.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e993">
+          <!--(Secunda conclusio)--> Secunda conclusio est. Esse reuelatum a Deo lumenve 
+          <lb ed="#L"/>divinitus infusum est ratio Theologiae formalis, sive illud 
+          <lb ed="#L"/>lumen fidei sit, seu prophetiae, seu gloriae. Theologia 
+          <lb ed="#L"/>nanque supernaturalis, de qua nunc loquimur, lumen 
+          <lb ed="#L"/>aliquod natura ipsa superius generaliter ad principia co<lb ed="#L"/>gnoscenda 
+          requirit, sed quale id in specie futurum sit, 
+          <lb ed="#L"/>nec nomen Theologiae, nec notio propria definit. Ve<lb ed="#L"/>rum 
+          quia Theologi non de beatorum, sed de viatorum 
+          <lb ed="#L"/>Theologia disputant, nec quaerunt quid disciplinae ipsi, 
+          <lb ed="#L"/>sed quid naturae nostrae consentaneum sit, idcirco fere 
+          <lb ed="#L"/>asserunt, Theologiae principia per fidem a Theologo in<lb ed="#L"/>telligi. 
+          Lumen quippe prophetiae, vel quoniam rarum 
+          <lb ed="#L"/>est, generali praeceptioni nihil obstare creditur, vel quo<lb ed="#L"/>niam 
+          est, ut lumen fidei, obscurum, in lumine fidei com<lb ed="#L"/>muniter 
+          et confuse intelligitur. A qua nos consuetudi<lb ed="#L"/>ne 
+          minime abhorrentes, Theologiae nostrae principia per 
+          <lb ed="#L"/>fidem accipi oportere saepe dedimus.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1032">
+          <lb ed="#L"/>Unde illa tertia conclusio nascitur, Theologiae nostrae 
+          <lb ed="#L"/>formalem rationem eandem ac fidei esse. Tametsi aliter ad as<lb ed="#L"/>sentiendum 
+          principiis mouet, aliter ad assentiendum con<lb ed="#L"/>clusioni. 
+          Illis, inquam, sine medio syllogismo et ratione, 
+          <lb ed="#L"/>huic ratione et syllogismo intermedio. Quo discrimine, 
+          <lb ed="#L"/>ut diximus, Theologia et Fides non verbis et cogitatio<lb ed="#L"/>ne, 
+          sed uniuersa re et toto genere secernuntur, quanuis 
+          <lb ed="#L"/>utriusque ratio eadem formalis sit. Sane <name xml:id="Z4Yt34-d1e1100-Nd1e952">D. Thomas</name> mul<lb ed="#L"/>tis 
+          in locis fidei nomen, ut videtur, existimat manare la<lb ed="#L"/>tissime 
+          idque versari in omnibus, quae a Deo sunt dicta et 
+          <lb ed="#L"/>revelata, sive auctoribus sacris atque canonicis, sive aliis 
+          <pb ed="#L" n="690"/>
+          <lb ed="#L"/>quibuscunque divino quodam spiritu afflatis. Quod si verum 
+          <lb ed="#L"/>est, ratio fidei formalis longe etiam lateque patebit: ut non 
+          <lb ed="#L"/>solum contineat reuelationes prophetis et apostolis factas, 
+          sed eas etiam, quae ceteris quoque sanctis ecclesiae Dei fa<lb ed="#L"/>ctae 
+          sunt: immo illas etiam, quas viri interdum improbi divini<lb ed="#L"/>tus 
+          habuerunt, ut <name xml:id="Z4Yt34-d1e1100-Nd1e975">Balaam</name> et <name xml:id="Z4Yt34-d1e1100-Nd1e978">Caiphas</name>, quorum praedictiones ad 
+          <lb ed="#L"/>fidem attinere ne dubitari quidem potest. Eadem ergo causa 
+          <lb ed="#L"/>subest, ut caetera etiam, quae quibuslibet aliis revelata a Deo 
+          <lb ed="#L"/>sunt, ad fidei rationem referantur.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1087">
+          At enim, <ref xml:id="Z4Yt34-d1e1100-Rd1e1089">I part. quaest. 1, 
+          <lb ed="#L"/>artic. 8 ad secundum</ref>, ut inter argumentandum obiecimus, ver<lb ed="#L"/>bis 
+          nihil obscuris docet, fidem nostram non inniti reue<lb ed="#L"/>lationibus 
+          aliis praeter eas, quas Apostoli et Prophetae, 
+          <lb ed="#L"/>auctores videlicet canonicorum librorum, ediderunt. Id quod 
+          <lb ed="#L"/><name xml:id="Z4Yt34-d1e1100-Nd1e1002">Paulus</name> confirmat, quo loco ait, fideles esse superaedificatos 
+          <lb ed="#L"/>super fundamentum Apostolorum et prophetarum, ipso summo 
+          <lb ed="#L"/>angulari lapide Christo Iesu. Nulla igitur alia nisi pro<lb ed="#L"/>phetarum, 
+          Christi apostolorumque doctrina, fidem ecclesiae fun<lb ed="#L"/>dat, 
+          nulla alia Theologiae principia continet. Eadem enim 
+          <lb ed="#L"/>sunt disciplinarum principia ac fundamenta.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1116">
+          Adde, quod fi<lb ed="#L"/>des 
+          est virtus Theologica, cum religione ecclesiae erga 
+          <lb ed="#L"/>Deum coniuncta et sociata. Non ergo quaecumque a Deo reve<lb ed="#L"/>lata 
+          ad fidei virtutem pertinent, sed ea tantum quae ad eccle<lb ed="#L"/>siae 
+          etiam religionem pertinebunt. Quia vero nihil ecclesiae 
+          <lb ed="#L"/>refert ea credere an non, quae <name xml:id="Z4Yt34-d1e1100-Nd1e1030">Brigidae</name> <name xml:id="Z4Yt34-d1e1100-Nd1e1033">Catharinaeque Senensi</name> 
+          <lb ed="#L"/>uisa sunt, nullo certe modo ad fidem illa referuntur.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1139">
+          Adde 
+          <lb ed="#L"/>etiam quod fides, de qua hic sermo fit, non est privata vir<lb ed="#L"/>tus 
+          sed communis. Ea enim re catholica dicitur, hoc est, 
+          universalis. Quocirca priuatae reuelationes, cuiusmodi<lb ed="#L"/>cunque 
+          et quoruncunque illae sint, ad fidem catholicam non
+          spectant, nec ad fundamenta et principia ecclesiasticae 
+          <lb ed="#L"/>doctrinae, quae vera germanaque Theologia est. Cuius 
+          rei illud item non leve argumentum est, quod quae non 
+          <lb ed="#L"/>per ecclesiam et eius publicos administros fidelibus pro<lb ed="#L"/>ponuntur, 
+          illa non credit catholica fides. Videlicet, aequum 
+          <lb ed="#L"/>erat, ut quae ad Rempublicam generaliter attinerent, haec 
+          <lb ed="#L"/>non priuati quiuis homines ad eam retulissent, sed 
+          <lb ed="#L"/>eius communes omnino administri. Fundamenta eius, 
+          <lb ed="#L"/>inquit, in montibus sanctis. Id, quod explicaturus sta<lb ed="#L"/>tim 
+          adiunxit, Dominus narrabit in scripturis populorum: 
+          <pb ed="#L" n="691"/>
+          <lb ed="#L"/>et principum horum, qui fuerunt in ea. Scripturae ergo 
+          <lb ed="#L"/>priuatae non sunt fidei ecclesiasticae fundamenta, sed scrip<lb ed="#L"/>turae 
+          populorum, quas nobis principes ecclesiae tradi<lb ed="#L"/>derunt. 
+          Quamobrem in principiis Theologiae nostrae 
+          <lb ed="#L"/>non ea sunt habenda, quae private et singulariter quibus<lb ed="#L"/>dam 
+          hominibus significata a Deo sunt, sed quae commu<lb ed="#L"/>niter 
+          et publice ecclesiae suae locutus est Deus. Id si con<lb ed="#L"/>sentaneum 
+          est, ut videtur certe, necessario fit consequens, 
+          <lb ed="#L"/>ut ratio fidei Theologiaeque formalis non sit tam diffusa 
+          <lb ed="#L"/>et ampla, quam nonnullis apparet, sed multo adstrictior at<lb ed="#L"/>que 
+          contractior, ut intelligatur esse veritas prima eccle<lb ed="#L"/>siae 
+          reuelans ea, quae ad religionem attinent. Id, quod sine 
+          <lb ed="#L"/>dubio fidei constantia, certitudo et firmitas, requirebant. 
+          <lb ed="#L"/>Nullo enim loco firma stabilisque ac fixa consisteret, si 
+          <lb ed="#L"/>priuatas reuelationes sequeretur.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1200">
+          Nec mihi quisquam 
+          <lb ed="#L"/>angelorum in via fidem et religionem obiiciat, quibus 
+          <lb ed="#L"/>nescimus an Deus quae credere illos oportebat, per se 
+          <lb ed="#L"/>haec an per aliquem publicum administrum angelum su<lb ed="#L"/>periorem 
+          proposuerit. Illud dico, in angelis quoque 
+          <lb ed="#L"/>communem fuisse fidem, communem reuelationem, quae 
+          <lb ed="#L"/>non priuatae usurpationis esset, sed publicae religionis. 
+          <lb ed="#L"/>Nam quod obiiciebatur de <name xml:id="Z4Yt34-d1e1100-Nd1e1118">Balaam</name> et <name xml:id="Z4Yt34-d1e1100-Nd1e1121">Caiphae</name> prophetiis 
+          <lb ed="#L"/>hoc facile reiicitur. Non enim illorum verba ad fidem 
+          <lb ed="#L"/>spectant quia dixerunt illi, sed quia auctores sacri scripse<lb ed="#L"/>runt.
+          Ac formalis Theologiae ratio quaenam illa sit, bre<lb ed="#L"/>viter 
+          quidem, sed non indiligenter exposui.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1233">
+          Sequitur ut 
+          <lb ed="#L"/>explicem, quae sint huius disciplinae propria legitimaque 
+          <lb ed="#L"/>principia. Qua in re video nihil nos laborare oportet. 
+          <lb ed="#L"/>Facile enim e rebus positis intelligitur, omnia, quae sunt 
+          <lb ed="#L"/>per sacros auctores ecclesiae divinitus revelata, in pro<lb ed="#L"/>priis 
+          Theologiae principiis habenda. Non ea solum di<lb ed="#L"/>co, 
+          quae auctores sacri scriptis suis prodiderunt, sed quae 
+          <lb ed="#L"/>verbo etiam posteris commendarunt. Id quod expla<lb ed="#L"/>natum 
+          est in tertio huius operis libro diligentissime. 
+          <lb ed="#L"/>Auctores autem sacros appello, non eos modo, qui 
+          <lb ed="#L"/>libros canonicos scripserunt, verum etiam Christum 
+          <lb ed="#L"/>Dominum, qui et vitae et doctrinae Catholicae primus 
+          <lb ed="#L"/>est auctor, et Apostolos qui ministri fuere sermonis.
+          <lb ed="#L"/>Nec si conciliorum et Apostolicae Sedis auctoritas fidem
+          <pb ed="#L" n="692"/>
+          <lb ed="#L"/>certam facit Catholici dogmatis aut Sanctorum etiam 
+          <lb ed="#L"/>omnium consensus et conspiratio una, idcirco aut prin<lb ed="#L"/>cipia 
+          Theologiae cumulamus, aut eius formalem rationem 
+          <lb ed="#L"/>extendimus. Quoniam, ut saepe alias diximus, nec Con<lb ed="#L"/>cilia 
+          nec sedis Apostolicae pontifex, nec sancti scriptura<lb ed="#L"/>rum 
+          interpretes nouas fidelibus reuelationes edunt, sed 
+          <lb ed="#L"/>quas ab apostolis accepit ecclesia, aut posteris integras 
+          <lb ed="#L"/>et illibatas tradunt, aut illas exprimunt et interpretantur, 
+          <lb ed="#L"/>aut certe consequentia et connexa colligunt, adversa et 
+          <lb ed="#L"/>repugnantia manifestant. Principiorum itaque Theolo<lb ed="#L"/>giae 
+          numerus e libris sacris atque apostolorum traditio<lb ed="#L"/>nibus 
+          integerrime constituitur. Quamobrem duobus 
+          <lb ed="#L"/>primis locis contenta sunt omnia, quae in initiis Theolo<lb ed="#L"/>giae 
+          ueris et germanis numeranda sunt. Sed his initiis tan<lb ed="#L"/>quam 
+          seminibus ab ecclesia datis, quae Christus Aposto<lb ed="#L"/>lis, 
+          Apostoli ecclesiae dederunt, pastores et doctores ac 
+          <lb ed="#L"/>Theologi in uniuersum omnes ea rigant et excolunt, et 
+          <lb ed="#L"/>quae plantae traduces propagines ex eis oriuntur, profe<lb ed="#L"/>runt 
+          et ostendunt. Illa fundamenta sunt theologicae ec<lb ed="#L"/>clesiasticaeque 
+          doctrinae quae Christus per apostolos po<lb ed="#L"/>suit, 
+          caeteri sive concilii patres, sive Pontifices summi, seu 
+          <lb ed="#L"/>ecclesiae doctores, sancti omnino superaedificant. Nam 
+          <lb ed="#L"/>fundamenta alia nemo potest ponere praeter ea, quae po<lb ed="#L"/>sita 
+          sunt, Apostolorum et Prophetarum, ipso summo an<lb ed="#L"/>gulari 
+          lapide Christo Iesu.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1320">
+          Enimuero disciplinarum princi<lb ed="#L"/>pia 
+          non eodem gradu locata sunt omnia. Quaedam enim 
+          <lb ed="#L"/>simpliciter prima sunt, quae vi sua generali caetera conti<lb ed="#L"/>nent, 
+          ut in metaphysicis illud, Impossibile est simul affir<lb ed="#L"/>mare 
+          et negare. Qualia in Theologia sunt illa, Deus est, 
+          <lb ed="#L"/>et est remunerator inquirentium se, in quibus tanquam 
+          <lb ed="#L"/>in primis credibilibus omnes fidei articuli implicite con<lb ed="#L"/>tinentur, 
+          quemadmodum <name xml:id="Z4Yt34-d1e1100-Nd1e1238">D. Thomas</name> eisdem quoque verbis 
+          <lb ed="#L"/>affirmat <!--(II-II.1.7)-->.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1345">
+          Alia sunt principia praecipua quidem et immedia<lb ed="#L"/>ta, 
+          sed contractiora tamen, quam illa communia, quae erant 
+          <lb ed="#L"/>caeterorum omnium quasi fontes. Huius generis in phy<lb ed="#L"/>sicis 
+          ea sunt: Res naturales materia formaque constare. 
+          <lb ed="#L"/>Naturam esse principium motus et quietis, in Theologia 
+          <lb ed="#L"/>vero articuli fidei capitales qui, ut <ref xml:id="Z4Yt34-d1e1100-Rd1e1358"><name xml:id="Z4Yt34-d1e1100-Nd1e1260">D. idem Thomas</name></ref> ait, 
+          <lb ed="#L"/>primo et per se credendi fidelibus proponuntur. Nimirum 
+          <pb ed="#L" n="693"/>
+          <lb ed="#L"/>enim de Deo, qui est res Theologiae subiecta, ea articuli 
+          <lb ed="#L"/>enuntiant, quae vel ex perpetua aeternitate in Deo insunt, 
+          <lb ed="#L"/>vel humanae salutis ergo disposita in tempore ac dispen<lb ed="#L"/>sata 
+          sunt. Eundem quippe Deum, qui trinus et unus est, 
+          <lb ed="#L"/>qui creauit mundum, qui et impios facit iustos, et felices 
+          <lb ed="#L"/>pio: eundem, inquam, credimus et hominem factum et 
+          <lb ed="#L"/>natum, et mortuum, et sepultum, et suscitatum, et eleuatum 
+          <lb ed="#L"/>in coelos.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1384">
+          Iure igitur haec prima sunt et propria Theolo<lb ed="#L"/>giae 
+          pronuntiata, quae a nobis de subiecto disciplinae no<lb ed="#L"/>strae 
+          vel maxime supponuntur. Initiis enim his principa<lb ed="#L"/>libus 
+          non concessis, Theologus progredi ne digitum qui<lb ed="#L"/>dem 
+          potest. Ac sunt priora illa similia iis, quas Philoso<lb ed="#L"/>phus 
+          appellat dignitates. Accedentem nanque ad Deum 
+          <lb ed="#L"/>oportet credere quia est, et inquirentibus se remunerator 
+          <lb ed="#L"/>sit. Quicunque igitur disciplinam aliquam supernatura<lb ed="#L"/>lem 
+          discere parat, eum necesse est duas illas generales prae<lb ed="#L"/>notiones 
+          animo antecepisse. Quae dignitatum nota pro<lb ed="#L"/>pria 
+          atque insignis est. At haec posteriora principia sup<lb ed="#L"/>positiones 
+          Theologiae non iniuria vocabuntur. Eas enim 
+          <lb ed="#L"/>Theologus discipulo suadere quodam modo aut expli<lb ed="#L"/>care 
+          certe valet.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1416">
+          Sed praeter haec duo principiorum ge<lb ed="#L"/>nera 
+          sunt alia non propter se potissime petita, sed, ut <name xml:id="Z4Yt34-d1e1100-Nd1e1321">D. 
+          <lb ed="#L"/>Thomas</name> sentit, eorum, quae sunt potissima, explicando<lb ed="#L"/>rum 
+          gratia<!-- other edition has "causa" -->. Cuiusmodi sunt, inquit, praeter articulos fidei 
+          <lb ed="#L"/>omnia, quae in sacris litteris assumuntur, vel Dei natura et 
+          <lb ed="#L"/>maiestate explicanda, vel exponenda ipsius in homines 
+          <lb ed="#L"/>beneuolentia, rerumque omnium procuratione, quae illis 
+          <lb ed="#L"/>essent utiles et necessariae. Haec vero tametsi non fidei 
+          <lb ed="#L"/>sunt nec Theologiae praecipua capita, sed his ex acci<lb ed="#L"/>denti 
+          coniuncta et quasi principia secundaria, accipit ta<lb ed="#L"/>men 
+          ea Theologus, non aliter ac Philosophus principia 
+          <lb ed="#L"/>per se nota, sine medio et ratione, perinde ut articulos fi<lb ed="#L"/>dei 
+          acceperat. Haec enim quasi naturalis atque insita in a<lb ed="#L"/>nimis 
+          fidelium notio inest, ut quicquid ab Apostolis scri<lb ed="#L"/>ptum 
+          traditumque est, verum esse sentiant. Ac Theolo<lb ed="#L"/>giae 
+          legitima germanaque principia haec sunt.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1456">
+          Nam, quae 
+          <lb ed="#L"/>vel a metaphysicis, vel a physicis, vel a mathematicis, vel 
+          <lb ed="#L"/>a reliquis demum naturae disciplinis adsciscit, perspicua 
+          <lb ed="#L"/>per se euidentiaque principia, non ex sua sumit viatque 
+          <pb ed="#L" n="694"/>
+          <lb ed="#L"/>natura, sed foris inuenta in proprium usum mutuatur, 
+          <lb ed="#L"/>aut certe iure quodam suo vendicat. Forsitan quispiam 
+          <lb ed="#L"/>dixerit, Nonne igitur multae variaeque erunt rationes 
+          <lb ed="#L"/>Theologiae formales? Siquidem multarum disciplinarum 
+          <lb ed="#L"/>varia item principia sunt. Minime vero. Non enim ex 
+          <lb ed="#L"/>adiunctis et extrinsecus attributis doctrinarum formalis 
+          <lb ed="#L"/>ratio petitur, sed ex propriis natiuisque principiis. At<lb ed="#L"/>qui 
+          in Theologia horum omnium una et eadem ratio 
+          <lb ed="#L"/>formalis est, nempe lumen fidei supernaturale. Quae igi<lb ed="#L"/>tur 
+          sint Theologiae principia, tum germana tum aliena, 
+          <lb ed="#L"/>atque ex illis quae prima quae secunda, ex primis vero quae 
+          <lb ed="#L"/>generalia, quae quasi in speciem contracta, satis, ut reor, 
+          <lb ed="#L"/>dilucide aperteque docuimus.
+        </p>
+        <p xml:id="Z4Yt34-d1e1100-d1e1495">
+          Quibus ex rebus intelli<lb ed="#L"/>gitur 
+          e decem locis duos primos, propria et legitima 
+          <lb ed="#L"/>Theologiae principia continere, tres postremos exter<lb ed="#L"/>na 
+          et aliena: nam quinque intermedii, aut interpretatio<lb ed="#L"/>nem 
+          principiorum propriorum continent, aut eas, quae ex 
+          <lb ed="#L"/>his ortae et profectae sunt, conclusiones. Hae cuiusmodi 
+          <lb ed="#L"/>in Theologia sint, statim explico, si prius argumenta re<lb ed="#L"/>fello 
+          <lb ed="#L"/>quibus supra usus sum, quum de principiis eiusdem 
+          <lb ed="#L"/>Theologiae quaererem. Ad quas ipsas argumentationes 
+          <lb ed="#L"/>ex superioribus dictis satis multa responsa sunt, quibus 
+          <lb ed="#L"/>perspici possit adversum <name xml:id="Z4Yt34-d1e1100-Nd1e1422">D. Thomam</name>, quem vel maxime 
+          <lb ed="#L"/>impugnant, eas nihil habere virium. Tanta uis est veri, ut 
+          <lb ed="#L"/>speciem falsitatis obscuret, si modo id patefactum et illu<lb ed="#L"/>stratum 
+          est. Sed singulis tamen respondere volumus, ut 
+          <lb ed="#L"/>rudiorum ingenio morigeremur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="462"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e712"><!-- Z4Yt34-l8c2 -->
+            <head xml:id="Z4Yt34-d1e712-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e712-d1e109">
+               <lb ed="#L" n="6"/>Caput secundum.
+    </p>
+            <p xml:id="Z4Yt34-d1e712-d1e114">
+               <lb ed="#L" n="7"/>THeologiae scholasticae proprium munus, quantum &amp;  
+      <lb ed="#L" n="8"/>a maioribus accepimus, &amp; huius facultatis alumni 
+      <lb ed="#L" n="9"/>quotidianis fere congressibus experimur, illud primum  
+      <lb ed="#L" n="10"/>est, vt quae in sacris literis Apostolorum traditionibus 
+      <lb ed="#L" n="11"/>abdita continentur, ea in lucem, quasi e tenebris eruantur. 
+      <lb ed="#L" n="12"/>Colligit enim Theologus ex principijs fidei a Deo reue 
+      <lb ed="#L" n="13"/>latis conclusiones suas, atque in principijs ipsis 
+      implici<lb ed="#L" n="14" break="no"/>tas per argumentationem naturae consentaneam explicat. 
+      <lb ed="#L" n="15"/>Quemadniodum enim Mufica facultas ex ijs, quae sunt in 
+      <lb ed="#L" n="16"/>Arithmetica posita, earatiocinando connectit, quae sunt 
+      <lb ed="#L" n="17"/>in numeris sonantibus aut consona aut dissona, ita 
+      scho<lb ed="#L" n="18" break="no"/>lae Theologia ex his quae fides posuit, ea quae sunt 
+      conse<lb ed="#L" n="19" break="no"/>quentia, naturae ratione conficit, de Deo rebusque 
+      diui<lb ed="#L" n="20" break="no"/>nis. Quod si Astrologia, Musica, perspiciendi facultas,  
+      <lb ed="#L" n="21"/>atque aliae id genus disciplinae, tametsi ex alienis 
+      faculta<lb ed="#L" n="22" break="no"/>tibus quasi mendicae, sed habentur in pretio tamen, 
+      tan<lb ed="#L" n="23" break="no"/>quam vtiles &amp; necessariae: ecquisnam iste malus genius 
+      <lb ed="#L" n="24"/>est, scholasticam disciplinam profligare veile, quae non ex 
+      <lb ed="#L" n="25"/>Arithmetica, non ex Geometria, non ex Physica, sed ex 
+      <lb ed="#L" n="26"/>sacris diuinisque &amp; literis &amp; institutis docet, quid 
+      conse<lb ed="#L" n="27" break="no"/>quens sit, quid contra repugnans? Nec vero audiendi 
+      <lb ed="#L" n="28"/>sunt qui scholasticas quaestiones, vt curiosas 
+      reprehen<lb ed="#L" n="29" break="no"/>dunt, &amp; scholae temeritatem insimulant, quod de rebus 
+      <lb ed="#L" n="30"/>longe semotis a captu nostro audeat pronunciare, &amp; tam  
+      <lb ed="#L" n="31"/>multa definire, quae citra salutis dispendium vel ignorari 
+      <lb ed="#L" n="32"/>poterant, vel in ambiguo relinqui. Huius generis 
+      exempla<lb ed="#L" n="33" break="no"/>ponunt. Quid discernat Patrem a Filio, quid ab vtroque Spi 
+      <lb ed="#L" n="34"/>ritum sanctum, quid intersit inter filij natiuitatem &amp; spiritus 
+      <lb ed="#L" n="35"/>processionem, vtrum Spiritus sancti a Patre &amp; Filio 
+      profi<lb ed="#L" n="36" break="no"/>ciscentis vnicum sit principium, an duo. Ita censent id prae 
+      <lb ed="#L" n="37"/>clari &amp; magni Theologi esse, nihil vltra, q sacris literis 
+      <lb ed="#L" n="38"/>pditum est, definire, hoc est, in Theologiae principijs hae 
+      <lb ed="#L" n="39"/>rere, mentem a consequentibus &amp; repugnantibus seuocare. 
+      <!--474.xml-->
+      <pb ed="#L" n="463"/>
+               <lb ed="#L" n="1"/>Quorum sententia quid sibi velit, non intelligo. Pot est 
+      <lb ed="#L" n="2"/>enim quicquam esse absurdius, quam sola disciplinae prin 
+      <lb ed="#L" n="3"/>cipia habere definita, conclusiones vero, quae certo atque 
+      <lb ed="#L" n="4"/>euidenti syllogismo ex illis conficiuntur, aut ignorari 
+      <lb ed="#L" n="5"/>velle aut in ambiguo relinqui? Quod si in Geometria, 
+      <lb ed="#L" n="6"/>Physica, Astrologiam ve quisquam alsereret, vere &amp; iure 
+      <lb ed="#L" n="7"/>stultissimus haberetur. Sed de his hactenus. Non libet 
+      e<lb ed="#L" n="8" break="no"/>nim mihi rem exploratam suadere, quod multi &amp; hi docti 
+      <lb ed="#L" n="9"/>saepe secerunt. Itaque pergamus ad reliqua. 
+      </p>
+            <p xml:id="Z4Yt34-d1e712-d1e212">
+               <lb ed="#L" n="10"/>Habet rursum haec disserendi in schola facultas alium 
+      <lb ed="#L" n="11"/>propositum scopum, fidei nostrae aduersus haereticos 
+      de<lb ed="#L" n="12" break="no"/>fendendae. Est quippe doctoris scholastici, vt magister 
+      <lb ed="#L" n="13"/>sentetiarum in prooemio ex Augustino tradit, scire, 
+      quem<lb ed="#L" n="14" break="no"/>admodum fides catholica &amp; pijs opituletur, &amp; 
+      aduer<lb ed="#L" n="15" break="no"/>sus impios defendatur. Quod si scholae doctor non 
+      pos<lb ed="#L" n="16" break="no"/>sit docere fideles doctrinam sanam, &amp; eos qui sanam non  
+      <lb ed="#L" n="17"/>habent redarguere, apud vulgus theologus esse aliquando 
+      <lb ed="#L" n="18"/>poterit, re vera nunquam erit. Atque ob eam causam 
+      scho<lb ed="#L" n="19" break="no"/>lasticorum disputationibus adeo sunt haeretici infensi, 
+      <lb ed="#L" n="20"/>quod intelligunt, catholicam fidem, quam expugnare mo 
+      <lb ed="#L" n="21"/>uuntur, horum studio doctrinaque muniri. Agnoscunt sane 
+      <lb ed="#L" n="22"/>lupi canes, eosque odio prosequuntur: &amp; scholae nomen istis 
+      <lb ed="#L" n="23"/>inuisum est, quae lupos arceta gregibus, &amp; eolum 
+      insi<lb ed="#L" n="24" break="no"/>dias porro cauet. Atque in hoc genere nihil est quidem  
+      <lb ed="#L" n="25"/>idmirandum, illorum autem hominum genus mirari non  
+      <lb ed="#L" n="26"/>desino, qui cum catholici &amp; habeantur &amp; sint, his plausus 
+      <lb ed="#L" n="27"/>tamen excitare solent, qui nesciunt iuuentutem ad 
+      lin<lb ed="#L" n="28" break="no"/>guarum studium adhortari, nisi prius theologos 
+      schola<lb ed="#L" n="29" break="no"/>sticos maledictis figant, totisque concidant voluminibus. 
+      <lb ed="#L" n="30"/>At suauissime maledicunt. Venenum animi linguae 
+      mel<lb ed="#L" n="31" break="no"/>la fegunt, eoque perniciosius paratum, quo suauius 
+      obbi<lb ed="#L" n="32" break="no"/>pitum. At sunt morosi &amp; prouxi scholastici theologi, si 
+      <lb ed="#L" n="33"/>quaerimus anxie, etiam superstitiosi. Sed haec, vt dixi, 
+      mo<lb ed="#L" n="34" break="no"/>rum vitia sunt, non scholae. At morositas tamen, &amp; ea 
+      vi<lb ed="#L" n="35" break="no"/>tia quae theologis, obijciuntur, habent aliquid 
+      excusatio<lb ed="#L" n="36" break="no"/>nis, vel iustae, vet quae probati posse videatur. Nam de rebus 
+      <lb ed="#L" n="37"/>multis &amp; varijs non solum in genere, sed singulatim etiam  
+      <lb ed="#L" n="38"/>lisserentes, non potuerunt haec breui oratione 
+      conficere<lb ed="#L" n="39" break="no"/>Hinc autem myriades articulorum, quas isti reprehendunt,  
+      <!--475.xml-->
+      <pb ed="#L" n="464"/>
+               <lb ed="#L" n="1"/>quae si essent adagiorum, non reprehenderent, sed 
+      suspice<lb ed="#L" n="2" break="no"/>rent. Accedit, quod perspicuitas non solet esse communiuncta 
+      <lb ed="#L" n="3"/>preuitati. Obscuri nanqe fiunt, qui breues esse laborant.  
+      <lb ed="#L" n="4"/>Ita perspicui theologi esse cupientes, longiores 
+      aliquan<lb ed="#L" n="5" break="no"/>to fuere. Adde quod res difficiles &amp; obscurae, quas 
+      pluri<lb ed="#L" n="6" break="no"/>mas theologi edisserunt, paucis explicari non queunt. 
+      Ru<lb ed="#L" n="7" break="no"/>dibus quoque &amp; imperitis schola sese attemperat, atque 
+      <lb ed="#L" n="8"/>adeo plura &amp; quaerit &amp; definit, quae doctis hominibus, ijs 
+      <lb ed="#L" n="9"/>etiam qui ingenio multum valent, superuacanea 
+      videren<lb ed="#L" n="10" break="no"/>tur. Scholastico demum more in vtramque partem 
+      theo<lb ed="#L" n="11" break="no"/>logi disserentes, necesse est, vt quaecunque docent, 
+      lon<lb ed="#L" n="12" break="no"/>giore ea sermone complectantur. Anxia vero 
+      fuper<lb ed="#L" n="13" break="no"/>stitio quae dicitur, religio est, non superstitio. Nempe non 
+      <lb ed="#L" n="14"/>licet apud nos susque deque omnia ferri, sed scliolae norma 
+      <lb ed="#L" n="15"/>decretoque vniuersos, qui aut disputare aut scribere de 
+      <lb ed="#L" n="16"/>re theologica velint, certis oportet limitibus ac 
+      praescri<lb ed="#L" n="17" break="no"/>ptis lineis contineri. Hinc illae lachrymae. Illis libertas 
+      pla<lb ed="#L" n="18" break="no"/>cet, imo vero licentia dicendi scribendique: nos cum de 
+      <lb ed="#L" n="19"/>rebus theologicis disputamus, licentiam omnem &amp; teme 
+      <lb ed="#L" n="20"/>ritatem perhorrescimus. Sed totum hoc scholasticum 
+      dis<lb ed="#L" n="21" break="no"/>serendi genus spinosum est: &amp; pes spinis confixus, 
+      gres<lb ed="#L" n="22" break="no"/>sum deinde figere non valet. Scilicet tenerrimi istorum 
+      <lb ed="#L" n="23"/>pedes sunt: &amp; quos errores non pungunt, pungit 
+      di<lb ed="#L" n="24" break="no"/>sciplina. Quami, vt ante dicere coeperam, ob id odio isti 
+      <lb ed="#L" n="25"/>prosequuntur, quod ars est, quae doceat tum 
+      propugna<lb ed="#L" n="26" break="no"/>re fidem, tum haereses expugnare. Id quoniam postremo 
+      <lb ed="#L" n="27"/>libro sumus fuse ac diligenter explicaturi, breuiter &amp; sine 
+      <lb ed="#L" n="28"/>disceptatione modo ponendum est. Nec enim decet om 
+      <lb ed="#L" n="29"/>nia eodem loco demonstrare. 
+      </p>
+            <p xml:id="Z4Yt34-d1e712-d1e347">
+               <lb ed="#L" n="30"/>Spectat denique ad scholasticorum functionem 
+      Chri<lb ed="#L" n="31" break="no"/>sti ecclesiaeque doctrinam, quantum fieri potest, ex 
+      disci<lb ed="#L" n="32" break="no"/>plinis humanis aut illustrare aut etiam confirmare. Nam,  
+      <lb ed="#L" n="33"/>quod Augustinus docuit, vasa argentea &amp; aurea caeteramque  
+      <lb ed="#L" n="34"/>Aegyptiorum supellectilem, etiam si commodatam 
+      acce<lb ed="#L" n="35" break="no"/>erimus, iure quasi nostra facere possumus, inque fidelium 
+      <lb ed="#L" n="36"/>vsus vendicare: &amp; alienigenam mulierem, vt 
+      Hierony<lb ed="#L" n="37" break="no"/>mus admonet, rasis crinibus reiectisque superfluis, ad Dei 
+      <lb ed="#L" n="38"/>populum introducere. Id quod si quo decet 
+      temperamen<lb ed="#L" n="39" break="no"/>to grauitateque fiat, nemo vt opinor, tam stultus futurus 
+      <!--476.xml-->
+      <pb ed="#L" n="465"/>
+               <lb ed="#L" n="1"/>est, qui reprobet, nisi horum nihil vnquam reputauerit. 
+      <lb ed="#L" n="2"/>Discunt theologi a Dauid extorquere de manibus hostium 
+      <lb ed="#L" n="3"/>gladium, &amp; Goliae superbissimi caput proprio mucrone 
+      <lb ed="#L" n="4"/>truncare. Discunt a Paulo, vel inscriptionem fortuitam  
+      <lb ed="#L" n="5"/>arte tolquere in argumentum fidei, &amp; quae in alium vsum 
+      <lb ed="#L" n="6"/>scripta sunt, ea ad emolumentum ecclesiasticae doctrinaes con 
+      <lb ed="#L" n="7"/>uertere. Discunt cum Daniele ac Moyse Chaldaeorum 
+      Ae<lb ed="#L" n="8" break="no"/>gyptiorumque sapientiam, si non vt sequantur, at vt 
+      indi<lb ed="#L" n="9" break="no"/>cent atque conuincant. Nec aequum est, vt si aduersum 
+      <lb ed="#L" n="10"/>Philosophos disputant, ignorent dogmata 
+      philosopho<lb ed="#L" n="11" break="no"/>rum: nam &amp; si quispiam aduersus Mathematicos velit 
+      scri<lb ed="#L" n="12" break="no"/>bere imperitus Mathemaseos, risui patet. 37. d. c. qui de 
+      <lb ed="#L" n="13"/>mensa. Possem persequi multa huius rei argumenta: sed 
+      <lb ed="#L" n="14"/>ea ipsa quae dixi, sentio fuisse longiora. Ignoscet autem 
+      <lb ed="#L" n="15"/>Lector. Nam &amp; studio rerum nostrarum prouectus sum, 
+      <lb ed="#L" n="16"/>&amp; schola est paulo loquacior, ne ab omnibus eam vitijs 
+      <lb ed="#L" n="17"/>videar vendicare. De his igitur hactenus. Egi enim secus 
+      <lb ed="#L" n="18"/>atque initio dixeram: &amp; in loco presso atque angusto 
+      spa<lb ed="#L" n="19" break="no"/>cia dicendi videor quaesijsse. Sed difficile erat re &amp; ab 
+      alie<lb ed="#L" n="20" break="no"/>nis conscissam, &amp; a quibusdam e nostris male tractatam,  
+      <lb ed="#L" n="21"/>neleui quidem ratione sarcire. 
+      </p>
+            <p xml:id="Z4Yt34-d1e712-d1e422">
+               <lb ed="#L" n="22"/>Tres itaque fines verae theologiae constituendi sunt. 
+      <lb ed="#L" n="23"/>Nec enim tantum de scholastica, sed de omni omnino 
+      <lb ed="#L" n="24"/>theologia disputo. Lutheranorum autem haeresis, si sibi 
+      <lb ed="#L" n="25"/>consentanea esse velit, de scholae instituto nihil queat di 
+      <lb ed="#L" n="26"/>cere, in qua nunquam se exercuisse vel ipsa fatetur. 
+      Ne<lb ed="#L" n="27" break="no"/>mo autem audiendus est, qui de ea re, quam nec vsu nec 
+      <lb ed="#L" n="28"/>ratione habet cognitam disputabit. Quod si tria illa verae 
+      <lb ed="#L" n="29"/>theologiae sunt communia, ea vero schola omnia praestat,  
+      <lb ed="#L" n="30"/>certe in ijs perniciosus est error, qui scholam 
+      negligen<lb ed="#L" n="31" break="no"/>dam esse existimant. Haec est enim vera theologia, in qua 
+      <lb ed="#L" n="32"/>omnia insunt, quae sunt in theologo requirenda, scientia 
+      <lb ed="#L" n="33"/>Dei, coelestium rerum cognitio, humanarum prudentia &amp;  
+      <lb ed="#L" n="34"/>vsus. Vt cum haec adsint, perfecta doctoris Christiani 
+      di<lb ed="#L" n="35" break="no"/>sciplina sit, &amp; sine his esse non possit. Quod cum optimum 
+      <lb ed="#L" n="36"/>maximumque sit, si id volumus adipisci, theologiae 
+      scho<lb ed="#L" n="37" break="no"/>lasticae opera danda est, sine qua nullam omnino perfectam 
+      <lb ed="#L" n="38"/>in Ecclesia doctrinam consequi possumus, Ea vero negle 
+      <lb ed="#L" n="39"/>cta qui se Theologos esse arbitrantur, tum se denique 
+      <!--477.xml-->
+      <pb ed="#L" n="466"/>
+               <lb ed="#L" n="1"/>errasse sentient, cum eos aut disputatio cum hereticis, aut  
+      <lb ed="#L" n="2"/>grauis aliquis &amp; perplexus conscientiae casus experiri 
+      co<lb ed="#L" n="3" break="no"/>oet. Nec vero quisquam scripturae sanctae studiosus Vereri 
+      <lb ed="#L" n="4"/>debet, ne ex scholae studio, sacrarum literarum studium 
+      <lb ed="#L" n="5"/>retardetur. Nam &amp; ad hunc fructum ferendum non modo 
+      <lb ed="#L" n="6"/>non retardat, verum etiam inuitat atque allectat 
+      schola<lb ed="#L" n="7" break="no"/>Nosque ipsi quicquid ad sacras literas attulimus, si modo 
+      <lb ed="#L" n="8"/>aliquid attulimus, a doctoribus atque doctrina 
+      scholasti<lb ed="#L" n="9" break="no"/>ca, instructi ad eas &amp; ornati accessimus. Sed iam tempus 
+      <lb ed="#L" n="10"/>est, vt doceamus, quod est nobis hoc loco praecipuum 
+      in<lb ed="#L" n="11" break="no"/>stitutum, an scholasticorum auctoritas firma argumenta 
+      <lb ed="#L" n="12"/>theologo praestet, an infirma.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

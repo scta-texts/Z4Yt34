@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="492"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e764"><!-- Z4Yt34-l8c7 -->
+            <head xml:id="Z4Yt34-d1e764-Hd1e106">Caput 7</head>
+            <p xml:id="Z4Yt34-d1e764-d1e109">
+               <lb ed="#L" n="26"/>Caput septimum.
+    </p>
+            <p xml:id="Z4Yt34-d1e764-d1e114">
+               <lb ed="#L" n="27"/>SEd enim hoc posito non adhuc apparet, cuinam vsui 
+      <lb ed="#L" n="28"/>iuris interpretes &amp; professores theologis 
+      disserenti<lb ed="#L" n="29" break="no"/>bus esse possint: quaeve argumenta &amp; qualia, eorum 
+      <lb ed="#L" n="30"/>auctoritas theologicis disputationibus administret. Id 
+      <lb ed="#L" n="31"/>quoniam nemo, vel leuiter attigit, dicam ego, vt potero, 
+      <lb ed="#L" n="32"/>incondite fortasse, sed tamen vt res possit intelligi. Iuris 
+      <lb ed="#L" n="33"/>pontificij volumina circa varia rerum genera versantur. 
+      <lb ed="#L" n="34"/>Primum enim catholicam fidem &amp; profitentur &amp; explicant, 
+      <lb ed="#L" n="35"/>vt in in tituide sum. trini. Deinde de moribus definiunt 
+      <lb ed="#L" n="36"/>&amp; religione Christiana, quantum aut ex euangelica lege 
+      <lb ed="#L" n="37"/>aut naturae ratione definire licet: vt videre est in titu. de 
+      <lb ed="#L" n="38"/>vsura, de iureiurando, de diuortijs, de symonia. Praeterea 
+      <lb ed="#L" n="39"/>disserunt quoque de moribus ecclesiasticis, deque religionis 
+      <!--504.xml-->
+      <pb ed="#L" n="493"/>
+               <lb ed="#L" n="1"/>ceremonijs, &amp; officijs ministrorum ecclesiae, quatenus haec 
+      <lb ed="#L" n="2"/>omnia disponuntur legibus positiuis. Nam scholastico 
+      <lb ed="#L" n="3"/>verbo libenter vtimur: nec grammaticorum censuras 
+      <lb ed="#L" n="4"/>pertimescimus. Alioqui, vt Aristoteles ait, res 
+      grauissi<lb ed="#L" n="5" break="no"/>mae interdum nitore verborum atque ornamentis 
+      immo<lb ed="#L" n="6" break="no"/>dicae diligentiae deformatur. Atque, haec mihi causa est, cur 
+      <lb ed="#L" n="7"/>sermone eo quandoque vtor, qui scholae notus est, ne, vt 
+      <lb ed="#L" n="8"/>quidam latinissime loquentes, ab scholae theologis iure 
+      <lb ed="#L" n="9"/>optimo irridear. Quoniam vero scio, graues sententias 
+      <lb ed="#L" n="10"/>inconditis verbis elatas, delicatiorum praesertim aures 
+      <lb ed="#L" n="11"/>offendere, adhibere soleo sermonis munditiam, non 
+      odio<lb ed="#L" n="12" break="no"/>sam nec exquisitam nimis, tantum quae sugiat agrestem 
+      <lb ed="#L" n="13"/>quorundam negligentiam. Sed ad rem. Humanas ego 
+      <lb ed="#L" n="14"/>leges de ritibus &amp; moribus ecclesiasticis, quoniam sic vo 
+      <lb ed="#L" n="15"/>cant, positiuas appellaui. Quales sunt multae intitu. de 
+      <lb ed="#L" n="16"/>celebra. Missa, de cleri. peregri. coniugatis, &amp; caetera. de 
+      <lb ed="#L" n="17"/>aetate &amp; qualit. ordi. de obser. ieiu. &amp; breuiter in lib. 1. 
+      de<lb ed="#L" n="18" break="no"/>cre. de officijs iudicum. &amp; in. 2. de ordine iudiciario. 
+      Po<lb ed="#L" n="19" break="no"/>stremo autem huiusmodi pontificia iura praescribunt poe 
+      <lb ed="#L" n="20"/>nas his, qui leges, vel eu ingelicas, vel naturales, yel etiam  
+      <lb ed="#L" n="21"/>ecclesiasticas, perruperint, vt in titu. de exco. de rapto. de 
+      <lb ed="#L" n="22"/>aposta. de haereti. licet cernere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e764-d1e197">
+               <lb ed="#L" n="23"/>Hoc igitur fundamento posito, sit prima conclusio. 
+      <lb ed="#L" n="24"/>In his, quae ad fidem pertinent, iurisconsultorum 
+      aucto<lb ed="#L" n="25" break="no"/>ritate theologus non eget. Quin potius eorum titulorum 
+      <lb ed="#L" n="26"/>expositonem, qui de fide decernunt, legisperitus a theolo 
+      <lb ed="#L" n="27"/>go mutuari debet. Ratio vero in promptu est. Siue enim 
+      <lb ed="#L" n="28"/>pontifices seu concilia, quae in volumina iuris coguntur, quic 
+      <lb ed="#L" n="29"/>quam definiant, quod ad fidem spectare videatur, id certe, 
+      <lb ed="#L" n="30"/>vt alio iam loco explicuimus, non ex sensu suo, vel ex 
+      sa<lb ed="#L" n="31" break="no"/>cris literis atque Christi &amp; Apostolorum traditionibus 
+      col<lb ed="#L" n="32" break="no"/>ligant necesse est. Cum ergo principia, vnde pontifices &amp;  
+      <lb ed="#L" n="33"/>concilia ad questionem fidei decernendam proficiscuntur, 
+      <lb ed="#L" n="34"/>propria sint Theologicae facultatis, cuius est 
+      cognosce<lb ed="#L" n="35" break="no"/>re, quae a Deo sunt reuelata, quaeque his sunt, vel 
+      consequen<lb ed="#L" n="36" break="no"/>tia, vel repugnantia: plane conficitur, in eiusmodi rebus 
+      ca<lb ed="#L" n="37" break="no"/>nonum sacrorum intelligentiam non a iurisperitis, sed a 
+      theolo<lb ed="#L" n="38" break="no"/>gis esse petendam. Id quod patres, quibus est fidei cognitio 
+      <lb ed="#L" n="39"/>mandata, libenter agnoscunt. Non enim prius quequam  
+      <!--505.xml-->
+      <pb ed="#L" n="494"/>
+               <lb ed="#L" n="1"/>haereseos crimine damnat, quam theologi definierint,  
+      <lb ed="#L" n="2"/>quod in iudicium venit, id haeresim esse. 
+      </p>
+            <p xml:id="Z4Yt34-d1e764-d1e245">
+               <lb ed="#L" n="3"/>Quae cum ita sint, non video equidem quonam 
+      consi<lb ed="#L" n="4" break="no"/>lio nunc apud nostros in negotio cognitionis fidei 
+      par<lb ed="#L" n="5" break="no"/>tes postremae, ne dicam nullae, theologis permittantur,  
+      <lb ed="#L" n="6"/>iureconsultis vero vel primae vel etiam omnes. 
+      Cum<lb ed="#L" n="7" break="no"/>que praecipuus sit in hoc negotio labor decernere, quid 
+      <lb ed="#L" n="8"/>haeresis sit, quid haereticum faciat, quid fides teneat, quid 
+      <lb ed="#L" n="9"/>contra cum fide pugnet, quantum &amp; quatenus doctrinae 
+      <lb ed="#L" n="10"/>sanae ac catholicae aduersetur, id quod reus asseruerit: ad 
+      <lb ed="#L" n="11"/>reorum quidem poenas decernendas, quod posterius est,  
+      <lb ed="#L" n="12"/>decreti sunt in republica iudices, ad illud autem, quod &amp;  
+      <lb ed="#L" n="13"/>grauius est, &amp; in fidei negotio prius, nullos habet 
+      respu<lb ed="#L" n="14" break="no"/>blica theologos patres conscriptos, quorum de culpis 
+      <lb ed="#L" n="15"/>iudicium, cum de poenis iudicant, iurisperiti sequantur. 
+      <lb ed="#L" n="16"/>Faxit Christus, cuius haec causa est, vt principes 
+      Christia<lb ed="#L" n="17" break="no"/>ni, qui huic operi, quo fides &amp; religio contiuetur, 
+      liben<lb ed="#L" n="18" break="no"/>tissime fauere solent, rem quam semel coeperunt, 
+      absol<lb ed="#L" n="19" break="no"/>uant, &amp; grauissimo tribunali theologos probatissimos,  
+      <lb ed="#L" n="20"/>probatissimos inquam, adiungant, ad huius diuini 
+      nego<lb ed="#L" n="21" break="no"/>tij absolutissimam moderationem. Id enim si fuerit 
+      eccle<lb ed="#L" n="22" break="no"/>siae praestitum, nihil erit, quod in sanctissimo &amp; maxime 
+      <lb ed="#L" n="23"/>necessario inquisitionis officio desideretur. Sed de prima 
+      <lb ed="#L" n="24"/>conclusione satis. Iam pergamus ad reliquas. 
+      </p>
+            <p xml:id="Z4Yt34-d1e764-d1e296">
+               <lb ed="#L" n="25"/>Secunda conclusio. In his etiam, quae ad mores 
+      perti<lb ed="#L" n="26" break="no"/>nent, quatenus vel lex euangelica, vel ratio Philosophiae 
+      <lb ed="#L" n="27"/>de huiusmodi praescribit, iureconsultorum auctoritas 
+      <lb ed="#L" n="28"/>parum aut certe nihil theologo conferre potest. Quin 
+      <lb ed="#L" n="29"/>rectam &amp; sanam earum rerum cognitionem iurisperiti 
+      <lb ed="#L" n="30"/>a theologis mutuam accepturi sunt Nam 
+      quemadmo<lb ed="#L" n="31" break="no"/>dum Musicus ab Arithmetico conclusionum suarum 
+      ra<lb ed="#L" n="32" break="no"/>tionem sumit, quod hae conclusiones a principijs 
+      Arith<lb ed="#L" n="33" break="no"/>meticae deriuantur, ita &amp; si quae dogmata de moribus ius 
+      <lb ed="#L" n="34"/>pontificum, vel ex euangelio Vel ex Philosophia colligit, 
+      <lb ed="#L" n="35"/>ea sane tanquam a proprijs principijs accepta theologus 
+      <lb ed="#L" n="36"/>agnoscet, rectiusque &amp; intelliget, &amp; interpretabitur. Qua 
+      <lb ed="#L" n="37"/>ex re facilis coniectura est, iurisperitos quosdam in 
+      sum<lb ed="#L" n="38" break="no"/>mo errore, &amp; magna veritatis ignoratione versari, cum 
+      <lb ed="#L" n="39"/>asserunt in materia vsurarum, simoniae, &amp; alijs eiusmodi, in 
+      <!--506.xml-->
+      <pb ed="#L" n="495"/>
+               <lb ed="#L" n="1"/>quibus de peccato mortali agitur, ad iurisperitos potius 
+      <lb ed="#L" n="2"/>quam ad theologos recurrendum. Quo in errore 
+      fue<lb ed="#L" n="3" break="no"/>runt Ancharranus in disputatione, cuius initium est, 
+      An<lb ed="#L" n="4" break="no"/>tiquis &amp; modernis temporibus. &amp; Ioannes de Anania in 
+      <lb ed="#L" n="5"/>cap. in ciuitate, de vsuris. &amp; Alexander in consilio 
+      pri<lb ed="#L" n="6" break="no"/>mo. &amp; Aluarus Pelagius lib. 2. arti. 2O. &amp; Hostiensis in 
+      <lb ed="#L" n="7"/>cap. penul. de aeta. &amp; quali. ordi. Quos tamen non est dif- 
+      <lb ed="#L" n="8"/>ficile refellere: Nam cum theologo sacrarum literarum 
+      <lb ed="#L" n="9"/>cognitio propria sit, quaecunque de moribus, vel in 
+      sa<lb ed="#L" n="10" break="no"/>cris literis continentur, vel ex eisdem per certam 
+      conne<lb ed="#L" n="11" break="no"/>xionem conficiuntur, vbiuis theologus inuenerit, ea 
+      tan<lb ed="#L" n="12" break="no"/>quam sua vendicabit: iurisperitus autem vt aliena 
+      mutua<lb ed="#L" n="13" break="no"/>bitur. Cumque rursum Philosophiae principia a theologis 
+      <lb ed="#L" n="14"/>etiam habeantur, vt qui de virtutibus &amp; vitiis, de fine 
+      hu<lb ed="#L" n="15" break="no"/>manae vitae, deque actionibus, quibus ad hunc finem 
+      perueni<lb ed="#L" n="16" break="no"/>tur, longe lateque disserant, &amp; super harum rerum iactis 
+      fun<lb ed="#L" n="17" break="no"/>damentis morum fabricam extruant : certe quae in iure 
+      <lb ed="#L" n="18"/>de moribus ex principiis naturae ratione constitutis 
+      prae<lb ed="#L" n="19" break="no"/>scribuntur, ea theologus quasi suo sibi iure assumet, 
+      iure<lb ed="#L" n="20" break="no"/>consultisque exposita &amp; enucleata tradet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e764-d1e379">
+               <lb ed="#L" n="21"/>Tertia conclusio. In tertio illo genere rerum, vbi 
+      sci<lb ed="#L" n="22" break="no"/>licet de moribus ecclesiae &amp; religionis institutis, per leges 
+      <lb ed="#L" n="23"/>tantum pontificias decernitur, in illo etiam postremo,  
+      <lb ed="#L" n="24"/>vbi poenae iuris praefiniuntur, iurisperitorum omnium 
+      com<lb ed="#L" n="25" break="no"/>munis consensus concorsque sententia, theologo magnam 
+      <lb ed="#L" n="26"/>fidem facere debet, si quando incidat quaestio circa res 
+      hu<lb ed="#L" n="27" break="no"/>iusmodi: vt si exempli causa, veniat in dubium, an hic aut  
+      <lb ed="#L" n="28"/>ille homo sit, vel irregularis, vel excommunicatus, vel inter 
+      <lb ed="#L" n="29"/>dicto, vel suspensioni obnoxius. Item an delegatus possit 
+      <lb ed="#L" n="30"/>subdelegare, an episcopus in his illis ve possit dispensare, 
+      <lb ed="#L" n="31"/>scholae verbis liceat vti, an ecclesiae pastor rite sit electus, 
+      <lb ed="#L" n="32"/>num iudex ecclesiasticus causam in iudicio legitime 
+      de<lb ed="#L" n="33" break="no"/>finierit. In his aliisque sexcentis huius generis, 
+      theolo<lb ed="#L" n="34" break="no"/>gus infolentissimus erit, si quod ignorat, iudicarit: 
+      inso<lb ed="#L" n="35" break="no"/>lentior, si posteaquam iurisperitos consuluerit, omnium 
+      au<lb ed="#L" n="36" break="no"/>ctoritati refragabitur. Etenim, vt alias saepe diximus, 
+      cu<lb ed="#L" n="37" break="no"/>iusqe rei peritia non aliis certius meliusque contingit, quam  
+      <lb ed="#L" n="38"/>eiusdem rei peritis hominibus. Ita, doctissimis quibusque 
+      <lb ed="#L" n="39"/>in arte sua fidem habere opus est. Iuris ergo pontificij 
+      <!--507.xml-->
+      <pb ed="#L" n="496"/>
+               <lb ed="#L" n="1"/>prudentibus in his quae propria sint illius facuitatis non  
+      <lb ed="#L" n="2"/>credere, erit profecto temerarium. 
+      </p>
+            <p xml:id="Z4Yt34-d1e764-d1e431">
+               <lb ed="#L" n="3"/>Deinde in eiusmodi canonum interpretatione 
+      eccle<lb ed="#L" n="4" break="no"/>siae iudices &amp; administri, concordem omnium 
+      iurecon<lb ed="#L" n="5" break="no"/>sultorum sententiam amplectuntur. Qui enim in 
+      actio<lb ed="#L" n="6" break="no"/>nibus vel iudiciis ecclesiasticis, suo sensu &amp; non communi 
+      <lb ed="#L" n="7"/>iurisperitorum omnium duceretur, sine dubio suo illum 
+      iu<lb ed="#L" n="8" break="no"/>dicio ecclesia coerceret. Ita ecclesia vsum iudicum 
+      appro<lb ed="#L" n="9" break="no"/>pando, eorum quoque videtur intelligentiam approbare, 
+      <lb ed="#L" n="10"/>quos hi in ecclesiae administratione sequuntur. Nec 
+      alie<lb ed="#L" n="11" break="no"/>num est a vera coniectura Christum dominum iuris huius 
+      <lb ed="#L" n="12"/>peritis quodammodo etiam adesse in legum 
+      ecclesiastica<lb ed="#L" n="13" break="no"/>rum vera interpretatione. Cum enim sacri canones, 
+      insti<lb ed="#L" n="14" break="no"/>gante spiritu sancto, ad ecclesiae sint vtilitatem editi, vt 
+      <lb ed="#L" n="15"/>Damasus Papa definit, consentaneum est, vt ecclesia, cui 
+      <lb ed="#L" n="16"/>canones illi sunt necessarii, quo in religione &amp; moribus 
+      <lb ed="#L" n="17"/>ecclesiasticis contineatur, interpretes a Deo sanos 
+      acce<lb ed="#L" n="18" break="no"/>perit, earum legum &amp; institutorum, quibus est 
+      administra<lb ed="#L" n="19" break="no"/>da. Parum enim profuisset leges mortuas in membranis 
+      <lb ed="#L" n="20"/>scriptas habere, nisi haberet quoque resp. Christiana viuos 
+      <lb ed="#L" n="21"/>anterpretes, qui rectum earum legum sensum assequerentur. 
+      <lb ed="#L" n="22"/>Deus itaque quoniam non deficit in necessariis, non in 
+      theo<lb ed="#L" n="23" break="no"/>logos solum, sed in iuris pontificii peritos spiritum 
+      veri<lb ed="#L" n="24" break="no"/>tatis effudit. Quapropter ex concordi omnium sententia 
+      <lb ed="#L" n="25"/>probabilissimum argumentum sumere theologus potest,  
+      <lb ed="#L" n="26"/>ad eas quaestiones decernendas, quae circa illa duo rerum  
+      <lb ed="#L" n="27"/>genera posteriore loco posita exorientur. Exorientur autem 
+      <lb ed="#L" n="28"/>in vtroque genere plurimae, quarum definitionem 
+      theolo<lb ed="#L" n="29" break="no"/>gis ignorare fas non est: his vel maxime, qui aut laicorum 
+      <lb ed="#L" n="30"/>&amp; clericorum confessiones audiunt, aut etiam 
+      Theolo<lb ed="#L" n="31" break="no"/>giam in academus profitentur. Hi enim, quoniam de 
+      mul<lb ed="#L" n="32" break="no"/>tis, quae ex iure pendent, magnum munus respondendi 
+      <lb ed="#L" n="33"/>sustinent: si respousa atque decreta iurisconsultorum 
+      negli<lb ed="#L" n="34" break="no"/>gant, periculose nonnunquam ac turpiter errabunt. Quae 
+      <lb ed="#L" n="35"/>autem cum Viris in sua quibusque arte peritis consuluntur, ca 
+      <lb ed="#L" n="36"/>aut minimo, aut nullo certe periculo respondentur. Ac 
+      <lb ed="#L" n="37"/>de septimo quidem loco satis dixisse mihi videor. 
+      </p>
+            <p xml:id="Z4Yt34-d1e764-d1e509">
+               <lb ed="#L" n="38"/>octaui Libi fiuis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

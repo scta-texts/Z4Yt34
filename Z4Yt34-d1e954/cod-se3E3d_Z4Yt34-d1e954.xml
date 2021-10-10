@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="547"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e954"><!-- Z4Yt34-l10c8 -->
+            <head xml:id="Z4Yt34-d1e954-Hd1e106">Caput 8</head>
+            <p xml:id="Z4Yt34-d1e954-d1e109">
+               <lb ed="#L" n="11"/>Caput octauum.
+    </p>
+            <p xml:id="Z4Yt34-d1e954-d1e114">
+               <lb ed="#L" n="12"/>SEd illud verius est, iuris humani facultatem, in multis 
+      <lb ed="#L" n="13"/>theologo commodam esse posse. Si enim illi 
+      canoni<lb ed="#L" n="14" break="no"/>ca scientia est necessaria, huic autem peritia legum 
+      <lb ed="#L" n="15"/>adeo coniuncta, &amp; colligata est, vt vix altera possit ab 
+      al<lb ed="#L" n="16" break="no"/>tera separari, theologus sane vt ius canonicum, ita quoque  
+      <lb ed="#L" n="17"/>&amp; ciuile cum illo connexum vendicare debet. Quod antem 
+      <lb ed="#L" n="18"/>sacrorum statuta canonum principum constitutionibus 
+      ad<lb ed="#L" n="19" break="no"/>iuuentur, vicissimque, illas iuuent, testatur Lucius 3. de noui 
+      <lb ed="#L" n="20"/>ope. nun. c. 1. Vnde illud apud Italos, il legista senza 
+      capi<lb ed="#L" n="21" break="no"/>tulo vale poco, ma il Canonista senza lege, vale niente, 
+      <lb ed="#L" n="22"/>factum est iam tritum sermone prouerbium. Rursum, Pontifi¬
+      <!-- corrupt image here to to end of page -->
+      <lb ed="#L" n="23"/>cum iura plerumque ciuili auctoritate rationeque vtuntur. A 
+      <lb ed="#L" n="24"/>theologo igitur, cui ius pontificium familiare esse 
+      opor<lb ed="#L" n="25" break="no"/>ui, non erit iuris ciuilis cognitio aliena. Augustinus 
+      prae<lb ed="#L" n="26" break="no"/>ea non improbat, si terreni imperii leges in suum 
+      adiuto<lb ed="#L" n="27" break="no"/> haeretici assumant, id enim fecit apostolus. 
+      Proban<lb ed="#L" n="28" break="no"/>est igitur, ac multo etiam magis theologus, si 
+      aduer<lb ed="#L" n="29" break="no"/>naereticos, cum vel de rerum temporalium dispositione 
+      <lb ed="#L" n="30"/>lisserit, vel de moribus in rep. aut constituendis aut  
+      <lb ed="#L" n="31"/>tutis, legum ciuilium auctoritatem asciscit. Id quod 
+      <lb ed="#L" n="32"/>stinus idem contra Donatistas saepe facit. Nec enim 
+      <lb ed="#L" n="33"/>larem aliquem locum referre libet, cum tam multis 
+      <lb ed="#L" n="34"/>lit a D. Augustino vsurpatum. Ad haec, in 
+      disputatio<lb ed="#L" n="35" break="no"/>linAitia, &amp; iure, incidat theologus aliquando necesse 
+      <lb ed="#L" n="36"/>eDilfictaunsine ineptus erit, si ea, quae grauiter a viris 
+      <lb ed="#L" n="37"/>ia epipiera rginae dicta sunt, negligere voluerit. Preterea 
+      <!--559.xml-->
+      <pb ed="#L" n="548"/>
+               <lb ed="#L" n="1"/>in pactis, stipulationibus, caeterisque contractibus: in 
+      re<lb ed="#L" n="2" break="no"/>rum dominio, praescriptione, testamentis, donationibus, 
+      <lb ed="#L" n="3"/>testibus, iudicibus: aliisque sexcentis huius generis, 
+      quo<lb ed="#L" n="4" break="no"/>ties Theologo opus est, album a nigro aequumque ab iniquo  
+      <lb ed="#L" n="5"/>secernere? Saepe nimirum, si eius munus esse creditur, 
+      ani<lb ed="#L" n="6" break="no"/>marum cauere periculis, earumque saluti consulere. 
+      Iniusti<lb ed="#L" n="7" break="no"/>tia quippe mortale peccatum est, quare nihil est mirandum, 
+      <lb ed="#L" n="8"/>si qui &amp; multorum confessiones audire debet, &amp; de 
+      iniu<lb ed="#L" n="9" break="no"/>stitia plurimis respondere, ab eo legum qualem qualem 
+      co<lb ed="#L" n="10" break="no"/>gnitionem ipse requiram. Quid cu ad restitutionis 
+      ma<lb ed="#L" n="11" break="no"/>teriam apte exacteque tractandam de rebus huiusmodi 
+      theo<lb ed="#L" n="12" break="no"/>logus disputaturus est? Num iustitiae &amp; aequitatis, in foro 
+      <lb ed="#L" n="13"/>etiam conscientiae, rectus arbiter esse poterit, nisi multa a 
+      <lb ed="#L" n="14"/>iureconsultis, &amp; ciuili prudentia mutuetur? Minime id 
+      <lb ed="#L" n="15"/>quidem. Nam licet iustum iniustumque internoscere 
+      phi<lb ed="#L" n="16" break="no"/>losophorum, Diuique. Thomae libris theologus adiutus 
+      pos<lb ed="#L" n="17" break="no"/>sit: at id solum faciet in genere, in specie autem sine iuris 
+      <lb ed="#L" n="18"/>aliqua peritia non faciet. Sed haec viderspossunt 
+      obscu<lb ed="#L" n="19" break="no"/>riora, cum sine appositione exemplorum lentius 
+      disputam<lb ed="#L" n="20" break="no"/>tur. Exemplis illustranda sunt haec, quae rationibus 
+      sub<lb ed="#L" n="21" break="no"/>tilius quam satis est, disputari videntur. Proferam autem 
+      ali<lb ed="#L" n="22" break="no"/>qua e multis exempla, nam omnia erit operis infiniti. Sit 
+      <lb ed="#L" n="23"/>igitur primum, si poenitens dicat se habere scrupulum super 
+      <lb ed="#L" n="24"/>his aut illis bonisquae, videlicet ex praescriptione longi 
+      <lb ed="#L" n="25"/>temporis possidet quae, ex donatione vxoris alienae 
+      ha<lb ed="#L" n="26" break="no"/>bet, quae ex testamento minus solenni, quaeve ab intestato 
+      <lb ed="#L" n="27"/>obuenerunt. Sit secundum exemplum, si ait poenitens se 
+      <lb ed="#L" n="28"/>habere litem super hac illaye causa, nesciteque se an 
+      cedere<lb ed="#L" n="29" break="no"/>debeat liti, an potius illam valeat iuste prosequi. Sit 
+      fer<lb ed="#L" n="30" break="no"/>tium, Si quis primogenitus a Theologo quaerat, an 
+      pec<lb ed="#L" n="31" break="no"/>cet mortaliter, nisi sorores iusto matrimonio collocet, 
+      <lb ed="#L" n="32"/>nisi aes alienum soluat, quod pares contraxerit, nisi proto 
+      <lb ed="#L" n="33"/>genium curet &amp; tueatur. Quid in donatario? An teneatur 
+      <lb ed="#L" n="34"/>ad debita? Quid in domino? An a subditis possit solita 
+      <lb ed="#L" n="35"/>quaedam munera exigere, eosque ad consueta onera siue 
+      <lb ed="#L" n="36"/>realia, siue personalia obligare? Placent enim nobis hoc 
+      <lb ed="#L" n="37"/>loco quidem iurisperitorum illae voces. Nec semper nos 
+      <lb ed="#L" n="38"/>oportet accurata dictione disserere. Quin satius est de 
+      <lb ed="#L" n="39"/>nominibus parum esse solicitos esseque interdum faciles, 
+      <!--560.xml-->
+      <pb ed="#L" n="549"/>
+               <lb ed="#L" n="1"/>&amp; negligentes: quemadmodum Plato nos &amp; in 
+      Theaete<lb ed="#L" n="2" break="no"/>to &amp; in Politico admonuit. Verum haec obiter. Iam ad 
+      <lb ed="#L" n="3"/>illa redeamus. Sed quid opus est plura: An ne speciatim 
+      <lb ed="#L" n="4"/>definire, quando in iudiciis, in contractibus, in vltimis 
+      vo<lb ed="#L" n="5" break="no"/>luntatibus, ac nonnunquam etiam in delictis committatur 
+      <lb ed="#L" n="6"/>iniustitia, vires theologi non excedit? Cum casus 
+      occur<lb ed="#L" n="7" break="no"/>rant innumeri, qui naturae lege definiri non queunt. Id si 
+      <lb ed="#L" n="8"/>ita est, vt est certe, insolentiae erit maximae in eiusmodi 
+      <lb ed="#L" n="9"/>quaestionibus iuris peritiam contemnere. Iuris autem peritia 
+      <lb ed="#L" n="10"/>non aut consultius inuestigari, aut inueniri certius potest,  
+      <lb ed="#L" n="11"/>quam in iuris voluminibus. Quae non alia quaecunqe 
+      phi<lb ed="#L" n="12" break="no"/>losophorum volumina, nec eloquentia, nec prudentia 
+      su<lb ed="#L" n="13" break="no"/>perant. De quinquaginta loquor pandectarum libris. Na 
+      <lb ed="#L" n="14"/>posteriores leges multum omnino vtraque in re ab illis 
+      ide<lb ed="#L" n="15" break="no"/>clinarunt. Quod si hibliothecas omnium philosophorum 
+      <lb ed="#L" n="16"/>vnus Ciceroni visus est duodecim tabularum libellus, &amp; 
+      <lb ed="#L" n="17"/>auctoritatis pondere, &amp; vtilitatis vbertate superare, quid 
+      <lb ed="#L" n="18"/>nos credere oportet de illis quinquaginta libris, quibus 
+      <lb ed="#L" n="19"/>non leges modo duodecim tabularum, verum multae etiam 
+      <lb ed="#L" n="20"/>aliae continentur de hominum conuentionibus, deque iure 
+      <lb ed="#L" n="21"/>&amp; aequo prudenter sancteque praescriptae? Sanctum, inquam,  
+      <lb ed="#L" n="22"/>volumen est, &amp; iustitiae templum merito illud Iustinianus 
+      <lb ed="#L" n="23"/>appellauit. Atque cum e sacra morum philosophia ius esse 
+      <lb ed="#L" n="24"/>ortum ciuile constet, vt fontem, sic certe &amp; riuulos 
+      Theo<lb ed="#L" n="25" break="no"/>logus colet, ne parum sit in Philosophiam ipsam 
+      religio<lb ed="#L" n="26" break="no"/>sus. Sane qui ius ciuile theologo negligendum putat, is 
+      <lb ed="#L" n="27"/>bonam partem moralis philosophiae reuellit: cuius 
+      subsi<lb ed="#L" n="28" break="no"/>dium, si quis illi neget de moribus disserenti, stultus esse 
+      <lb ed="#L" n="29"/>videatur. Quia ergo saepe vtitur theologus subsidio iuris 
+      <lb ed="#L" n="30"/>in disputatione theologica, idcirco istam iuris scientiam  
+      <lb ed="#L" n="31"/>theologiae tanquam ancillulam pedisequamque, adiunxi.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="455"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e683"><!-- Z4Yt34-l7c4 -->
+            <head xml:id="Z4Yt34-d1e683-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e683-d1e109">
+               <lb ed="#L" n="35"/>Caput quartum.
+    </p>
+            <p xml:id="Z4Yt34-d1e683-d1e114">
+               <lb ed="#L" n="36"/>CVm igitur contendit Osiander, expositores vsque 
+      <lb ed="#L" n="37"/>ab apostolis vniuersos, in prophetiae illius 
+      intelligen<lb ed="#L" n="38" break="no"/>tia errasse, primum nihil nobis contrarium affert. Nam, vt 
+      <!--467.xml-->
+      <pb ed="#L" n="456"/>
+               <lb ed="#L" n="1"/>Vincentius Lirinensis recte dixit, antiqua sanctorum 
+      pa<lb ed="#L" n="2" break="no"/>trum consensio non in omnibus diuinae legis 
+      quaestiun<lb ed="#L" n="3" break="no"/>culis, sed solum in fidei regula nobis certo est sequenda 
+      <lb ed="#L" n="4"/>atque in his praecipue questionibus, quibus catholici do 
+      <lb ed="#L" n="5"/>gmatis fundamenta nituntur. Quod etiam capite 
+      superio<lb ed="#L" n="6" break="no"/>re paulo latins explanauimus. Porro autem Oseae 
+      Pro<lb ed="#L" n="7" break="no"/>phetia an in sensu literali, an in allegorico ad Christum 
+      <lb ed="#L" n="8"/>referenda sit, ad fidei quaestionem non pertinet. Ita quam  
+      <lb ed="#L" n="9"/>uis sancti in hoc falsi fuissent, non in re graui, sed quae 
+      <lb ed="#L" n="10"/>parui momenti in ecclesia est, fuissent falsi. Deinde, falsum 
+      <lb ed="#L" n="11"/>est omnes auctores, vsque ab Apostolis locum illum in 
+      <lb ed="#L" n="12"/>sensu solum allegorico ad Christum retulisse. Referunt 
+      <lb ed="#L" n="13"/>quidem omnes ad populum lsrael, &amp; ad Christum quoque 
+      <lb ed="#L" n="14"/>referunt, sed non omnes asserunt per allegoriam id 
+      fieri<lb ed="#L" n="15" break="no"/>Quin nonnulli affirmant, eundem scripturae locum 
+      plu<lb ed="#L" n="16" break="no"/>res habere interdum sensus literales. Postremo, si 
+      dica<lb ed="#L" n="17" break="no"/>mus sensum esse allegoricum, nullus est error. Nam 
+      obie<lb ed="#L" n="18" break="no"/>ctioni Osiandri Hieronymus in comment, super Oseam  
+      <lb ed="#L" n="19"/>docte respondet. Vana igitur ista ratio apud eos valet, 
+      <lb ed="#L" n="20"/>qui ipsi decipi fallique volunt. Grauiores 
+      constantiores<lb ed="#L" n="21" break="no"/>que admonendi sunt, vt animaduertant, ne callida 
+      altera<lb ed="#L" n="22" break="no"/>ratione capiantur. Aperte enim sophisticantem nemo non 
+      <lb ed="#L" n="23"/>videt, nisi qui admodum est indoctus : Callidus ille &amp; 
+      oc<lb ed="#L" n="24" break="no"/>cultus sophista, ne veritatis specie fallat, studiose 
+      cauen<lb ed="#L" n="25" break="no"/>dum est. Nec enim facile agnoscitur. Nec vero 
+      existima<lb ed="#L" n="26" break="no"/>ri velim Caietanum aut in sophistis esse censendum, aut  
+      <lb ed="#L" n="27"/>astutem, Vafre, malicioseue quempiam fallere voluisse. Sed 
+      <lb ed="#L" n="28"/>vir ingeniosus &amp; doctus non fallebatur, nisi specie 
+      qua<lb ed="#L" n="29" break="no"/>dam obscurae rationis. Quocirca quoniam vim habet ma 
+      <lb ed="#L" n="30"/>iorem quam caeteri ad decipiendum, maiori cura &amp; 
+      dili<lb ed="#L" n="31" break="no"/>gentia hic sane cauendus est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e683-d1e195">
+               <lb ed="#L" n="32"/>Argumentatur itaque Caietanus: Non alligauit Deus 
+      <lb ed="#L" n="33"/>expositionem scripturae sacrae priscorum doctorum 
+      sen<lb ed="#L" n="34" break="no"/>sibus, &amp; caetera. Imo vero alligauit, si omnes ad vnum in 
+      <lb ed="#L" n="35"/>eandem sententiam concurrerint. Tenentur enim 
+      vni<lb ed="#L" n="36" break="no"/>uersi catholici sensum ecclesiae sequi. Sensum autem 
+      ec<lb ed="#L" n="37" break="no"/>clesiae fuisse, qui idem fuit doctorum ecclesiasticorum 
+      o<lb ed="#L" n="38" break="no"/>mnium, explicatum est paulo ante satis, vt arbitror 
+      dili<lb ed="#L" n="39" break="no"/>genter. Nec ecclesia nunc de scripturarum sensu iudicat 
+      <!--468.xml-->
+      <pb ed="#L" n="457"/>
+               <lb ed="#L" n="1"/>diuinando, sed ex traditione maiorum eas interpretatur. 
+      <lb ed="#L" n="2"/>Quemadmodum enim, si qua alia fidei quaestio 
+      occurre<lb ed="#L" n="3" break="no"/>rit, ecclesiae iudicium nihil noui auribus Christianae 
+      ple<lb ed="#L" n="4" break="no"/>bis infert, sed maiorum antiquam in ea re fidem, &amp; inqui 
+      <lb ed="#L" n="5"/>rit &amp; sequitur i ita cum de sacrarum literarum sensu 
+      exi<lb ed="#L" n="6" break="no"/>stit aliqua controuersia, nullam nouam intelligentiam a 
+      <lb ed="#L" n="7"/>censura ecclesiastica expectare debemus, sed eam, quae 
+      <lb ed="#L" n="8"/>magna facta disquisitione patrum nostrorum communem 
+      <lb ed="#L" n="9"/>esse constiterit. Spes, inquiunt, nobis &amp; posteris tollitur 
+      <lb ed="#L" n="10"/>exponendi sacras literas, nisi transferendo de libro in 
+      <lb ed="#L" n="11"/>quinternum. Minime vero gentium. Nam, Cvt illud 
+      prae<lb ed="#L" n="12" break="no"/>teream, quod in sacris Biblijs loci sunt multi, atque adeo 
+      <lb ed="#L" n="13"/>libri integri, in quibus interpretum diligentiam ecclesia 
+      <lb ed="#L" n="14"/>desiderat, in quibusque proinde iuniores possent &amp; 
+      eru<lb ed="#L" n="15" break="no"/>ditionis &amp; ingenij posteris ipsi quoque suis monimenta 
+      <lb ed="#L" n="16"/>relinquere, in illis etiam, quae antiquorum sunt ingenio 
+      <lb ed="#L" n="17"/>ac diligentia elaborata, nonnihil nos Christiano 
+      popu<lb ed="#L" n="18" break="no"/>lo, si volumus, praestare &amp; quidem vtilissime possumus. 
+      <lb ed="#L" n="19"/>Possumus enim vetustis nouitatem dare, obsoletis 
+      nito<lb ed="#L" n="20" break="no"/>rem, obscuris lucem, fastiditis gratiam, dubijs fidem, 
+      om<lb ed="#L" n="21" break="no"/>nibus naturam suam &amp; naturae suae omnia. Sed quoniam  
+      <lb ed="#L" n="22"/>huic Caietani argumento Vincentius Lirinensis 
+      doctis<lb ed="#L" n="23" break="no"/>sime elegantissimeque, respondit, verba nos ipsius 
+      ascribe<lb ed="#L" n="24" break="no"/>mus, digna illa profecto, quae aureis literis scriberentur, 
+      <lb ed="#L" n="25"/>Esto, inquit, 6 Doctor quasi Beseleel, &amp; pretiosas diuini 
+      <lb ed="#L" n="26"/>dogmatis gemmas exculpe, fideliter coapta, adorna 
+      sapi<lb ed="#L" n="27" break="no"/>enter, adijce splendorem, gratiam, venustatem, 
+      intelliga<lb ed="#L" n="28" break="no"/>tur te exponente illustrius, quod antea obscurius 
+      crede<lb ed="#L" n="29" break="no"/>batur. Eadem tamen, quae didicisti, doce: vt cum dicas 
+      <lb ed="#L" n="30"/>nouem, non dicas noua. Sed forsitan dicet aliquis, nullus 
+      <lb ed="#L" n="31"/>ne ergo in ecclesia Christi profectus habebitur 
+      intelli<lb ed="#L" n="32" break="no"/>gentiae? habeatur plane &amp; maximus. Sed ita tamen, vt vere 
+      <lb ed="#L" n="33"/>profectus sit ille fidei, non permutatio. Siquidem ad pro 
+      <lb ed="#L" n="34"/>fectum pertinet, vt in semetipsa vnaquaeque res 
+      amplifice<lb ed="#L" n="35" break="no"/>tur. Ad permutationem vero, vt aliquid ex alio in aliud 
+      <lb ed="#L" n="36"/>transuertatur. Imitetur animarum ratio rationem 
+      corpo<lb ed="#L" n="37" break="no"/>rum: quae licet annorum processu numeros suos euoluant 
+      <lb ed="#L" n="38"/>&amp; explicent, eadem tamen, quae erant, permanent. Parua 
+      <lb ed="#L" n="39"/>lactentium membra, magna iuuenum: eadem ipsa sunt taman. 
+      <!--469.xml-->
+      <pb ed="#L" n="458"/>
+               <lb ed="#L" n="1"/>Quot paruulorum artus, tot virorum. Et si quae illa sunt 
+      <lb ed="#L" n="2"/>quae aeui maturioris aetate pariuntur, iam in ieminis ratio 
+      <lb ed="#L" n="3"/>ne praeserta sunt : vt nihil nouum postea proferatur in 
+      se<lb ed="#L" n="4" break="no"/>nibus, quod non in pueris iam ante latitauerit. Quod si 
+      <lb ed="#L" n="5"/>humana species in aliquam deinceps non sui generis ver 
+      <lb ed="#L" n="6"/>tatur effigiem, aut certe addatur quippiam membrorum 
+      <lb ed="#L" n="7"/>numero vel detrahatur, necesse est, vt totum corpus vel 
+      <lb ed="#L" n="8"/>prodigiosum fiat, vel etiam intercidat, vel certe debilite 
+      <lb ed="#L" n="9"/>tur. Ita etiam sacrarum literarum intelligentia sequatur 
+      <lb ed="#L" n="10"/>has decet progressuum leges, vt annis scilicet 
+      consoli<lb ed="#L" n="11" break="no"/>detur, dilatetur tempore, sublimetur aetate: incorrupta 
+      <lb ed="#L" n="12"/>tamen illibataque permaneat. &amp; paulo post: Quodcunque 
+      <lb ed="#L" n="13"/>igitur, ait, in ecclesiae paradiso, Dei agricultura, patrum la 
+      <lb ed="#L" n="14"/>bore sarum est, hoc idem filiorum industria colatur, 
+      flo<lb ed="#L" n="15" break="no"/>reat, maturescat, proficiat, perficiatur. Et prisca illa 
+      coele<lb ed="#L" n="16" break="no"/>stis philosophiae dogmata a posteris excurentur, 
+      limen<lb ed="#L" n="17" break="no"/>tur, poliantur. Sed nefas est, vt commutentur, 
+      detruncen<lb ed="#L" n="18" break="no"/>tur, mutilentur, humanorumque ingeniorum quasi 
+      extra<lb ed="#L" n="19" break="no"/>nea additamenta recipiant. Accipiant licet euidentiam,  
+      <lb ed="#L" n="20"/>lucem, distinctionem, sed retineant necesse est, plenitudi 
+      <lb ed="#L" n="21"/>nem, integritatem, proprietatem. Hactenus ille. Cuius 
+      <lb ed="#L" n="22"/>tota oratio eo mihi videtur probabilior, quo magis ex 
+      <lb ed="#L" n="23"/>Apostolo ad Ephe. 4. videtur esse deprompta. Vbi illam 
+      <lb ed="#L" n="24"/>corporalis augmenti similitudinem adeo &amp; aperte &amp; 
+      co<lb ed="#L" n="25" break="no"/>piose persecutus est, vt nulla mea oratione opus sit. 
+      Tan<lb ed="#L" n="26" break="no"/>tum fuerunt lectores admonendi. De sexto autem loco 
+      <lb ed="#L" n="27"/>hactenus. Iam ad septimum transeamus, hoc est, scholae 
+      <lb ed="#L" n="28"/>nouae auctoritatem. De qua &amp; si nonnihil fortasse noui 
+      </p>
+            <p xml:id="Z4Yt34-d1e683-d1e369">
+               <lb ed="#L" n="29"/>dicturus sum, ea tamen, quae pios lectores 
+      </p>
+            <p xml:id="Z4Yt34-d1e683-d1e375">
+               <lb ed="#L" n="30"/>probaturos esse con¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e683-d1e380">
+               <lb ed="#L" n="31"/>fidam. 
+      <lb ed="#L" n="32"/>Septimi Libri finit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

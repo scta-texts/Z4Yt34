@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="518"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e864"><!-- Z4Yt34-l9c9 -->
+            <head xml:id="Z4Yt34-d1e864-Hd1e106">Caput 9</head>
+            <p xml:id="Z4Yt34-d1e864-d1e109">
+      <!--529.xml-->
+               <pb ed="#L" n="518"/>
+               <lb ed="#L" n="1"/>Caput nonum.
+    </p>
+            <p xml:id="Z4Yt34-d1e864-d1e118">
+               <lb ed="#L" n="2"/>PRincipio itaque veterum nobis auctoritotem 
+      oppo<lb ed="#L" n="3" break="no"/>nunt. Quod dum faciunt, veteribus sunt iniurij. Quid 
+      <lb ed="#L" n="4"/>enim est aliud humanas scientias omneis a patribus con 
+      <lb ed="#L" n="5"/>demnari, quam eos fuisse non modo imperitos, verum 
+      e<lb ed="#L" n="6" break="no"/>tiam alienos ab humanitate? Nam, quoniam homo 
+      ratio<lb ed="#L" n="7" break="no"/>nis est particeps, consequentia cernit, principia &amp; causas re 
+      <lb ed="#L" n="8"/>rum videt, earumque progressus, &amp; quasi antecessiones inqui 
+      <lb ed="#L" n="9"/>rit, similitudines comparat, &amp; rebus visibilibus adiungit 
+      <lb ed="#L" n="10"/>atque annectit inuisibiles. Qua mentis inquisitione 
+      inue<lb ed="#L" n="11" break="no"/>stigationeque efficiuntur naturales in homine disciplinae, 
+      <lb ed="#L" n="12"/>quarum studium qui vituperat, haud sane intelligo, 
+      quid<lb ed="#L" n="13" break="no"/>nam sit, quod laudandum putet. Quia vero longum esset 
+      <lb ed="#L" n="14"/>alia loca ex eisdem ipsis patribus adscribere, in quibus 
+      <lb ed="#L" n="15"/>humanae doctrinae commendantur, non libet nisi vnum 
+      so<lb ed="#L" n="16" break="no"/>lum ex Augustino referre, in illo etiam ipso libro contra 
+      <lb ed="#L" n="17"/>Felicem Manichaeum, cuius testimonium nobis isti, vel 
+      ma<lb ed="#L" n="18" break="no"/>xime obijciunt. Augustinus igitur, quamuis eos haereticos 
+      <lb ed="#L" n="19"/>reprehendisser, qui auderent auctoritatem ecclesiae 
+      ratio<lb ed="#L" n="20" break="no"/>nis pollicitatione superare, naturales tamen rationes suo 
+      <lb ed="#L" n="21"/>loco &amp; gradu commendat inquiens. Fidei imperator 
+      cle<lb ed="#L" n="22" break="no"/>mentissimus, &amp; per, conuentus celeberrimos populorum 
+      <lb ed="#L" n="23"/>atque gentium sedesque ipsas apostolorum, arce actonitatis 
+      <lb ed="#L" n="24"/>muniuit ecclesia, &amp; per pauciores, pie doctos 
+      copiosissi<lb ed="#L" n="25" break="no"/>mis apparatibus etiam inuictissimae rationis armauit. Verum 
+      <lb ed="#L" n="26"/>illa rectissima disciplina est, in arce fidei recipi infirmos,  
+      <lb ed="#L" n="27"/>vt pro eis iam in tuto positis fortissima ratione pugnetur. 
+      <lb ed="#L" n="28"/>Ex quo loco quid Augustino placeat, lectores vident. Cum 
+      <lb ed="#L" n="29"/>enim apud illum ratio cum auctoritate confertur, iacet 
+      <lb ed="#L" n="30"/>quidem rationis species, valet auctoritas. Sed nusqua ille 
+      <lb ed="#L" n="31"/>tamen has duas argumentandi virtutes ita seiungit, quasi 
+      <lb ed="#L" n="32"/>possit quisquam, qui non idem simul &amp; ratione &amp; 
+      aucto<lb ed="#L" n="33" break="no"/>ritate nitatur, esse theologus. Indoctum quippe armat fide, 
+      <lb ed="#L" n="34"/>doctum etiam ratione. Non igitur humanas disciplinas 
+      <lb ed="#L" n="35"/>naturales ve earum, ratiocinationes damnant doctissimi 
+      <lb ed="#L" n="36"/>viri, sed illos qui, cum in vnitatae catholica non sint, &amp; Chri 
+      <lb ed="#L" n="37"/>stiano tamen nomine glorientur, audent imperitos, quasi 
+      <lb ed="#L" n="38"/>ratione traducere: quia iacere se abiectissime sentiunt, si 
+      <lb ed="#L" n="39"/>eorum cum auctoritate catholica auctoritas conferatur, vt 
+      <!--530.xml-->
+      <pb ed="#L" n="519"/>
+               <lb ed="#L" n="1"/>ab Augustino ad Dioscorum scriptum est. Illos etiam dam  
+      <lb ed="#L" n="2"/>nant, qui Philosophiam Euangelijs praeferunt, quibus 
+      A<lb ed="#L" n="3" break="no"/>uerrois Paulus est, Alexander Aphrodisaeus Petrus, 
+      Ari<lb ed="#L" n="4" break="no"/>stoteles Christus, Plato non diuinus sed Deus. 
+      Cuiusmo<lb ed="#L" n="5" break="no"/>di nos ipsi praesertim in Italia vidimus multos, qui scriptu 
+      <lb ed="#L" n="6"/>ra sacra neglecta, ad horum Philosophorum doctrinas 
+      tan<lb ed="#L" n="7" break="no"/>quam ad sirenum scopulos adhaerebant, postque galeros 
+      <lb ed="#L" n="8"/>etiam &amp; infulas, non prophetas, non apostolos, non 
+      euan<lb ed="#L" n="9" break="no"/>gelistas, sed Cicerones, Platones, Aristoteles, 
+      persona<lb ed="#L" n="10" break="no"/>bant. Eos quoque sacerdotes patres nostri reprehendunt, 
+      <lb ed="#L" n="11"/>qui plus nimio philosophorum libris indulgent. Noluerunt 
+      <lb ed="#L" n="12"/>enim illi, quos occupationibus &amp; grauissimis &amp; maxime 
+      <lb ed="#L" n="13"/>necessarijs oportebat esse districtos, eos Philosophiae stu 
+      <lb ed="#L" n="14"/>dijs praepediri. Basilius certe ac Gregorius tredecim 
+      an<lb ed="#L" n="15" break="no"/>nis, vt literis sacris totos se dederent, sapientiae secularis 
+      <lb ed="#L" n="16"/>libris omnibus valedixerunt. Testatur etiam de se in 
+      epi<lb ed="#L" n="17" break="no"/>ad Gala. Hieronymus, annis quindecim nullum 
+      sapien<lb ed="#L" n="18" break="no"/>tium Gentilium librum ne in manus quidem ascendisse. 
+      <lb ed="#L" n="19"/>Clemens porro Alexandrinus, huiusmodi viris, qui in 
+      ec<lb ed="#L" n="20" break="no"/>clesia doctores perfecti &amp; absoluti esse dehent, 
+      Philoso<lb ed="#L" n="21" break="no"/>phiae studia, causa solum relaxandi animi, in otio permit. 
+      <lb ed="#L" n="22"/>tit. &amp; quoniam ancillas, vt vocatent ad arcem, sapientia 
+      <lb ed="#L" n="23"/>misit, admonuere patres disciplinas, quas vocant liberales, 
+      <lb ed="#L" n="24"/>Theologiae subseruire oportere, non dominari. 
+      Curatu<lb ed="#L" n="25" break="no"/>rum atque illarum studiosum, ne ancillarum amatorijs 
+      de<lb ed="#L" n="26" break="no"/>lectatus, dominam, hoc est, veram sapientiam negligat. 
+      <lb ed="#L" n="27"/>Quinetiam curaturum, vt si Agar Aegyptia Abrahami  
+      <lb ed="#L" n="28"/>complexibus insolescit, eijciatur soras atque exulet, 
+      nec<lb ed="#L" n="29" break="no"/>sinatur, aut Ismael Isaachi simplicitatem irridere, aut Agar 
+      <lb ed="#L" n="30"/>Sarae bonitarem contemnere. Affligat ancillam domina 
+      <lb ed="#L" n="31"/>&amp; corrigat, habeat in manibus, vtatur ea vt libitum 
+      fue<lb ed="#L" n="32" break="no"/>rit. Sic enimmodesta, erit vtilis: quae, cum ei praeter 
+      <lb ed="#L" n="33"/>modum indulgetur, est etiam perniciosa. Eugax est enim 
+      <lb ed="#L" n="34"/>vita nostra, &amp; quod plus temporis studijs humanis 
+      im<lb ed="#L" n="35" break="no"/>partimur, id diuinis adimamus necesse est, quibus nos 
+      <lb ed="#L" n="36"/>Christi religio consecrauit. Qui doctrinis item 
+      libera<lb ed="#L" n="37" break="no"/>libus nimium vacant ij fere errores imbibuunt, qui vix 
+      <lb ed="#L" n="38"/>alui possunt. Qua de re lege quoque cautum est in 
+      con<lb ed="#L" n="39" break="no"/>cilio Lateranensi sub Leons decimo, sessione decima. Est 
+      <!--531.xml-->
+      <pb ed="#L" n="520"/>
+               <lb ed="#L" n="1"/>etiam lex apud nostros sanctissima, quae in huiusmodi 
+      di<lb ed="#L" n="2" break="no"/>sciplinis solum adolescentes, neque omnes, sed 
+      ingenio<lb ed="#L" n="3" break="no"/>sos exercet. Grandioribus autem natu ingenioque 
+      tar<lb ed="#L" n="4" break="no"/>diore studia haec interdicit. Quod si legem perrumpunt 
+      <lb ed="#L" n="5"/>quidam, aut in philosophia &amp; dialectica plus temporis &amp;  
+      <lb ed="#L" n="6"/>curae sumunt, quam aequum est, non est propter istorum 
+      <lb ed="#L" n="7"/>vitium aut Philosophia speculatiua, aut scholastica Theo 
+      <lb ed="#L" n="8"/>logia, quae illam in vsum suum vendicat, contumeliose 
+      <lb ed="#L" n="9"/>vexanda. Nam ne illa quidem nos fugiunt, quae vulgi etiam 
+      <lb ed="#L" n="10"/>sermone teruntur, Nequid nimis, Modus omnibus in rebus, 
+      <lb ed="#L" n="11"/>est optimus. &amp; oversibus persecutus est Horatius, Est mo 
+      <lb ed="#L" n="12"/>dus in rebus, sunt certi denique fines: caeteraque grauissime. 
+      <lb ed="#L" n="13"/>Notum enim lectoribus carmen. Vtrumque itaque vitium 
+      <lb ed="#L" n="14"/>reprehendimus, &amp; eorum, qui Aristotelis Platonis ve 
+      li<lb ed="#L" n="15" break="no"/>bros diu noctuque versant, &amp; eorum, ac multo etiam 
+      ma<lb ed="#L" n="16" break="no"/>gis, qui cum omni rerum naturalium cognitione vacui sint,  
+      <lb ed="#L" n="17"/>vbi primoribus, quod aiunt, labris sacras literas 
+      degusta<lb ed="#L" n="18" break="no"/>rint, tum se Theolonos absolutissimos profitentur, tum  
+      <lb ed="#L" n="19"/>Philosophiam quasi rebus Theologicis tractandis 
+      ine<lb ed="#L" n="20" break="no"/>ptam negligunt. Sed ad sanctorum testimonia satis 
+      dixis<lb ed="#L" n="21" break="no"/>se videmur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e864-d1e342">
+               <lb ed="#L" n="22"/>E sacris vero literis Ecclesiastis primum testimonium 
+      <lb ed="#L" n="23"/>obijcitur. Cuius tamen veram germanamque 
+      intelligen<lb ed="#L" n="24" break="no"/>tiam facile assequemur, si libri totius quasi scopum &amp; men 
+      <lb ed="#L" n="25"/>tem teneamus. Solomonis autem eo libro praecipuum 
+      in<lb ed="#L" n="26" break="no"/>stitutum est, declarare: quisnam sit hominibus ille finis,  
+      <lb ed="#L" n="27"/>gratia cuius sit conditus, hoc est, quonam loco humana foe 
+      <lb ed="#L" n="28"/>ficitas sita sit. Nam caetera, quae Ecclesiastes ea concione 
+      dis<lb ed="#L" n="29" break="no"/>serit, huc demum pertinent &amp; reuoluuntur omnia. Ponit 
+      <lb ed="#L" n="30"/>igitur a principio statim generale pronuntiatum illud, 
+      <lb ed="#L" n="31"/>Vanitas vanitatum, vanitas vanitatum, &amp; omnia vanitas,  
+      <lb ed="#L" n="32"/>quo significat, nulla huius saeculi bona ea esse, quae finem 
+      <lb ed="#L" n="33"/>homini suum exhibere possint, veram ve illi praestare 
+      foe<lb ed="#L" n="34" break="no"/>licitatem. Hoc enim sensu res omnes vanas Sapiens 
+      vo<lb ed="#L" n="35" break="no"/>cat. Nec absurdem id quidem. Vanum nanque id definiri 
+      <lb ed="#L" n="36"/>solet, quod fine caret, seu ad finem, qui quaeritur, otiosum 
+      <lb ed="#L" n="37"/>est. Iure itaque res illae vanae vocantur, in quibus quietem 
+      <lb ed="#L" n="38"/>homo si quaerat, non inueniat: foelicitatem si expectet, fru 
+      <lb ed="#L" n="39"/>stra expectet: finem suum si persequi actenere cupiat, vanus 
+      <!--532.xml-->
+      <pb ed="#L" n="521"/>
+               <lb ed="#L" n="1"/>fiat. Themate igitur in hunc sensum ab initio concionis 
+      <lb ed="#L" n="2"/>posito, quo vniuersa huius mundi bona Solomon 
+      com<lb ed="#L" n="3" break="no"/>plexus est, tum deinde singillatim omnia petsequitur, 
+      o<lb ed="#L" n="4" break="no"/>voluptate, hominis beatitudinem esse locandam. 
+      Mon<lb ed="#L" n="5" break="no"/>stenditque non sapientia, non opibus, non diuitiis, non 
+      <lb ed="#L" n="6"/>strat autem primo capite per humanas discipliuas 
+      homi<lb ed="#L" n="7" break="no"/>nem non beari. Id quam apte &amp; diuine probet, non est 
+      <lb ed="#L" n="8"/>huius loci exponere. Tantum sunt lectores admonendi, 
+      <lb ed="#L" n="9"/>vt ne Aristotelis vario versentur errore, qui in 
+      contem<lb ed="#L" n="10" break="no"/>platione rerum supremarum summum hominis bonum 
+      <lb ed="#L" n="11"/>collocauit. Qui si loqueretur de mentibus corpore 
+      so<lb ed="#L" n="12" break="no"/>lutis, &amp; vitae futurae foelicitatem quaereret, nobis, id est,  
+      <lb ed="#L" n="13"/>Diui Thomae familiae aliquid profecto diceret. Sed cum de 
+      <lb ed="#L" n="14"/>immortalitate animi, tum hoc, tum illud, nec idem dicat 
+      <lb ed="#L" n="15"/>semper, quidque potissimum sentiat, difficile sit intelligere, 
+      <lb ed="#L" n="16"/>de altera profecto vita, quam vel non habebat explorata, vel 
+      <lb ed="#L" n="17"/>penitus ignorabat, ecquid dicturus erat homo, autm 
+      impi<lb ed="#L" n="18" break="no"/>us, aut certe varius &amp; anceps, sensuumque praesidio 
+      de<lb ed="#L" n="19" break="no"/>stitutus, quibus ille administris in iudicio rerum 
+      omni<lb ed="#L" n="20" break="no"/>um vtebatur? De foelicitate igitur praesentis vitae 
+      loqui<lb ed="#L" n="21" break="no"/>tur. Hinc enim in Ethicis &amp; Policitis opes, diuitias, 
+      ami<lb ed="#L" n="22" break="no"/>cos, salutem, caeteraque huiusmodi, caduca etiam &amp; 
+      tempo<lb ed="#L" n="23" break="no"/>raria bona, quasi foelicitatis adiumenta requirit. Et in li. 
+      <lb ed="#L" n="24"/>de bona for, sine exterioribus bonis, quorum fortuna, 
+      <lb ed="#L" n="25"/>vt ait, est domina? negat aliquem foelicem esse. 
+      Quamob<lb ed="#L" n="26" break="no"/>rem de iudicio Aristotelis dubitari non potest, recte ne 
+      <lb ed="#L" n="27"/>autem dixerit an secus, de eo fortasse dubitari potest. 
+      <lb ed="#L" n="28"/>Verum qui Ecclesiastis hoc primum caput intellexerit, is 
+      <lb ed="#L" n="29"/>iam sine dubio poterit Aristorelis errorem facile 
+      depre<lb ed="#L" n="30" break="no"/>hendere. Nam cuiusmodi foelicitatem habebit superna 
+      <lb ed="#L" n="31"/>illa ac supercaelestia contemplando animus tanta 
+      mole<lb ed="#L" n="32" break="no"/>corporis non onustus, sed obrutus? 2 Cogitationes, 
+      <lb ed="#L" n="33"/>inquit sapiens, mortalium timidae, &amp; incertae 
+      prouiden<lb ed="#L" n="34" break="no"/>tiae nostrae. Corpus enim, quod corrumpitur, aggiauat 
+      <lb ed="#L" n="35"/>animam, &amp; terrena inhabitatio deprimit sensum multa 
+      <!--533.xml-->
+      <pb ed="#L" n="522"/>
+               <lb ed="#L" n="1"/>cogitantem. Et difficile aestimamus quae in terra sunt, &amp; 
+      <lb ed="#L" n="2"/>quae in prospectu sunt, inuenimus cum labore: quae in 
+      <lb ed="#L" n="3"/>coelis sunt autem quis inuestigabit? Ecclesiastes quoque 
+      <lb ed="#L" n="4"/>primo, cunctae, ait, res difficiles: non potest eas hono 
+      <lb ed="#L" n="5"/>explicare sermone. Miranda sane, &amp; digna Solomone 
+      <lb ed="#L" n="6"/>sententia, quae declarat, id, quod Aristoteles quoque ipse 
+      <lb ed="#L" n="7"/>seuere atque prudenter dixit, mentis nostrae aciem, non 
+      ali<lb ed="#L" n="8" break="no"/>ter ad ea quae manifestissima sunt caligare, quam noctuae 
+      <lb ed="#L" n="9"/>oculos ad fulgorem solis. Quo magis Aristotelis 
+      consi<lb ed="#L" n="10" break="no"/>lium, nonnulli, ac recte illi quidem, admirantur: quod cum 
+      <lb ed="#L" n="11"/>non ignoraret, quam infirmae essentiingenii nostri vires,  
+      <lb ed="#L" n="12"/>memoria angusta, fluxa, infidelis: acumen retusum, 
+      im<lb ed="#L" n="13" break="no"/>peditum, debile: segnis diligentia &amp; tarda: in eo 
+      con<lb ed="#L" n="14" break="no"/>stituerit foelicitatem, quod adeo in hac vita tenue est &amp;  
+      <lb ed="#L" n="15"/>exiguum, adeo obscurum &amp; imperfectum, adeo infirmum  
+      <lb ed="#L" n="16"/>&amp; instabile, adeo non per se idoneum ad beandum, adeo 
+      <lb ed="#L" n="17"/>denique paucorum hominum : vt nihil propemodum 
+      <lb ed="#L" n="18"/>habere videatur ex his, quae verae foelicitatis definitio 
+      <lb ed="#L" n="19"/>continet. Qualis enim foelicitas est, quae 
+      frequentissi<lb ed="#L" n="20" break="no"/>me intercipitur &amp; rebus abiectissimis cedit? Quae non est 
+      <lb ed="#L" n="21"/>commune bonum humani generis, sed quod paucissimi 
+      <lb ed="#L" n="22"/>consequi ac tenere possint: Ad quam si omnes homines, 
+      <lb ed="#L" n="23"/>vt par est, ad finem suum conarentur, resp. omnis 
+      interi<lb ed="#L" n="24" break="no"/>ret? Quae aucta hominis requiem non augeat, sed 
+      labo<lb ed="#L" n="25" break="no"/>rem? Quae hominis desiderium non satiet, sed excitet? 
+      <lb ed="#L" n="26"/>Humana quippe mens, quandiu hic viuitur, rerum 
+      cogni<lb ed="#L" n="27" break="no"/>tione torqueri potest, satiari non potest. Maneat igitur 
+      <lb ed="#L" n="28"/>vitae huius foelicitatem, in primae philosophiae vsu, hoc 
+      <lb ed="#L" n="29"/>est, in rerum immaterialium contemplatione non 
+      consi<lb ed="#L" n="30" break="no"/>stere, vt quam morbus tollere valeat, dolor intercidere, 
+      <lb ed="#L" n="31"/>inopia interturbare. Nam si ad hanc Aristotelicam 
+      foe<lb ed="#L" n="32" break="no"/>licitatem necessarius est, aliorum etiam bonorum quasi 
+      <lb ed="#L" n="33"/>concentus, talem nobis foelicem Aristoteles fingit, qualis,  
+      <lb ed="#L" n="34"/>vt afbitror, nemo vnquam erit: &amp;, vt confirmare possum, 
+      <lb ed="#L" n="35"/>nemo certe fuit. Quid quod, vt idem Aristoteles in libro  
+      <lb ed="#L" n="36"/>de bona fortuna tradit, vbi plurimus intellectus, ibi mi¬ 
+      <!--534.xml-->
+      <pb ed="#L" n="523"/>
+               <lb ed="#L" n="1"/>nima fortuna, vbi autem plurima fortuna, ibi minimus 
+      in<lb ed="#L" n="2" break="no"/>tellectus? Ecclesiastes cap. 9. Vidi ait nec sapientium esse 
+      <lb ed="#L" n="3"/>panem, nec doctorum diuitias, nec artificum gratiam, sed 
+      <lb ed="#L" n="4"/>tempus casumque in omnibus. Qua igitur ratione 
+      fortu<lb ed="#L" n="5" break="no"/>nae bona ad foelicitatem necessaria esse dicemus, quae 
+      ca<lb ed="#L" n="6" break="no"/>sui subiecta insipienti, quam sapienti magis obueniunt? 
+      <lb ed="#L" n="7"/>Quanto sapientius Solomon hominis finem, qualis in hac 
+      <lb ed="#L" n="8"/>mortali vita quaeri potest, in Dei timore &amp; amore 
+      con<lb ed="#L" n="9" break="no"/>stituit. Deum time, inquit, &amp; mandata eius serua, hoc est 
+      <lb ed="#L" n="10"/>omnis homo. Atque, sententiae huic resiqua omnis diuina 
+      <lb ed="#L" n="11"/>scriptura consentis. Beatus vir, ait, qui timet dominuni, 
+      <lb ed="#L" n="12"/>in mandatis eius Volet nimis, &amp; Beati omnes qui timent 
+      <lb ed="#L" n="13"/>Dominum, qui ambulant in viis exus. Et beati 
+      immacula<lb ed="#L" n="14" break="no"/>ti in via, &amp;c. Et apud Matthaeum dominus, Beati, inquit,  
+      <lb ed="#L" n="15"/>qui esuriunt &amp; sitiunt iustitiam. Et beati mundo corde. 
+      <lb ed="#L" n="16"/>Nimirum in praesenti saeculo, aut haec beatitudo est, aut  
+      <lb ed="#L" n="17"/>nulla omnino est. Per hanc enim veram &amp; perfectam 
+      foeli<lb ed="#L" n="18" break="no"/>citatem assequimur, per hanc etiam summe beato, hoc est,  
+      <lb ed="#L" n="19"/>Deo maxime appropinquamus Quemadmodum autem 
+      <lb ed="#L" n="20"/>quo quidque est maxime calido propinquius ac similius, 
+      <lb ed="#L" n="21"/>eo candius est: ita quo quis Deo est in hac vita 
+      proximi<lb ed="#L" n="22" break="no"/>or ac similior, eo beatior ac foelicior erit. Paulus etiam  
+      <lb ed="#L" n="23"/>apostolus, non modo Diuus Thomas dixit, dilectionem 
+      <lb ed="#L" n="24"/>Dei in hac vita cognitioni scientiaeque praestare. In dile 
+      <lb ed="#L" n="25"/>ctione itaque Dei huius vitae foelicitas sita est, non in 
+      co<lb ed="#L" n="26" break="no"/>gnitione. Nec si rerum terrestrium atque caelestium 
+      co<lb ed="#L" n="27" break="no"/>gnitio, quam naturales in homine disciplinae pariunt, 
+      ne<lb ed="#L" n="28" break="no"/>minem facere foelicem potest, statim est a Solomone damna 
+      <lb ed="#L" n="29"/>ta. Sed studium humanae scientiae, occupationem Vocat 
+      <lb ed="#L" n="30"/>pessimam, quod imnolestissima sit. Malum enim in scriptu 
+      <lb ed="#L" n="31"/>ris interdum non pro culpa, sed pro poena vsurpatur. Idem 
+      <lb ed="#L" n="32"/>quoque studium Vanitatem nuncupat, quod nec homini 
+      <lb ed="#L" n="33"/>ninem suum praestat, &amp; ad veram foelicitatem consequem 
+      <lb ed="#L" n="34"/>dam otiosum est. Hoc vero testimonio si aduersum 
+      libe<lb ed="#L" n="35" break="no"/>rales scietias abutimur, vituperemus simul opes, diuitias,  
+      <lb ed="#L" n="36"/>regna, artes, omnia denique quae sub sole fiunt. Nam eadem 
+      <lb ed="#L" n="37"/>de his quoque Sapiens dixit, illud quoniam sciltissimum  
+      <lb ed="#L" n="38"/>est, fateamur omnino ex verbis Ecclesiastis nihil contra 
+      <lb ed="#L" n="39"/>disciplinas humanas consici posse. 
+      <!--535.xml-->
+      <pb ed="#L" n="524"/>
+               <lb ed="#L" n="1"/>Multo vero minus ex prouerbiis conficitur, nam verba 
+      <lb ed="#L" n="2"/>illa plane de caeca voluptate intelliguntur. Quam apud 
+      <lb ed="#L" n="3"/>Ciceronem Plato escam malorum appellat, quod ea 
+      vi<lb ed="#L" n="4" break="no"/>delicet homines capiantur, vt hamo pisces. Non est 
+      Phi<lb ed="#L" n="5" break="no"/>losophia meretrix illa vaga &amp; garrula, quietis impatiens, 
+      <lb ed="#L" n="6"/>procax, blanda, adulatrix, praeparata ad decipiendas 
+      ani<lb ed="#L" n="7" break="no"/>mas, sed, si quid tale est, est illa Thamar, quae causa prolis 
+      <lb ed="#L" n="8"/>sedit in triuio, ad quam studiosus &amp; fidelis Iudas 
+      declina<lb ed="#L" n="9" break="no"/>uit, indeque genuit Phares &amp; Raram, qui in Euangeliis 
+      <lb ed="#L" n="10"/>memorantur. Non sunt Musae Sirenes, vt est apud 
+      Pytha<lb ed="#L" n="11" break="no"/>goram. Castae sunt, non meretrices, veraces sunt, non 
+      fal<lb ed="#L" n="12" break="no"/>laces. Qui Sirenum cantibus delectantur, hi sunt in 
+      vi<lb ed="#L" n="13" break="no"/>tio: qui Musas amant, in vitio non sunt. In epistola autem 
+      <lb ed="#L" n="14"/>ad Colossi eodem Clemente auctore, non reprehendis 
+      <lb ed="#L" n="15"/>apostolus philosophiam veram, hoc est, quae de naturae 
+      re<lb ed="#L" n="16" break="no"/>bus vere sentit, sed Epicuream, quae videlicet tollit 
+      pro<lb ed="#L" n="17" break="no"/>uidentiam, &amp; in Deorum numerum refert voluptatem, &amp;  
+      <lb ed="#L" n="18"/>praeter res corporeas nihil esse credit. Huiusmodi ergo 
+      <lb ed="#L" n="19"/>aliasque similes Philosophorum doctrinas condemnat 
+      <lb ed="#L" n="20"/>Paulus, quae ab ipsis auctoribus Philosophiae nomine 
+      vem<lb ed="#L" n="21" break="no"/>ditantur, cum nihil re vera minus sint, sed ignorantium 
+      <lb ed="#L" n="22"/>hominum traditiones, quemadmodum eas vocat 
+      aposto<lb ed="#L" n="23" break="no"/>lus. Vera autem &amp; naturalis philosophia non hominum 
+      <lb ed="#L" n="24"/>traditione, sed Dei reuelatione habita est, vt supra eiusdem 
+      <lb ed="#L" n="25"/>etiam apostoli testimonio ostendimus. Cum vero eodem  
+      <lb ed="#L" n="26"/>ipso capite scriptum sit, hoc autem dico, vt nemo vos 
+      <lb ed="#L" n="27"/>decipiat in sublimitate sermonis, mirum est, cur Lutherus,  
+      <lb ed="#L" n="28"/>Philippus, &amp; alii, quos quoniam adhuc in Catholicis 
+      ha<lb ed="#L" n="29" break="no"/>bentur, nolo hic nominatim cum haereticis lacerare: 
+      elo<lb ed="#L" n="30" break="no"/>quentiam &amp; omnem sublimem dicendi characterem non  
+      <lb ed="#L" n="31"/>reprehenderint. Absurdum est enim, vt quibus verborum 
+      <lb ed="#L" n="32"/>disciplinae pacent, his rerum cognitio displiceat. Sed 
+      pe<lb ed="#L" n="33" break="no"/>riculosa curiositas, nam hoc dicit quidam, &amp; nimia in 
+      de<lb ed="#L" n="34" break="no"/>finiendis rebus obscuris audacia, e Philosophiae studio 
+      <lb ed="#L" n="35"/>sunt nobis natae. Atque idem excusatione summae 
+      stulti<lb ed="#L" n="36" break="no"/>tiae, summae improbitatis odium deprecans adiicit, se non 
+      <lb ed="#L" n="37"/>in totum Philosophiam damnandam putare. Hoc autem 
+      <lb ed="#L" n="38"/>calumniandi genus, quale sit &amp; cuius hominis, quis non  
+      <lb ed="#L" n="39"/>videt: Certe non aperti, non simplicis est, non ingenui, 
+      <!--536.xml-->
+      <pb ed="#L" n="525"/>
+               <lb ed="#L" n="1"/>non iusti, non viri boni: sed versuti potius, obscuri, 
+      astu<lb ed="#L" n="2" break="no"/>ti, fallacis, malitiosi, callidi, veteratoris vafri. Non 
+      nascum<lb ed="#L" n="3" break="no"/>tur, mihi crede, e studio Philosophiae vitia, sed ex errore 
+      <lb ed="#L" n="4"/>&amp; ignorantia nascuntur. Quid enim Philosophiae magis 
+      <lb ed="#L" n="5"/>contrarium esse potest, quam aut vana periculosaque secta 
+      <lb ed="#L" n="6"/>ri, aut quod non satis exploratum sit &amp; cognitum, id sine 
+      <lb ed="#L" n="7"/>vlla dubitatione definire? Quid vero sibi vult oratio illa, 
+      <lb ed="#L" n="8"/>se non in totum philosophiam damnandam putare? Quam 
+      <lb ed="#L" n="9"/>igitur partem philosophiae damnat? An vt Lutherus, eam  
+      <lb ed="#L" n="10"/>quae contempiatur &amp; cernit: Explicet atque excutiat in 
+      <lb ed="#L" n="11"/>telligentiam suam, vt videat quae sit in ea species forma &amp;  
+      <lb ed="#L" n="12"/>notio philosophiae. Nos enim non more vulgi 
+      doctri<lb ed="#L" n="13" break="no"/>nam Stoicam aut Platonicam, aut Pythagoricam, aut 
+      Ari<lb ed="#L" n="14" break="no"/>stotelicam, Philosophiam appellamus: sed, vt homines 
+      de<lb ed="#L" n="15" break="no"/>finiendi periti, si interpretari volumus, studium sapietiae, si 
+      <lb ed="#L" n="16"/>re ipsam querimus, rerum humanarum ac diuinarum, 
+      ter<lb ed="#L" n="17" break="no"/>restium atque caelestium scientiam. Quam non dico in 
+      to<lb ed="#L" n="18" break="no"/>tum, sed ne in partem quidem damnare, vel insignis 
+      stul<lb ed="#L" n="19" break="no"/>titiae est, vel malitiae manifeste. Augustinus porro lib. 1. de 
+      <lb ed="#L" n="20"/>mori, eccle. cath. c. 21. curiosam naturae inquisitionem, &amp;  
+      <lb ed="#L" n="21"/>nimium quendam amorem terrenae sapientiae cauendum 
+      <lb ed="#L" n="22"/>intelligit, non veram philosophiam, quae est amor 
+      sapien<lb ed="#L" n="23" break="no"/>tiae moderatus. 
+      <lb ed="#L" n="24"/>Iam vero quod ex priore ad Corin. epist. opponitur,  
+      <lb ed="#L" n="25"/>nihil illud mouere potest. Nam quod ait, perdam 
+      sapien<lb ed="#L" n="26" break="no"/>tiam sapientum, id perinde est ac si dixisset, sapientiam  
+      <lb ed="#L" n="27"/>sapientium obscurabo. Quomodo? Nempe illustrando 
+      <lb ed="#L" n="28"/>mundum maiori doctrinaes lumine, ad quam doctrina 
+      phi<lb ed="#L" n="29" break="no"/>losophorum omnis nulla esse videatur. Sicut etiam sol 
+      ful<lb ed="#L" n="30" break="no"/>pore suo stellarum lucernarumque lucem dicitur perdidisse. 
+      <lb ed="#L" n="31"/>Prudentiam autem prudentium Deus reprobauit, quia non 
+      <lb ed="#L" n="32"/>elegit, sed quae stulta sunt mundi, vt confunderet sapientes. 
+      <lb ed="#L" n="33"/>In quem sensum fortes &amp; potentes reprobasse dicitur 
+      <lb ed="#L" n="34"/>quia infirmos &amp; ignobiles elegit apostolos, vt Dei 
+      vir<lb ed="#L" n="35" break="no"/>tus magis in Euangelij praedicatione clareret. Quanquam  
+      <lb ed="#L" n="36"/>Clemens 1. lib. &amp; 5. Strom. docet, non esse hic forte 
+      ser<lb ed="#L" n="37" break="no"/>monem de vere sapientibus &amp; prudentibus, sed de his 
+      <lb ed="#L" n="38"/>qui sibi sapientes &amp; prudentes viderentur. Sicut non  
+      <lb ed="#L" n="39"/>vocatur Euangelium stultitia, quod stultitia sit, sed quod 
+      <!--537.xml-->
+      <pb ed="#L" n="526"/>
+               <lb ed="#L" n="1"/>ita huius mundi sapientibus visa sit. Nam illud, scientia 
+      <lb ed="#L" n="2"/>inflat, facillimum intellectu est. Non enim magis 
+      scienti<lb ed="#L" n="3" break="no"/>am hic damnat apostolus, quam opes, regna, pulchritudi. 
+      <lb ed="#L" n="4"/>nem, vires, abstinentiam, virginitatemque damnaret is, qui 
+      <lb ed="#L" n="5"/>haec omnia inssare testaretur. Clemens vero 
+      Alexandri<lb ed="#L" n="6" break="no"/>nus. 2. Stro. libr. de illis hoc exponit, qui se sapientes 
+      ex<lb ed="#L" n="7" break="no"/>istimant, cum tamen superbi sint, nihil re vera scientes, 
+      <lb ed="#L" n="8"/>sed languentes circa quaestiones. Quae intelligentia ex eo 
+      <lb ed="#L" n="9"/>probabilior efficitur, quod statim apostolus subdit, &amp; si 
+      <lb ed="#L" n="10"/>quis antem se existimat scire aliquid, nondum cognouit,  
+      <lb ed="#L" n="11"/>quemadmodum oporteat eum scire. Non itaque vera 
+      scien<lb ed="#L" n="12" break="no"/>tia infiat, sed quae videtur esse, nec est tamen, ea inflat. At 
+      <lb ed="#L" n="13"/>7. Stro. lib. nouem exponit infsare, pro eo quod est, 
+      facere<lb ed="#L" n="14" break="no"/>vt magnifice sentiant, qui eam habuerint. Refert vero in 
+      <lb ed="#L" n="15"/>hoc illud Ecclesiastici 4. cap. Hoogio uiouge durues Susa 
+      <lb ed="#L" n="16"/>Poose, id est sapientia filios suos inflauit, sic enim vertit 
+      <lb ed="#L" n="17"/>interpres. Quod alii exaltauit, Hieronymus vero vitam 
+      in<lb ed="#L" n="18" break="no"/>spirauit. Verbum autem &amp;quuIoo eleuare &amp; tollere est. At 
+      <lb ed="#L" n="19"/>vero illi testimonio ex priore ad Timo. c. 6. D. Hieron.¬ 
+      <lb ed="#L" n="20"/>in commentariis super epistolam ad Titum 1. ca. 
+      respon<lb ed="#L" n="21" break="no"/>det in haec verba. Quaeritur quare ad id quod apostolus 
+      <lb ed="#L" n="22"/>ait: secundum sidem electorum Dei &amp; cognitionem 
+      ve<lb ed="#L" n="23" break="no"/>ritatis iunxerit, quae iuxta pietatem est: vtrum nam sit 
+      <lb ed="#L" n="24"/>aliqua veritas quae non in pietate sit posita: &amp; nunc ad 
+      <lb ed="#L" n="25"/>distinctionem illius inferatur cognitio veritatis, quae iuxta 
+      <lb ed="#L" n="26"/>pietatem est. Est plane veritas, quae non habet pietatem. 
+      <lb ed="#L" n="27"/>Si quis Grammaticam artem nouerit, vel dialecticam: vt 
+      <lb ed="#L" n="28"/>rationem recte loquendi habeat: &amp; inter falsa &amp; vera 
+      di<lb ed="#L" n="29" break="no"/>iudicent. Geometria quoque &amp; Arithmetica &amp; Musica 
+      ha<lb ed="#L" n="30" break="no"/>bent in sua scientia veritatem: sed non est scientia illa 
+      <lb ed="#L" n="31"/>pietatis. Scientia pietatis est nosse legem: intelligere 
+      pro<lb ed="#L" n="32" break="no"/>phetas, Euangelio credere: Apostolos non ignorare. 
+      <lb ed="#L" n="33"/>Absque, pietate vero notitia veritatis delectat ad praesens: 
+      <lb ed="#L" n="34"/>sed aeternitatem non habet premiorum. Hactenus 
+      Hie<lb ed="#L" n="35" break="no"/>ronymus. Sanos ergo sermones vocat apostolus eos qui 
+      <lb ed="#L" n="36"/>salutem anime prestant: pios vero qui pios &amp; religiosos 
+      <lb ed="#L" n="37"/>homines faciunt. Haec humana scientia non exhibet: sed 
+      <lb ed="#L" n="38"/>non proinde est Theologo inutilis. At apostoli non  
+      <!--538.xml-->
+      <pb ed="#L" n="527"/>
+               <lb ed="#L" n="1"/>fuerunt humanis literis eruditi. Fateor: Christus non do 
+      <lb ed="#L" n="2"/>cuit eos Geometriam, Astrologiam, Physicam. Et hoc 
+      <lb ed="#L" n="3"/>item fateore Spiritus sanctus docuit eos omnem 
+      verita<lb ed="#L" n="4" break="no"/>tem, nec Philosophiam, Arithmeticam aut Geographiam  
+      <lb ed="#L" n="5"/>docuit: Verum est &amp; id quidem, Christus nobis &amp; 
+      5po<lb ed="#L" n="6" break="no"/>stoli non Dialecticam artem, sed nudam sententiam, quae 
+      <lb ed="#L" n="7"/>fide ac bonis operibus custoditur, tradiderunt. Non 
+      re<lb ed="#L" n="8" break="no"/>pugno. Non igitur sunt disciplinae istae Christiano 
+      do<lb ed="#L" n="9" break="no"/>ctori vtiles. Id vero est, quod ego constantissime 
+      perne<lb ed="#L" n="10" break="no"/>go. Apostolis si quidem, vt ait Clemens, Spiritus 8. omnia 
+      <lb ed="#L" n="11"/>plene suggerebat, quae erant &amp; ad scriptura sacram 
+      intelli<lb ed="#L" n="12" break="no"/>gendum, &amp; ad docendum cuiusuis generis homines 
+      necessa<lb ed="#L" n="13" break="no"/>ria. Nos autem, qui Spiritus hoc peculiare donum non 
+      ha<lb ed="#L" n="14" break="no"/>bemus, si humanarum simus literarum rudes &amp; ignari, nec 
+      di<lb ed="#L" n="15" break="no"/>uinas percipere sane possumus, nec perfecti esse in 
+      Eccle<lb ed="#L" n="16" break="no"/>sia doctores. Christus etiam &amp; Apostoli, non docuerunt nos 
+      <lb ed="#L" n="17"/>humanas disciplinas, vt fides nostra non esset in sapientia 
+      <lb ed="#L" n="18"/>hominum, sed in virtute Dei: docere etiam nihil voiuerunt, 
+      <lb ed="#L" n="19"/>nisi quod esset ad salutem necessarium. Alioqui, si exemplum 
+      <lb ed="#L" n="20"/>placet, ignoremus Grammaticam, quoniam Apostoli 
+      Gra<lb ed="#L" n="21" break="no"/>matici non fuere. Simus barbari, quia non fuere 
+      eloquen<lb ed="#L" n="22" break="no"/>tes Apostoli. Nihil consulto ac cogitato meditatum &amp; prae 
+      <lb ed="#L" n="23"/>paratum inferamus, quod Apostoli haereticis, 
+      Philoso<lb ed="#L" n="24" break="no"/>phis. Tyrannisque euincendis repentem atque ex tempore 
+      <lb ed="#L" n="25"/>sapientissime loquebantur. Quomodo autem docti sint 
+      <lb ed="#L" n="26"/>umnem veritatem, Augustinus in Ioannem declarauit. 
+      <lb ed="#L" n="27"/>Sunt autem sine dubio humanae quaedam veritates, quas 
+      <lb ed="#L" n="28"/>tametsi Apostoli non sunt edocti, nos tamen vtiliter 
+      ad<lb ed="#L" n="29" break="no"/>discimus. Quod enim disciplinis humanis subiecta sit ve 
+      <lb ed="#L" n="30"/>ritas, quam tractent &amp; in qua versentur, adeo est 
+      manife<lb ed="#L" n="31" break="no"/>stum, vt stultum sit &amp; me probare velle, &amp; alios negare. 
+      <lb ed="#L" n="32"/>Quo vero tempore, quo loco, quo cum hominum 
+      gene<lb ed="#L" n="33" break="no"/>re disciplinis humanis Theologo sit vtendum, nam &amp;hoc 
+      <lb ed="#L" n="34"/>in argumento, quaeritur, alio libro sumus fuse ac 
+      diligen<lb ed="#L" n="35" break="no"/>ter explicaturi. Itaque nunc res eas praetermittemus: 
+      qua<lb ed="#L" n="36" break="no"/>rum ratio &amp; maior est, &amp; in aliud tempus differenda. 
+      </p>
+            <p xml:id="Z4Yt34-d1e864-d1e982">
+               <lb ed="#L" n="37"/>Tantum ergo postremum illud argumentum restat, cui 
+      <lb ed="#L" n="38"/>respondere debeamus. Id quod argute Clemens Alexan 
+      <lb ed="#L" n="39"/>drinus i. Stromatum libro facit, inquiens: Non per 
+      <!--539.xml-->
+      <pb ed="#L" n="528"/>
+               <lb ed="#L" n="1"/>ablationem Philosophiae perimitur veritas, sed ad eam  
+      <lb ed="#L" n="2"/>cooperatrix &amp; adiutrix inuenitur: sicut primus &amp; 
+      secun<lb ed="#L" n="3" break="no"/>dus gradus ei, qui ascendit in coenaculum, &amp; Gramaticus ei, 
+      <lb ed="#L" n="4"/>qui est philosophaturus. Nam &amp; visus &amp; auditus 
+      con<lb ed="#L" n="5" break="no"/>fert ad veritatem, mens autem est, quae eam apposite &amp; 
+      <lb ed="#L" n="6"/>naturaliter cognoscit. Perspicuitas etiam opem fert ad 
+      <lb ed="#L" n="7"/>tradendam veritatem: &amp; Dialectica, ne prosternamur ab  
+      <lb ed="#L" n="8"/>haeresibus. Et est quidem per se perfecta seruatoris, 
+      do<lb ed="#L" n="9" break="no"/>ctrina &amp; nullius indiga, cum sit Dei virtus &amp; sapientia. 
+      <lb ed="#L" n="10"/>Accedens autem Philosophia non veritatem facit 
+      poten<lb ed="#L" n="11" break="no"/>tiorem, sed debilem aduersus eam efficit sophisticam 
+      ar<lb ed="#L" n="12" break="no"/>gumentationem: &amp; propulsans dolosas aduersus 
+      Verita<lb ed="#L" n="13" break="no"/>tem insidias, vineae est sepes &amp; vailum. Et que est quidem 
+      <lb ed="#L" n="14"/>ex fide veritas, tanquam panis necessaria est ad 
+      viuen<lb ed="#L" n="15" break="no"/>dum. Quae autem praecedit disciplina, est obsonio 
+      simi<lb ed="#L" n="16" break="no"/>lis &amp; bellarijs. Desinente coena suauis est placentula, vt 
+      <lb ed="#L" n="17"/>ait Pindarus Thebanus. Hactenus Clemens. Hactenus 
+      </p>
+            <p xml:id="Z4Yt34-d1e864-d1e1033">
+               <lb ed="#L" n="18"/>etiam nos de octauo loco dixerimus. Ac si quae 
+      </p>
+            <p xml:id="Z4Yt34-d1e864-d1e1038">
+               <lb ed="#L" n="19"/>sunt forte reliqua, ea in nono, qui 
+      </p>
+            <p xml:id="Z4Yt34-d1e864-d1e1043">
+               <lb ed="#L" n="20"/>statim sequitur, dis¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e864-d1e1048">
+               <lb ed="#L" n="21"/>serentur. 
+      <lb ed="#L" n="22"/>Libri Noni finis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

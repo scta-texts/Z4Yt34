@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="704"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1123"><!-- Z4Yt34-l12c4 -->
+            <head xml:id="Z4Yt34-d1e1123-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e1123-d1e109">
+               <lb ed="#L" n="16"/>quae sint quaestiones seu conclusiones Theologiae.
+      <lb ed="#L" n="17"/>
+               <sic>Caput quintum</sic>. 
+    </p>
+            <p xml:id="Z4Yt34-d1e1123-d1e119">
+               <lb ed="#L" n="18"/>VTHeologiae causis exposits consequens est, vt 
+      effe<lb ed="#L" n="19" break="no"/> cta exponamus: quae quum in dubium vocantur, 
+      <lb ed="#L" n="20"/>quaestiones sunt, quum ratiocinatione coguntur, 
+      <lb ed="#L" n="21"/>conclusiones. Quaestio igitur theologica, quoniam 
+      cir<lb ed="#L" n="22" break="no"/>ca eam omnis Theologi versatur labor, quid sit &amp; quae 
+      <lb ed="#L" n="23"/>ilius partes in primis explicabimus. Nam quo modo 
+      tra<lb ed="#L" n="24" break="no"/>ctanda sit, deinceps exponemus. Ne vero quempiam 
+      fal<lb ed="#L" n="25" break="no"/>lat huius nominis ambiguitas, intelligendum est, 
+      quae<lb ed="#L" n="26" break="no"/>stionem theologicam aliquando appellari 
+      pronuncia<lb ed="#L" n="27" break="no"/>tum omne, quod a Theologo quouis forte etiam &amp; 
+      te<lb ed="#L" n="28" break="no"/>mere fuerit addubitatum. At si adeo late Theologiae 
+      ma<lb ed="#L" n="29" break="no"/>teriam quaestionemque tendamus, quaestio theologica 
+      <lb ed="#L" n="30"/>non iam ex natura huius facultatis, sed ex hominum vel 
+      <lb ed="#L" n="31"/>stultorum arbitrio aestimabitur. Ita fiet, vt in Theologiae 
+      <lb ed="#L" n="32"/>quaestionibus illas ponamus, Num si forma aquae per 
+      di<lb ed="#L" n="33" break="no"/>uinam potestatem a materia separetur, in materia vel 
+      for<lb ed="#L" n="34" break="no"/>ma seorsum baptismus conficiatur? Num asinus 
+      baptis<lb ed="#L" n="35" break="no"/>mum possit bibere? caeterasque his similes, quas studio 
+      <lb ed="#L" n="36"/>breuitatis omitto, ne fastidium stomacho lectoris 
+      faci<lb ed="#L" n="37" break="no"/>am. Mihi profecto non est cordi, stultas &amp; sine disci¬ 
+      <!--716.xml-->
+      <pb ed="#L" n="705"/>
+               <lb ed="#L" n="1"/>plina questiones, quas vitare Apostolus praecipit, in 
+      <lb ed="#L" n="2"/>Theologiae finibus comprehendere. Fines porro 
+      extre<lb ed="#L" n="3" break="no"/>maque disciplinarum, conclusiones voco. Eadem vero res 
+      <lb ed="#L" n="4"/>est, vt a principio capitis leuiter attigimus quaestio &amp;  
+      <lb ed="#L" n="5"/>conclusio. Sed quum per interrogationem elata in 
+      con<lb ed="#L" n="6" break="no"/>trouersia ponitur, questio est: quum argumentatione 
+      <lb ed="#L" n="7"/>colligitur, conclusio. Quod si eandem rem 
+      argumen<lb ed="#L" n="8" break="no"/>tis suis Theologus addicit &amp; conficit, quae in 
+      quaestio<lb ed="#L" n="9" break="no"/>nem fuerat adducta, futilissimae scilicet illae questiones 
+      <lb ed="#L" n="10"/>Theologicae vocari, nec debent nec vero possunt, vt quae 
+      <lb ed="#L" n="11"/>ex principiis Theologiae finiri nequeant &amp; solui, atque 
+      <lb ed="#L" n="12"/>adeo ne conclusiones quidem esse doctrinaes eius, sed 
+      in<lb ed="#L" n="13" break="no"/>doctorum hominum commentitiae chimerae. Quam ergo 
+      <lb ed="#L" n="14"/>intelligimus Theologicam quaestionem? Opinor eam, quae 
+      <lb ed="#L" n="15"/>plane ad rem facit, hoc est, ad Theologiam spectat. Non 
+      <lb ed="#L" n="16"/>autem spectant vanae, ineptae, noxiae: sed solidae, apte, 
+      <lb ed="#L" n="17"/>commodae. Ego, inquit, sum Deus tuus docens te vtilia. 
+      <lb ed="#L" n="18"/>Theologia ergo, quae Dei nimirum doctrina est, nullo 
+      <lb ed="#L" n="19"/>modo inutilia colligit. Quin super fidei fundamentum, 
+      <lb ed="#L" n="20"/>quod ab Apostolis est positum, aurum, argentum, 
+      lapi<lb ed="#L" n="21" break="no"/>des pretiosos superaedificat. Nam qui ligna, foenum &amp;  
+      <lb ed="#L" n="22"/>stipulam, ij non hoc ex Theologia, sed ex errore 
+      faci<lb ed="#L" n="23" break="no"/>unt. Maneat igitur eam esse proprie Theologicam 
+      con<lb ed="#L" n="24" break="no"/>clusionem, quae ex Theologiae principijs, yt effecta e 
+      cau<lb ed="#L" n="25" break="no"/>sis suis, orietur. Vnde illud consectarium est, nullam  
+      <lb ed="#L" n="26"/>Theologiae quaestionem existimandam, quae non possit 
+      <lb ed="#L" n="27"/>ad eiusmodi initia referri, exque ijs apte &amp; congruenter 
+      <lb ed="#L" n="28"/>argumentando diffiniri. Quanquam sunt quaestiones 
+      <lb ed="#L" n="29"/>quasi appendices, quas quoniam gratia explicandi illas,  
+      <lb ed="#L" n="30"/>quae vere &amp; proprie Theologicae sunt, apposite &amp; 
+      graui<lb ed="#L" n="31" break="no"/>ter adiunguntur, iure quodam vel similitudinis vel 
+      pro<lb ed="#L" n="32" break="no"/>pinquitatis, vel etiam ordinis, Theologicas itidem haud 
+      <lb ed="#L" n="33"/>absurdem appellaueris. Verum hoc loco &amp; tempore de 
+      <lb ed="#L" n="34"/>questione theologica fecundum naturam &amp; ordinem 
+      di<lb ed="#L" n="35" break="no"/>iciplinae loquimur. Contingit enim aliquando non in 
+      <lb ed="#L" n="36"/>Theologia modo, sed in caeteris fere humanis etiam  
+      <lb ed="#L" n="37"/>disciplinis, vt quae suapte natura principia sunt, ideoque 
+      <lb ed="#L" n="38"/>a discipulo supponenda, si res via ordineque 
+      procede<lb ed="#L" n="39" break="no"/>ret: ea, vt hominum ingenia sunt, &amp; reuocentur in du¬ 
+      <!--717.xml-->
+      <pb ed="#L" n="706"/>
+               <lb ed="#L" n="1"/>bium, &amp; argumentationibus comprobentur. Ita fiat 
+      <lb ed="#L" n="2"/>perturbatus ac praeposterus rerum ordo, vt causae 
+      po<lb ed="#L" n="3" break="no"/>steriores sint prioraque effecta sumantur. Quae res 
+      ef<lb ed="#L" n="4" break="no"/>fecit, vt Diuus Thomas caeterique Theologi in 
+      quae<lb ed="#L" n="5" break="no"/>stionibus Theologicis eam etiam ponant, Sit ne Deus: 
+      <lb ed="#L" n="6"/>&amp; alias omnino similes, in quibus dubium non est,  
+      <lb ed="#L" n="7"/>prima certaque principia in dubium verti, ac perinde 
+      <lb ed="#L" n="8"/>vt si essent disciplinae huius connexiones, ex alijs quasi 
+      <lb ed="#L" n="9"/>principijs necti. Atque haec causa Aristoteli quoque 
+      <lb ed="#L" n="10"/>fuit, vt in scientias omneis quatuor genera quaestionum 
+      <lb ed="#L" n="11"/>inferret, nempe an res sit, quid sit, qualis sit, propter 
+      <lb ed="#L" n="12"/>quam causam sit. Quae duae pusteriores quaestiones 
+      ter<lb ed="#L" n="13" break="no"/>minari recte atque ex ordine naturae possunt, priores 
+      <lb ed="#L" n="14"/>duae non possunt: nisi forte quum duae eiusdem rei 
+      fi<lb ed="#L" n="15" break="no"/>nitiones sunt, quarum vna per, materialem causam, 
+      al<lb ed="#L" n="16" break="no"/>tera per finalem definitae rei naturam explicant. Tunc 
+      <lb ed="#L" n="17"/>enim definitio posterior per priorem demonstratur, 
+      ra<lb ed="#L" n="18" break="no"/>tione quodammodo &amp; via naturae seruata. At enim rei 
+      <lb ed="#L" n="19"/>finitio, quae secundam illam quaestionem soluit, 
+      pro<lb ed="#L" n="20" break="no"/>pemodum ex effectis notescit: quae licet natura 
+      posterio<lb ed="#L" n="21" break="no"/>ra sint, nobis, hoc est, in nostra cognitione priora sunt 
+      <lb ed="#L" n="22"/>tamen. Illud item cum in alijs tun magis in theologiae 
+      do<lb ed="#L" n="23" break="no"/>ctrina vsu venit, vt principia ipsa vel disposita inter se &amp;  
+      <lb ed="#L" n="24"/>ordinata sint, quemadmodum causae ipsae in quatuor 
+      genera<lb ed="#L" n="25" break="no"/>distributae ordinem prioris &amp; posterioris habent: vel certe 
+      <lb ed="#L" n="26"/>connexa &amp; colligata sint, ita vt ex vtrisque concessis. ad 
+      ai<lb ed="#L" n="27" break="no"/>terutra dubia liceat peruenire. Quapropter si 
+      aduersa<lb ed="#L" n="28" break="no"/>rius admittit principia quaedam, quauis caetera neget, ex 
+      con<lb ed="#L" n="29" break="no"/>cessis poterimus non concessa colligere, presertim si 
+      mu<lb ed="#L" n="30" break="no"/>tuo nexu coniuncta &amp; copulata sunt. Hinc enim 
+      Theo<lb ed="#L" n="31" break="no"/>logi veteres vetus instrumentum probant ex nouo, 
+      con<lb ed="#L" n="32" break="no"/>traque nouum ex veteri: ecclesiae auctoritatem e libris 
+      sa<lb ed="#L" n="33" break="no"/>cris asserunt, librorum rursum sacrorum ex ecclesia. Ita ne 
+      <lb ed="#L" n="34"/>vnum quidem principium in theologia est, quod in 
+      quae<lb ed="#L" n="35" break="no"/>stionem Theologi non verterint: vt si a quopiam fuerit 
+      <lb ed="#L" n="36"/>negatum, qui alia forte principia concedet, parati simus 
+      <lb ed="#L" n="37"/>ex his, quae dederit, hominem euincere, &amp; quasi arrepto 
+      <lb ed="#L" n="38"/>muerone confodere. Quae res &amp; explanata est in secundo 
+      <lb ed="#L" n="39"/>libro diligenter, &amp; in postremo diligentius explanabitur. 
+      <!--718.xml-->
+      <pb ed="#L" n="707"/>
+               <lb ed="#L" n="1"/>Nec ob eas solum causas principiorum suorum 
+      Theolo<lb ed="#L" n="2" break="no"/>gi quaestionem faciunt, sed eo etiam magis, vt illa 
+      expli<lb ed="#L" n="3" break="no"/>cent &amp; exponant. Nam, quod apud Rhetores olim 
+      pue<lb ed="#L" n="4" break="no"/>ri didicimus, omni disserenti proposita est quaestio, non 
+      <lb ed="#L" n="5"/>ei modo, qui disputatione res ambiguas iactat, sed &amp; 
+      hi<lb ed="#L" n="6" break="no"/>storicis &amp; poetis qui quaestiones sibi propositas non tam  
+      <lb ed="#L" n="7"/>argumentatione soluunt, quam expositone. Exposito 
+      <lb ed="#L" n="8"/>autem fidem in auditore saepe inuenit, argumentatio 
+      fa<lb ed="#L" n="9" break="no"/>cit. Vbi familiae nostrae quosdam saepe risi, qui in eo 
+      la<lb ed="#L" n="10" break="no"/>borant vehementer, vt Diui Thomae rationes, quas 
+      iden<lb ed="#L" n="11" break="no"/>tidem ad explicandam fidem congruentes ille adfert 
+      <lb ed="#L" n="12"/>proinde ac si essent demonstrationes certae atque 
+      perspi<lb ed="#L" n="13" break="no"/>cuae, defendant. Nam &amp; aduersarios ipsos ridere soleo, 
+      <lb ed="#L" n="14"/>qui in eo, in quo Diuus Thomas egregium se fidei 
+      admi<lb ed="#L" n="15" break="no"/>nistrum praebuit, illum impugnant quasi hostem. Nec 
+      <lb ed="#L" n="16"/>intelligunt viri magis ad certandum quam ad docendum 
+      <lb ed="#L" n="17"/>prompti, quaestiones fidei grauissime sanctissimeque 
+      <lb ed="#L" n="18"/>proponi, non quia fidem dubitanti auditori facere 
+      niti<lb ed="#L" n="19" break="no"/>mur, sed quia credenti ea, quae minus percipit &amp; 
+      intelli<lb ed="#L" n="20" break="no"/>git, exponere conamur. Quid igitur quaestio 
+      theolo<lb ed="#L" n="21" break="no"/>gica sit, si eam ex disciplinae ordine naturaque finiamus: 
+      <lb ed="#L" n="22"/>quid rursum illa sit, si ex ingenio nostro existimetur: quae 
+      <lb ed="#L" n="23"/>quaestiones in Theologia primariae, quae appendices, 
+      <lb ed="#L" n="24"/>quae argumentatione potissimum, quae contra 
+      potissi<lb ed="#L" n="25" break="no"/>mum expositone soluantur, dictum est satis. Nunc 
+      <lb ed="#L" n="26"/>quaestio partienda est, vt ea, quae in re dispersa atque 
+      <lb ed="#L" n="27"/>infinita videntur esse, ratione &amp; distributione sub vno 
+      <lb ed="#L" n="28"/>aspectu ponantur. Quaestionum ergo Theologicarum,  
+      <lb ed="#L" n="29"/>quacunque de re sint, duo sunt genera, alterum 
+      cogni<lb ed="#L" n="30" break="no"/>tionis, alterum actionis. Cognitionis sunt hae, quarum 
+      <lb ed="#L" n="31"/>finis est scientia, si quaeratur, Pater &amp; filius sint ne vnum  
+      <lb ed="#L" n="32"/>principium Spiritussancti, an duo? Diuinae personae 
+      an<lb ed="#L" n="33" break="no"/>proprietatibus relatiuis, an absolutis distinguantur? 
+      A<lb ed="#L" n="34" break="no"/>ctionis autem huiusmodi exempla sunt. Sit ne 
+      poeniten<lb ed="#L" n="35" break="no"/>tia ad salutem necessaria tanquam medium, an etiam vt 
+      <lb ed="#L" n="36"/>praeceptum. Num sacramenta nouae legis gratiam &amp; 
+      vir<lb ed="#L" n="37" break="no"/>tutes conferant. Cognitionis quaestiones, si generaliter 
+      <lb ed="#L" n="38"/>loquamur, quadripartitae sunt, cum aut sit ne vel Deus, 
+      <lb ed="#L" n="39"/>vel angels, yel anima rationalis, aut quid sit, aut qualis sit, 
+      <!--719.xml-->
+      <pb ed="#L" n="708"/>
+               <lb ed="#L" n="1"/>aut cur sit talis quaeritur. Quarum prima &amp; secunda, vt di 
+      <lb ed="#L" n="2"/>ximus, ex ingenij nostri conditione, secunda &amp; tertia 
+      <lb ed="#L" n="3"/>ex natura rerum &amp; disciplinae ipsius explicantur. Actionis 
+      <lb ed="#L" n="4"/>porro duo sunt genera, vnum ad salutem necessarium, 
+      al<lb ed="#L" n="5" break="no"/>terum earum rerum, quae vtiles esse videantur. Prioris 
+      ge<lb ed="#L" n="6" break="no"/>neris hae sunt quaestiones, Si exempli causa honor Christi 
+      <lb ed="#L" n="7"/>periclitetur aut salus etiam spiritualis proximi, vir 
+      Chri<lb ed="#L" n="8" break="no"/>stianus mortem ne pro his rebus subire debeat an non? De 
+      <lb ed="#L" n="9"/>baptismo suscipiendo praeceptum ne euangelij sit: 
+      Poste<lb ed="#L" n="10" break="no"/>rioris autem generis, vt cum queritur, Diluat ne aqua 
+      lu<lb ed="#L" n="11" break="no"/>stralis, quam benedictam scholastici appellant, peccata ve 
+      <lb ed="#L" n="12"/>nialia, planeque poenas peccatorum tollat vi sua, &amp; quod 
+      <lb ed="#L" n="13"/>aiunt, ex opere operato, an potius ex operantis merito? 
+      <lb ed="#L" n="14"/>Num Eucharistiae Sacramentum ex attrito faciat 
+      contri<lb ed="#L" n="15" break="no"/>tum? Itemque an recedente fictione, quemadmodum 
+      ba<lb ed="#L" n="16" break="no"/>ptismus &amp; poenitentia suum effectum sortiatur? Plena est D. 
+      <lb ed="#L" n="17"/>Thomen summa talium questionum. Non enim theologus 
+      <lb ed="#L" n="18"/>semper de necessarijs disserit, sed quandoque etiam de 
+      <lb ed="#L" n="19"/>ijs, sine quibus salus religioque constat. Et quoniam 
+      om<lb ed="#L" n="20" break="no"/>nia persequimur, dicendum est etiam questionem 
+      Theo<lb ed="#L" n="21" break="no"/>logicam, siue ad contemplationem siue ad mores attineat: 
+      <lb ed="#L" n="22"/>aliam naturalem esse, aliam vero supernaturalem. 
+      Superna<lb ed="#L" n="23" break="no"/>turalem, opinor, questionem vcoare licet, quae ex supernatura 
+      <lb ed="#L" n="24"/>libus solum principijs definitur. Naturalem autem questionem 
+      <lb ed="#L" n="25"/>eam esse dico, cuius cur ita sit, ratio naturae constans reddi 
+      <lb ed="#L" n="26"/>potest. Est &amp; questio media, quae partim ex supernaturali 
+      <lb ed="#L" n="27"/>principio, partim ex principio naturali pendet. Primi gene 
+      <lb ed="#L" n="28"/>ris exemplum est, An omnes mortui simus: Quam 
+      quaestio<lb ed="#L" n="29" break="no"/>nem Paulus hac argumentatione definit, Si pro omnibns 
+      <lb ed="#L" n="30"/>Christus mortuus est, omnes mortui sunt: at pro 
+      omni<lb ed="#L" n="31" break="no"/>bus mortuus est Christus. Item, An omnes resurgemus? 
+      <lb ed="#L" n="32"/>Quam sic Apostolus terminat. Christus resurrexit, ergo 
+      <lb ed="#L" n="33"/>&amp; nos resurgemus. Secundi vero generis haec sunt ex¬- 
+      <lb ed="#L" n="34"/>empla, Num Deus sit vbique? Num immutabilis? Num  
+      <lb ed="#L" n="35"/>animus hominis immortalis sit? Num diuidi &amp; secari in 
+      <lb ed="#L" n="36"/>partes possit? Quarum omnino probationes, quamuis e 
+      <lb ed="#L" n="37"/>sacris literis peti liceat, qua ratione ad fidem vtique 
+      perti<lb ed="#L" n="38" break="no"/>nent, sunt tamen in lumine naturae clarae &amp; euidentes: 
+      ea<lb ed="#L" n="39" break="no"/>que re non sunt per se fidei quaestiones: sed, vt diximus,  
+      <!--720.xml-->
+      <pb ed="#L" n="709"/>
+               <lb ed="#L" n="1"/>quasi per accidens. Tertij generis, vt sit ne Christus 
+      ri<lb ed="#L" n="2" break="no"/>liuus? Habeat ne duas voluntates &amp; intellectus duos 
+      <lb ed="#L" n="3"/>duasque item vtriusque potentiae operationes. Quae ex 
+      <lb ed="#L" n="4"/>vtrisque principijs patescunt. Prima ex his, Christus est 
+      <lb ed="#L" n="5"/>homo, &amp; omnis homo est risiuus. Reliquae vero ex his, 
+      <lb ed="#L" n="6"/>Christus duas naturas perfectas habet, diuinam &amp; 
+      huina<lb ed="#L" n="7" break="no"/>nam, omnis autem natura perfecta propriam sibi &amp; 
+      opera<lb ed="#L" n="8" break="no"/>tionem &amp; potentiam vendicat. Est denique alia diuisio 
+      <lb ed="#L" n="9"/>Theologicae quaestionis, ad quodcunque genus illa 
+      perti<lb ed="#L" n="10" break="no"/>neat. Sunt enim fidei quaestiones quaedam, hoc est, quae 
+      <lb ed="#L" n="11"/>cum ad fidem spectent, pro earum veritate theologo est 
+      <lb ed="#L" n="12"/>in capitis etiam discrimen veniendum. Aliae vero sunt,  
+      <lb ed="#L" n="13"/>quae in vtranque partem &amp; ignorari &amp; negari sine fidei 
+      <lb ed="#L" n="14"/>iactura possunt. Quam partitionem Augustinus cum alias 
+      <lb ed="#L" n="15"/>saepe, tum in lib. 2. de peccato originali contta Pelagium 
+      <lb ed="#L" n="16"/>&amp; Celestium. cap. 23. commemorat. Atque penitus 
+      parti<lb ed="#L" n="17" break="no"/>tio haec non est solum memoriae commendanda, sed in 
+      <lb ed="#L" n="18"/>oculis semper habenda, si absoluti Theologi esse 
+      volu<lb ed="#L" n="19" break="no"/>mus. Vtriusque generis exempla sunt. Prioris hoc pacto,  
+      <lb ed="#L" n="20"/>An Christi anima simulatque verbo coniuncta fuit. Deum 
+      <lb ed="#L" n="21"/>clare viderit: Item, An in locis inferis ignis purgatorius 
+      <lb ed="#L" n="22"/>sit, vbi fidelium animae poenas peccatorum luant: 
+      Poste<lb ed="#L" n="23" break="no"/>rioris Augustinus quidem varia atque innumerabilia esse 
+      <lb ed="#L" n="24"/>dicit, &amp; quae certo aliquo genere complecti ac definire 
+      <lb ed="#L" n="25"/>difficile sit: sed quae ponit, ea sunt. Cum quaeritur, 
+      qua<lb ed="#L" n="26" break="no"/>lis, vel vbi sit paradisus, vbi constituit Deus hominem, 
+      <lb ed="#L" n="27"/>quem formauit ex puluere, quum tamen esse illum paradi 
+      <lb ed="#L" n="28"/>sum fides Christiana non dubitet. Vel cum quaeritur, vbi 
+      <lb ed="#L" n="29"/>sit nunc Helias, vel Enoch, an ibi, an alicubi alibi, quos 
+      ta<lb ed="#L" n="30" break="no"/>men non dubitamus in quibus nati sunt corporibus 
+      vi<lb ed="#L" n="31" break="no"/>uere. Vel cum quaeritur, vtrum in corpore an extra 
+      cor<lb ed="#L" n="32" break="no"/>pus in tertium coelum sit raptus Apostolus, quanquam sit 
+      <lb ed="#L" n="33"/>ista impudens inquisitio id scire volentium, quod se ille, 
+      <lb ed="#L" n="34"/>cui hoc praestitum est, salua vtique fide nescire testatur. 
+      <lb ed="#L" n="35"/>Vel quot sint coeli, in quorum tertium se raptum esse 
+      com<lb ed="#L" n="36" break="no"/>memorat. Vel vtrum elementa mundi huius conspicabilis 
+      <lb ed="#L" n="37"/>quatuor, an plura sint. Quid faciat solem lunam ve 
+      defi<lb ed="#L" n="38" break="no"/>cere his defectibus, quos praedicere Astrologi certa 
+      tem<lb ed="#L" n="39" break="no"/>porum dinumeratione consuerunt. Cur antiqui homines 
+      <!--721.xml-->
+      <pb ed="#L" n="710"/>
+               <lb ed="#L" n="1"/>tam diu vixerint, quam sancta scriptura testatur, &amp; vtrum  
+      <lb ed="#L" n="2"/>proportione longioris etatis filios sera pubertate 
+      gigne<lb ed="#L" n="3" break="no"/>re coeperint. Vbi potuerit Mathusalem vinere, qui in 
+      ar<lb ed="#L" n="4" break="no"/>ca non fuit, qui, sicut in plerisque codicibus &amp; Graecis &amp;  
+      <lb ed="#L" n="5"/>Latinis numerantur anni, reperitur superuixisse 
+      diluuio<lb ed="#L" n="6" break="no"/>vel vtrum paucioribus, qui rarissimi inueniuntur, potius 
+      <lb ed="#L" n="7"/>credendum sit, in quibus ita est numerus conscriptus 
+      an<lb ed="#L" n="8" break="no"/>norum, vt ante diluuium defunctus fuisse monstretur. 
+      Ha<lb ed="#L" n="9" break="no"/>ctenus exempla Augustini posui. In hoc genere. D. Tho.  
+      <lb ed="#L" n="10"/>2. con. gen. ca. 7O. quaestionem illam esse censet. An coclum 
+      <lb ed="#L" n="11"/>animatum sit, quam inter caeteros errores Origenis 
+      Hie<lb ed="#L" n="12" break="no"/>ronymus enumerat in epistola ad Auitum, sed D. Thomae 
+      <lb ed="#L" n="13"/>consentire videtur Augustinus in enchi. cap. 57. Verum  
+      <lb ed="#L" n="14"/>ne diutius lectorem demorer, de omni isto genere 
+      quae<lb ed="#L" n="15" break="no"/>stionum quid sentiam, &amp; quae praecepta danda existimem,  
+      <lb ed="#L" n="16"/>perbreuiter exponam. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1123-d1e648">
+               <lb ed="#L" n="17"/>Nulla Theologicae questionis praecepta firma 
+      stabilia<lb ed="#L" n="18" break="no"/>que tradi possunt, nisi ab ijs, qui in schola sese multum ac 
+      <lb ed="#L" n="19"/>diu exercuerunt. Itaque propria est ea praeceptio 
+      schola<lb ed="#L" n="20" break="no"/>sticorum: quoniam eorum, qui scholam negligendam esse 
+      <lb ed="#L" n="21"/>existimant, nulla idonea, exquisita, excellens, de 
+      Theo<lb ed="#L" n="22" break="no"/>logiae quaestione disputatio est, tantum abest, vt harum 
+      <lb ed="#L" n="23"/>rerum praeceptores sint, quas nullo vsu habent cognitas. 
+      <lb ed="#L" n="24"/>Admonebat me res, vt hoc quoque loco intermissionem 
+      <lb ed="#L" n="25"/>scholasticae Theologiae, ne dicam interitum, deplorarem, 
+      <lb ed="#L" n="26"/>nisi vererer, ne cum de alijs academijs quererer. Hispaniam 
+      <lb ed="#L" n="27"/>meam immodice extollerem, in qua valde his 
+      tempori<lb ed="#L" n="28" break="no"/>bus scholae Theologia viget. Sed apud nos etiam 
+      vide<lb ed="#L" n="29" break="no"/>mus quibus extinctis Theologis quam in paucis spes, 
+      <lb ed="#L" n="30"/>quanto in paucioribus facultas, quam in multis sit 
+      auda<lb ed="#L" n="31" break="no"/>cia. Nihil vero de me, de praeceptore dicam libentius, qui 
+      <lb ed="#L" n="32"/>academias Hispanas adeoinsigniter ingenio suo &amp; doctri 
+      <lb ed="#L" n="33"/>na illustrauit, adeoque nostris hominibus &amp; spectabiles 
+      <lb ed="#L" n="34"/>&amp; amabiles reddidit, vt in eas certatim non confluxerint 
+      <lb ed="#L" n="35"/>modo, sed irruperint. Quod si ille Gallis Germanis 
+      at<lb ed="#L" n="36" break="no"/>que Italis scripsisset, quae erat hominis in disputando 
+      per<lb ed="#L" n="37" break="no"/>spicuitas, elegantia &amp; suauitas, non ita nunc apud eas 
+      gen<lb ed="#L" n="38" break="no"/>tes scholae studia iacerent. Nam ex eo credo quibusdam  
+      <lb ed="#L" n="39"/>vsu venire, vt abhorreant a schola, quod inciderint in in¬ 
+      <!--722.xml-->
+      <pb ed="#L" n="711"/>
+               <lb ed="#L" n="1"/>culta quaedam &amp; horrida de malis quaestionibus deterius 
+      <lb ed="#L" n="2"/>vestigata, deterrime etiam inuenta &amp; conclusa. Sed age 
+      <lb ed="#L" n="3"/>his omissis id, quod instituimus, persequamur. Nec tamen 
+      <lb ed="#L" n="4"/>necesse est, vt res faciles separatim instruamus 
+      Theolo<lb ed="#L" n="5" break="no"/>giae praeceptis, sita sunt enim ante oculos. Nec rursum de 
+      <lb ed="#L" n="6"/>ijs leges ferre operaepretium est, quae multum a ratione di 
+      <lb ed="#L" n="7"/>screpant: ea enim facile apparent, nec magnopere 
+      admo<lb ed="#L" n="8" break="no"/>nitionem &amp; praecepta desiderant. Quae autem difficilia vi 
+      <lb ed="#L" n="9"/>dentur esse, neque a multis intelligi possunt, de ijs est 
+      di<lb ed="#L" n="10" break="no"/>ligentius praecipiendum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1123-d1e726">
+               <lb ed="#L" n="11"/>Primum ergo officium Theologi disserentis existimo,  
+      <lb ed="#L" n="12"/>vt quaestionem, quam versaturus est, saepe despiciat, &amp; 
+      i<lb ed="#L" n="13" break="no"/>dentidem interroget se, cuius generis illa sit. Aliter 
+      nan<lb ed="#L" n="14" break="no"/>que quaestiones illae finiende sunt, quae naturae &amp; 
+      discipli<lb ed="#L" n="15" break="no"/>nae ordine in Theologiam veniunt, aliter quas humani 
+      in<lb ed="#L" n="16" break="no"/>genij Vel imbecillitas vel certe malitia mouet. Nec eodem 
+      <lb ed="#L" n="17"/>modo disserendum est de ijs, quae querimus vt 
+      expona<lb ed="#L" n="18" break="no"/>mus, ac de alijs, quae queruntur vt demonstremus. 
+      Longe<lb ed="#L" n="19" break="no"/>que diuersa instituitur disputatio de naturali ac 
+      superna<lb ed="#L" n="20" break="no"/>turali questione, alijque, loci Theologici sunt huic atque illi 
+      <lb ed="#L" n="21"/>accommodandi. Nam cognitionis actionisque, questiones, 
+      <lb ed="#L" n="22"/>vt alias diximus, eodem fere modo exque eisdem locis 
+      tra<lb ed="#L" n="23" break="no"/>ctandae &amp; soluendae sunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1123-d1e758">
+               <lb ed="#L" n="24"/>Sed cum Vniuscuiusque genus questionis diligenter inue 
+      <lb ed="#L" n="25"/>stigandum est, tum illud maxime, an praeter fidem illa sit, 
+      <lb ed="#L" n="26"/>an potius ad fidem religionemque pertineat. Cum his 
+      <lb ed="#L" n="27"/>porro, qui in fidei questione errant, velis equisque, vt 
+      dici<lb ed="#L" n="28" break="no"/>tur, decertandum est, cum alijs vero qui de his 
+      controuer<lb ed="#L" n="29" break="no"/>santur, in quibus salua fide decipi, errare, labi homines 
+      <lb ed="#L" n="30"/>possunt, pugnare quidem, quod alias monui Theologi &amp;  
+      <lb ed="#L" n="31"/>possunt &amp; quandoqe etiam debent, sed eructa pugna illis 
+      <lb ed="#L" n="32"/>omnino interdicta est. Quam ridiculum est enim neruos 
+      <lb ed="#L" n="33"/>omneis corporis &amp; animi intendere in ea quaestione 
+      sol<lb ed="#L" n="34" break="no"/>uenda, cuius inscientia nihil periculi habet, error nihil 
+      ha<lb ed="#L" n="35" break="no"/>bet criminis? Sed in toto hoc posteriori quaestionum 
+      ge<lb ed="#L" n="36" break="no"/>nere quam magna Theologo sit adhibenda moderatio, in 
+      <lb ed="#L" n="37"/>octauo &amp; nono libris non indiligenter exposui. Hic dico 
+      <lb ed="#L" n="38"/>quantum proposito ac formularum breuitati satis est, 
+      reli<lb ed="#L" n="39" break="no"/>qua illinc petentur. Non enim mihi libet eadem hoc tem¬ 
+      <!--723.xml-->
+      <pb ed="#L" n="712"/>
+               <lb ed="#L" n="1"/>pore &amp; loco resumere. Illud huius loci &amp; temporis est 
+      <lb ed="#L" n="2"/>theologum admonere, vt non stultas modo questiones &amp;  
+      <lb ed="#L" n="3"/>genealogias &amp; contentiones &amp; pugnas legis deuitet, quae 
+      <lb ed="#L" n="4"/>sunt interdum quoque noxiae, verum etiam inutiles 
+      quas<lb ed="#L" n="5" break="no"/>cunque &amp; vanas, quae theologo nequeunt in vsum aut 
+      co<lb ed="#L" n="6" break="no"/>gnitionis aut actionis accersiri. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1123-d1e813">
+               <lb ed="#L" n="7"/>In his Hieronymus illas quaestiones censet, quot ne an 
+      <lb ed="#L" n="8"/>nos vixerit Mathusalem? Quoto aetatis suae anno Salomo 
+      <lb ed="#L" n="9"/>sortitus sit coniugium? ne forsitan Roboam vndecimo  
+      <lb ed="#L" n="10"/>etatis illius anno natus esse credatur. In epistola quoque 
+      <lb ed="#L" n="11"/>ad Vitalem, cum posteriori harum dupliciter 
+      respondis<lb ed="#L" n="12" break="no"/>set, ad extremum ait, Apostolum de istiusmodi interdicere 
+      <lb ed="#L" n="13"/>questionibus. Et post pauca, Relege, inquit, omnes &amp; ve 
+      <lb ed="#L" n="14"/>teris &amp; noui Testamenti libros, &amp; tantam annorum 
+      re<lb ed="#L" n="15" break="no"/>peries dissonantiam &amp; numerum inter Iudam &amp; lsrael, id 
+      <lb ed="#L" n="16"/>est, inter reenum vtrumque confusum, vt huiuscemodi 
+      <lb ed="#L" n="17"/>haerere quaestionibus non tam studiosi hominis, quam 
+      o<lb ed="#L" n="18" break="no"/>tiosi esse videatur. At bene habet, quod non dixit 
+      attin<lb ed="#L" n="19" break="no"/>gere, sed haerere. Nam si id genus quaestiones breuiter ex- 
+      <lb ed="#L" n="20"/>ponere otiosum &amp; inutile est, non ego solum, qui in supe 
+      <lb ed="#L" n="21"/>riore libro multas eiusmodi explicui, sed Augustinus ac 
+      <lb ed="#L" n="22"/>Hieronymus quoque ipse arguentur. Non est igitur immo 
+      <lb ed="#L" n="23"/>randum in huiusmodi questionibus minime necessarijs, 
+      <lb ed="#L" n="24"/>licet ad veritatem historiae sacrae quodammodo spectare 
+      <lb ed="#L" n="25"/>videantur, sed cum inomni disputatione, tum magis in ea, 
+      <lb ed="#L" n="26"/>quae ad fidem &amp; salutem nihil attinet, exercenda est facilitas 
+      <lb ed="#L" n="27"/>quaedam, ne si hisce rebus disserendis diu ac multum haeremus,  
+      <lb ed="#L" n="28"/>in morositatem inutilem &amp; odiosam incidamus. At D. Aug. 
+      <lb ed="#L" n="29"/>superuacaneum esse existimauit quaerere, vbi &amp; quomodo 
+      <lb ed="#L" n="30"/>sit in coelo corpus dominicum. Sed de fide &amp; symbolo, licet 
+      <lb ed="#L" n="31"/>coram synodi patribus, ad nouitios tamen doctrinam institue 
+      <lb ed="#L" n="32"/>bat. Alioqui Caietanus, quem vnum nostrae familiae non 
+      inge<lb ed="#L" n="33" break="no"/>nio solum &amp; eruditione praestantissimum audeo dicere. 
+      <lb ed="#L" n="34"/>sed in huius generis quaestionibus excitandis 
+      modestis<lb ed="#L" n="35" break="no"/>simum, non est veritus, quum sacras literas interpretaretur, 
+      <lb ed="#L" n="36"/>eam rem quaerere paucisque etiam explicare. At idem Au 
+      <lb ed="#L" n="37"/>gustinus eas quaestiones nullo modo patitur, quas ex egr i 
+      <lb ed="#L" n="38"/>tudine animi dicit existere. Ecquid faciebat Deus 
+      ante<lb ed="#L" n="39" break="no"/>quam faceret coelum &amp; terram? Ecquid ei venit in mentem, 
+      <!--724.xml-->
+      <pb ed="#L" n="713"/>
+               <lb ed="#L" n="1"/>vt aliquid faceret, quum antea nunquam aliquid fecerit? 
+      <lb ed="#L" n="2"/>Sed poenitentiam agens, confitensque peccata vix aegre 
+      <lb ed="#L" n="3"/>sert quaestiones necessarias, nedum minus vtiles, 
+      curio<lb ed="#L" n="4" break="no"/>sas, importunas. Non itaquo eadem disputandi regula 
+      <lb ed="#L" n="5"/>theologo praescribenda est cum in gymnasio certat, &amp;  
+      <lb ed="#L" n="6"/>cum in cubili aut etiam in templo luget. 
+      <lb ed="#L" n="7"/>Sed regula haec erit &amp; rationi &amp; sanctorum auctoritati 
+      <lb ed="#L" n="8"/>maxime consentanea, vt omnis theologus de re 
+      superna<lb ed="#L" n="9" break="no"/>turali disputaturus, nam haec illi propria disputatio est,  
+      <lb ed="#L" n="10"/>nomen theologiae secum ipse reputet, titulum suum, hoc est,  
+      <lb ed="#L" n="11"/>theologi frequenter legat, quaerat a se non semel, sed 
+      sae<lb ed="#L" n="12" break="no"/>pius, quorsum coeperit disputare, sciatque nullam illi 
+      quae<lb ed="#L" n="13" break="no"/>stione asciscendam, nisi quae ad vera, quae supra naturam est,  
+      <lb ed="#L" n="14"/>Christi, apostolorum &amp; prophetarum philosophiam 
+      refera<lb ed="#L" n="15" break="no"/>tur. Huius enim praecepti quidam immemores innumeris 
+      <lb ed="#L" n="16"/>quaestionibus praesertim dialecticis, physicis, &amp; 
+      metaphy<lb ed="#L" n="17" break="no"/>sicis explicandis importunissimi longissimique fuerunt. 
+      <lb ed="#L" n="18"/>Nemo autem est longus, qui materiae immoratur, si aliquid 
+      <lb ed="#L" n="19"/>accersit atqueattrahit, quod suo videlicet instituto 
+      con<lb ed="#L" n="20" break="no"/>grues consentiesque sit. Nec tamen quaestiones istas quauis 
+      <lb ed="#L" n="21"/>non adeo necessarias exterminandas puto. Est enim 
+      ani<lb ed="#L" n="22" break="no"/>morum ingeniorumque exercitatio quaedam non modo acumi 
+      <lb ed="#L" n="23"/>nis plena, sed etiam ad theologiam scholae valde vtilis. Nam 
+      <lb ed="#L" n="24"/>quod Augustinus ait, nihil ad se pertinere, vtrum coelum 
+      <lb ed="#L" n="25"/>sicut sphera vndique concludat terram in media mundi 
+      mole<lb ed="#L" n="26" break="no"/>librata, an eam ex vna parte desuper velut discus operiat? 
+      <lb ed="#L" n="27"/>ltem, an stet caelum an potius moueatur, hoc vel in 
+      Mani<lb ed="#L" n="28" break="no"/>chaeorum inuidiam &amp; odium dicit, qui similes multas 
+      quae<lb ed="#L" n="29" break="no"/>stiones se a magistro didicisse iactabant: vel illos certe 
+      <lb ed="#L" n="30"/>reprehendit, qui iis excitandis &amp; soluendis quaestionibus 
+      <lb ed="#L" n="31"/>multum prolixa &amp; rebus salubribus impendenda temporum 
+      <lb ed="#L" n="32"/>spatia occuparent: illius enim verbis libenter vtimur. 
+      Cae<lb ed="#L" n="33" break="no"/>terum quasi praetetiens id genus quaestiones ipse soluit 
+      <lb ed="#L" n="34"/>quibus tamen, vt ait, ineundis atque tractandis neqe 
+      episco<lb ed="#L" n="35" break="no"/>po temporis satis erat, neque illis, quos ad salutem &amp; sanctae 
+      <lb ed="#L" n="36"/>ecclesiae necessariam vtilitatem cupaebat informari. Nec 
+      <lb ed="#L" n="37"/>dissimile huic est, quod Augustinus idem curiosissimas 
+      <lb ed="#L" n="38"/>Dioscori quaestiones reprehendit &amp; scribit tamen, se non 
+      <lb ed="#L" n="39"/>idcirco ea dicere, quia istiusmodi discuntur, sed quia vano 
+      <!--725.xml-->
+      <pb ed="#L" n="714"/>
+               <lb ed="#L" n="1"/>sine discuntur. Ita respondit quibusdam earum breuiter, 
+      <lb ed="#L" n="2"/>alijs vel prolixem. Ego vero si ab amico essem de rebus 
+      eiu<lb ed="#L" n="3" break="no"/>smodi interrogatus, aut dissimulanter praeterire, aut 
+      aper<lb ed="#L" n="4" break="no"/>te etiam responsa negare. Nec enim dignas eas quaestiones 
+      <lb ed="#L" n="5"/>censere, quibus vel tantillum temporis impartirer. Sed 
+      Au<lb ed="#L" n="6" break="no"/>gustinus erat vel in amicos liberalior, vel in Dioscorum 
+      <lb ed="#L" n="7"/>indulgentior. Quorsum haec?: vt intelligant ij, qui scholae 
+      <lb ed="#L" n="8"/>perpetuam inuidiam conflant, controuersias circa Aristotelem 
+      <lb ed="#L" n="9"/>exortas non esse disquisitione Theologi indignas, si quae 
+      <lb ed="#L" n="10"/>in Cicerone ambigua erant, ea non est dedignatus 
+      expli<lb ed="#L" n="11" break="no"/>care Augustinus. Quid? Quod is ipse nescientem quid sit 
+      <lb ed="#L" n="12"/>nihil, quid informis materia, quid formatum exanime, quid 
+      <lb ed="#L" n="13"/>corpus, quid species in corpore, quid locus, quid tempus, 
+      <lb ed="#L" n="14"/>quid in loco, quid in tempore, quid motus secundum locum, 
+      <lb ed="#L" n="15"/>quid motus non secundum locu, quid stabilis motus, quid 
+      <lb ed="#L" n="16"/>sit aeuum, &amp; quid sit nec in loco esse nec nusqua, &amp; quid sit 
+      <lb ed="#L" n="17"/>praeter tempus &amp; semper esse: quid sit &amp; nusquam esse &amp; 
+      nus<lb ed="#L" n="18" break="no"/>quam non esse, &amp; nunqe esse, &amp; nunqe non esse, haec, inqua, 
+      ne<lb ed="#L" n="19" break="no"/>scientem nec de Deo nec de anima sua quicquam recte 
+      <lb ed="#L" n="20"/>aut quaerere aut disputare posse asseuerat? Non sunt 
+      igi<lb ed="#L" n="21" break="no"/>tur quaestiones istae physicae &amp; metaphysicae ab schola 
+      <lb ed="#L" n="22"/>nostra expellendae, ne illae quidem, quae Erasmo, caeterisque, 
+      <lb ed="#L" n="23"/>similibus curiosae sophisticaeqe etia visae sunt. Sed de hoc 
+      <lb ed="#L" n="24"/>alio loco pluribus. Nunc ad fidei quaestionem 
+      redeo<lb ed="#L" n="25" break="no"/>Quae nisi theologo in primis constituta sit, nihil ratione 
+      <lb ed="#L" n="26"/>docere potest neque via. In hac igitur re vehementer 
+      ela<lb ed="#L" n="27" break="no"/>borandum est, si in theologia quis sit gradus veritatis ac 
+      <lb ed="#L" n="28"/>falsitatis exquirimus. Id nimirum vt theologiae maxime 
+      <lb ed="#L" n="29"/>proprium est, ita est omnium difficillimum. Quare illud 
+      prae<lb ed="#L" n="30" break="no"/>stare valet nemo, nisi perfectus consummatusque theologus. 
+      <lb ed="#L" n="31"/>Dixerit quispia, Quid? Nonne sunt notae aliquae, quibus 
+      <lb ed="#L" n="32"/>quaestiones fidei seiungi ab eis, quae fidei non sunt, &amp; 
+      in<lb ed="#L" n="33" break="no"/>ternosci possint: Sane vero. Sed ne cuiuis contigit adi re 
+      <lb ed="#L" n="34"/>Corinthum: nec sunt ista omnium communia contritaque 
+      <lb ed="#L" n="35"/>praecepta. Ac pertinet quidem ad omnem fidei quaestionem 
+      <lb ed="#L" n="36"/>constituendam semper in promptu habere eiusmodi notas 
+      <lb ed="#L" n="37"/>&amp; questionum fidei quasi indices: verum ea magna omnino 
+      <lb ed="#L" n="38"/>res est, egetque doctrina &amp; exercitatione non parua. Illas 
+      <lb ed="#L" n="39"/>itaque, si poterimus, proferemus: nec ita multo post, sed 
+      <!--726.xml-->
+      <pb ed="#L" n="715"/>
+               <lb ed="#L" n="1"/>pauca ante dicenda sunt. Fidei porro quaestio bifariam  
+      <lb ed="#L" n="2"/>intelligitur. Vna, quae immediate ad fidem attinet, vt 
+      ve<lb ed="#L" n="3" break="no"/>dit, aut scripto. Altera, quae mediate fidei est: cuiusmodi 
+      <lb ed="#L" n="4"/>re attinent omnia, quae deus ecclesiae suae aut verbo 
+      edi<lb ed="#L" n="5" break="no"/>sunt omnes conclusiones, quas ordine disciplinae ex illis 
+      <lb ed="#L" n="6"/>non in seipsis, sed in alijs tanqe principijs reuelatae a Deo 
+      <lb ed="#L" n="7"/>prioribus colligere, &amp; diffinire possumus. Quae, quoniam  
+      <lb ed="#L" n="8"/>sunt, mediate fidei dicuntur esse, &amp; qui eas negat, is fidem 
+      <lb ed="#L" n="9"/>negare hoc modo dicitur. Atque equidem illud etiam 
+      ani<lb ed="#L" n="10" break="no"/>maduerto, eas non abs re forsan quaestiones fidei vocari, 
+      <lb ed="#L" n="11"/>quae vehementer ad ecclesiae doctrinam pertinent, fideique 
+      <lb ed="#L" n="12"/>sunt propter affinitatem appendices. Non quod aut ex ijs 
+      <lb ed="#L" n="13"/>pendeat fides, aut ijs sublatis funditus illa tollatur: sed 
+      <lb ed="#L" n="14"/>quod affecta aegraque sit, si harum rerum Veritas labefiat, quae 
+      <lb ed="#L" n="15"/>nam doctrinam esse &amp; verbum sanum, vt Apostolus ait. 
+      <lb ed="#L" n="16"/>illi haerent &amp; adiunguntur. Oportet nempe in ecclesia 
+      sa<lb ed="#L" n="17" break="no"/>Quemadmodum autem morbi quidam lethales sunt, alij 
+      <lb ed="#L" n="18"/>vero non interficiunt quidem hominem, sed afficiunt 
+      <lb ed="#L" n="19"/>tamen valetudinem: sic errores quidam non fidem ex- 
+      <lb ed="#L" n="20"/>tinguunt, sed obscurant: non euertunt, sed infirmant: 
+      <lb ed="#L" n="21"/>morbumque afferunt, non exitium. Sicut ergo quod 
+      sa<lb ed="#L" n="22" break="no"/>luti est noxium, vitae id quoque noxium est: ita 
+      quod<lb ed="#L" n="23" break="no"/>cunque sanae doctrinae aduersatur, hoc fidei est etiam 
+      quo<lb ed="#L" n="24" break="no"/>dammodo aduersum. Ex quo intelligitur, quaestiones 
+      il<lb ed="#L" n="25" break="no"/>lis, quae ad doctrinae ecclesiasticae sanitatem spectant, ad 
+      <lb ed="#L" n="26"/>fidem suo quodam modo spectare. Sed nos huius 
+      gene<lb ed="#L" n="27" break="no"/>tis controuersias non in fide proprie, sed praeter fidem  
+      <lb ed="#L" n="28"/>esse dicimus. Nec qui in his errant, eos in fide, sed praeter 
+      <lb ed="#L" n="29"/>fidem errare existimamus. Atque ita rebus his primo  
+      <lb ed="#L" n="30"/>simpliciter collocatis, reliqua deinceps subtilius 
+      perse<lb ed="#L" n="31" break="no"/>quemur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

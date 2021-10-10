@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="101"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e236"><!-- Z4Yt34-l2c12 -->
+            <head xml:id="Z4Yt34-d1e236-Hd1e106">Caput 12</head>
+            <p xml:id="Z4Yt34-d1e236-d1e109">
+               <lb ed="#L" n="30"/>Cap. Duo decimum, Vbi eorum argumenta ponuntur, qui 
+      <lb ed="#L" n="31"/>su adere volunt in sacrarum intelligentia 
+      scri<lb ed="#L" n="32" break="no"/>pturarum ad fontes Hebraitum  
+      Gre<lb ed="#L" n="33" break="no"/>cum recurrendum.
+    </p>
+            <p xml:id="Z4Yt34-d1e236-d1e120">
+               <lb ed="#L" n="34"/>IN tertia vero quaestione magna dissensio est, eaque nisi 43 
+      <lb ed="#L" n="35"/>Ldiiudicetur, in summo errore necesse est nos atque in 
+      <lb ed="#L" n="36"/>maximarum rerum ignoratione versari. An in sacrarum 
+      <lb ed="#L" n="37"/>literarum intelligentia ad Hebraicum Graecumque 
+      fon<lb ed="#L" n="38" break="no"/>tem sit recurrendum, An potius editio ipsa Latina tam  
+      <!--113.xml-->
+      <pb ed="#L" n="102"/>
+               <lb ed="#L" n="1"/>magnae sit auctoritatis &amp; ponderis, vt nec ab originali 
+      <lb ed="#L" n="2"/>scriptura pendeat, nec per eam aut. corrigi oporteat aut  
+      <lb ed="#L" n="3"/>limari. 
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e144">
+               <lb ed="#L" n="4"/>Prior autem huius controuersiae pars suadetur ante 
+      <lb ed="#L" n="5"/>omnia. D. Hieronymi testimonio, qui in libro aduersus 
+      <lb ed="#L" n="6"/>Eluidium huius assertionis primus auctor esse creditur: ea 
+      <lb ed="#L" n="7"/>ratione vel maxime, quod multo purior credenda sit 
+      ma<lb ed="#L" n="8" break="no"/>nare fontis vnda que riui. Idem etiam in epistola ad Marcellam, 
+      <lb ed="#L" n="9"/>cuius initium, post priorem, cum fateretur aliqua sese in 
+      <lb ed="#L" n="10"/>vulgata editione euangeliorum Latinorum emendasse, atque  
+      <lb ed="#L" n="11"/>ad Graecam originem renocasse Latina, obtrectatores suos 
+      <lb ed="#L" n="12"/>contemnens. Si displicetcinquit fontis vnda purissimi, 
+      <lb ed="#L" n="13"/>coenosos riuulos bibant, &amp; diligentiam, qua auium syluas, 
+      <lb ed="#L" n="14"/>&amp; concharum gurgites norunt, in scripturis legendis 
+      abii<lb ed="#L" n="15" break="no"/>ciat. Idem confirmat in epistola ad Damasum de verbo 
+      O<lb ed="#L" n="16" break="no"/>sanna, cuius initium est, Multi: &amp; in commentariis super 
+      <lb ed="#L" n="17"/>achariam dicens, Cogimur ad Hebraeos recurrere, &amp;  
+      <lb ed="#L" n="18"/>scientiae veritatem de fonte magis quam de riuulis 
+      quae<lb ed="#L" n="19" break="no"/>rere. Nempe, vt Cicero de oratore etiam ait, tardi ingenii 
+      <lb ed="#L" n="20"/>est riuulos consectari, fontes rerum non videre. Et in 
+      epi<lb ed="#L" n="21" break="no"/>stola ad Vitalem docet, se ad Hebraicam veritatem tanqua 
+      <lb ed="#L" n="22"/>in praesidium &amp; arcem solitum esse confugere. Huc adde 
+      <lb ed="#L" n="23"/>Augustini testimonium ex 2. de doct. Christ. ca. 15. &amp; ag. 
+      <lb ed="#L" n="24"/>de ciuita. Dei. Quibus locis Hieronymi sententiae 
+      sub<lb ed="#L" n="25" break="no"/>seribit.  
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e194">
+               <lb ed="#L" n="26"/>Praeterea. Damasus coegit Hieronymum vt nouum testa 
+      <lb ed="#L" n="27"/>mentum ad Graecam reduceret veritatem: quemadmodum 
+      <lb ed="#L" n="28"/>Hyeronymus idem in praefatione supertquatuor 
+      euan<lb ed="#L" n="29" break="no"/>gelia testatur. Id vero Damasus non iussisset, nisi 
+      intel<lb ed="#L" n="30" break="no"/>ligeret noui testamenti veritatem e Graeco, fonte 
+      pe<lb ed="#L" n="31" break="no"/>tendam. 
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e211">
+               <lb ed="#L" n="32"/>Hieronymus quoque ipse in commentariis veterem 
+      in<lb ed="#L" n="33" break="no"/>terpretem saepe vellicat, vt qui interpretando frequenter 
+      <lb ed="#L" n="34"/>errarit. Non igitur veteri editioni Latinae fidem habere 
+      <lb ed="#L" n="35"/>necessum est: nisi Hieronymum aut maleuoletiae velimus 
+      <lb ed="#L" n="36"/>arguere, si dedita opera, aut imperitiae, si ignoras ea quae 
+      <lb ed="#L" n="37"/>bene conuersa erant, reprehendit. Aliunde igitur quam ab  
+      <lb ed="#L" n="38"/>editione Latina quaerenda est sacrarum literarum firma 
+      <lb ed="#L" n="39"/>intelligentia. Quid ? quod Laurentius Faber, Erasmus,  
+      <!--114.xml-->
+      <pb ed="#L" n="103"/>
+               <lb ed="#L" n="1"/>Eugubinus, aliique nonnulli iuniores veteris interpretis 
+      <lb ed="#L" n="2"/>nunc oscitantiam, nunc negligentiam, nunc imperitiam  
+      <lb ed="#L" n="3"/>nunc superstitionem coarguere idoneis causis 
+      rationi<lb ed="#L" n="4" break="no"/>busque, videntur? Nec animus est, tamen omnia eorum 
+      argu<lb ed="#L" n="5" break="no"/>menta referre, qui Latinam editionem, qua ecclesia 
+      vti<lb ed="#L" n="6" break="no"/>tur, solent reprehendere. His enim argumentis 
+      refutan<lb ed="#L" n="7" break="no"/>dis aliud &amp; temporis &amp; operis dandum est. Illas solum 
+      re<lb ed="#L" n="8" break="no"/>prehensiones afferemus, quibus veterem editionem 
+      falsi<lb ed="#L" n="9" break="no"/>tatis accusant. Primum autem nume. vltim. c. Latinum  
+      <lb ed="#L" n="10"/>aiunt interpretem sensum reddidisse non Hebraicae 
+      mo<lb ed="#L" n="11" break="no"/>do veritati, verum etiam sacris omnino literis 
+      repugnan<lb ed="#L" n="12" break="no"/>tem. Illius enim editio praeceptum non obscurum habet,  
+      <lb ed="#L" n="13"/>vt nullus vir foeminam ducat nisi de tribu &amp; familia sua: 
+      <lb ed="#L" n="14"/>nec vlla foemina viro nubat alterius tribus &amp; familiae. Id 
+      <lb ed="#L" n="15"/>autem tantum abest a scripturae fide, vt nihil illi magis 
+      <lb ed="#L" n="16"/>possit esse contrarium. Moyses quippe primus hoc 
+      ne<lb ed="#L" n="17" break="no"/>glexit: nec vsque de sua ille tribu duxit vxorem. 
+      Aaron<lb ed="#L" n="18" break="no"/>vxorem accepit Elisabeth de tribu Iuda. Exodi sexto. 
+      <lb ed="#L" n="19"/>Soror regis Iudae nupsit Ioiadae pontifici, secundi Para. 
+      <lb ed="#L" n="20"/>vicesimosecundo. &amp; quarti regu. vndecimo. Elisabeth, 
+      <lb ed="#L" n="21"/>cum esset de filiabus Aaron cognata erat Beatae Mariae, 
+      <lb ed="#L" n="22"/>quae sine dubio erat e tribu Iuda. Dauid Michol duxit 
+      fi<lb ed="#L" n="23" break="no"/>liam Saulis de tribu Beniamin. Vndecim tribus non 
+      le<lb ed="#L" n="24" break="no"/>gem, sed iuramentum praetexunt, quo minus filias suas 
+      <lb ed="#L" n="25"/>Beniaminitis collocent, cum interim tamen eos qui non  
+      <lb ed="#L" n="26"/>iurarant, nulla lege prohiberi apertissime prae se ferant.  
+      <lb ed="#L" n="27"/>Iudi. 21. Subdititium ergo est adulterinum &amp; falsum, quod 
+      <lb ed="#L" n="28"/>interpretis solum auctoritate redditum est. Deinde 
+      Mi<lb ed="#L" n="29" break="no"/>cheae. 5. latina vetus editio hunc in modum habet. Et tu 
+      <lb ed="#L" n="30"/>Bethleem Ephrata paruulus es in millibus Iudae, ex te 
+      mi<lb ed="#L" n="31" break="no"/>hi egredietur, &amp;c. At Matthaeus contrario penitus sensu 
+      <lb ed="#L" n="32"/>verba eadem allegauit, inquiens, &amp; tu Betnleem 
+      nequa<lb ed="#L" n="33" break="no"/>quam minima es. Praeterea psal 7. vers. 12. nostra editio 
+      <lb ed="#L" n="34"/>habet. Nunquid irascitur per singulos dies? vbi 
+      Hebrai<lb ed="#L" n="35" break="no"/>ca veritas contrarium sensum habet, cui Hieronymus 
+      <lb ed="#L" n="36"/>omnino consentit. Contendit etiam Caluinus locum 
+      <lb ed="#L" n="37"/>illum, Ecclesiastes 9. Nemo scit vtrum odio vel 
+      amo<lb ed="#L" n="38" break="no"/>re dignus sit, mendose esse ab interprete redditum, 
+      <lb ed="#L" n="39"/>falsamque, esse sententiam interpretetis, cum plerique 
+      <!--115.xml-->
+      <pb ed="#L" n="104"/>
+               <lb ed="#L" n="1"/>sciant se odio dignos esse, &amp; nonnulli scierint se fuisse 
+      <lb ed="#L" n="2"/>amore dignos. Ac sunt qui credant interpretem Matth. 
+      <lb ed="#L" n="3"/>24. falsam reddidisse lectionem, dum pro fulgore 
+      reddi<lb ed="#L" n="4" break="no"/>dit fulgur. Quod vtique non pertingit ab oriente in 
+      occi<lb ed="#L" n="5" break="no"/>dentem, sed solis fulgor est qui pertingit. Atque illud 
+      <lb ed="#L" n="6"/>quoque vrgent, quod Ionae 4. vertit interpres, dominum  
+      <lb ed="#L" n="7"/>hederam praeparasse vt esset vmbra super caput Ionae, &amp; c. 
+      <lb ed="#L" n="8"/>cum ipso quoque Hieronymo auctore Eixaion, nec 
+      he<lb ed="#L" n="9" break="no"/>dera sit, nec cucurbita, sed quoddam genus fruticis 
+      lati<lb ed="#L" n="10" break="no"/>nis &amp; Graecis incognitum, quod Syris familiare est. Non 
+      <lb ed="#L" n="11"/>ergo dominus hederam praeparauit, nec Ionas sub vmbra 
+      <lb ed="#L" n="12"/>hederae requieuit, quod interpres falso transtulit,  
+      <lb ed="#L" n="13"/>Ad haec, si veteris latini interpretis editioni addicti esse 
+      <lb ed="#L" n="14"/>debemus, compellemur adeo historiam Susannae 
+      recipe<lb ed="#L" n="15" break="no"/>e: atque etiam Beldraconis narrationem: quam quoniam  
+      <lb ed="#L" n="16"/>Hebraica veritas non habet, Hieronymus fabulam 
+      vo<lb ed="#L" n="17" break="no"/>cat, non eam sacris libris additurus, nisi apud imperitos 
+      <lb ed="#L" n="18"/>vt ipse ait, videretur magnam partem voluminis 
+      detrum<lb ed="#L" n="19" break="no"/>casse. Item cogemur etiam Marci postremum caput 
+      ac<lb ed="#L" n="20" break="no"/>cipere, quod Hiero. ad Hedib. quaest. 3. non credit esse 
+      <lb ed="#L" n="21"/>necessarium, cum in raris feratur Euangeliis, &amp; omnibus 
+      <lb ed="#L" n="22"/>pene Graeciae libris hoc capitulum non habeatur. 
+      Neces<lb ed="#L" n="23" break="no"/>sarium quoque erit historiam adulterae mulieris 
+      venera<lb ed="#L" n="24" break="no"/>ri, quae Ioannis 8. c. nunc habetur. Cum eam tamen nec 
+      <lb ed="#L" n="25"/>Eusebius cognoscat nisi in euangelio secundum 
+      Hebrae<lb ed="#L" n="26" break="no"/>os, nec Hieronymus eam prorsus agnoscit: sed ne 
+      Chry<lb ed="#L" n="27" break="no"/>sostomus quidem eam interpretatione sua dignatus est,  
+      <lb ed="#L" n="28"/>quamuis illius alias fecerit mentionem. Atque Euthimius 
+      <lb ed="#L" n="29"/>licet eandem enarret, paulo tamen superius ait in exactio 
+      <lb ed="#L" n="30"/>ribus exemplaribus non haberi, eo quod illegitima 
+      vi<lb ed="#L" n="31" break="no"/>deatur. 
+      <lb ed="#L" n="32"/>Rursum si Latini interpretis sequenda esset editio, 
+      fa<lb ed="#L" n="33" break="no"/>teri oporteret, omnes esse resurrecturos, ac proinde 
+      mo<lb ed="#L" n="34" break="no"/>rituros, iuxta id quod in priore ad Corinthios epistolae 
+      <lb ed="#L" n="35"/>dicitur : Omnes quidem resurgemus, sed non omnes 
+      im<lb ed="#L" n="36" break="no"/>mutabimur. At, huic sententiae stare non cogimur. Vt D 
+      <lb ed="#L" n="37"/>etiam Tho. in commentariis super eundem locum astruit. 
+      <lb ed="#L" n="38"/>Quin probabilissima opinio est, homines, qui 
+      reperien<lb ed="#L" n="39" break="no"/>tur in die iudicii viui, nulla interueniente porte viuos 
+      <!--116.xml-->
+      <pb ed="#L" n="105"/>
+               <lb ed="#L" n="1"/>esse iudicandos. Quod Apostolus certe videtur asserere 
+      <lb ed="#L" n="2"/>in priore ad Thessaloni. epistola. Adde huc, quod 
+      inter<lb ed="#L" n="3" break="no"/>pres non erat Propheta, auctor ve sacer: sed humano 
+      spiri<lb ed="#L" n="4" break="no"/>tu, &amp; intelligetia, sacras literas ex aliena lingua in propriam 
+      <lb ed="#L" n="5"/>transferebat. Errare igitur fallique interpretando potuit. 
+      <lb ed="#L" n="6"/>Quamobrem interpretis sensum non tenemur amplecti: sed 
+      <lb ed="#L" n="7"/>ipsum textum, quemadmodum ab auctore sacro, vel 
+      Hebrai<lb ed="#L" n="8" break="no"/>ce, vel Graece traditus est. Aliud quippe fuerit Cvt 
+      Hie<lb ed="#L" n="9" break="no"/>ronymus aityatem esse, aliud interpretem, ibi enim 
+      spi<lb ed="#L" n="10" break="no"/>ritus ventura praedicit : hic eruditio &amp; verborum copia 
+      <lb ed="#L" n="11"/>quae intelligit transfert. 
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e437">
+               <lb ed="#L" n="12"/>Praeterea, si non licet ab interpretis Latini 
+      translatio<lb ed="#L" n="13" break="no"/>ne discedere, danamus iuniorum omnium in vertendis 
+      sa<lb ed="#L" n="14" break="no"/>cris literis diligentia, linguarumque peritiam tanquam 
+      videli<lb ed="#L" n="15" break="no"/>cet otiosam ad sacras literas intelligendas. Nimirum, etiam 
+      <lb ed="#L" n="16"/>si alium sensum habeant verba vel Hebraica, vel Graeca, 
+      <lb ed="#L" n="17"/>hic scilicet contemnendus est: ille vero omni ratione 
+      <lb ed="#L" n="18"/>tenendus, quem Latina vetus litera praeferat. Nec his 
+      ar<lb ed="#L" n="19" break="no"/>gumentis satisfieri ea responsione potest, quod Hierony 
+      <lb ed="#L" n="20"/>mus, huius editionis auctor, multo fuerit linguarum 
+      peri<lb ed="#L" n="21" break="no"/>tior quam alius quisquam: ac proinde illius auctoritas, 
+      in<lb ed="#L" n="22" break="no"/>genium, &amp; eruditio, maiora sunt quam cuiusquam alterius 
+      <lb ed="#L" n="23"/>interpretis iunioris. Haec cinquamo responsio non facit 
+      <lb ed="#L" n="24"/>satis. Primum, quoniam prestat oculis tuis videre, quam alienis. 
+      <lb ed="#L" n="25"/>Satius igitur erit, vt quisque, linguas ipsas calleat, &amp; videat 
+      <lb ed="#L" n="26"/>ipse, potius quam credat interpreti. Deinde etiam, quoniam  
+      <lb ed="#L" n="27"/>cum septuaginta interpretes, viri doctissimi, atque 
+      Hebrai<lb ed="#L" n="28" break="no"/>cae Graecaeque linguae peritissimi interdum lapsi 
+      interpre<lb ed="#L" n="29" break="no"/>tando fuerint: non est cur existimemus, vnum Hieronymum 
+      <lb ed="#L" n="30"/>nusquam a vero dum interpretaretur errasse. Vt illud 
+      prae<lb ed="#L" n="31" break="no"/>tereamus, quod editio haec vetus an Hieronymi sit an 
+      al<lb ed="#L" n="32" break="no"/>terius, summa virorum doctissimorum dissensione 
+      certa<lb ed="#L" n="33" break="no"/>tur. Nouum certe testamentum Cyt de veteri taceam, 
+      <lb ed="#L" n="34"/>aut Hieronymus non vertit, aut si vertit, eius Versio non 
+      <lb ed="#L" n="35"/>extat. Quod si extaret: manet semper integrum 
+      arou<lb ed="#L" n="36" break="no"/>mentum, quod modo posuimus: Hieronymi vtique 
+      sen<lb ed="#L" n="37" break="no"/>sum, vt qui sacer auctor non fuerit, non oportere 
+      semper<lb ed="#L" n="38" break="no"/>amplecti. 
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e498">
+               <lb ed="#L" n="39"/>Praeterea, in Clementina prima, titulo de magistris 
+      <!--117.xml-->
+      <pb ed="#L" n="106"/>
+               <lb ed="#L" n="1"/>Viennense concilium statuit, in vniuersitatibus 
+      Bononi<lb ed="#L" n="2" break="no"/>ensi, Parisiensi, Salmanticensi, parandos esse trium 
+      lingua<lb ed="#L" n="3" break="no"/>rum doctores, qui earum peritiam studiosa instructione 
+      <lb ed="#L" n="4"/>in alios transfundant. Id quod nisi esset ad sacras literas 
+      <lb ed="#L" n="5"/>intelligendas magnopere necessarium, nulla ratione 
+      sy<lb ed="#L" n="6" break="no"/>nodus statuisset. 
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e520">
+               <lb ed="#L" n="7"/>Insuper non videtur hoc diuinae scripturae negandum, 
+      <lb ed="#L" n="8"/>quod humanis scripturis omnibus concedere necesse est:  
+      <lb ed="#L" n="9"/>vt, cum de aliqua scriptura scilicet ambigitur, ad 
+      arche<lb ed="#L" n="10" break="no"/>typum, vnde translata est, recurratur, 
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e531">
+               <lb ed="#L" n="11"/>His argumentis, &amp; iis quidem non leuibus, sedcvt 
+      ple<lb ed="#L" n="12" break="no"/>rique iudicanty sane firmis, nouarum rerum studiosi sibi 
+      <lb ed="#L" n="13"/>primum persuaserunt, ad veritatem noui ac veteris 
+      testa<lb ed="#L" n="14" break="no"/>menti cognoscendam, duarum linguarum Graecae &amp; 
+      He<lb ed="#L" n="15" break="no"/>braicae peritiam esse necessariam. Inde rursus in eam 
+      opi<lb ed="#L" n="16" break="no"/>nionem descenderunt, vt non se existiment sacras literas 
+      <lb ed="#L" n="17"/>exponere, si interpretationem Latinam vulgarem 
+      sequa<lb ed="#L" n="18" break="no"/>tur. Id enimcinquiuntest, non auctorem scripturae sacrae, 
+      <lb ed="#L" n="19"/>sed eius interpretem explicare. Denique &amp; eo progressi 
+      <lb ed="#L" n="20"/>sunt, vt asserant non oportere Latini interpretis 
+      aucto<lb ed="#L" n="21" break="no"/>ritatem amplecti: sed ipsius textus Hebraei in veteri 
+      re<lb ed="#L" n="22" break="no"/>stamento, Graeci autem in nouo. Quo fieri, vt Latina 
+      <lb ed="#L" n="23"/>editio nostra per exemplaria Hebraica &amp; Graeca sit 
+      om<lb ed="#L" n="24" break="no"/>nino limanda ac corrigenda. 
+      </p>
+            <p xml:id="Z4Yt34-d1e236-d1e564">
+               <lb ed="#L" n="25"/>Hanc vero persuasionem Lector optime, si forsitan 
+      in<lb ed="#L" n="26" break="no"/>duisti, exue rogo tantisper, dum tibi quae sunt veriora 
+      <lb ed="#L" n="27"/>certioraque proponimus. Nos si quidem hanc sententiam a 
+      <lb ed="#L" n="28"/>plerisque receptam refellere tentabimus. Refellemus 
+      au<lb ed="#L" n="29" break="no"/>tem Cvt spero, illo ferente opem, cuius tueri causam 
+      cu<lb ed="#L" n="30" break="no"/>pimus, aduersum impugnatores veritatis. Ego enim si aus 
+      <lb ed="#L" n="31"/>ostentatione aliqua adductus, aut studio certandi ad hanc 
+      <lb ed="#L" n="32"/>potissimum disputationem me applicui, non modo 
+      stul<lb ed="#L" n="33" break="no"/>titiam meam: sed etiam mores &amp; ingenium 
+      condemnan<lb ed="#L" n="34" break="no"/>dum puto. Nam si in minimis rebus pertinacia 
+      reprehen<lb ed="#L" n="35" break="no"/>ditur, calumna coercetur. Ego ne, de maximis &amp; quae ad 
+      <lb ed="#L" n="36"/>ecclesiae vnitatem continendam magnopere pertineant,  
+      <lb ed="#L" n="37"/>aut certare cum aliis pugnaciter, aut frustrari cum alios,  
+      <lb ed="#L" n="38"/>tum etiam me ipsum Velim? Causa igitur veri reperiendi 
+      <lb ed="#L" n="39"/>disputare cupientes, controuersiam hanc quatuor con¬ 
+      <!--118.xml-->
+      <pb ed="#L" n="107"/>
+               <lb ed="#L" n="1"/>clusionibus breuissime definiemus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

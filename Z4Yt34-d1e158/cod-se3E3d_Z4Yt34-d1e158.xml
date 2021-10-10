@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e158"><!-- Z4Yt34-l2c5 -->
+            <head xml:id="Z4Yt34-d1e158-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e158-d1e109">
+               <lb ed="#L" n="9"/>Cap. quintum, vbi quatuordecim libri e sacris Bibliis 
+      nume<lb ed="#L" n="10" break="no"/>vantur, quos quidam vel ambigunt esse canoni 
+      <lb ed="#L" n="11"/>cos, vel certe a canone reiiciunt. 
+    </p>
+            <p xml:id="Z4Yt34-d1e158-d1e118">
+               <lb ed="#L" n="12"/>N dubium itaque &amp; olim &amp; nostra hac tempestate 
+      vo<lb ed="#L" n="13" break="no"/>Lcatum est, an septem illi libri veteris testamenti, Baruch, 
+      <lb ed="#L" n="14"/>Thobias, Iudith, Sapientia, Ecclesiasticus, duoque 
+      Ma<lb ed="#L" n="15" break="no"/>chabaeorum, sint habendi canonici. Ex nouo quoque 
+      te<lb ed="#L" n="16" break="no"/>stamento, quaestio ferme eadem existit de epistola Pauli 
+      <lb ed="#L" n="17"/>ad Hebraeos, de epistola Iacobi, de secunda Petri, 
+      dua<lb ed="#L" n="18" break="no"/>busque posterioribus Ioannis, de epistola Iudae, &amp; libro  
+      <lb ed="#L" n="19"/>Apocalypsis. Sunt enim Theologi &amp; fuerunt, atque in his 
+      <lb ed="#L" n="20"/>quidem &amp; nobiles veteres longeque principes &amp; quidam  
+      <lb ed="#L" n="21"/>iuniores docti &amp; graues, qui multis magnisque, rationibus 
+      <lb ed="#L" n="22"/>adducti negarint eos libros oportere in canonicis 
+      com<lb ed="#L" n="23" break="no"/>putari. Alij vero auctores ipsi quoqe praestantissimi 
+      com<lb ed="#L" n="24" break="no"/>tra asseuerant hos omneis esse canonicos. Atque ad eam  
+      <lb ed="#L" n="25"/>rem confirmandam plurimis etiam maximisque 
+      argumen<lb ed="#L" n="26" break="no"/>tis vtuntur. Ita addubitare cogit doctissimorum 
+      homi<lb ed="#L" n="27" break="no"/>num de maxima re tanta dissensio. Ego autem quo 
+      con<lb ed="#L" n="28" break="no"/>trouersiam hanc manifestius explicem: diuidam 
+      omni<lb ed="#L" n="29" break="no"/>no totam istam de libris canonicis quaestionem, in 
+      qua<lb ed="#L" n="30" break="no"/>tuor partes. Primum illud ostendam, ad cuiusne 
+      aucto<lb ed="#L" n="31" break="no"/>ritatem spectet definire, quis liber sit canonicus. Deinde 
+      <lb ed="#L" n="32"/>eos libros, qui nunc in dubium veniunt, sacros esse 
+      de<lb ed="#L" n="33" break="no"/>monstrabo. Tum adducam argumenta, quae 
+      verisimilitu<lb ed="#L" n="34" break="no"/>dine homines alioqui &amp; doctos &amp; pios fallere potuerunt. 
+      <lb ed="#L" n="35"/>Postremo eadem argumenta diluam. Haec enim omnia ad 
+      <lb ed="#L" n="36"/>hanc quaestionem referenda sunt.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

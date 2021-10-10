@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="13"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e135"><!-- Z4Yt34-l2c3 -->
+            <head xml:id="Z4Yt34-d1e135-Hd1e106">Caput 3</head>
+            <p xml:id="Z4Yt34-d1e135-d1e109">
+               <lb ed="#L" n="19"/>Cap. tertium ostendit Deum, nec per se nec per alium 
+      <lb ed="#L" n="20"/>fallere vnquam posse.
+    </p>
+            <p xml:id="Z4Yt34-d1e135-d1e116">
+               <lb ed="#L" n="21"/>EA igitur explicanda quaestione, quoniam breuis esse 
+      <lb ed="#L" n="22"/>cupio, illud statim ponendum est, diuinae potentiae 
+      de<lb ed="#L" n="23" break="no"/>scriptionem esse duplice. Nam &amp; generale quandam  
+      <lb ed="#L" n="24"/>intelligimus, quae quoniam lege nulla etiam naturali 
+      <lb ed="#L" n="25"/>constringitur, a Theologis absoluta vocatur: Et aliam  
+      <lb ed="#L" n="26"/>huic subiectam, quae spectat in rerum ordinem praefinitum, 
+      <lb ed="#L" n="27"/>ideoque potentiam appellant ordinatam. Atque illa 
+      superi<lb ed="#L" n="28" break="no"/>or definiri solet circa eas res, quas esse non repugnat,  
+      <lb ed="#L" n="29"/>quaeue non implicant contradictionem, sic enimloquun 
+      <lb ed="#L" n="30"/>tur. Quae autem potentia ordinaria fubiecta illi priori quasi 
+      <lb ed="#L" n="31"/>generi est, eam definiunt circa ea, quae esse possunt salua 
+      <lb ed="#L" n="32"/>iege statutisque diuinis. Illud etiam ponere debemus 
+      <lb ed="#L" n="33"/>mentiri nihil aliud esse, quam asserere falsum animo fallendi. 
+      <lb ed="#L" n="34"/>Sic enim. Aug. ac Gelasius definierunt. Ex duobus itaque  
+      <lb ed="#L" n="35"/>mendacium conflatur, si falsum dicitur, &amp; si eo animo 
+      di<lb ed="#L" n="36" break="no"/>citur, vt fallantur audientes. Sed &amp; quis proprie 
+      dica<lb ed="#L" n="37" break="no"/>tur fallere, explicandum est ante breuiter, quo facilius id 
+      <lb ed="#L" n="38"/>quod docere volumus intelligi possit. No enim qui verun 
+      <!--25.xml-->
+      <pb ed="#L" n="14"/>
+               <lb ed="#L" n="1"/>dicit is proprie fallax existimandus est: licet ille qui 
+      au<lb ed="#L" n="2" break="no"/>dit, ex parua intelligentia veritatis in maximos incurrat 
+      <lb ed="#L" n="3"/>errores. Improprie autem, res a Deo creatae dicuntur esse 
+      <lb ed="#L" n="4"/>fallaces, dicuntur item esse muscipulae, sed pedibus 
+      insipi<lb ed="#L" n="5" break="no"/>entum. Ecouis igitur alium proprie fallit? Nempe qui fal 
+      <lb ed="#L" n="6"/>sum asserendo causa alii est vt fallatur. Alioqui si ex alieno 
+      <lb ed="#L" n="7"/>errore &amp; ignorantia fallace quempiam definimus, ipsa quoque 
+      <lb ed="#L" n="8"/>veritas erit nobis fallacissima. His positis sit prima 
+      conclu<lb ed="#L" n="9" break="no"/>sio. Haereticum est asserere, quod Deus de potentia 
+      ordi<lb ed="#L" n="10" break="no"/>nata mentiri possit. Est enim Deus verax, omnis autem homo 
+      <lb ed="#L" n="11"/>mendax. Et rursum, Si non credimus, ille fidelis permanet, 
+      <lb ed="#L" n="12"/>negare seipsum non pontest. Et alio loco tandem, non est Deus 
+      <lb ed="#L" n="13"/>quasi homo vt mentiatur. Atque haec quidem conclusio adeo 
+      <lb ed="#L" n="14"/>est apud omnes certa, vt eam testimoniis etiam apertis 
+      confirmas<lb ed="#L" n="15" break="no"/>se, superuacaneum fuisse videatur. Quare illa breuiter 
+      po<lb ed="#L" n="16" break="no"/>sita pergamus ad reliquas. Secunda conclusio est. Qui ex- 
+      <lb ed="#L" n="17"/>istimat Deum ex ordinaria potentia per administrum posse 
+      <lb ed="#L" n="18"/>vel mentiri vel fallere, errat ille in fide turpissime. Nam  
+      <lb ed="#L" n="19"/>haereseos notam huic inurere ad ecclesiae auctoritatem 
+      perti<lb ed="#L" n="20" break="no"/>uebit. Atque haec quidem conclusio primum ex eo colligitur,  
+      <lb ed="#L" n="21"/>quod eiusdem est praecipere malum &amp; facere malum: quisque 
+      <lb ed="#L" n="22"/>enim eius rei causa est, quae eo imperante fit. At iuxta 
+      fi<lb ed="#L" n="23" break="no"/>dem catholicam Deus auctor peccati esse non potest,  
+      <lb ed="#L" n="24"/>ergo ne mendacii quidem, quod iuxta potentiam ordinariam  
+      <lb ed="#L" n="25"/>peccatum est. Non itaque Deo auctore vel angelus vel 
+      ho<lb ed="#L" n="26" break="no"/>mo quempiam fallit. Deinde cum dominus per administros 
+      <lb ed="#L" n="27"/>vel angelos vel homines nobis loquitur, ipse se loqui 
+      te<lb ed="#L" n="28" break="no"/>statur: vt multis locis sacrarum literarum constat. Ita si Dei 
+      <lb ed="#L" n="29"/>idministri mentirentur. Deum quoque mentiri necesse 
+      <lb ed="#L" n="30"/>esset. Quod quam absurdum sit, quis non videt: 
+      </p>
+            <p xml:id="Z4Yt34-d1e135-d1e227">
+               <lb ed="#L" n="31"/>Praeterea, sic opinantibus non constaret an Deus nos 
+      <lb ed="#L" n="32"/>per apostolos &amp; prophetas fefellerit. Et cum in sacris 
+      li<lb ed="#L" n="33" break="no"/>eris Deus ipse per se quidem raro fuerit locutus, per 
+      an<lb ed="#L" n="34" break="no"/>gelos autem &amp; per homines frequentissime: si his admis 
+      <lb ed="#L" n="35"/>nistris falli a Deo possumus, certe sacrarum literarum 
+      <lb ed="#L" n="36"/>firmitas corruet. Atque haec quidem ratio tam magnum 
+      <lb ed="#L" n="37"/>apud me momentum habet, vt non dubitem, ab ecclesia 
+      <lb ed="#L" n="38"/>catholica errorem hunc haeresis nota damnatum iri, si in 
+      <lb ed="#L" n="39"/>consultationem referatur. Quippe qui aut prorsus euertit 
+      <!--26.xml-->
+      <pb ed="#L" n="15"/>
+               <lb ed="#L" n="1"/>nostrae fidei fundamenta, aut certe non patitur firma 
+      com<lb ed="#L" n="2" break="no"/>sistere. Poro sacris auctoribus fidem habere non 
+      tene<lb ed="#L" n="3" break="no"/>bimur, si semel eam opinionem induimus, quod Deus 
+      <lb ed="#L" n="4"/>per alios decipere possit. Nec vlla Dei pollicitatio 
+      fir<lb ed="#L" n="5" break="no"/>ma erit, nisi quam Deus per se ipse praestiterit. Id quod 
+      <lb ed="#L" n="6"/>aperte cum Apostolo pugnat. Nam cum in epistola ad 
+      <lb ed="#L" n="7"/>Hebraeos in eam promissionem incidisset, que Abraham,  
+      <lb ed="#L" n="8"/>per angeli haud dubie ministerium, facta est, voles cinquity  
+      <lb ed="#L" n="9"/>Deus ostendere pollicitationis haeredibus immobilitatem 
+      <lb ed="#L" n="10"/>consilij sui, interposuit iusiurandum: vt per duas res 
+      im<lb ed="#L" n="11" break="no"/>mobiles, quibus impossibile est mentiri Deum, fortissimum 
+      <lb ed="#L" n="12"/>solatium haberemus, qui confugimus ad tenendam 
+      propo<lb ed="#L" n="13" break="no"/>sitam spem: quam sicut anchoram habemus animae tutam ac 
+      <lb ed="#L" n="14"/>firmam. Non esset, autem tuta &amp; firma, si huic 
+      opina<lb ed="#L" n="15" break="no"/>tioni credimus. Efficitur itaque Deum nullo modo posse 
+      <lb ed="#L" n="16"/>fallere. Nec mihi dicas scriptores sacros iustos sanctosque 
+      <lb ed="#L" n="17"/>fuisse, spiritu enim sancto inspirante locuti sunt sanct 
+      <lb ed="#L" n="18"/>Dei homines. Et rursum, Sicut locutus est per os 
+      sancto<lb ed="#L" n="19" break="no"/>rum, &amp; c. per huiusmodi autem viros Deum nec velle 
+      fal<lb ed="#L" n="20" break="no"/>lere, nec vero posse: sed per improborum ministerium 
+      <lb ed="#L" n="21"/>posse. Primum enim si spiritu Dei inspiratus loquitur etiam 
+      <lb ed="#L" n="22"/>impius, Deo verba illa tribuuntur, atque adeo Dei 
+      authori<lb ed="#L" n="23" break="no"/>tatem habent. Deinde si Dei vel consilio vel praecepto 
+      menti<lb ed="#L" n="24" break="no"/>tur impius, certe eodem consilio praeceptoue mentiri poterit. 
+      <lb ed="#L" n="25"/>Non igitur Deus potest per alium fallere, id quod secunda 
+      <lb ed="#L" n="26"/>conclusione dictum est. Tertia conclusio. Deus etiam ex 
+      abso<lb ed="#L" n="27" break="no"/>luta potentia nec per se nec per alium mentiri potest. Cum 
+      <lb ed="#L" n="28"/>sit Cinquit Augustinus, omnipotens, mori non potest, falli 
+      <lb ed="#L" n="29"/>non potest, mentiri non potest. Et rursum idem, dum de 
+      <lb ed="#L" n="30"/>omnipotentia Deisait, tam multa dixerimus, si volunt 
+      <lb ed="#L" n="31"/>inuenire quod omnipotens non potest, habent 
+      pror<lb ed="#L" n="32" break="no"/>sus: Ego dicam, mentiri non potest. Dominus autem id 
+      <lb ed="#L" n="33"/>mihi manifeste videtur confirmare cum ait. Caelum &amp;  
+      <lb ed="#L" n="34"/>terra tranfibunt, verba autem mea non transibunt. Vel 
+      con<lb ed="#L" n="35" break="no"/>cidant ergo omne caelum omnisque natura, diuina 
+      tamen<lb ed="#L" n="36" break="no"/>veritas consistat necesse est. Praeterea: &amp; illud 
+      Aposto<lb ed="#L" n="37" break="no"/>li testimonium, quod ante citatum est, idipsum ostendit. 
+      <lb ed="#L" n="38"/>Est a inquit. Deus erax: omnis autem homo 
+      men<lb ed="#L" n="39" break="no"/>dax. Quo loco Paulus non significat quidem omnes 
+      <!--27.xml-->
+      <pb ed="#L" n="16"/>
+               <lb ed="#L" n="1"/>homines mentiri, sed eo esse ingenio: vt mentiri possint.  
+      <lb ed="#L" n="2"/>De natura quippe agit non de more. Nam reperire 
+      lice<lb ed="#L" n="3" break="no"/>at viros aliquando, qui vel rationem rectam ducem 
+      se<lb ed="#L" n="4" break="no"/>quentes vel euangelii gratia legeque adiuti ac moniti a 
+      <lb ed="#L" n="5"/>mendacio abhorrent, veritatem amplectuntur. Sed 
+      quo<lb ed="#L" n="6" break="no"/>niam humanitatis ea est imbecillitas, vt veritatem, quam  
+      <lb ed="#L" n="7"/>tenet, destituere interdum possit: idcirco scriptura 
+      om<lb ed="#L" n="8" break="no"/>nem hominem dixit esse mendacem. Ex quo intelligitur, 
+      <lb ed="#L" n="9"/>in eo sensu Deum appellari veracem, quod cum diuina 
+      <lb ed="#L" n="10"/>natura mendacium pugnet. Id quod non modo 
+      proba<lb ed="#L" n="11" break="no"/>bili argumentatione, sed etiam necessaria Theologorum 
+      <lb ed="#L" n="12"/>ratione concluditur. Nam quae contrarietas est mali &amp; 
+      <lb ed="#L" n="13"/>boni, eadem est veri &amp; falsi. Sed primae bonitati 
+      repu<lb ed="#L" n="14" break="no"/>vnat facere malum, ergo &amp; primae veritati dicere falsum. 
+      <lb ed="#L" n="15"/>Hinc enim illa sunt, fidelis dominus in omnibus verbis 
+      <lb ed="#L" n="16"/>suis, &amp; sanctus in omnibus operibus suis. Et fidelis Deus 
+      <lb ed="#L" n="17"/>&amp; absque vlla iniquitate. Tam alienus itaque Deus estam 
+      <lb ed="#L" n="18"/>faisitate quam ab iniquitate: &amp; sicut nec per se nec 
+      pera<lb ed="#L" n="19" break="no"/>lium iniquitatem facere, ita ne fallere quempiam potest,  
+      <lb ed="#L" n="20"/>Quod si quispiam Deo auctore falleretur, iam a fonte 
+      <lb ed="#L" n="21"/>veritatis mendacium emanaret. At non solum 
+      Euange<lb ed="#L" n="22" break="no"/>lista testate, sed natura etiam duce cognouimus, omne 
+      men<lb ed="#L" n="23" break="no"/>dacium non esse ex veritate. At reueracvt eo vnde egressa 
+      <lb ed="#L" n="24"/>est referat se oratiovtrunqe &amp; malum facere &amp; falsum 
+      di<lb ed="#L" n="25" break="no"/>cere cumnatura stabili immobilique pugnat. Inde enim cum 
+      <lb ed="#L" n="26"/>scriptura dixisset, non est Deus vt homo vt mentiatur, 
+      <lb ed="#L" n="27"/>euestigio subdidit: nec vt filius hominis vt mutetur: Me 
+      <lb ed="#L" n="28"/>dacium quippe mobilis naturae nota est. Adde huc, quod si 
+      <lb ed="#L" n="29"/>per alium Deus decipere homines potest, &amp; per se quoque 
+      <lb ed="#L" n="30"/>idem poterit efficere. Caetera siouidem mala quae poenam 
+      <lb ed="#L" n="31"/>habent a culpa disiunctam, Deus dare: &amp; per ministros &amp; 
+      <lb ed="#L" n="32"/>sine ministris per se ipse potest. Atque vt semel finiam, si 
+      <lb ed="#L" n="33"/>Deus mentiri posset, merito etiam nos fformidare 
+      poteri<lb ed="#L" n="34" break="no"/>mus, an fuerit aliquando mentitus. At nullus est, inquies, 
+      <lb ed="#L" n="35"/>tormidandi locus: cum ex potentia ondinaria constet, Deum 
+      <lb ed="#L" n="36"/>non posse mentiri. Belle id quidem: sed cum hoc nisis per 
+      <lb ed="#L" n="37"/>reuelationem constare nequeat, qui scire possumus, an illa 
+      <lb ed="#L" n="38"/>ipsa reuelatione Deus potentiaisua absoluta fuerit 
+      abu<lb ed="#L" n="39" break="no"/>sus ? Vt enim apud Augustinum est, quomodo creden¬ 
+      <!--28.xml-->
+      <pb ed="#L" n="17"/>
+               <lb ed="#L" n="1"/>dum est ei, qui putet quandoqe esse mentiendum? Nam 
+      <lb ed="#L" n="2"/>&amp; forte tunc mentitur, cum praecipit vt ei credamus. 
+      <lb ed="#L" n="3"/>Petit ergo, ne ita sit, sacrarum literarum certitudo. 
+      Prae<lb ed="#L" n="4" break="no"/>terque quod apud Philosophos tam euidens est. Deum non 
+      <lb ed="#L" n="5"/>mentiri, quam esse tum optimum tum sapientissimum, ac 
+      <lb ed="#L" n="6"/>proinde nec fallere nec falli posse. Nihil autem interesse, 
+      <lb ed="#L" n="7"/>an per se ipse id efficiat, an per administros suos. Etenim 
+      <lb ed="#L" n="8"/>nec purissima veritas est, cui quodammodo est vel 
+      falsi<lb ed="#L" n="9" break="no"/>tas vel fallacia permixta, nec summa intelligitur, qua 
+      ma<lb ed="#L" n="10" break="no"/>iorem aliam cogitamus. Veracior autem is esset, qui nec 
+      <lb ed="#L" n="11"/>per se nec per anum, quam qui per alium fallere posset. Ita 
+      <lb ed="#L" n="12"/>diuina veritate firmiter posita, &amp; rationum ac 
+      testimonio<lb ed="#L" n="13" break="no"/>rum certitudine corroborata, non aliud superest, nisi vt 
+      <lb ed="#L" n="14"/>aduersariorum argumenta diluamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="488"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e753"><!-- Z4Yt34-l8c6 -->
+            <head xml:id="Z4Yt34-d1e753-Hd1e106">Caput 6</head>
+            <p xml:id="Z4Yt34-d1e753-d1e109">
+               <lb ed="#L" n="16"/>Cap. Sextum, De auctoritate iuris Pontificij 
+      <lb ed="#L" n="17"/>prudentium.
+    </p>
+            <p xml:id="Z4Yt34-d1e753-d1e116">
+               <lb ed="#L" n="18"/>ATque hic quidem liber concludi iam poterat, nisi 
+      <lb ed="#L" n="19"/>Theologiae iuris pontificij prudentia iungeretur,  
+      <lb ed="#L" n="20"/>essetque proinde hoc etiam loco explicandum, quantum 
+      <lb ed="#L" n="21"/>iuris huiusmodi prudentium auctoritas Theologo ad 
+      ar<lb ed="#L" n="22" break="no"/>gumentandum conferat. Sunt enim quidam vsqueadeo 
+      <lb ed="#L" n="23"/>in ea facultate doctis infensi, vt illorum auctoritatem ab  
+      <lb ed="#L" n="24"/>usu prorsus Theologiae remotam esse arbitrentur. Nos vero 
+      <lb ed="#L" n="25"/>huiusmodi doctorum auctoritas quanti sit Theologo 
+      fa<lb ed="#L" n="26" break="no"/>cienda, paucis ostendemus, illo principio sumpto, Theo 
+      <lb ed="#L" n="27"/>logis, qui pontificum canones ignorent, nimisque, multa 
+      <lb ed="#L" n="28"/>deesse ad vsus Theologiae necessarios. 
+      </p>
+            <p xml:id="Z4Yt34-d1e753-d1e142">
+               <lb ed="#L" n="29"/>Principio enim si a Theologis animarum cura non est 
+      <lb ed="#L" n="30"/>aliena, sed potius animas regere, eorum, quasi peculiare 
+      <lb ed="#L" n="31"/>munus est, procul dubio canonici iuris scientia est illis 
+      <lb ed="#L" n="32"/>necessaria. Nam quemadmodum non est in Abbatem 
+      eli<lb ed="#L" n="33" break="no"/>gendus, nisi qui ante fuerit in regula competenter 
+      instru<lb ed="#L" n="34" break="no"/>ctus, vt c. officij. de electio. Inno. tradit, ita ne cura 
+      qui<lb ed="#L" n="35" break="no"/>dem ecclesiam gubernandi est ei committenda, qui 
+      eccle<lb ed="#L" n="36" break="no"/>siasticas regulas nescit. Theologus igitur, qui vel 
+      episco<lb ed="#L" n="37" break="no"/>pus vel parochus futurus est, nisi canones ante didicerit,  
+      <lb ed="#L" n="38"/>quibus fideles debent in Christiana religione &amp; ecclesiae 
+      <lb ed="#L" n="39"/>caeremonijs institui, non habebit profecto ad rem hanc 
+      <!--500.xml-->
+      <pb ed="#L" n="489"/>
+               <lb ed="#L" n="1"/>publicam gerendam Theologiae officinam satis instructam. 
+      <lb ed="#L" n="2"/>Atque hinc illa sunt ex Caelestino, Leone, Augustino, 
+      se<lb ed="#L" n="3" break="no"/>ptima synodo, concilio Cathaginen. concilio Toleta. 4. 
+      <lb ed="#L" n="4"/>concilio Aurelianen. 4. Quae partim a Gratiano, partim a 
+      <lb ed="#L" n="5"/>Burchardo referuntur. Quibus omnibus locis idem 
+      om<lb ed="#L" n="6" break="no"/>nino praescribitur, hoc est, sacerdotes Canonum 
+      eccle<lb ed="#L" n="7" break="no"/>siasticorum oportere esse peritos. Episcopis item iuris ca 
+      <lb ed="#L" n="8"/>nonici intelligentiam esse necessariam. facile ostenditur 
+      <lb ed="#L" n="9"/>ex cap. accedentibus. de excessi. praelat. Vbi definit 
+      Pon<lb ed="#L" n="10" break="no"/>tifex, ad Episcopum pertinere de causis matrimonialibus 
+      <lb ed="#L" n="11"/>cognoscere, publicas poenitentias vel iniungere, vel 
+      tol<lb ed="#L" n="12" break="no"/>lere, indulgentias concedere. At haec omnia nisi sciat,  
+      <lb ed="#L" n="13"/>quomodo &amp; quatenus per ius liceant, nulla ratione rite 
+      <lb ed="#L" n="14"/>apere potest. Qua de re quoniam late disserunt 
+      Innocen<lb ed="#L" n="15" break="no"/>Hostien. Anto. de Butri. Cardin. Abbas, &amp; caeteri 
+      iurispe<lb ed="#L" n="16" break="no"/>riti in cap. Cum in cunctis. de electio. &amp; in cap. Nisi cum 
+      <lb ed="#L" n="17"/>pridem. de renun. &amp; in c. 1. de consanguini. &amp; affini. 
+      Gra<lb ed="#L" n="18" break="no"/>tianus quoqe. 21. dis: Cosmus in pragma. sanctione 
+      Galli<lb ed="#L" n="19" break="no"/>cana. titu. de collatio. 5. taliter. Ioannes de Anania in ca. 
+      <lb ed="#L" n="20"/>quia nonnullis. de magistris. August. de Anco. in libr. de 
+      <lb ed="#L" n="21"/>potestate eccles: quaest. 108. arti. 3. Anton. 3. part. titu. 5. 
+      <lb ed="#L" n="22"/>cap. 2. nos hic nihil superaddemus. Solum 
+      argumentabi<lb ed="#L" n="23" break="no"/>mur, canonici iuris cognitionem Theologo esse 
+      perne<lb ed="#L" n="24" break="no"/>cessariam. Cum enim Theologi propria functio sit, ex- 
+      <lb ed="#L" n="25"/>hortari fideles in doctrina sana, ijdem quippe 
+      Theolo<lb ed="#L" n="26" break="no"/>gi, qui magistri animarum esse dicuntur, doctor vero 
+      ec<lb ed="#L" n="27" break="no"/>clesiae non diuinas modo leges, verum etiam 
+      ecclesiasti<lb ed="#L" n="28" break="no"/>cas populum docere debeat, absurdum sane est, auferre a 
+      <lb ed="#L" n="29"/>Theologi munere canonum disciplinam. Nam licet in 
+      <lb ed="#L" n="30"/>scriptura sacra praecepta viuendi maiori ex parte 
+      tradan<lb ed="#L" n="31" break="no"/>tur, sed, vt Cardina. Turrecrema: in proemio decreti 
+      do<lb ed="#L" n="32" break="no"/>cet, doctrina morum in fpecie, secundum gradus 
+      singu<lb ed="#L" n="33" break="no"/>los &amp; ordines officiorum ecclesiae, sine iuris 
+      ecclesiasti<lb ed="#L" n="34" break="no"/>ci cognitione non habetur. At sermones morales 
+      ab<lb ed="#L" n="35" break="no"/>soluti esse nequeunt, si generatim &amp; non speciatim 
+      ha<lb ed="#L" n="36" break="no"/>beantur, vt Aristo. in ethicis suis monet. Ad disciplinae 
+      <lb ed="#L" n="37"/>igitur ecclesiasticae cumulum theologus n mirum 
+      sacra<lb ed="#L" n="38" break="no"/>ecclesiae leges debet addiscere Confirmat autem hoc 
+      <lb ed="#L" n="39"/>vel maxime Conci. Lateranen: sub Innocen. 3. in capit. 
+      <!--501.xml-->
+      <pb ed="#L" n="490"/>
+               <lb ed="#L" n="1"/>Quia nonnullis. de Magistris. Praecipit enim, quod 
+      theo<lb ed="#L" n="2" break="no"/>logus in ecclesia Cathedrali ad docendum constitutus,  
+      <lb ed="#L" n="3"/>sacerdotes doceat in sacra pagina, &amp; in his praesertim 
+      in<lb ed="#L" n="4" break="no"/>formet, quae ad animarum curam spectaro noscuntur. 
+      At<lb ed="#L" n="5" break="no"/>qui in canonibus plurima sunt instituta, quae ad animarum 
+      <lb ed="#L" n="6"/>pertinent curam, canones igitur non habet theologus 
+      i<lb ed="#L" n="7" break="no"/>gnorare. 
+      </p>
+            <p xml:id="Z4Yt34-d1e753-d1e277">
+               <lb ed="#L" n="8"/>Praeterea, omnis doctrina diuinitus inspirata vtilis est 
+      <lb ed="#L" n="9"/>ad docendum, arguendum, &amp; corripiendum, vt 
+      perfe<lb ed="#L" n="10" break="no"/>ctus sit homo Dei ad omne opus bonum instructus. 2. 
+      Ti<lb ed="#L" n="11" break="no"/>moth. 3. At canoues ecclesiastici instinctu Spiritussancti 
+      <lb ed="#L" n="12"/>sunt editi, vt Damasus ait. 25. quaestione prima. cap. 
+      Vio<lb ed="#L" n="13" break="no"/>latores. 
+      </p>
+            <p xml:id="Z4Yt34-d1e753-d1e294">
+               <lb ed="#L" n="14"/>Praeterea Theologi a summo pontifice &amp; episcopis 
+      as<lb ed="#L" n="15" break="no"/>ciscuntur, tanquam adiutores &amp; comministri, non solum 
+      <lb ed="#L" n="16"/>in praedicationis officio, verum etiam in audiendis 
+      con<lb ed="#L" n="17" break="no"/>fessionibus &amp; poenitentijs iniungendis, ac caeteris 
+      eius<lb ed="#L" n="18" break="no"/>modi, quae ad salutem animae pertinent: vt ex ca. inter 
+      cae<lb ed="#L" n="19" break="no"/>tera. de ossi. iudi. ordina. tun etiam rerum experimento do 
+      <lb ed="#L" n="20"/>cemur. Confessiones autem audire, ac poenitentias, iniun 
+      <lb ed="#L" n="21"/>gere sine iuris peritia vix quisque, potest. Nam, quod Caio 
+      <lb ed="#L" n="22"/>tanus dicit, poenitentes in excommunicationibus, 
+      suspen<lb ed="#L" n="23" break="no"/>sionibus, irregularitatibus, alijsque eiusmodi poenis, ad iuri 
+      <lb ed="#L" n="24"/>speritos remittendos esse, ne confessor ipse alterius facul 
+      <lb ed="#L" n="25"/>tatis onere praegrauetur, id ignoro prorsus, 
+      quemadmo<lb ed="#L" n="26" break="no"/>dum sine magnis incommodis fieri queat. 
+      </p>
+            <p xml:id="Z4Yt34-d1e753-d1e325">
+               <lb ed="#L" n="27"/>Primum enim interdum in poenas iuris incurrunt 
+      foe<lb ed="#L" n="28" break="no"/>minae, quas pro conscientiae remedio iurisperitorum adire 
+      <lb ed="#L" n="29"/>domos absurdum erit, ac certe parum muliebri 
+      verecun<lb ed="#L" n="30" break="no"/>diae consentaneum. Deinde etiam, cum iurisperiti &amp; 
+      scien<lb ed="#L" n="31" break="no"/>tiam &amp; verba locare soleant, ad confessionis sacramentum 
+      <lb ed="#L" n="32"/>non nisi prius data pecunia erit accessus. Adde, quod 
+      ho<lb ed="#L" n="33" break="no"/>mines vel sacerdoti verentur sua peccata detegere. Quod 
+      <lb ed="#L" n="34"/>si ad iurisperitos etiam relegentur, sacramenti huius onus 
+      <lb ed="#L" n="35"/>grauius efficietur, quam vt ferri ab imbecillis possit. Sed 
+      <lb ed="#L" n="36"/>quid ego incommoda numerare pergo, in quae 
+      confesso<lb ed="#L" n="37" break="no"/>res incidant necesse est, atque adeo poenitentes, si 
+      confes<lb ed="#L" n="38" break="no"/>sores ipsi canonum sunt ignari? Cum manifestiora sint, quam 
+      <lb ed="#L" n="39"/>vt indicare debeamus. Fatendum est igitur iuris peritiam  
+      <!--502.xml-->
+      <pb ed="#L" n="491"/>
+               <lb ed="#L" n="1"/>theologis magno vsui futuram. Nec adeo longe repetita 
+      <lb ed="#L" n="2"/>argumenta conquirere opus est, cum passim ipsi 
+      videa<lb ed="#L" n="3" break="no"/>mus, quanta canonum multitudine theologorum sint 
+      re<lb ed="#L" n="4" break="no"/>ferta volumina, illorum praesertim, qui indices 
+      quaestio<lb ed="#L" n="5" break="no"/>num scripsere, quas summas nuncupare consueuimus. Vbi 
+      <lb ed="#L" n="6"/>quantum ius canonicum theologis conferat, vel ipsi iudi 
+      <lb ed="#L" n="7"/>ces esse possunt, qui, quantumuis eximia doctrina polleant, 
+      <lb ed="#L" n="8"/>has &amp; legunt, &amp; amant epitomas. Sed &amp; summa ipsa 
+      Caie<lb ed="#L" n="9" break="no"/>tani, si, quae ex iure canonico multa continet, demas, 
+      ma<lb ed="#L" n="10" break="no"/>gna ex parte imperfecta reperietur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e753-d1e382">
+               <lb ed="#L" n="11"/>Praeterea, cum ad theologum nullae causae 
+      frequen<lb ed="#L" n="12" break="no"/>tius referantur, quam matrimonij, si non respondeat, 
+      in<lb ed="#L" n="13" break="no"/>doctus habebitur, sin circa iuris peritiam respondeat, ne 
+      <lb ed="#L" n="14"/>dicam impudens, erit imprudens. Nam, vt Alexand. cap. 
+      <lb ed="#L" n="15"/>primo. de con. &amp; aff. tradit, causae matrimonij non sunt 
+      <lb ed="#L" n="16"/>tractandae per quoslibet: sed per viros discretos, &amp; qui sta 
+      <lb ed="#L" n="17"/>tuta canonum non ignorent. Adhaec, summorum 
+      pon<lb ed="#L" n="18" break="no"/>tificum decreta a iure diuino, hoc est, a libris vtriusque 
+      <lb ed="#L" n="19"/>testamenti dimanasse creduntur, id quod habes de 
+      tran<lb ed="#L" n="20" break="no"/>lla. epist. cap. 1. &amp; de accusa. cap. Qualiter &amp; quando. 
+      se<lb ed="#L" n="21" break="no"/>cundo. Cum ergo Theologia ex eisdem fontibus suos 
+      <lb ed="#L" n="22"/>riuulos ducat, inepte nimirum theologus faciet, nisi 
+      ope<lb ed="#L" n="23" break="no"/>ra summorum pontificum velit vti: qui cum multorum 
+      con<lb ed="#L" n="24" break="no"/>silijs exquisitis, tum spiritu sancto suggerente, ex diuinis 
+      <lb ed="#L" n="25"/>oraculis dogmata &amp; leges, siue ad fidem siue ad fidelium 
+      <lb ed="#L" n="26"/>mores, &amp; ecclesiasticos ritus, &amp; caeremonias collegerunt. 
+      <lb ed="#L" n="27"/>Item theologica facultas non est eiusmodi, vt tantummo 
+      <lb ed="#L" n="28"/>do animo rem cernat, sed etiam aliquid molitur &amp; facit. 
+      <lb ed="#L" n="29"/>Est enim, vt scholae verbis vtar, partim speculatiua, partim  
+      <lb ed="#L" n="30"/>practica, quemadmodum Diuus Thomas, prima part.  
+      <lb ed="#L" n="31"/>quaestione prima. articulo quarto demonstrat. At iuris 
+      <lb ed="#L" n="32"/>canonici disciplina Theologia quaedam practica est, vt 
+      <lb ed="#L" n="33"/>Aluarus Pelagius docet libro de planctu ecclesi, secundo 
+      <lb ed="#L" n="34"/>articul. 2O. tum, quia eius facultatis finis est, dirigere 
+      ani<lb ed="#L" n="35" break="no"/>mas per canonicas leges in salutem aeternam: tum etiam,  
+      <lb ed="#L" n="36"/>quia in solo volumine decretalium multi casus &amp; 
+      arti<lb ed="#L" n="37" break="no"/>culi continentur, vtiles &amp; necessarij tam in consilijs 
+      ani<lb ed="#L" n="38" break="no"/>marum &amp; poenitentiae foro, quam in regendis &amp; disponem 
+      <lb ed="#L" n="39"/>dis ecclesijs &amp; rebus ecclesiasticis. Agit enim liber ille 
+      <!--503.xml-->
+      <pb ed="#L" n="492"/>
+               <lb ed="#L" n="1"/>de baptismo, de sacra vnctione, de celebratione missarum, 
+      <lb ed="#L" n="2"/>de Matrimonio, de ordinibus, &amp; caeteris sacramentis: de 
+      <lb ed="#L" n="3"/>statu Monacho. de clericorum honestate, de voto, de 
+      iu<lb ed="#L" n="4" break="no"/>reiurando, atque alijs eiusmodi. De Symonia, de 
+      periu<lb ed="#L" n="5" break="no"/>rio, de vsuris, de furtis, &amp; reliquis id genus criminibus. 
+      <lb ed="#L" n="6"/>de irregularitate, suspensione, excommunicatione, 
+      inter<lb ed="#L" n="7" break="no"/>dicto, poenisque similibus. Quae omnia si theologus igno 
+      <lb ed="#L" n="8"/>ret, non solum idiota erit, vt cap. ex multa. de voto. Inno 
+      <lb ed="#L" n="9"/>centius Vocat, sed in multis, praesertim quae ad actionem 
+      <lb ed="#L" n="10"/>pertinent, &amp; ad mores Christianos, hallucinabitur. 
+      At<lb ed="#L" n="11" break="no"/>que vtinam theologi, qui iuris canonici sunt penitus 
+      ig<lb ed="#L" n="12" break="no"/>nari, vel a decernendis conscientiae casibus abstinerent,  
+      <lb ed="#L" n="13"/>ne imperiti risui haberentur, cum de his nonnunquam 
+      re<lb ed="#L" n="14" break="no"/>spondent vt magistri, quae nunquam vt discipuli 
+      didice<lb ed="#L" n="15" break="no"/>runt, vel certe ea essent modestia praediti, vt 
+      iurisperi<lb ed="#L" n="16" break="no"/>tos consulerent, ne diuinando de sensu proprio responde 
+      <lb ed="#L" n="17"/>rent. Quod si docere vellemus in quot errores theologi 
+      <lb ed="#L" n="18"/>nonnulli ob iuris pontificij ignorationem incurrerint,  
+      <lb ed="#L" n="19"/>facillimum quidem esset, nisi esset longum, &amp; alio nostra ora 
+      <lb ed="#L" n="20"/>tio properaret. Sentiamus igitur, id quod positum est, 
+      iu<lb ed="#L" n="21" break="no"/>ris canonici doctrinam theologo esse valde necessariam,  
+      <lb ed="#L" n="22"/>eo vel maxime, quod summi pontificis, &amp; conciliorum 
+      au<lb ed="#L" n="23" break="no"/>ctoritas, quae huius doctrinae voluminibus continetur, 
+      <lb ed="#L" n="24"/>theologis argumenta subministrat propria theologicae 
+      fa<lb ed="#L" n="25" break="no"/>cultatis: vt abunde duobus ante libris demonstratum est.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

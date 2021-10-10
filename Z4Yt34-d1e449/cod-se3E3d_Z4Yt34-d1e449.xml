@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="246"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e449"><!-- Z4Yt34-l4c5 -->
+            <head xml:id="Z4Yt34-d1e449-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e449-d1e109">
+               <lb ed="#L" n="27"/>Aduersus hanc postremam conclusionem 
+      obiectio<lb ed="#L" n="28" break="no"/>nes quaedam. Caput quintum.
+    </p>
+            <p xml:id="Z4Yt34-d1e449-d1e116">
+               <lb ed="#L" n="29"/>
+               <!-- line coord error -->
+               <lb ed="#L" n="30"/>ATque in harum conclusionum &amp; explicationem &amp;  
+      <lb ed="#L" n="31"/>confirmationem abundem haec dicta sufficerent, nisi 
+      <lb ed="#L" n="32"/>huic postremae illud a quibusdam Theologis 
+      obii<lb ed="#L" n="33" break="no"/>coretur: quod: tempore dominicae passionis apostoli 
+      <lb ed="#L" n="34"/>omnes Christi fidem amiserunt: quo fieri, vt &amp; 
+      episco<lb ed="#L" n="35" break="no"/>pi omnes apostolis succedentes possint Christi fidem amit 
+      <lb ed="#L" n="36"/>tere. Nam quodeo temporis in sola beata virgine fides 
+      <lb ed="#L" n="37"/>permanserit, candela, inquiunt, illa significatis quae in 
+      of<lb ed="#L" n="38" break="no"/>ficiis eorum dierum sola non extinguitur: vnde disci¬ 
+      <!--258.xml-->
+      <pb ed="#L" n="247"/>
+               <lb ed="#L" n="1"/>puli lumen, quod amiserant, receperunt. Quoniam 
+      au<lb ed="#L" n="2" break="no"/>tem ratio haec infirma illis etiam videbatur, eandem 
+      om<lb ed="#L" n="3" break="no"/>nirto rem &amp; sanctorum veterum, &amp; scripturae sacrae 
+      testi<lb ed="#L" n="4" break="no"/>moniis confirmant.  
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e155">
+               <lb ed="#L" n="5"/>Primum ergo argumentum ex illo trahitur, quod per 
+      <lb ed="#L" n="6"/>Matthaeum dominus dicit, Omnes vos scandalum 
+      pa<lb ed="#L" n="7" break="no"/>tiemini in me in ista nocte : scriptum est enim, 
+      Percu<lb ed="#L" n="8" break="no"/>tiam pastorem, &amp; dispergentur oues gregis, id est, ab 
+      v<lb ed="#L" n="9" break="no"/>nitate fidei soluentur. Sic enim Clossa interlinearis 
+      <lb ed="#L" n="10"/>exponit.  
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e171">
+               <lb ed="#L" n="11"/>Secundum, ex eo quod apud Lucam legitur, verba 
+      mu<lb ed="#L" n="12" break="no"/>laerum nunciantium Christi resurrectionem visa 
+      aposto<lb ed="#L" n="13" break="no"/>lis esse quasi deliramenta. 
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e181">
+               <lb ed="#L" n="14"/>Tertium, ex eo quod Marcus tradit, Christum 
+      exprobras<lb ed="#L" n="15" break="no"/>se omnibus apostolis incredulitatem &amp; duritiam cordis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e188">
+               <lb ed="#L" n="16"/>Quartum, ex Augustino in illud psalmi, Defecerunt 
+      o<lb ed="#L" n="17" break="no"/>culi mei, omnes, inquit, discipuli desperauerunt, quod 
+      <lb ed="#L" n="18"/>ipse esset Christus. Alatrone apostoli victi sunt, qui 
+      <lb ed="#L" n="19"/>tunc credidit, quando ipsi defecerunt. Refert etiam 
+      Car<lb ed="#L" n="20" break="no"/>dinalis Turrecremata in hoc idem Ambrosium, 
+      Hiero<lb ed="#L" n="21" break="no"/>nymum, Gregorium, Isidorum. Verum, difficile est, de 
+      co<lb ed="#L" n="22" break="no"/>rum facilitate, perinde vt causa postulat, dicere: qui 
+      hu<lb ed="#L" n="23" break="no"/>iusmodi argumentis permoti, apostolos in vniuersum 
+      <lb ed="#L" n="24"/>omnes fidem perdidisse aiunt. Id quod non cum ratione 
+      <lb ed="#L" n="25"/>solum, sed etiam cum sacris literis pugnat. Nam, vt de 
+      <lb ed="#L" n="26"/>Petro taceamus, cuius fidem non defecisse, posterius 
+      de<lb ed="#L" n="27" break="no"/>monstraturi sumus, adhuc opinio illa de caeteris 
+      aposto<lb ed="#L" n="28" break="no"/>lis non modo non certa, sed ne probabilis quidem est. 
+      <lb ed="#L" n="29"/>Discipuli, inquit, abierunt in Galilaeam in montem, vbi 
+      <lb ed="#L" n="30"/>constituerat illis Iesus: &amp; videntes eum adorauerunt, 
+      <lb ed="#L" n="31"/>quidam autem dubitauerunt. Quidam, ait, non omnes. 
+      <lb ed="#L" n="32"/>Vadeo autem, hanc dubitationem a nonnullis non ad 
+      <lb ed="#L" n="33"/>apostolos, sed ad alios nescio quos discipulos referri: sed 
+      <lb ed="#L" n="34"/>mihi semper Theophilacti magis ac Remigii sententia 
+      <lb ed="#L" n="35"/>placuit, qui illam docent ad tempus, quo Christus ante 
+      <lb ed="#L" n="36"/>discipulis apparuerat, referendam. Id quod Marcus, vt 
+      opi<lb ed="#L" n="37" break="no"/>nor, intellexit: cum: ait, Increpauit incredulitatem &amp; 
+      du<lb ed="#L" n="38" break="no"/>ritiam cordis, quia iis, qui viderant eum resurrexisse, 
+      <lb ed="#L" n="39"/>non crediderant. Siue enim apparitio haec, quam  
+      <!--259.xml-->
+      <pb ed="#L" n="248"/>
+               <lb ed="#L" n="1"/>Maecus scribit, in die Ascensionis fuerit, vt multis 
+      pla<lb ed="#L" n="2" break="no"/>cet, siue antea, quemadmodum nonnullis etiam videtur,  
+      <lb ed="#L" n="3"/>dubitandum non est, quin eas increpationes hic Marcus 
+      <lb ed="#L" n="4"/>recapitulando perstrinxerit, quas sparsim alii 
+      euangeli<lb ed="#L" n="5" break="no"/>stae conscripserunt. Quia iis, inquit, qui viderant eum 
+      <lb ed="#L" n="6"/>resurrexisse, non crediderant. Constat autem ex aliis 
+      euan<lb ed="#L" n="7" break="no"/>gelistis incredulitatem &amp; duritiam cordis, ex ea scilicet 
+      <lb ed="#L" n="8"/>causa, quia his, qui viderant Christum surrexisse, non est 
+      <lb ed="#L" n="9"/>creditum, non ad omnes apostolos pertinere. Petrus 
+      <lb ed="#L" n="10"/>nanque &amp; Ioannes audito nuntio cucurrerunt ad 
+      monu<lb ed="#L" n="11" break="no"/>mentum: ac Iacobus iuxta Hebraeorum euangelium ab 
+      <lb ed="#L" n="12"/>hora, qua biberat domini calicem, iurauit se non 
+      come<lb ed="#L" n="13" break="no"/>sturum panem, donec Christum videret resurgentem:, 
+      <lb ed="#L" n="14"/>vt auctor est Hieronymus in catalogo scriptorum 
+      eccle<lb ed="#L" n="15" break="no"/>siasticorum. Non igitur omnes apostoli fidei iacturam 
+      <lb ed="#L" n="16"/>fecisse credendi sunt: nisi, quod absurdum est, omnes 
+      <lb ed="#L" n="17"/>infideles fuisse credideris. Non enim fides semel a 
+      Chri<lb ed="#L" n="18" break="no"/>tiano suscepta, nisi per infidelitatem tollitur. Illud 
+      ab<lb ed="#L" n="19" break="no"/>surdius, haereseos notam apostolis vniuersis 
+      inurere<lb ed="#L" n="20" break="no"/>Quod qui faciunt, idque sine idoneis &amp; vrgentibus 
+      cau<lb ed="#L" n="21" break="no"/>sis: hi non solum illis, sed Christo etiam &amp; ecclesiae 
+      in<lb ed="#L" n="22" break="no"/>urii sunt. Iam argumenta illa infirma esse quis non  
+      <lb ed="#L" n="23"/>videt, quae auctores illius opinionis subiecerunt? Quae 
+      <lb ed="#L" n="24"/>quidem partim a nobis ante confutata sunt, partim vno 
+      <lb ed="#L" n="25"/>nunc verbo confutabuntur. Si enim quicquam 
+      pro<lb ed="#L" n="26" break="no"/>bant, id solum probant: apostolos in fidei confessione 
+      <lb ed="#L" n="27"/>defecisse: aut etiam in fide viua, quae per dilectionem 
+      <lb ed="#L" n="28"/>operatur. Huc vero referri potest consuetudo illa 
+      ec<lb ed="#L" n="29" break="no"/>clesiastica extinguendi omnes coreos praeter vnum.  
+      <lb ed="#L" n="30"/>Quanquam Rupertus lib. de diui. offic. 5. asserit, 
+      extin<lb ed="#L" n="31" break="no"/>ctos cereos priores significare prophetas a Iudaeis 
+      inter<lb ed="#L" n="32" break="no"/>emptos: at cereum illum, qui ad breue tempus absconditur, 
+      <lb ed="#L" n="33"/>significare Christum. Sane vero etiam si apostoli fiunc 
+      <lb ed="#L" n="34"/>temporis fide caruissent, nihil tamen contra conclusionem 
+      <lb ed="#L" n="35"/>haberetur. Nam, vt Augustinus admonuit, tunc apostoli 
+      <lb ed="#L" n="36"/>defecerunt, cum nondum erant duces ecclesiae: nec illud 
+      <lb ed="#L" n="37"/>impletum fuerat, Ego confirmaui columnas eius. Vnus 
+      <lb ed="#L" n="38"/>ergo tunc erat pastor Iesus Christus. At Petrus ac 
+      reli<lb ed="#L" n="39" break="no"/>qui apostoli postea quam a Christo pastores constituti 
+      <!--260.xml-->
+      <pb ed="#L" n="249"/>
+               <lb ed="#L" n="1"/>sunt, sine controuersia fidem semper catholicam tenuere. 
+      <lb ed="#L" n="2"/>Caeterum, quod haeretici calumniantur, pastores ecclesiae 
+      <lb ed="#L" n="3"/>homines esse, fallereque proinde ac falli posse: 
+      argumen<lb ed="#L" n="4" break="no"/>tum exiguum sane atque mendicum est. Aliud 
+      quippe<lb ed="#L" n="5" break="no"/>fuerit de humanae naturae imbecillitate disputare, aliud de 
+      <lb ed="#L" n="6"/>diuina gratia &amp; prouidentia, qua homines in veritate 
+      fi<lb ed="#L" n="7" break="no"/>dei continentur. Tota nanqe simul fidelium concio 
+      ho<lb ed="#L" n="8" break="no"/>mines sunt: Prophetae item, apostoli, &amp; euangelistae 
+      homi<lb ed="#L" n="9" break="no"/>mines erant: sed quoniam spiritum veritatis accepere, in 
+      <lb ed="#L" n="10"/>falsam fidei doctrinam venire non poterant. Sic ergo &amp;  
+      <lb ed="#L" n="11"/>ecclesiae doctores vniuersi homines quidem sunt, sed 
+      quo<lb ed="#L" n="12" break="no"/>niam diuino spiritu gubernantur &amp; aguntur, in vera 
+      do<lb ed="#L" n="13" break="no"/>gmata: nequeunt in falsa declinare. 
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e364">
+               <lb ed="#L" n="14"/>Illud autem, quam ineptum, quam friuolum, q ridiculum: 
+      <lb ed="#L" n="15"/>Quod quidam interpretantur, ideo nos in ecclesiam non  
+      <lb ed="#L" n="16"/>credere, quia homines sunt: omnis vero homo mendax. 
+      <lb ed="#L" n="17"/>No est haec illa profecto causa, quae grauissimos viros 
+      ad<lb ed="#L" n="18" break="no"/>duxerit, vt in eccclesiam credendum esse negarent. Sed 
+      an<lb ed="#L" n="19" break="no"/>tiquior &amp; pulchrior &amp; ab auctoribus ipsis profecta alia 
+      <lb ed="#L" n="20"/>causa est. Augustinus quippe, credimus, ait, Petro, 
+      cre<lb ed="#L" n="21" break="no"/>dimus Paulo, in Paulum aut Petrum non credimus: 
+      cre<lb ed="#L" n="22" break="no"/>dere enim in eum, est credendo amare, credendo in eum 
+      <lb ed="#L" n="23"/>ire. Hactenus Augustinus. Et Ruffinus, Non dicitur 
+      <lb ed="#L" n="24"/>inquit, in sanctam ecclesiam, sed sanctam ecclesiam 
+      cre<lb ed="#L" n="25" break="no"/>dendam esse, non vt Deum, sed vt ecclesiam Deo 
+      con<lb ed="#L" n="26" break="no"/>gregatam. Hac itaque praepositionis syllaba creator a 
+      <lb ed="#L" n="27"/>creaturis secernitur. Haec ille. Ob id igitur auctores hi 
+      <lb ed="#L" n="28"/>non admittunt, vt in ecclesiam credamus: quia ecclesia 
+      <lb ed="#L" n="29"/>fidei nostrae finis non est.  
+      <lb ed="#L" n="30"/>Existit autem hoc etiam loco quaedam quaestio 
+      subdif<lb ed="#L" n="31" break="no"/>ficilis. Cum enima Hieronymo dupliciter ecclesia 
+      di<lb ed="#L" n="32" break="no"/>catur: &amp; ea, quae non habeat maculam aut rugam, &amp; vere 
+      <lb ed="#L" n="33"/>corpus Christi sit: &amp; ea, quae in Christi nomine, absque 
+      ple<lb ed="#L" n="34" break="no"/>nis virtutibus, imo cum Vitiis quibusdam admixtis, 
+      con<lb ed="#L" n="35" break="no"/>gregetur: vnde nobis constare poterit, vtronam modo 
+      <lb ed="#L" n="36"/>nomen ecclesiae capiatur: cum dicitur columna &amp; 
+      firma<lb ed="#L" n="37" break="no"/>mentum veritatis? Haeretici siquidem quicquid in 
+      scriptu<lb ed="#L" n="38" break="no"/>ris proditum est, quod ad ecclesiae, vel auctoritatem 
+      spe<lb ed="#L" n="39" break="no"/>ctet, vel veritatem: id totum non in posteriore sensu, 
+      <!--261.xml-->
+      <pb ed="#L" n="250"/>
+               <lb ed="#L" n="1"/>sed in priore accipiendum cauillantur. Concedunt itaque  
+      <lb ed="#L" n="2"/>spiritum veritatis ecclesiae sanctorum: ecclesiae, quae 
+      ma<lb ed="#L" n="3" break="no"/>los habeat permixtos, non concedunt. Nec ea se solum 
+      ra<lb ed="#L" n="4" break="no"/>tione tuentur, quod in voce ambigua liberum est 
+      vtran<lb ed="#L" n="5" break="no"/>libet significationem eligere: sed argumentis aliis in id 
+      <lb ed="#L" n="6"/>etiam incumbunt, vt hoc loco &amp; quaestione, ecclesiae 
+      no<lb ed="#L" n="7" break="no"/>men non aliter vsurpandum esse persuadeant. Illud 
+      pri<lb ed="#L" n="8" break="no"/>mum est, quod Hieronymus sentit, ecclesiam in secundo 
+      <lb ed="#L" n="9"/>significatu abusiue dici : vt fortis, inquit, prudens, castus,  
+      <lb ed="#L" n="10"/>iustus &amp; temperans, interdum plene pro his, qui 
+      perfe<lb ed="#L" n="11" break="no"/>ctae virtutis sunt, interdum abusiue pre his, qui sunt 
+      <lb ed="#L" n="12"/>incipientes, accipiuntur. Si ergo prior significatio 
+      pro<lb ed="#L" n="13" break="no"/>pria est, posterior impropria: commodius sine dubio 
+      <lb ed="#L" n="14"/>ecclesiae vocem in illa priore, hoc est, pro iustorum 
+      con<lb ed="#L" n="15" break="no"/>cione vsurpabimus. Rursum, cum Apostolus illa dicit,  
+      <lb ed="#L" n="16"/>Ecclesia subiecta est Christo, &amp;, Christus dilexit 
+      eccle<lb ed="#L" n="17" break="no"/>siam, &amp;c. &amp; Christus caput est ecclesiae, ipse saluator 
+      cor<lb ed="#L" n="18" break="no"/>poris eius: vex illa pro sanctorum congregatione 
+      acci<lb ed="#L" n="19" break="no"/>pitur, vt Hieronymus Augustinusque interpretati sunt, 
+      <lb ed="#L" n="20"/>quid igitur causae erit, cur aliter accipiamus : cum 
+      eccle<lb ed="#L" n="21" break="no"/>siam scribit Apostolus columnam esse ac firmamentum 
+      <lb ed="#L" n="22"/>veritatis? Praeterea, encomio illo nobilitauit Paulus 
+      <lb ed="#L" n="23"/>non ecclesiam qualibet, sed eam quae esset domus Dei. At 
+      <lb ed="#L" n="24"/>domus Dei soli iusti esse creduntur, vt etiam Augustinus 
+      <lb ed="#L" n="25"/>ait, non ergo columna veritatis est nisi ecclesia sanctorum. 
+      <lb ed="#L" n="26"/>Praeterea, Augustinus diserte docet, domum ecclesiamque, 
+      <lb ed="#L" n="27"/>Dei, quae in bonis solum fidelibus est, &amp; sanctis Dei 
+      ser<lb ed="#L" n="28" break="no"/>nuis, eam esse quae aedificata est supra petram, quae etiam  
+      <lb ed="#L" n="29"/>claues accepit ac potestatem soluendi &amp; ligandi. Eadem  
+      <lb ed="#L" n="30"/>ergo domus Dei est, quae est columna, &amp; firmamentum 
+      <lb ed="#L" n="31"/>veritatis. Quamobrem, si pastores, qui ecclesiae sibi 
+      no<lb ed="#L" n="32" break="no"/>men vendicant, mali sunt: non ad, eos haec, &amp; alia 
+      simi<lb ed="#L" n="33" break="no"/>lia pertinent. Quod &amp; Augustinus idem multis aliis 
+      <lb ed="#L" n="34"/>locis confirmat. Quae si vera sunt, non solum conclusio 
+      <lb ed="#L" n="35"/>illa postrema, quae nunc expenditur, sed reliquae omnes 
+      <lb ed="#L" n="36"/>funditus euertuntur: &amp; quicquid omnino hoc nobis 
+      lo<lb ed="#L" n="37" break="no"/>co constitutum est. At vero, quanquam in eam 
+      senten<lb ed="#L" n="38" break="no"/>tiam haec, &amp; alia plura ab haereticis, disputantur, nos 
+      ta<lb ed="#L" n="39" break="no"/>men ecclesiam sequi oportet, &amp; ab omni, quod abhor¬ 
+      <!--262.xml-->
+      <pb ed="#L" n="251"/>
+               <lb ed="#L" n="1"/>ret ab ipsius approbatione, fugere. Primum autem hoc 
+      <lb ed="#L" n="2"/>intelligendum puto, quae nunc ab illis defensionis ratio 
+      <lb ed="#L" n="3"/>viaque tentatur, eam non modo nostras rationes 
+      euerte<lb ed="#L" n="4" break="no"/>re: sed ad id etiam deducere, quod fidei catholicae rerumque 
+      <lb ed="#L" n="5"/>omnium publicarum naturae dissonum atque inimicum sit. 
+      <lb ed="#L" n="6"/>Si enim spiritus veritatis solum bonis a Christo est in 
+      <lb ed="#L" n="7"/>euangelio promissus: caeterae quoqe promissiones ad 
+      ec<lb ed="#L" n="8" break="no"/>clesiam, quae ex solis iustis constituitur, pertinebunt.  
+      <lb ed="#L" n="9"/>Quocirca, dicendum est enim sepius, nec legum 
+      feren<lb ed="#L" n="10" break="no"/>darum auctoritas, nec clauium potestas, nec peccatorum 
+      <lb ed="#L" n="11"/>remissio, nec doctrinaes vis, nec sacerdotii religio, nec 
+      vlla<lb ed="#L" n="12" break="no"/>omnino publica evangelii facultas, nisi in ecclesia omni ex 
+      <lb ed="#L" n="13"/>parre bona inuenietur. Cum vero in ecclesia catholica, quae 
+      <lb ed="#L" n="14"/>inde ab apostolis fuit, semper fuerint mali bonique 
+      permi<lb ed="#L" n="15" break="no"/>xti: in ea nimirum nulla fuisset firma fides, nulla certa 
+      ve<lb ed="#L" n="16" break="no"/>ritas, nulla expressa potestas, nulla solida auctoritas. Ita 
+      <lb ed="#L" n="17"/>omnia, quae vel pontificum, vel conciliorum, vel totius 
+      <lb ed="#L" n="18"/>etiam ecclesiae consensione decreta ac definita sunt, nullas 
+      <lb ed="#L" n="19"/>omnino haberent vires. Siue enim excipias, eos non esse 
+      iu<lb ed="#L" n="20" break="no"/>stos, siue, vt iusti sint, esse tamen nobis incognitos: 
+      vtra<lb ed="#L" n="21" break="no"/>libet via &amp; modo illorum dogmata, scita, leges, eludes. 
+      <lb ed="#L" n="22"/>Eritque, quemadinodum supra diximus, res Christi publica 
+      <lb ed="#L" n="23"/>omnium, quae fingi possunt, stultissime atque absurdissime con 
+      <lb ed="#L" n="24"/>stituta. Itaque sit verum illud, quod initio dixi, spiritum 
+      <lb ed="#L" n="25"/>veritatis, fidei catholicae fulcimentum, caeteraque 
+      spiri<lb ed="#L" n="26" break="no"/>tussancti charismata ei ecclesiae esse &amp; promissa &amp; data: 
+      <lb ed="#L" n="27"/>quam apostoli sua doctrina miraculisque fundarunt, ad 
+      <lb ed="#L" n="28"/>quam iidem suas conscripsere epistolas, quam in terris 
+      <lb ed="#L" n="29"/>semper habuit Christus, quam sacrae literae apte 
+      pru<lb ed="#L" n="30" break="no"/>denterque describunt ex bonis ac malis piscibus, ex 
+      <lb ed="#L" n="31"/>frumento, &amp; zizaniis, ex tritico &amp; palea, ex fatuis 
+      sa<lb ed="#L" n="32" break="no"/>pientibusque virginibus, e seruis probis improbisque 
+      <lb ed="#L" n="33"/>constantem. Haeretici ergo ecclesiae nomen sibi 
+      habe<lb ed="#L" n="34" break="no"/>ant &amp; inuidiosam &amp; obscurum, eamque ecclesiam 
+      inter<lb ed="#L" n="35" break="no"/>pretentur, quam adhuc nemo est mortalium intuitus: nos 
+      <lb ed="#L" n="36"/>autem ecclesiam ex consuetudine tum diuini 
+      sermo<lb ed="#L" n="37" break="no"/>nis, tum etiam vitae nostrae interpretemur. Nec 
+      me<lb ed="#L" n="38" break="no"/>tiamur eam, vt superbi &amp; arrogantes, verborum 
+      magni<lb ed="#L" n="39" break="no"/>ficentia: sed ecclesiam eam, quae habetur, existimemus,  
+      <!--263.xml-->
+      <pb ed="#L" n="252"/>
+               <lb ed="#L" n="1"/>illam autem omittamus, quae omuino nusquam reperitur. 
+      <lb ed="#L" n="2"/>Homines enim sumus, remque proinde publicam, quae est 
+      <lb ed="#L" n="3"/>in hominum vsu vitaque communi, non eam, quae fingitur, 
+      <lb ed="#L" n="4"/>sperare debemus. Quae omnia sic a me dicta existimari 
+      ve<lb ed="#L" n="5" break="no"/>lim, non vt nulla in terris sit coram Deo bonorum 
+      mul<lb ed="#L" n="6" break="no"/>titudo atque collectio, quae &amp; ecclesia &amp; sponsa, &amp; amica 
+      <lb ed="#L" n="7"/>Dei in sacris literis nuncupetur: sed vt eos nos a malis in 
+      <lb ed="#L" n="8"/>domo &amp; ecclesia Dei minime separemus, vbi vasa 
+      au<lb ed="#L" n="9" break="no"/>rea &amp; argentea sunt, lignea quoque &amp; fictilia: non in 
+      ho<lb ed="#L" n="10" break="no"/>norem omnia, sed quaedam vel in contumeliam. Verum  
+      <lb ed="#L" n="11"/>haec explanata sunt ante satis, vt arbitror diligenter. 
+      <lb ed="#L" n="12"/>Iam argumentis illis respondeamus, quae modo 
+      sug<lb ed="#L" n="13" break="no"/>gessimus: nam iis, quae a principio libri huius sunt 
+      po<lb ed="#L" n="14" break="no"/>uta, capite sequenti eodemque postremo 
+      respondebi<lb ed="#L" n="15" break="no"/>mus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e637">
+               <lb ed="#L" n="16"/>In voce, inquiunt, ambigua licet e multis 
+      vnumquod<lb ed="#L" n="17" break="no"/>libet significatum accipere. Minime, inquam, gentium. 
+      <lb ed="#L" n="18"/>Sed antecedentia primum &amp; consequentia spectanda sunt: 
+      <lb ed="#L" n="19"/>deinde considerandum, quae natura rerum sit, quid 
+      co<lb ed="#L" n="20" break="no"/>haereat, quid repugnet, multaque omnino alia, quae nos in 
+      <lb ed="#L" n="21"/>tertio decimo libro accuratius &amp; exquisitius 
+      perseque<lb ed="#L" n="22" break="no"/>mur. Quod si vbi dona ecclesiae Christus pollicetur,  
+      <lb ed="#L" n="23"/>continendis in officio ac veritate fidelibus necessaria, ea 
+      <lb ed="#L" n="24"/>nos ad latentia solum &amp; inuisa membra referimus: inania 
+      <lb ed="#L" n="25"/>profecto essent dona illa, parumque ad communem vtilitatem 
+      <lb ed="#L" n="26"/>accommodata. Quin, vt supra ostensum est, noxia essent, ac 
+      <lb ed="#L" n="27"/>perniciosa valde, quippe quae perditissimis quibusque 
+      ci<lb ed="#L" n="28" break="no"/>uibus, &amp; dissidiorum praeberent perpetuas causas, &amp; in 
+      <lb ed="#L" n="29"/>omnibus omnino flagitiis impunitatem ac licentiam 
+      sem<lb ed="#L" n="30" break="no"/>piternam. Iam vero si ratione duce ac magistra eum 
+      in<lb ed="#L" n="31" break="no"/>iurium principi bono &amp; sapienti censemus, qui illius 
+      priui<lb ed="#L" n="32" break="no"/>legia sic interpretatur, vt non solum frustra, sed in 
+      perni<lb ed="#L" n="33" break="no"/>ciem concessa esse videantur: quanto magis ille erit 
+      <lb ed="#L" n="34"/>Christi iniquus, prauus, &amp; maliciosus interpres, qui 
+      gra<lb ed="#L" n="35" break="no"/>tias &amp; fauores, quos reipublicae suae promisit Christus, in 
+      <lb ed="#L" n="36"/>eum sensum acceperit: qui non modo vanitatem prae se 
+      <lb ed="#L" n="37"/>ferat, sed afferat vel exitium? De ecclesia igitur, quae 
+      <lb ed="#L" n="38"/>bonos simul malosque complectitur, locus ille Pauli 
+      cae<lb ed="#L" n="39" break="no"/>terique similes intelligendi sunt. At talis concio ac 
+      <!--264.xml-->
+      <pb ed="#L" n="253"/>
+               <lb ed="#L" n="1"/>coetus abusiue ecclesia dicitur. Id primum nego. Nec 
+      <lb ed="#L" n="2"/>enim de forti, prudenti, iusto ac temperanti eadem est 
+      <lb ed="#L" n="3"/>causa. Fateor siquidem cum Hieronymo, eiusmodi 
+      vir<lb ed="#L" n="4" break="no"/>tutum vocabula ad incipientes atque imperfectos, non  
+      <lb ed="#L" n="5"/>nisi per abusum traduci posse. Quoniam vera 
+      virtu<lb ed="#L" n="6" break="no"/>tis definitio non illas inchoantes, &amp; vt ita dicam, 
+      informa<lb ed="#L" n="7" break="no"/>tas dispositiones, sed habitus plane absolutos atque 
+      per<lb ed="#L" n="8" break="no"/>fectos exprimit: quemadmodum Aristotcles. Diuus 
+      <lb ed="#L" n="9"/>Thomas, ac reliqui veri Philosophi tradiderunt. At 
+      <lb ed="#L" n="10"/>ecclesiae vox nihui tale indicat, quale isti fingunt, vnde 
+      <lb ed="#L" n="11"/>malos ab eo coetu excludamus: qui ecclesiae libi nomen 
+      <lb ed="#L" n="12"/>proprie vendicat. Quamobrem nulla est improprietas,  
+      <lb ed="#L" n="13"/>nullus abusus, si ecclesia etiam ea nuncupetur, quae in vno 
+      <lb ed="#L" n="14"/>baptismo, vna fide, vna religione, improbos habeat 
+      pro<lb ed="#L" n="15" break="no"/>bis admixtos. 
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e728">
+               <lb ed="#L" n="16"/>Quanquam aliter dein respondere possumus, 
+      Hiero<lb ed="#L" n="17" break="no"/>nymum de ecclesia Christi in eum sensum fere loqui: in 
+      <lb ed="#L" n="18"/>quo populum Dei, domum Dei, seruos Christi 
+      prope<lb ed="#L" n="19" break="no"/>modum vsurpamus. Eit enim nescio quomodo, vt casus 
+      <lb ed="#L" n="20"/>gignendi additus ad bonos, potissimum vocum illarum 
+      <lb ed="#L" n="21"/>intelligentiam deducat. Ita si ad ecclesiam vitio 
+      depra<lb ed="#L" n="22" break="no"/>uatam referantur, abusus fortasse nonnullus est: qui 
+      <lb ed="#L" n="23"/>mente magis concipi, quam verbis significari potest. Nam 
+      <lb ed="#L" n="24"/>&amp; populus Dei ille in sacris literis dicitur frequentissime, 
+      <lb ed="#L" n="25"/>qui Deo peculiariter dicatus est, in quo scilicet Dei fides 
+      <lb ed="#L" n="26"/>viget ac cultus: quanuis in eo sint aliqui peccatores. Sed 
+      <lb ed="#L" n="27"/>ad Hieronymi testimonium satis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e757">
+               <lb ed="#L" n="28"/>Ad id vero, quod subiunctum est, capite sequenti 
+      respon<lb ed="#L" n="29" break="no"/>debimus, vbi explicabitur, quonam sensu ad Ephesios 5. 
+      <lb ed="#L" n="30"/>Apostolus ecclesiam nominarit. Quod autem domus 
+      <lb ed="#L" n="31"/>Dei etiam illa sit domus magna, in qua sunt vasa aurea 
+      <lb ed="#L" n="32"/>&amp; argetea, lignea quoque &amp; fictilia: non est necesse 
+      demon<lb ed="#L" n="33" break="no"/>strare. Id tamen, etsi perspicuum est, ad futurum 
+      tem<lb ed="#L" n="34" break="no"/>pus reseruamus, cum primi capitis argumenta 
+      diluen<lb ed="#L" n="35" break="no"/>tur. Iam, quod postremo loco ex verbis Augustini 
+      ob<lb ed="#L" n="36" break="no"/>licitur, id caute &amp; legendum &amp; audiendum est: 
+      quem<lb ed="#L" n="37" break="no"/>admodum ante nos viri ecclesiastici admonuerunt. 
+      Pos<lb ed="#L" n="38" break="no"/>sunt enim verba illa duplicem sensum ingerere. Vnum, vt 
+      <lb ed="#L" n="39"/>soli iusti intelligantur Christi &amp; ecclesiae administri esse, 
+      <!--265.xml-->
+      <pb ed="#L" n="254"/>
+               <lb ed="#L" n="1"/>soli remittere peccata, soli ecclesiasticam habere &amp; 
+      au<lb ed="#L" n="2" break="no"/>ctoritatem &amp; potestatem. Quem sensum constat non 
+      ra<lb ed="#L" n="3" break="no"/>tioni solum, sed ecclesiae sidei facrisque etiam literis 
+      re<lb ed="#L" n="4" break="no"/>pugnare. Sed de hac re non est huius, aut loci, aut 
+      insti<lb ed="#L" n="5" break="no"/>tuti disserere. Alter ergo sine dubio Augustini sensus 
+      <lb ed="#L" n="6"/>est: vt soli iusti dicantur claues regni caelorum, 
+      potesta<lb ed="#L" n="7" break="no"/>tem ligandi ac soluendi, spiritum veritatis &amp; reliquas 
+      <lb ed="#L" n="8"/>spirituales oratias accepisse: quod vniuersa dona haec non 
+      <lb ed="#L" n="9"/>propter malos, sed propter honos ecclesiae &amp; promissa 
+      <lb ed="#L" n="10"/>&amp; collata sint. Sic enim quae oeconomis ac 
+      dispensatori<lb ed="#L" n="11" break="no"/>pus paterfamilias tribuit in familiae commoditates 
+      di<lb ed="#L" n="12" break="no"/>stribuenda, non oeconomis haec, sed familiae ipsi tributa 
+      <lb ed="#L" n="13"/>esse intelliguntur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e449-d1e819">
+               <lb ed="#L" n="14"/>Sic quae episcopis &amp; clericis populus dedit in 
+      paupe<lb ed="#L" n="15" break="no"/>rum expendenda vsus: ea non episcopis &amp; clericis, sed 
+      pau<lb ed="#L" n="16" break="no"/>peribus dicitur contulisse. Sic etiam, si princeps homini 
+      ig<lb ed="#L" n="17" break="no"/>noto quicqua ob amici sui preces meritumque donarit, 
+      <lb ed="#L" n="18"/>id iure ac vere dicet se non homini ignoto, sed amico 
+      <lb ed="#L" n="19"/>donasse. Ad quam omnino legem illa quoqe explicanda sunt,  
+      <lb ed="#L" n="20"/>quae ex Augustino contra Petri &amp; successorum eius 
+      au<lb ed="#L" n="21" break="no"/>ctoritatem afferuntur. Claues non vnus homo Petrus, sed 
+      <lb ed="#L" n="22"/>vnitas accepit ecclesiae. Item, Potestatem ligandi ac 
+      sol<lb ed="#L" n="23" break="no"/>uendi Petrus cum omnibus tanquam personam gerens 
+      <lb ed="#L" n="24"/>ipsius vnitatis accepit. Item Ecclesiae claues datae sunt, cum 
+      <lb ed="#L" n="25"/>Petro datae sunt : &amp; cum ei dicitur, ad omnes dicitur: Pasce 
+      <lb ed="#L" n="26"/>pues meas. Quae omnia, vt opinor, nihil aliud significant,  
+      <lb ed="#L" n="27"/>quam Petrum ac caeteros ecclesiae ministros, nec sibi, 
+      <lb ed="#L" n="28"/>nec ob sua merita, sed ecclesiae, obqueecclesiae causam, 
+      cla<lb ed="#L" n="29" break="no"/>ues, reliquaque euangelii publica munera accepisse. 
+      <lb ed="#L" n="30"/>Quanqua priora illa scio aliter ab aliis interpretari. Sunt 
+      <lb ed="#L" n="31"/>enim qui ea referant ad vsum potestatis: quem mali, quia 
+      <lb ed="#L" n="32"/>legitimum habere non possunt, dicuntur non habere. 
+      <lb ed="#L" n="33"/>Asii referunt omnino ad gratiam, non illam 
+      lsacramenta<lb ed="#L" n="34" break="no"/>lem, quae etiam per malos ministros dari solet, sed quae 
+      <lb ed="#L" n="35"/>precibus ministri respondet, vt de con. dq. 
+      Quomo<lb ed="#L" n="36" break="no"/>do Augustinus videntur significare. Alij tandem 
+      existi<lb ed="#L" n="37" break="no"/>mant, Augustinum de publicis raptoribus, vsurariis, 
+      con<lb ed="#L" n="38" break="no"/>cubinariis, sacrilegis, loqui. Aquibus olim, perinde vt 
+      <lb ed="#L" n="39"/>si essent ab ecclesia praecisi, non licebat sacramenta 
+      <!--266.xml-->
+      <pb ed="#L" n="255"/>
+               <lb ed="#L" n="1"/>percipere. Ideoque illiusmodi ministri gratiam 
+      sacramen<lb ed="#L" n="2" break="no"/>torum non dabant. Verum hoc disputare, vt saepe iam  
+      <lb ed="#L" n="3"/>diximus, non est huius diei ac temporis. Et Vualdensium 
+      <lb ed="#L" n="4"/>insania iam pridem explosa est: nec in eo negotio nos 
+      <lb ed="#L" n="5"/>nunc oportet elaborare. Itaque de his dictum est satis. 
+      <lb ed="#L" n="6"/>Nunc argumenta, quae a principio contra ecclesiae 
+      aucto<lb ed="#L" n="7" break="no"/>ritatem posita sunt, quam breuissime possumus, 
+      refella<lb ed="#L" n="8" break="no"/>mus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

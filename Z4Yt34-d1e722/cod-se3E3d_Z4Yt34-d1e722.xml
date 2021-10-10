@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e722"><!-- Z4Yt34-l8c3 -->
+            <head xml:id="Z4Yt34-d1e722-Hd1e106">Caput 3</head>
+            <p xml:id="Z4Yt34-d1e722-d1e109">
+               <lb ed="#L" n="13"/>Caput tertium.
+    </p>
+            <p xml:id="Z4Yt34-d1e722-d1e114">
+               <lb ed="#L" n="14"/>INfirma autem ea omnia argumenta esse, quae ab scholae 
+      <lb ed="#L" n="15"/>Tauctoritate deriuantur, illa primum ratio suadet, quod 
+      <lb ed="#L" n="16"/>nec e sacris literis, nec ex apostolorum institutis, neque 
+      <lb ed="#L" n="17"/>ex ecclesiae definitione, scholae auctoritas comprobatur. 
+      <lb ed="#L" n="18"/>Cumque scholasticis auctoribus spiritum veritatis 
+      nus<lb ed="#L" n="19" break="no"/>quam dominus fuerit pollicitus, errare vt homines 
+      pos<lb ed="#L" n="20" break="no"/>lunt, atque adeo nullum argumentum ex eorum 
+      auctori<lb ed="#L" n="21" break="no"/>tate firmum erit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e722-d1e134">
+               <lb ed="#L" n="22"/>Item nullum est in schola certum dogma, sed partium 
+      <lb ed="#L" n="23"/>factionibus plena sunt omnia. Nihil igitur certi ex 
+      scho<lb ed="#L" n="24" break="no"/>lae auctoritate confici potest. Praeterea theologi scholae 
+      <lb ed="#L" n="25"/>omnes asseruere, matrimonium etiam sine ecclesiae 
+      mini<lb ed="#L" n="26" break="no"/>stro contractum, esse vere ac proprie nouae legis 
+      sacramen<lb ed="#L" n="27" break="no"/>tum. At haec omnium communis sententia non solum 
+      <lb ed="#L" n="28"/>non facit certam fidem, sed ne probabilis quidem videtur 
+      <lb ed="#L" n="29"/>esse. Innulla igitur re aliascholae testimonium certum 
+      <lb ed="#L" n="30"/>erit. 
+      <lb ed="#L" n="31"/>At nos &amp; quid sentiamus, &amp; cur etiam sentiamus, 
+      pau<lb ed="#L" n="32" break="no"/>cissimis quam fieri poterit exponemus. Pugnabimusque 
+      <lb ed="#L" n="33"/>pro scholae auctoritate, non affectu, sed ratione. 
+      Quan<lb ed="#L" n="34" break="no"/>quam non sumus ignari, multos studiose contra esse 
+      di<lb ed="#L" n="35" break="no"/>cturos. Quod vitare nullo modo potuimus, nisi nihil 
+      om<lb ed="#L" n="36" break="no"/>nino scriberemus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

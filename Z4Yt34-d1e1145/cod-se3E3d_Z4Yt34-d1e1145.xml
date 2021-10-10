@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="729"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1145"><!-- Z4Yt34-l12c6 -->
+            <head xml:id="Z4Yt34-d1e1145-Hd1e106">Caput 6</head>
+            <p xml:id="Z4Yt34-d1e1145-d1e109">
+               <lb ed="#L" n="11"/>De varijs errorum gradibus, primumque, de haeresi o haeretica 
+      <lb ed="#L" n="12"/>propesitione. <sic>Caput octauum</sic>.
+    </p>
+            <p xml:id="Z4Yt34-d1e1145-d1e119">
+               <lb ed="#L" n="13"/>PRius vero quam istiusmodi propositonum 
+      genera<lb ed="#L" n="14" break="no"/>notasque definio, illud explicandum est, an omnia illa 
+      <lb ed="#L" n="15"/>ad haeresim requirantur, quae sunt ad haereticum 
+      consti<lb ed="#L" n="16" break="no"/>tuendum necessaria. Sunt enim auctores nobiles, qui 
+      exi<lb ed="#L" n="17" break="no"/>stiment omnem propositionem haeresim esse, quae fidei ve 
+      <lb ed="#L" n="18"/>ritati repugnet, quamuis ab ignorante sine vlla pertinacia 
+      <lb ed="#L" n="19"/>defendatur. Haereticus autem nisi sit pertinax nullo 
+      mo<lb ed="#L" n="20" break="no"/>do intelligitur. Huius autem opinionis suae multas 
+      cau<lb ed="#L" n="21" break="no"/>sas reddere conantur. Primam, quod nisi ita esset, aliqua  
+      <lb ed="#L" n="22"/>proposito ab vno affirmata esset haeresis, ab alio non esset. 
+      <lb ed="#L" n="23"/>vt si homo doctus sciens contrarium in sacris libris 
+      con<lb ed="#L" n="24" break="no"/>tineri assereret Moysen non Iudaeum fuisse, sed 
+      Aegy<lb ed="#L" n="25" break="no"/>ptium, tunc illam propositonem haereticam esse haesitari 
+      <lb ed="#L" n="26"/>non potest. At si eadem inscite ab aliquo homine rustico 
+      <lb ed="#L" n="27"/>&amp; idiota affirmaretur, haeretica non osset. Ita fieret, vt 
+      pro<lb ed="#L" n="28" break="no"/>positio ab asserente penderet, quod vt inquiunt quam sit 
+      <lb ed="#L" n="29"/>erroneum, vel mediocriter docto est manifestum. Si enim 
+      <lb ed="#L" n="30"/>proposito falsa est, a quocunque dicatur, semper erit 
+      fal<lb ed="#L" n="31" break="no"/>sa: ergo si est propositio haeretica, a quocunque illa 
+      assera<lb ed="#L" n="32" break="no"/>tur, semper erit haeretica. Alteram causam reddunt, quod 
+      <lb ed="#L" n="33"/>veritas catholica non pendet ab asserente vt veritas 
+      ca<lb ed="#L" n="34" break="no"/>tholica sit. Nam siue Iudaeus siue Paganus siue Christianus 
+      <lb ed="#L" n="35"/>Deum esse vnum &amp; trinum affirmet, illa certe assertio 
+      ca<lb ed="#L" n="36" break="no"/>tholica est: ergo neque contraria falsitas ex eo, a quo 
+      asseri<lb ed="#L" n="37" break="no"/>tur, haeresis sibi aut nomen aut rationem vendicat: sed abso¬ 
+      <!--741.xml-->
+      <pb ed="#L" n="730"/>
+               <lb ed="#L" n="1"/>lute &amp; per se est haeretica, quoniam absolutem &amp; per se cum 
+      <lb ed="#L" n="2"/>catholica veritate pugnat. Caeteras causas, vel ego non  
+      <lb ed="#L" n="3"/>intelligo, vel certe indignas iudico, vta nobis referantur. 
+      <lb ed="#L" n="4"/>llla vehementior apparet, quae ab illis omittitur, quod 
+      <lb ed="#L" n="5"/>Theologi rogati, an proposito aliqua haeretica sit, an non,  
+      <lb ed="#L" n="6"/>simpliciter respondent aut esse aut non esse, nulla eius, qui 
+      <lb ed="#L" n="7"/>asseruit, habita ratione. Noua autem res, esset &amp; inaudita, 
+      <lb ed="#L" n="8"/>si Theologi propositones eas, quarum notae quaeruntur,  
+      <lb ed="#L" n="9"/>designare nollent, nisi illis ante asserentium ingenium, condi 
+      <lb ed="#L" n="10"/>tio, doctrina, &amp; culpa innotescerent. Hinc colligunt, 
+      omnem<lb ed="#L" n="11" break="no"/>propositonem, quae modo est haeretica, semper 
+      haereti<lb ed="#L" n="12" break="no"/>cam fuisse: nec ecclesiam definitione sua ex non haeretica 
+      <lb ed="#L" n="13"/>haereticam facere, sed id quod re ipsa erat, ignoratum  
+      <lb ed="#L" n="14"/>tamen &amp; occultum, declarare. Hanc sententiam Ocham 
+      <lb ed="#L" n="15"/>tenuit. 1. par. dialogor. lib. 2. c. 11. &amp; Cardinalis 
+      Turrecre<lb ed="#L" n="16" break="no"/>mata. lib. 4. par. 2. ca. 3. &amp; Adria. 4. Senten. 4. 1. de 
+      confess<lb ed="#L" n="17" break="no"/>&amp; Alphonsus Castro Tamorensis libr. 1 de iusta haereti. 
+      <lb ed="#L" n="18"/>puni. cap. 1. At auctores alij hand deteriores, mea quidem  
+      <lb ed="#L" n="19"/>lententia, nam meliores multi credunt, ab his longe 
+      dis<lb ed="#L" n="20" break="no"/>sentiunt, in quibus est Caieta. 2. 2. 4. 1. artic. 1. Diuusque 
+      <lb ed="#L" n="21"/>etiam Thomas prioris ad Corin. c. 11. lect. 4. Afferunt 
+      au<lb ed="#L" n="22" break="no"/>tem ad huius sententiae confirmationem argumenta pluri 
+      <lb ed="#L" n="23"/>ma. Primum est, quod Concilium Constan. distinguit 
+      <lb ed="#L" n="24"/>propositones haereticas, erroneas, sapientes haeresim: quas 
+      <lb ed="#L" n="25"/>res difficulter omnino secernemus, si omnis error in 
+      ma<lb ed="#L" n="26" break="no"/>teria fidei est haeresis, prius etiam quam diffiniatur ab 
+      ec<lb ed="#L" n="27" break="no"/>clesia. Deinde. 24. 4. 1. capit, quod autem, &amp; capit. 
+      Acha<lb ed="#L" n="28" break="no"/>tius. &amp; 24. quaest. 3. cap. notandum, dicuntur aliquae 
+      hae<lb ed="#L" n="29" break="no"/>reses esse nouae, aliquae veteres, non ergo absolute 
+      sine<lb ed="#L" n="30" break="no"/>que vllo respectu asserentis haeresis dici potest. 
+      Praete<lb ed="#L" n="31" break="no"/>rea, ad haeretici rationem, quia haereticus est pertinacia 
+      <lb ed="#L" n="32"/>requiritur: ergo de ratione haeresis est pertinacia. 
+      <lb ed="#L" n="33"/>Quemadmodum si coenatum non nisi vesperi 
+      intelligi<lb ed="#L" n="34" break="no"/>mus, ne coena quidem nisi vespertina intelligetur. Ac 
+      <lb ed="#L" n="35"/>certe sicut a candore candidum, ita ab haeresi nominatur 
+      <lb ed="#L" n="36"/>haereticus, quare qui haeresim asserit, haereticus ille est,  
+      <lb ed="#L" n="37"/>vt qui habet candorem est candidus. Quid enim 
+      absur<lb ed="#L" n="38" break="no"/>dius dici potest, quam veram fornicationem esse in eo, 
+      <lb ed="#L" n="39"/>qui non est fornicarius? Verum &amp; proprium homicidium 
+      <!--742.xml-->
+      <pb ed="#L" n="731"/>
+               <lb ed="#L" n="1"/>in eo, qui non est homicida? Absurdum igitur etiam est,  
+      <lb ed="#L" n="2"/>in eo vere &amp; proprie haeresim esse, qui non sit haereticus. 
+      <lb ed="#L" n="3"/>Ad haec, Haeresis est vitium non solum intellectus, sed 
+      e<lb ed="#L" n="4" break="no"/>tiam voluntatis, nempe crimen est, quod nisi voluntato 
+      <lb ed="#L" n="5"/>consentiente intelligi non potest, vbi ergo nullum est 
+      <lb ed="#L" n="6"/>crimen, nullam ve cordis aduersum fidem repugnantia, ibi 
+      <lb ed="#L" n="7"/>ne ulla quidem haeresis est. Adde quod actus fidei 
+      catholi<lb ed="#L" n="8" break="no"/>cae non est, nisi assentiamus propositoni catholicae ab 
+      ec<lb ed="#L" n="9" break="no"/>clesia definitae, quamdiu enim res est ambigua, neque 
+      ec<lb ed="#L" n="10" break="no"/>clesia alterutram controuersiae partem praefiniuit, neutrius 
+      <lb ed="#L" n="11"/>opinionis assensus fidei catholicae, iudicium est. Qua ex 
+      <lb ed="#L" n="12"/>re intelligitur, non esse haeresim, nisi quis veritati 
+      catho<lb ed="#L" n="13" break="no"/>licae, quam ecclesia certo prescripsit, refragetur. Adde 
+      e<lb ed="#L" n="14" break="no"/>tiam, quod veritatem catholicam appellare, quam nec 
+      ec<lb ed="#L" n="15" break="no"/>clesia credendam proposuit, nec fideles per fidem infusam 
+      <lb ed="#L" n="16"/>credunt, sed vnusquisque probabili opinione tenet, 
+      vide<lb ed="#L" n="17" break="no"/>tur a nomine quoque ipso veritatis catholicae alienum. 
+      <lb ed="#L" n="18"/>At que opinionem, quae inficias iret, diuinas personas 
+      rela<lb ed="#L" n="19" break="no"/>tionibus distingui, antequam esset ab ecclesia diffinitum, 
+      <lb ed="#L" n="20"/>nemo haeresim vocare auderet, nec veritatem catholicam,  
+      <lb ed="#L" n="21"/>quae aduersam sententiam tueretur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1145-d1e314">
+               <lb ed="#L" n="22"/>Mihi vero semper concilium fuit omnium 
+      controuer<lb ed="#L" n="23" break="no"/>sias, aut declinare omnino, aut paucis exponere. Itaque 
+      <lb ed="#L" n="24"/>si de haeresi proprie loquimur, non dubito quin receptior 
+      <lb ed="#L" n="25"/>erebiorque sententia eadem verior sit: nempe non aliud 
+      <lb ed="#L" n="26"/>exigi ad constituendum hereticum, quam id, quo 
+      haere<lb ed="#L" n="27" break="no"/>sis constituitur, haeresis quippe flagitium in anquo 
+      ho<lb ed="#L" n="28" break="no"/>mine est, illumque denominat, in quo esse constiterit. 
+      <lb ed="#L" n="29"/>Cuicuuque igitur haeresis nota vere &amp; iure inuri potest,  
+      <lb ed="#L" n="30"/>is vere iureque erit haereticus, id quod ex argumentis numc 
+      <lb ed="#L" n="31"/>positis quaedam manifeste probant. Sed quemadmodum 
+      <lb ed="#L" n="32"/>vrina improptie sana dicitur, quod signum est sanitatis, 
+      <lb ed="#L" n="33"/>etiam si fallax aliquando sit, sic propositio in voce 
+      <lb ed="#L" n="34"/>vel in scripto vocatur haeretica, quod signum haeresis 
+      <lb ed="#L" n="35"/>esse soleat, quamuis interdum ab haeresi is, qui dixerit,  
+      <lb ed="#L" n="36"/>excusetur, quia ignorans fuit. In quo sensu illorum 
+      opi<lb ed="#L" n="37" break="no"/>nio vera est, qui arbitrantur aliquam propositonem 
+      hae<lb ed="#L" n="38" break="no"/>reticam esse, tum etiam cum is, qui asserit, haereticus non  
+      <lb ed="#L" n="39"/>est. Vel loquuntur etiam de haeresi ex genere &amp; obiecto. 
+      <!--743.xml-->
+      <pb ed="#L" n="732"/>
+               <lb ed="#L" n="1"/>vt si quispiam concubitum illum primum Iacob cum Lia 
+      <lb ed="#L" n="2"/>fornicarium appellaret, non quod re vera fornicatio 
+      fue<lb ed="#L" n="3" break="no"/>rit, sed quod ex genere &amp; natura talis sit, quauis 
+      ignoran<lb ed="#L" n="4" break="no"/>tia interueniat. Verum scholae theologi, qui vocum 
+      signifi<lb ed="#L" n="5" break="no"/>catus pressius tenent, nec concubitum Iacobi cum Lia furni 
+      <lb ed="#L" n="6"/>cationem esse dicunt, nec acceptionem rei alienae, furtum, 
+      <lb ed="#L" n="7"/>nec caedem hominis homicidium, nisi quum &amp; res aliena 
+      <lb ed="#L" n="8"/>male per iniuriam attrectatur, &amp; homo inique contra ius 
+      <lb ed="#L" n="9"/>occiditur. Maneat ergo perpetuumque sit, si veram &amp; 
+      pro<lb ed="#L" n="10" break="no"/>priam nominis rationem sequimur, haeresim non esse, cui 
+      <lb ed="#L" n="11"/>pertinacia non est adiuncta, &amp; omnino caetera, sine quibus 
+      <lb ed="#L" n="12"/>crimen haereseos vere &amp; proprie non constat. Nec si ad 
+      <lb ed="#L" n="13"/>fidem illa ex se pertinent, quae a Deo sunt ecclesiae 
+      reuela<lb ed="#L" n="14" break="no"/>ta, quanquam in eorum forte nos ignoraticne versamur,  
+      <lb ed="#L" n="15"/>contrarios statim errores haereses iudicabimus. Ne enim 
+      <lb ed="#L" n="16"/>si quispiam color albo contrarius est, protinus est ater: nes 
+      <lb ed="#L" n="17"/>si aliquid liberalitati aduersatur, mox auaritiae nomen 
+      ha<lb ed="#L" n="18" break="no"/>bet. Sic igitur fieri potest, quod paulo post 
+      demonstratu<lb ed="#L" n="19" break="no"/>ri sumus, vt etiam in Christiano error aliquis sit fidei 
+      quo<lb ed="#L" n="20" break="no"/>dammodo aduersus: nec haeresis tamen sit, vitium inter ea, 
+      <lb ed="#L" n="21"/>quae fidei repugnant, vel maximum. Quemadmodum autem, 
+      <lb ed="#L" n="22"/>nam hoc exemplum etiam atque etiam premendum est, 
+      co<lb ed="#L" n="23" break="no"/>lori albo giluus, glaucus &amp; pallidus contrarij sunt, 
+      imper<lb ed="#L" n="24" break="no"/>fecte tame: ita quidam etiam sunt Christianorum errores, 
+      <lb ed="#L" n="25"/>qui, cum inchoati sint &amp; informes, haereseos speciem non  
+      <lb ed="#L" n="26"/>attingunt, licet ad eam ipsam quam proxime accedant.  
+      <lb ed="#L" n="27"/>Quia vero haeresis cum fide non solum pugnat, sed 
+      sum<lb ed="#L" n="28" break="no"/>me maximeque etiam pugnat, sequitur errorem tunc 
+      pro<lb ed="#L" n="29" break="no"/>prie haeresim esse, quum non fidei materialiter sed 
+      forma<lb ed="#L" n="30" break="no"/>liter aduersatur. Libet enim hoc loco scholae verbis 
+      abu<lb ed="#L" n="31" break="no"/>ti. Sed experiar, &amp; dicam, si potero, melius. Siquis fidelis in 
+      <lb ed="#L" n="32"/>his, quae fidei sunt, vitiose per inscitiam erret, &amp; flagitiose 
+      <lb ed="#L" n="33"/>etiam catholicam vnam quamuis veritatem ignoret, ad 
+      <lb ed="#L" n="34"/>dialecticorum legem quidem fidei contradicit, ad 
+      morum<lb ed="#L" n="35" break="no"/>que etiam normam culpae mortalis reus est: sed nisi viuus,  
+      <lb ed="#L" n="36"/>vt dicitur, vidensque pereat, hoc est, nisi prudens 
+      volens<lb ed="#L" n="37" break="no"/>que se a catholico dogmate separet, nec facit sectam, 
+      ne<lb ed="#L" n="38" break="no"/>que haeresim admittit. Nondum enim simpliciter &amp; 
+      abso<lb ed="#L" n="39" break="no"/>Iute cum fidei forma pugnat, si de pugna morali sermo sit. 
+      <!--744.xml-->
+      <pb ed="#L" n="733"/>
+               <lb ed="#L" n="1"/>Nam de pugna dialectica nulla nobis quaestio nunc est.  
+      <lb ed="#L" n="2"/>Sunt tamen eiusmodi errores informationes &amp; 
+      inchoa<lb ed="#L" n="3" break="no"/>tiones quaedam haereticae prauatis, ad cuius speciem 
+      indi<lb ed="#L" n="4" break="no"/>recte, vt imperfecta ad perfecta, rediguntur, 
+      quemadmo<lb ed="#L" n="5" break="no"/>dum hominis embrio homo quidam informis est &amp; 
+      in<lb ed="#L" n="6" break="no"/>choatus: at non simpliciter homo, sed secundum quid. No 
+      <lb ed="#L" n="7"/>ergo si quispiam error fidei contrarius per ignorantiam,  
+      <lb ed="#L" n="8"/>vel negligentiam vituperabile fideli obrepit, illico haeresis 
+      <lb ed="#L" n="9"/>nominabitur, quae est summa quaedam infidelitatis species, 
+      <lb ed="#L" n="10"/>errorque fidei catholicae aduersus, non vtcunque, sed 
+      per<lb ed="#L" n="11" break="no"/>fecte, absolute, formaliter. Perfecta vero haec absoluta &amp;  
+      <lb ed="#L" n="12"/>formalis repugnantia, quum sit etiam moralis non modo 
+      <lb ed="#L" n="13"/>dialectica: ex obiecto &amp; genere seorsum non accipitur, nisi 
+      <lb ed="#L" n="14"/>subiecti quoque &amp; voluntatis humanae ratio habeatur. 
+      Ec<lb ed="#L" n="15" break="no"/>quis enim nesciat morales actus ex dispari hominum 
+      sta<lb ed="#L" n="16" break="no"/>tu, conditione, affectu, notitiaeque varietate diuersa, varias 
+      <lb ed="#L" n="17"/>item nominationes speciesque sortiri? Error igitur ille, 
+      <lb ed="#L" n="18"/>Christus non est verus Deus, tametsi in quocunque 
+      cu<lb ed="#L" n="19" break="no"/>iusque conditionis homine fidei repugnat, in Iudaeo 
+      ta<lb ed="#L" n="20" break="no"/>men infidelitas. Iudaica est: in Pagano, paganica: in 
+      Chri<lb ed="#L" n="21" break="no"/>stiano, haeretica. Nisi adeo loquendi imperiti simus, vt 
+      e<lb ed="#L" n="22" break="no"/>iusmodi erroris, culpam in Pagano haeresim appellemus. 
+      <lb ed="#L" n="23"/>Apud nos ergo, qui multas &amp; discrepantes infidelitatis 
+      <lb ed="#L" n="24"/>species ex vario hominum cultu ac professione distingui 
+      <lb ed="#L" n="25"/>mus, nihil obstat, cur non illiusmodi &amp; rerum &amp; vocum 
+      <lb ed="#L" n="26"/>genera ab asserentibus pendeant. Quibus rebus, exposits 
+      <lb ed="#L" n="27"/>fat ile, vt opinor, intelligitur, mala haeresim ratione finiri, 
+      <lb ed="#L" n="28"/>quod sit error catholicae veritati contrarius: quippe cum 
+      <lb ed="#L" n="29"/>ista finitio vna in omnes errores valeat, Iudaeorum. 
+      Sara<lb ed="#L" n="30" break="no"/>cenorum, Paganorum, Haereticorum. Sed hoc quidem 
+      sa<lb ed="#L" n="31" break="no"/>ne luculenter, vt ab hominibus definienndi peritis, a Theo 
+      <lb ed="#L" n="32"/>logis scholae dictum est, Haeresim esse eius, qui fidem proy 
+      <lb ed="#L" n="33"/>fessus fuerit, pertinacem errorem illi veritati mauifeste 
+      <lb ed="#L" n="34"/>contrarium, quae catholica certo sit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

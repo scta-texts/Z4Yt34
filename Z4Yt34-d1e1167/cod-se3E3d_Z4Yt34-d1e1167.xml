@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 8</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 8</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="758"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1167"><!-- Z4Yt34-l12c8 -->
+            <head xml:id="Z4Yt34-d1e1167-Hd1e106">Caput 8</head>
+            <p xml:id="Z4Yt34-d1e1167-d1e109">
+               <lb ed="#L" n="15"/>Regulae tres, ad quas fidei externa iudicia 
+      dirigen<lb ed="#L" n="16" break="no"/>da sunt <sic>Caput decimum</sic>.
+    </p>
+            <p xml:id="Z4Yt34-d1e1167-d1e119">
+               <lb ed="#L" n="17"/>PRima formula in promptu est, ipsius contra se 
+      erran<lb ed="#L" n="18" break="no"/>tis testimonium, quod in omni foro exploratum est,  
+      <lb ed="#L" n="19"/>admissi criminis argumentum, praesertim si crimen suum 
+      <lb ed="#L" n="20"/>reus sua sponte &amp; voluntate testificetur. Tametsi ea etiam 
+      <lb ed="#L" n="21"/>confessio, quam a reo iudex quaestione ac tormentis ex- 
+      <lb ed="#L" n="22"/>primit, secundum leges tun ciuiles tun canonicas idonea est 
+      <lb ed="#L" n="23"/>ad faciendam in externo iudicio fidem. Sed de toto hoc &amp;  
+      <lb ed="#L" n="24"/>confessionis &amp; quaestionis genere commodius non a 
+      iuri<lb ed="#L" n="25" break="no"/>speritis solum, verum a quibusdam etiam optimis viris 
+      familia<lb ed="#L" n="26" break="no"/>riter colloquentibus, quam ab vllis Theologis vlla in 
+      <lb ed="#L" n="27"/>schola disputatur. Nec vero quempiam velim in eum 
+      sen<lb ed="#L" n="28" break="no"/>sum formulae huius verba interpretari, vt reus, qui 
+      haere<lb ed="#L" n="29" break="no"/>sis fortasse vim &amp; naturam nescit, haeresim ipse sit suo 
+      iu<lb ed="#L" n="30" break="no"/>dicio aestimaturus, illumque secuturi in sententia iudices. 
+      <lb ed="#L" n="31"/>Sed ita accipi oportet, vt reus cum factorum atque dictorum 
+      <lb ed="#L" n="32"/>suorum, tun propriae conscientiae atque animi testis contra 
+      se<lb ed="#L" n="33" break="no"/>sit, iudices ex factis, dictis, mente, ingenioque illius haeresim 
+      <lb ed="#L" n="34"/>deprehendant, cuius notionem ante oculos positam 
+      ha<lb ed="#L" n="35" break="no"/>bere in omni fidei religionisque, iudicio debent. In 
+      homi<lb ed="#L" n="36" break="no"/>nem praeceptor olim meus incidit, qui vehementer se ipse 
+      <lb ed="#L" n="37"/>affirmaret haereticum esse. Quid itat rogat. Cur te 
+      haere<lb ed="#L" n="38" break="no"/>ticum esse arbitraris? Respondit se tenere contra catholicam  
+      <!--770.xml-->
+      <pb ed="#L" n="759"/>
+               <lb ed="#L" n="1"/>fidem. Hic ille vrget. An tu credis catholicam fidem falsam  
+      <lb ed="#L" n="2"/>esse? Minime gentium, inquit iste, ideo enim me haereticum 
+      <lb ed="#L" n="3"/>existimo, hoc est errantem &amp; a veritate alienum, quia 
+      con<lb ed="#L" n="4" break="no"/>tra fidem catholicam sentio. Iam praeceptor risum continere 
+      <lb ed="#L" n="5"/>non valens, abi stulte ait, eo enim minus haereticus es, quo 
+      <lb ed="#L" n="6"/>magis te haereticum opinaris. Salua quippe res est, si tunc 
+      <lb ed="#L" n="7"/>errare te sentis, quum fidei catholicae repugnas. Sic 
+      ho<lb ed="#L" n="8" break="no"/>minis stultitia est non tam Theologiae rationibus, quam  
+      <lb ed="#L" n="9"/>prudentiae manibus comprehensa. Mihi etiam ipsi 
+      ali<lb ed="#L" n="10" break="no"/>quando contigit, vt a iudicibus fidei errores nescio quos 
+      <lb ed="#L" n="11"/>denotandos acciperem : certe hominis eius errores, vt 
+      <lb ed="#L" n="12"/>postea comperi, qui iudicum nec iussu nec accersitu ad 
+      <lb ed="#L" n="13"/>tribunal venerat, sed sacerdotis cuiusdam suasu &amp; 
+      consi<lb ed="#L" n="14" break="no"/>lio, quem poenitentiae administrum habebat. Sponte 
+      igi<lb ed="#L" n="15" break="no"/>tur suoque iudicio haereses aduersum se plurimas, sic 
+      cen<lb ed="#L" n="16" break="no"/>sebat, excipiente notario prodidit. Ad me ergo itum est,  
+      <lb ed="#L" n="17"/>vt errorum notas ederem. Quos vt multos variosque 
+      con<lb ed="#L" n="18" break="no"/>spexi, coepi mecum ipse attentius cogitare, quisnam eorum 
+      <lb ed="#L" n="19"/>auctor haberi posset. Quicunque porrois esset, partim  
+      <lb ed="#L" n="20"/>ex Arrij, partim ex Macedonij, partim exVuicleffi, partim  
+      <lb ed="#L" n="21"/>ex Lutheri fontibus, quasi quosdam diduxisse riuulos 
+      vi<lb ed="#L" n="22" break="no"/>debatur. Crederes eum assidue in omnium 
+      haeretico<lb ed="#L" n="23" break="no"/>rum lectione versatum. Quod si vlla esset rerum 
+      conse<lb ed="#L" n="24" break="no"/>quentia &amp; connexio, errorum Ve conpesitio &amp; 
+      coagmenta<lb ed="#L" n="25" break="no"/>tio aliqua, mihi quoque iniecta esset ista suspicio. Sed cum 
+      <lb ed="#L" n="26"/>cernerem, in tanta errorum copia non complexionem 
+      <lb ed="#L" n="27"/>esse, non vinculum, insaniae hominis potius quam 
+      haere<lb ed="#L" n="28" break="no"/>seos venit in mentem. Nolui itaque de erroribus iudicare, 
+      <lb ed="#L" n="29"/>nisi prius auctoris ingenium &amp; iudicium explorassem. Ergo  
+      <lb ed="#L" n="30"/>iudices rogo, num copia sit videndi hominis. Aiunt esse, 
+      <lb ed="#L" n="31"/>Nam datus erat in custodiam, &amp; coniectus in 
+      carcerem<lb ed="#L" n="32" break="no"/>Soluitur vinculis, coram producitur, intueor oculis, 
+      ani<lb ed="#L" n="33" break="no"/>mo cerno, video illum parum sana mente esse. 
+      Pericu<lb ed="#L" n="34" break="no"/>lum ex rebus praesentibus feci, quas longum esset 
+      comme<lb ed="#L" n="35" break="no"/>morare, probaui ita se habere rem, vt ante ego cogitaram. 
+      <lb ed="#L" n="36"/>Vix tamen a iudicum animis opinionem infixam potui 
+      <lb ed="#L" n="37"/>diuellere. Sed vici tandem, &amp; persuasi, atque, vt erant viri 
+      bo<lb ed="#L" n="38" break="no"/>ni, dederunt manus, amentemque, sponte confessum, suoque 
+      <lb ed="#L" n="39"/>iudicio conuictum, in parentum domum cerebro va cuum 
+      <!--771.xml-->
+      <pb ed="#L" n="760"/>
+               <lb ed="#L" n="1"/>quidem, sed omni etiam poena vacuum dimiserunt. Ac 
+      <lb ed="#L" n="2"/>de his nihil est necesse, vt Theologi praecipiant : sunt 
+      ta<lb ed="#L" n="3" break="no"/>men ea cognoscenda, pertinent enim ad eum vsum, quem 
+      <lb ed="#L" n="4"/>iuris prudentes sunt e locis theologicis habituri, de qua 
+      <lb ed="#L" n="5"/>re hoc libro disserimus. Reliqua deinceps persequamur,  
+      <lb ed="#L" n="6"/>nam formula haec tantum attingenda fuit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1167-d1e275">
+               <lb ed="#L" n="7"/>Alteram Diuus Thomas protulit in prima parte &amp; in 
+      <lb ed="#L" n="8"/>priorem ad Corinthios epistolam. Ea est huiusmodi. Si 
+      <lb ed="#L" n="9"/>error fidei contrarius circa ea sit, quae nullo modo est 
+      <lb ed="#L" n="10"/>probabile ab errantibus ignorari, quin ad fidem 
+      catho<lb ed="#L" n="11" break="no"/>licam certo pertineant, tunc iudices tuto de haeresi 
+      pro<lb ed="#L" n="12" break="no"/>nunciabunt. Vt si exempli causa, homo quiuis etiam de 
+      <lb ed="#L" n="13"/>media plebe aut neget, Christum cruci suffixum, vere 
+      <lb ed="#L" n="14"/>mortuum, vere a mortuis excitatum: aut aiat, superfluum 
+      <lb ed="#L" n="15"/>esse &amp; vanum orare pro mortuis, nullo praemio iustos a 
+      <lb ed="#L" n="16"/>deo affici, nullo supplicio improbos &amp; caetera similia Item, 
+      <lb ed="#L" n="17"/>si vir in scholae Theologia diu multumque versatus 
+      con<lb ed="#L" n="18" break="no"/>tendat, spiritum sanctum a filio non procedere, aut patre 
+      <lb ed="#L" n="19"/>&amp; filium spiritus eiusdem duo esse principia, aut non esse 
+      <lb ed="#L" n="20"/>tres poenitentiae partes, aut Christianis nullo modo esse 
+      <lb ed="#L" n="21"/>licitum cum hostibus belligerare, aut episcopum non esse 
+      <lb ed="#L" n="22"/>superiorem simplici sacerdote, aut quicquam eiusmodi, 
+      <lb ed="#L" n="23"/>quod incredibile est nescire Theologos ad ecclesiae 
+      com<lb ed="#L" n="24" break="no"/>munem fidem attinere, presertim si in schola, vt dixi, 
+      per<lb ed="#L" n="25" break="no"/>diu sese ac valde exercuerunt. Qua in re non dubito,  
+      <lb ed="#L" n="26"/>quandoque a iudicibus per romissionem nimiam aut  
+      <lb ed="#L" n="27"/>magnam certe ignorationem erratum. Nolo enim 
+      su<lb ed="#L" n="28" break="no"/>spicari, fidei leges per gratiam esse, aut populi furori, aut  
+      <lb ed="#L" n="29"/>potentium voluntati concessas. Fuerunt ante hos 
+      pau<lb ed="#L" n="30" break="no"/>cos dies theologi quidam habiti doctissimi, in ijs 
+      erro<lb ed="#L" n="31" break="no"/>ribus deprehensi, quos &amp; Lutheranorum esse proprios, 
+      <lb ed="#L" n="32"/>&amp; ecclesiae communi fidei aduersos, nemo ad dubitare 
+      po<lb ed="#L" n="33" break="no"/>terat, qui vel mediocriter rebus Theologicis esset 
+      in<lb ed="#L" n="34" break="no"/>structus. Coacti sunt haereses abiurare quasi suspecti, de 
+      <lb ed="#L" n="35"/>haeresibus non conuicti. Cum tamen, si haec non dico ad 
+      <lb ed="#L" n="36"/>thythmicorum aut musicorum acerrimam normam, sed 
+      <lb ed="#L" n="37"/>ad perpendiculum communis iuris &amp; vulgarem rationis 
+      <lb ed="#L" n="38"/>formulam dirigerentur: nullum facilius erat procliuiusque 
+      <lb ed="#L" n="39"/>iudicium. Turpe fuit autem ea dubitare peritos, quae 
+      <!--772.xml-->
+      <pb ed="#L" n="761"/>
+               <lb ed="#L" n="1"/>ne rustici quidem dubitant, nempe nulio pacto verisimile 
+      <lb ed="#L" n="2"/>fieri, vt homines in earum rerum, quas diu multumque 
+      tracta<lb ed="#L" n="3" break="no"/>runt, ignoratione versentur. Ecquis autem credat, viros 
+      <lb ed="#L" n="4"/>theologicissimos, sic censebat vulgus, earum rerum 
+      in<lb ed="#L" n="5" break="no"/>scios &amp; rudes, quae Theologis vniuersis notae &amp; 
+      peruul<lb ed="#L" n="6" break="no"/>gatae sunt? Erat in animo, quae horum Theologorum 
+      fue<lb ed="#L" n="7" break="no"/>rint, errata subscribere: vt in hac quasi imagine &amp; huius 
+      <lb ed="#L" n="8"/>praescriptionis regula illustrior appareret, &amp; 
+      admoneren<lb ed="#L" n="9" break="no"/>tur quoque futuri iudices, vt alieno periculo saperent, neque 
+      <lb ed="#L" n="10"/>inimi relaxationem &amp; molliciem, clementiam &amp; 
+      misericor<lb ed="#L" n="11" break="no"/>diam esse arbitrarentur. In illis nimirum &amp; reis &amp; 
+      iudici<lb ed="#L" n="12" break="no"/>bus, ne quod perniciosum exemplum esset proditum, 
+      perti<lb ed="#L" n="13" break="no"/>mescebam. Quod enim exemplo fit, iure fieri putat. Sed 
+      quo<lb ed="#L" n="14" break="no"/>niam iam rei ipsi decesserunt, omnique odio carent &amp; 
+      inui<lb ed="#L" n="15" break="no"/>dia, non putani eiusmodi errores traducendos, quos si 
+      com<lb ed="#L" n="16" break="no"/>testatos &amp; consignatos ederem ad sempiternam 
+      memori<lb ed="#L" n="17" break="no"/>am turpitudinis, non solum in mortuos reos, sed in viuos 
+      <lb ed="#L" n="18"/>etiam iudices viderer maledicta conferre. Quanqua forte 
+      <lb ed="#L" n="19"/>ibi timeo, vbi non erat timor. Sed vtcunque res habeant, 
+      <lb ed="#L" n="20"/>iurisperitos admonui, ne in animum inducant credere, 
+      <lb ed="#L" n="21"/>nullos esse pertinaces, nisi qui iudicum monitiones 
+      pre<lb ed="#L" n="22" break="no"/>ceptaque despexerint. Ante hominum hortatus istos, crede 
+      <lb ed="#L" n="23"/>mihi, vera haereticorum pertinacia reperitur, eorum scilicet, 
+      <lb ed="#L" n="24"/>qui minime ignorant opiniones suas contra fidem ecclesiae 
+      <lb ed="#L" n="25"/>venire. Ipsa vero omnium fidelium vox idemque communis 
+      sen<lb ed="#L" n="26" break="no"/>sus, non pro vna monitione dico, sed pro mille sufficit. 
+      <lb ed="#L" n="27"/>Quapropter ecclesiae vnam vocem qui spernit, hic multo 
+      per<lb ed="#L" n="28" break="no"/>tinacior est, que si sexcentas, aut Theologorum, ant iudicum 
+      con<lb ed="#L" n="29" break="no"/>tempsisset. Ac de secunda quidem regula hactenus. 
+      Terti<lb ed="#L" n="30" break="no"/>am hanc habebimus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1167-d1e418">
+               <lb ed="#L" n="31"/>Si de cuiuspiam errantis pertinacia dubitant iudices: 
+      <lb ed="#L" n="32"/>duae res illis sunt accuratius transigendae: quarum vna 
+      <lb ed="#L" n="33"/>Theologorum propria est, altera cum Theologis 
+      iu<lb ed="#L" n="34" break="no"/>risper itorum etiam communis. Priorem ergo a 
+      Theolo<lb ed="#L" n="35" break="no"/>go iurisperitus mutuabitur: posteriorem autem suo sibi 
+      <lb ed="#L" n="36"/>iure vendicabit. Primum igitur a sapientissimis 
+      Theolo<lb ed="#L" n="37" break="no"/>gis illud explicatum diffinitumque habeant iudices, 
+      an<lb ed="#L" n="38" break="no"/>error qui in iudicium venit, cum fide catholica aperte 
+      <lb ed="#L" n="39"/>pugnet. Nam vna ex hac parte dupliciter haereseos iudi¬ 
+      <!--773.xml-->
+      <pb ed="#L" n="762"/>
+               <lb ed="#L" n="1"/>cium excludetur: vel quia incertum est dogma illi errori 
+      <lb ed="#L" n="2"/>contrarium catholicae fidei veritatem esse, yel quia 
+      repugnam<lb ed="#L" n="3" break="no"/>tia erroris eiusmodi &amp; catholicae veritatis obscura est, &amp;  
+      <lb ed="#L" n="4"/>in opinione posita. Vt si verbi gratia olim negaret quis,  
+      <lb ed="#L" n="5"/>epistolam ad Hebraeos, esse Pauli, habeat autem pro certo 
+      <lb ed="#L" n="6"/>illam esse canonicam, &amp; de auctore epistolae quaestionem 
+      <lb ed="#L" n="7"/>moueat, non de auctoritate: sunt Theologi, qui sentiant  
+      <lb ed="#L" n="8"/>haeresim illam esse. Ego vero nisi ecclesiae dehnitio obstaret, 
+      <lb ed="#L" n="9"/>no puto, qui existime Christi fidem in nullo extremo 
+      ver<lb ed="#L" n="10" break="no"/>sari discrimine, si libri canonici auctore nesciamus, modo 
+      <lb ed="#L" n="11"/>sciamus librum esse canonicum. Quocirca siue Paulum, siue Lu 
+      <lb ed="#L" n="12"/>ca, seu Barnabam illius epistolae auctore quispiam dixerit, si 
+      <lb ed="#L" n="13"/>solidaci est fixaque &amp; constans epistolae auctoritas, non 
+      con<lb ed="#L" n="14" break="no"/>tinuo Christi fidem euertet. Cum igitur tempore D. 
+      Hie<lb ed="#L" n="15" break="no"/>ronymi nondum fuerit explorate cognitum an fidei 
+      cer<lb ed="#L" n="16" break="no"/>ta veritas sit, Paulum illam ad Hebraeos epistolam scripsisse, fi 
+      <lb ed="#L" n="17"/>error aduersus ad tribunal fidei tunc referretur, criminis 
+      <lb ed="#L" n="18"/>fortasse quidem iudicium fuisset, sed haereseos iudicium 
+      <lb ed="#L" n="19"/>non fuisset. Item, Dei auxilio peculiari nos egere, vt sicut 
+      <lb ed="#L" n="20"/>oportet credere, sperare, diligereque possimus, fidei dogma 
+      <lb ed="#L" n="21"/>est longe certissimum. Qui inficiabuntur, nullos esse 
+      habi<lb ed="#L" n="22" break="no"/>tus spei &amp; charitatis infusos, illi dogmati huic, vt quidam  
+      <lb ed="#L" n="23"/>sentiunt, repugnabunt: sed quia ea pugna, tametsi valde 
+      pro<lb ed="#L" n="24" break="no"/>babiliter apparet, non tun est manifesta ratione conprehensa, 
+      <lb ed="#L" n="25"/>eorum hominum error notandus est, temeritas, &amp; impudent ia 
+      <lb ed="#L" n="26"/>notanda: haeresis ne suspicanda quidem ante sacri concilij 
+      <lb ed="#L" n="27"/>Tridentini decreta. Qui locus nullo etiam commemorante 
+      fi<lb ed="#L" n="28" break="no"/>dei censores admonet, vt id mutui, quod a Theologis sunt 
+      <lb ed="#L" n="29"/>necessario accepturi, non a quibusuis accipiant, sed ab 
+      eru<lb ed="#L" n="30" break="no"/>ditis, expertis, exercitis. Qui scilicet cum exploratum 
+      ha<lb ed="#L" n="31" break="no"/>beant, qui nam ex Theologiae locis certi ac firmi sint, qui 
+      <lb ed="#L" n="32"/>contra probabiles &amp; non necessarij: tun argumentorum 
+      Theo<lb ed="#L" n="33" break="no"/>logicorum frequenti atque expedito vsu facile quoscunqe 
+      er<lb ed="#L" n="34" break="no"/>rores deprehendant, qui fidei catholicae dilucide 
+      refra<lb ed="#L" n="35" break="no"/>gentur. Altera erat res, vt iudices diligentem nauent operam, 
+      <lb ed="#L" n="36"/>quo illis erratis pertinacia patescat. Quae si in dubium 
+      for<lb ed="#L" n="37" break="no"/>tasse vertitur, &amp; neque ex ante, aut dictis aut factis, neque ex 
+      <lb ed="#L" n="38"/>errantium statu, conditione &amp; ingenio colligitur, non alia ea 
+      <lb ed="#L" n="39"/>ratione melius deprehendent, que si erranti certum signum 
+      <!--774.xml-->
+      <pb ed="#L" n="763"/>
+               <lb ed="#L" n="1"/>catholicae eius Veritatis ostendant, cui error istius 
+      contra<lb ed="#L" n="2" break="no"/>dicit. Vt si proferatur apertus aliquis scripturae locus, aut  
+      <lb ed="#L" n="3"/>definitio legitimi concilij generalis, aut decretum constans 
+      <lb ed="#L" n="4"/>apostolicae fedis, aut vna quaelibet alia certa nota earum,  
+      <lb ed="#L" n="5"/>quibus &amp; catholicae veritates, &amp; contrariae omnino haereses 
+      <lb ed="#L" n="6"/>diiudicantur. Quod si hisce signis notisque, prolatis ille 
+      ces<lb ed="#L" n="7" break="no"/>serit, argumentum erit ignor. intiae probabilissimum: sin repu 
+      <lb ed="#L" n="8"/>gnauerit, argumentum erit pertinaciae certissimum, preser 
+      <lb ed="#L" n="9"/>tim si nec ingenij nec doctrinae expers sit. Nam si adeo 
+      <lb ed="#L" n="10"/>rudis &amp; imperitus est, vt harum rerum intelligentiam nullo 
+      <lb ed="#L" n="11"/>modo habere possit, equidem nullam certam regulam 
+      prescri<lb ed="#L" n="12" break="no"/>ptionemque constantem exprimere, vt hominis eiuscemodi 
+      per<lb ed="#L" n="13" break="no"/>tinacia innotesceret. Certe si qua est crassa pinguique, 
+      Mi<lb ed="#L" n="14" break="no"/>nerua describenda formula, ea erit sententia ecclesiae 
+      com<lb ed="#L" n="15" break="no"/>munis, fideliumque consensus &amp; conspiratio eadem, quibus si iste 
+      <lb ed="#L" n="16"/>aduersetur, tun etiam quum videt contra se venire omnes, pertinax 
+      <lb ed="#L" n="17"/>atque adeo haereticus existimabitur. Nec necesse erit tamen 
+      <lb ed="#L" n="18"/>orbe omnium peragrare terrarum, &amp; singulorum fidelium rogare 
+      <lb ed="#L" n="19"/>sententia. Nam quae sit fidelium singulorum, neque arte 
+      ali<lb ed="#L" n="20" break="no"/>qua nec diligentia, &amp; inquisitione perpenditur, sed quo 
+      <lb ed="#L" n="21"/>dam quasi prudentiae sensu iudicatur. Quemadmodum 
+      <lb ed="#L" n="22"/>enim si quispiam neget omnem ignem calefacere, non 
+      <lb ed="#L" n="23"/>est opus, vt contumax in naturam habeatur, proposito. 
+      <lb ed="#L" n="24"/>nem illam generalem inductione &amp; demonstratione 
+      sin<lb ed="#L" n="25" break="no"/>gulorum ignium, sed significatione potius &amp; ratione de 
+      <lb ed="#L" n="26"/>clarare, cum quibusdam demonstratis eadem sit de caete 
+      <lb ed="#L" n="27"/>ris ratio. Sic in fidem ecclesiae ille erit pertinax, qui suae pro 
+      <lb ed="#L" n="28"/>uinciae aut ciuitatis fidelibus vniuersis in fidei sententia 
+      <lb ed="#L" n="29"/>repugnarit. Sed haec relinquamus, idque largiamur inertiae 
+      <lb ed="#L" n="30"/>nostrae. inepti enim sumus, vt hebetes ac rudes ad regi 
+      <lb ed="#L" n="31"/>lam &amp; linea exigamus. Haec vero omnia, quae in hac 
+      po<lb ed="#L" n="32" break="no"/>strema constituenda regula diximus, si ad vulgaris 
+      prudem<lb ed="#L" n="33" break="no"/>tiae rationem dirigas, recta fortasse erunt, sin perpende, 
+      <lb ed="#L" n="34"/>re ad exactioris disciplinae praecepta velis, reperientur 
+      <lb ed="#L" n="35"/>quaedam fortasse non recta, Quid enim in tam inaequabili 
+      <lb ed="#L" n="36"/>&amp; rerum &amp; ingeniorum veritate praescribere nos possumus, 
+      <lb ed="#L" n="37"/>quod aequabile inter omnes &amp; vnum omnibus esse queat?m 
+      prae<lb ed="#L" n="38" break="no"/>fertim cum id genus causae propemodum communiecturales sint,  
+      <lb ed="#L" n="39"/>in quibus iudices indicijs quibusdam atque vestigijs in 
+      <!--775.xml-->
+      <pb ed="#L" n="764"/>
+               <lb ed="#L" n="1"/>ipsa penetrare hominum corda pertentat, quae si 
+      cogno<lb ed="#L" n="2" break="no"/>scerent, non egerent perpendiculis, non normis, no 
+      re<lb ed="#L" n="3" break="no"/>gulis. Quid igitur haeresis sit, quae haeretica propositio,  
+      <lb ed="#L" n="4"/>qua demum via ac ratione vtrique &amp; theologo &amp; iurisperito 
+      <lb ed="#L" n="5"/>internoscenda, mihi iam satis superque dixisse videor.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

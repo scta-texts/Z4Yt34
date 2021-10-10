@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="558"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1015"><!-- Z4Yt34-l11c3 -->
+            <head xml:id="Z4Yt34-d1e1015-Hd1e106">Caput 3</head>
+            <p xml:id="Z4Yt34-d1e1015-d1e109">
+               <lb ed="#L" n="14"/>Caput Tertium,. Argumenta continet, quibus 
+      an<lb ed="#L" n="15" break="no"/>ctoritas hunane historiae 
+      <lb ed="#L" n="16"/>impugnatur.
+    </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e118">
+               <lb ed="#L" n="17"/>QVanquam, vt paulo ante dicebamus, e locis 
+      scopu<lb ed="#L" n="18" break="no"/>losis enauigauit oratio, nec ea, quae in huius loci 
+      <lb ed="#L" n="19"/>explicatione disserenda sunt, ingenij vim aciemque, 
+      desi<lb ed="#L" n="20" break="no"/>derant, egent tamen quaedam horum graui maturoque 
+      iu<lb ed="#L" n="21" break="no"/>dicio. Qua ex re fit, id quod vix eredibile est, vt in loco 
+      <lb ed="#L" n="22"/>facili &amp; explicato perdifficiles &amp; lubricae quaestiones exi 
+      <lb ed="#L" n="23"/>stant. In primis enim constituendum est, qualis quantaque  
+      <lb ed="#L" n="24"/>sit histotiae humanae auctoritas, &amp; quam faciat in Theclo 
+      <lb ed="#L" n="25"/>gia fidem: quod non adeo expeditum est. Deinde quis 
+      <lb ed="#L" n="26"/>auctor probabilis ac fide dignus existimari debeat: quae 
+      <lb ed="#L" n="27"/>res est omnium difficillima. Cum enim non ex 
+      sermo<lb ed="#L" n="28" break="no"/>ne hominum recenti, sed ex maiorum memoria atque 
+      an<lb ed="#L" n="29" break="no"/>nalium vetustate, eruenda saepe sit veritatis explicatio 
+      e<lb ed="#L" n="30" break="no"/>ius, quae in Theologica disputatione versatur, 
+      oporte<lb ed="#L" n="31" break="no"/>bit sane de historia praesertim veteri iudicare, historicos 
+      <lb ed="#L" n="32"/>omnes internoscere, mendacesque a veracibus 
+      secernere<lb ed="#L" n="33" break="no"/>Quam facultatem quoniam mihi nec arrogo nec debeo:  
+      <lb ed="#L" n="34"/>fateor, me non sine metu ac pudore quodam hanc 
+      pro<lb ed="#L" n="35" break="no"/>uinciam suscepisse munere necessitatis, non 
+      volunta<lb ed="#L" n="36" break="no"/>tis opere perfuncturus. Non quod mihi in tanto 
+      offi<lb ed="#L" n="37" break="no"/>cio, tamque graui causa cura defuerit: sed quod video 
+      <!--570.xml-->
+      <pb ed="#L" n="559"/>
+               <lb ed="#L" n="1"/>periculosum esse eo vel maxime loco iudicem velle fieri, 
+      <lb ed="#L" n="2"/>vbi vir ille nimirum exigitur, qui &amp; antiquitatis 
+      memo<lb ed="#L" n="3" break="no"/>riam in numerato habeat, &amp; prudentia summa grauissimoque 
+      <lb ed="#L" n="4"/>iudicio sit praeditus. Sed quo citius hoc, quod 
+      suscepi<lb ed="#L" n="5" break="no"/>mus, non mediocre munus conficere possimus, omissa, aut  
+      <lb ed="#L" n="6"/>ignorationis meae, aut temeritatis, aut vtriusque etiam 
+      de<lb ed="#L" n="7" break="no"/>precatione, ad earum rerum, quas proposuimus, explicatio 
+      <lb ed="#L" n="8"/>nem disputationemque veniamus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e188">
+               <lb ed="#L" n="9"/>Principio itaque historiae humanae auctoritatem 
+      argu<lb ed="#L" n="10" break="no"/>mentis oppositis impugnabimus. Mox docebimus ex 
+      <lb ed="#L" n="11"/>eiusmodi historia qualia in Theologiae vsum argumenta 
+      <lb ed="#L" n="12"/>ducantur. Tertio loco ostendemus, quinam illi auctores 
+      <lb ed="#L" n="13"/>sint, quos in historia Theologi probare debeant. 
+      Po<lb ed="#L" n="14" break="no"/>stremo, argumenta opposita refutando finem huius libri 
+      <lb ed="#L" n="15"/>faciemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e206">
+               <lb ed="#L" n="16"/>Primum ergo argumentum, quo historiae humanae fides 
+      <lb ed="#L" n="17"/>labefactari potest, est huiusmodi. Ioseph secundum 
+      natu<lb ed="#L" n="18" break="no"/>ram filium fuisse Iacob, secundum legem fuisse filium 
+      Eli<lb ed="#L" n="19" break="no"/>Africanus in epistola ad Aristidem, Iustinus martyr 
+      quae<lb ed="#L" n="20" break="no"/>stione ad Orthodoxos. 66. Eusebius libro. 1. Eccles: hist. 
+      <lb ed="#L" n="21"/>cap. 7. Nicephorus lib. item primo cap. 11. Anibrosius lib.  
+      <lb ed="#L" n="22"/>in Lucam. 3. Hieronymus in primum Matthae. cap. 
+      Au<lb ed="#L" n="23" break="no"/>gust. lib. 2. de con. euang. cap. 3. &amp; 2. retra. lib. cap. 5. &amp; 16. 
+      <lb ed="#L" n="24"/>Damascenus libr. 4. cap. 15. Beda libr. 1. In Lucam. cap. 10. 
+      <lb ed="#L" n="25"/>Theophilactus in Lucae tertium caput, omnesque fere 
+      pa<lb ed="#L" n="26" break="no"/>tres scripserunt. Neque illis subito reperta haec, aut sine 
+      <lb ed="#L" n="27"/>auctoribus conficta sunt : sed ab ipsis saluatoris nostri 
+      pro<lb ed="#L" n="28" break="no"/>pinquis &amp; consanguineis tradita, quemadmodum Africanus 
+      <lb ed="#L" n="29"/>affirmat. Haec vero multis argumentis commentitia esse 
+      <lb ed="#L" n="30"/>probat libro primo harmoniae euangelicae Osiander, 
+      at<lb ed="#L" n="31" break="no"/>que, vt sibi quidem videtur, ita probat, vt non modo D. 
+      <lb ed="#L" n="32"/>Thomae caeterisque Theologis quasi portenta somniatibus 
+      <lb ed="#L" n="33"/>insultet: verum etiam eos insanos appellet, qui haec primi 
+      <lb ed="#L" n="34"/>in lucem ediderunt.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e251">
+               <lb ed="#L" n="35"/>Secundum argumentum est, quod Ioseph virum Mariae 
+      <lb ed="#L" n="36"/>alteram prius vxorem habuisse, ex qua filios susceperit, 
+      <lb ed="#L" n="37"/>qui fratres domini in Euangelio dicuntur: Eusebius lib. 2 
+      <lb ed="#L" n="38"/>Eccle. histo. cap. 1. Nicephorus lib. 2. cap. 3. vbi etiam 
+      re<lb ed="#L" n="39" break="no"/>fert Hippolytum eiusdem sentetiae auctorem, Ambrosius 
+      <!--571.xml-->
+      <pb ed="#L" n="560"/>
+               <lb ed="#L" n="1"/>in lib. de institu. virgi. cap. 6. Epiphanius lib. 2. con. haere. 
+      <lb ed="#L" n="2"/>cap. 51. &amp; 78. Hilarius cano. 1. in Matthae. aperte 
+      consen<lb ed="#L" n="3" break="no"/>tiunt. At historiam hanc Hieronymus in Matthaei 
+      duo<lb ed="#L" n="4" break="no"/>decimum caput tanquam apocryphorum deliramenta 
+      <lb ed="#L" n="5"/>contemnit: quinetiam aduersus Eluidium asserit, audaci 
+      <lb ed="#L" n="6"/>eam temeritate confictam. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e282">
+               <lb ed="#L" n="7"/>Tertium argumentum, Hieronymus scribit veterem 
+      <lb ed="#L" n="8"/>historiam narrare, quod Herodias, cuius Matthaeus 
+      me<lb ed="#L" n="9" break="no"/>minit, filia fuerit Arethae regis: idem quoque astruit Beda 
+      <lb ed="#L" n="10"/>libro comm. in Marcum secundo. Eusebiusque Ruffino 
+      <lb ed="#L" n="11"/>interprete, libro eccle. histo. 1. cap. 23. At illud esse falsum 
+      <lb ed="#L" n="12"/>&amp; Iosephus lib. 18. anti. cap. 5. &amp; Egesippus lib. 2. de 
+      exci<lb ed="#L" n="13" break="no"/>Hiero. cap. 12. testes locupletissimi sunt. Quibus etiam  
+      <lb ed="#L" n="14"/>assentitur Nicephorus libr. 1. cap. 20. Nihil igitur ex 
+      re<lb ed="#L" n="15" break="no"/>rum veterum publica commemoratione, non certo 
+      di<lb ed="#L" n="16" break="no"/>cam, sed ne probabiliter quidem suadere possumus. Nam su 
+      <lb ed="#L" n="17"/>historias, quae in his tribus argumentis referuntur, 
+      explo<lb ed="#L" n="18" break="no"/>dere &amp; pro nihilo putare licet: nulla profecto humana 
+      hi<lb ed="#L" n="19" break="no"/>storia reperietur, quae quicquam habeat ad faciendam 
+      fi<lb ed="#L" n="20" break="no"/>dem virium.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e315">
+               <lb ed="#L" n="21"/>Quartum argumentum, Magos, qui Christum 
+      adoratu<lb ed="#L" n="22" break="no"/>ri ex Oriente venerunt, reges fuisse nedum philosophos,  
+      <lb ed="#L" n="23"/>tradunt, Cyprianus in sermone de baptismo Christi &amp;  
+      <lb ed="#L" n="24"/>manifesta Trinita. Athanasius, quest. 2. ad regem 
+      Antio<lb ed="#L" n="25" break="no"/>chum, Hieronymus in Psalm. 71. Augustinus sermone. 43 
+      <lb ed="#L" n="26"/>ad fratres in eremo, &amp; de mirabilibus sacrae scripturae, si 
+      <lb ed="#L" n="27"/>tamen haec opera August. sunt, Chrysostomus hom. 6. in 
+      <lb ed="#L" n="28"/>Matthae. Tertullianus contra Iudaeos. Doctor quidam 
+      an<lb ed="#L" n="29" break="no"/>tiquus nomine Christianus in cap. Matthae. 2. lsidorus in 
+      <lb ed="#L" n="30"/>praefatione missae, quae vulgo dicitur Mogaraue. D. Tho. 
+      <lb ed="#L" n="31"/>n Matthae. cap. 2. &amp; in Ioannis. 11. c. nam &amp;. 3. p. 4. 36. ar. 3. 
+      <lb ed="#L" n="32"/>ait, non solum fuisse sapientes sed potentes. Eiusdem 
+      sen<lb ed="#L" n="33" break="no"/>tentiae fuerunt Albertus Magnus. Diuus Vincentius, 
+      Ni<lb ed="#L" n="34" break="no"/>colaus Liranus, Dionysius Carthusien. Simon de Cassia, 
+      <lb ed="#L" n="35"/>Doctor incognitus in psalm. 71. Titelmanus, Ioannes 
+      E<lb ed="#L" n="36" break="no"/>chius. Diuus Antonius, alijque ex iunioribus, quos 
+      lon<lb ed="#L" n="37" break="no"/>gum est enumerare. Ac cerce historia esse videntur per ma 
+      <lb ed="#L" n="38"/>nus a maioribus nostris accepta. Sed haec tamen 
+      commu<lb ed="#L" n="39" break="no"/>nis traditio nullam prorsus in ecclesia facit fidem. Quin 
+      <!--572.xml-->
+      <pb ed="#L" n="561"/>
+               <lb ed="#L" n="1"/>probabilissime a Baptista Mantuano, alijsque 
+      recentiori<lb ed="#L" n="2" break="no"/>bus asseritur, Magos reges non fuisse. Non enim id siletio 
+      <lb ed="#L" n="3"/>praetermissurum Euangelistam quod ad rem magnopere 
+      <lb ed="#L" n="4"/>pertinebat, nec Herodem, si reges essent, eos adeo 
+      impe<lb ed="#L" n="5" break="no"/>riose &amp; inciuiliter excepturum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e374">
+               <lb ed="#L" n="6"/>Quintum, Magos venisse Hierosolymam diebus a 
+      Chri<lb ed="#L" n="7" break="no"/>sti natiuitate tredecim, non Hieronymus modo &amp; Augu 
+      <lb ed="#L" n="8"/>stinus, verum etiam omnes prope auctores, &amp; veteres &amp;  
+      <lb ed="#L" n="9"/>recentes memoriae prodiderunt. At Epiphanius haeresi. 
+      <lb ed="#L" n="10"/>51. constanter affirmat post duos annos a nato Christo 
+      <lb ed="#L" n="11"/>Magos ex oriente aduenisse. Cuius opinionis duae causae 
+      <lb ed="#L" n="12"/>sunt non omnino pessimae. Vna, quod in die 
+      Purificatio<lb ed="#L" n="13" break="no"/>nis non agnum sed turturem aut columbae pullum 
+      Chri<lb ed="#L" n="14" break="no"/>sti mater obtulit: non ergo potuit inuenire manus eius 
+      <lb ed="#L" n="15"/>pretium agni, atque adeo ne thesaurum quidem a Magis 
+      <lb ed="#L" n="16"/>acceperat. Altera causa est, quod Herodes occidit 
+      om<lb ed="#L" n="17" break="no"/>nes pueros a bimatu &amp; intra, secundum tempus quod 
+      ex<lb ed="#L" n="18" break="no"/>quisierat a Magis. Non est autem Virosimile, Herodem bi 
+      <lb ed="#L" n="19"/>mos pueros interfecturum iuxta tempus stellae, cuius 
+      appa<lb ed="#L" n="20" break="no"/>ritionem diligenter a Magis exquisiuerat, si ab ortu stellae 
+      <lb ed="#L" n="21"/>ad Magorum aduentum non nisi tredecim dies 
+      inter<lb ed="#L" n="22" break="no"/>fluxissent. His adde, quod ipsi quoque testati sunt, se stel 
+      <lb ed="#L" n="23"/>lam in Oriente vidisse. Quae profecto verba plus 
+      ali<lb ed="#L" n="24" break="no"/>quid significant, quam regionem, vnde profecti sunt, 
+      con<lb ed="#L" n="25" break="no"/>paratione tantum ad Hierosolyma orientalem fuisse. Si 
+      <lb ed="#L" n="26"/>igitur, vt plane scribit Euangelista, ab oriente venerunt,  
+      <lb ed="#L" n="27"/>cum non sit obscurum, Hierosolyma longissimo 
+      inter<lb ed="#L" n="28" break="no"/>uallo ab Oriente distare: intra tam paucos dies &amp; stellam 
+      <lb ed="#L" n="29"/>vidisse, &amp; consilium de profectione communicasse, &amp; 
+      ador<lb ed="#L" n="30" break="no"/>nasse iter ab Orientis partibus, per tot regiones ac popu 
+      <lb ed="#L" n="31"/>los ad Palaestinam accessisse, prorsus abhorret ab 
+      huma<lb ed="#L" n="32" break="no"/>nae iudicio rationis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e435">
+               <lb ed="#L" n="33"/>Sextum, Miraculum nuptiarum in die anniuersaria Epi 
+      <lb ed="#L" n="34"/>phaniae fuisse editum, posteritati suae, quod ait Maximus,  
+      <lb ed="#L" n="35"/>fidelis mandauit antiquitas. At Epiphanius contra docet,  
+      <lb ed="#L" n="36"/>eodem die, quo Christus natus est, completo iam anno 
+      <lb ed="#L" n="37"/>trigesimo filium cum matre conuiuio nuptiali interfuisse. 
+      <lb ed="#L" n="38"/>Nihil igitur certum ex temporum publica 
+      commemora<lb ed="#L" n="39" break="no"/>tione accipere possumus. 
+      <!--573.xml-->
+      <pb ed="#L" n="562"/>
+               <lb ed="#L" n="1"/>Septimum, Lex vera historiae est, vt Hieronymus saepe 
+      <lb ed="#L" n="2"/>dixit, ea scribere, quae vulgus existimat, quauis re ipsa 
+      fal<lb ed="#L" n="3" break="no"/>sa sint. Sic enim Ioseph ab ipsa quoque Maria appellabatur 
+      <lb ed="#L" n="4"/>pater Iesu, &amp; Herodem euangelista contristatum esse ait, 
+      <lb ed="#L" n="5"/>non quod re vera, aut Ioseph pater Christi esset, aut 
+      He<lb ed="#L" n="6" break="no"/>rodes esset animo contristatus: sed quod illud eo 
+      tempo<lb ed="#L" n="7" break="no"/>re sic vulgo ab hominibus putaretur, hoc autem 
+      discum<lb ed="#L" n="8" break="no"/>bentes existimarent: cum potius illud credendum sit, 
+      dis<lb ed="#L" n="9" break="no"/>simulasse mentis suae malitiam artificem homicidam, cum 
+      <lb ed="#L" n="10"/>tristitiam in facie &amp; laetitiam haberet in mente. Ob quam  
+      <lb ed="#L" n="11"/>causam vulpes est a Domino appellatus. Vnde &amp; 
+      Iose<lb ed="#L" n="12" break="no"/>phus i8. anti. libr. cap. 7. asserit, ab Herode Ioannem esse 
+      <lb ed="#L" n="13"/>occisum, quia timebat ne auctore Ioanne defectionem 
+      <lb ed="#L" n="14"/>populus moliretur. Ambiguum igitur omne 
+      argumen<lb ed="#L" n="15" break="no"/>tum est, quod ex historia petitur. Nam vulgi ferme 
+      opi<lb ed="#L" n="16" break="no"/>nio falsa est: &amp; poterit omnis eiusmodi argumentatio 
+      re<lb ed="#L" n="17" break="no"/>felli, quod historicus non veritatem rerum, sed vulgi 
+      opi<lb ed="#L" n="18" break="no"/>nionem expresserit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e496">
+               <lb ed="#L" n="19"/>octauum, Augustinus sermone. 71. de immolatione 
+      <lb ed="#L" n="20"/>Isaac, antiquorum, ait, relatione refertur, quod Adam pri 
+      <lb ed="#L" n="21"/>mus homo in ipso loco, vbi erux fixa est, fuerit sepultus. 
+      <lb ed="#L" n="22"/>Et Cyprianus in sermone de resurrectione Christi, Adam, 
+      <lb ed="#L" n="23"/>inquit, sub loco, quo crux Domini fixa est, humatus tradi 
+      <lb ed="#L" n="24"/>tur ab antiquis. Atque Paula &amp; Eustochium in epistola ad 
+      <lb ed="#L" n="25"/>Marcellam, eandem historiam tanquam habitantium ore 
+      <lb ed="#L" n="26"/>celebratam narrant. Ita eam refert quasi minime dubiam  
+      <lb ed="#L" n="27"/>Epiphanius libr. 2. cont. haeref. cap. vltimo. At 
+      Hierony<lb ed="#L" n="28" break="no"/>mus in Matthae. 27. caput &amp; in. 5. caput episto. ad 
+      Ephes<lb ed="#L" n="29" break="no"/>quasi fabulam irridet, quod Iosue.14. c. Adam in Cariath  
+      <lb ed="#L" n="30"/>Arbe dicatur esse conditus. Opinionem vero 
+      Hierony<lb ed="#L" n="31" break="no"/>ni lsidorus sequutus est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e528">
+               <lb ed="#L" n="32"/>Nonum, Clemens Alexandrinus, Eusebius 
+      Caesa<lb ed="#L" n="33" break="no"/>rien. Theodoretus, Hieronymus &amp; August. ex annalium 
+      <lb ed="#L" n="34"/>ratione colligunt, septuaginta desolationis annos in secun 
+      <lb ed="#L" n="35"/>do Darij Histaspis fuisse complectos. At hoc non modo 
+      <lb ed="#L" n="36"/>falsum &amp; commentitium est, sed sacris etiam literis 
+      ad<lb ed="#L" n="37" break="no"/>uersum, quae non implicite &amp; abscondite sed patentius, 
+      <!--574.xml-->
+      <pb ed="#L" n="563"/>
+               <lb ed="#L" n="1"/>&amp; expeditius continent, septuaginta illos annos statim  
+      <lb ed="#L" n="2"/>ab initio regni Cyri absolutos. Nullum ergo idoneum 
+      <lb ed="#L" n="3"/>argumentum ex temporum ratione promitur. 
+      <lb ed="#L" n="4"/>Decimum, Hieronymus auctor grauissimus historiae 
+      <lb ed="#L" n="5"/>prodit, quod in secundo Darii anno templum aedificari 
+      <lb ed="#L" n="6"/>coeptum est. At vero explorate perceptum est &amp; 
+      cogni<lb ed="#L" n="7" break="no"/>tum, Torobabelem sub Cyro templi fundamenta iecisse. 
+      <lb ed="#L" n="8"/>Imbecillum ergo est quodcunque argumentum ex 
+      histo<lb ed="#L" n="9" break="no"/>ria humana depromptum, quamlibet historiae auctor 
+      gra<lb ed="#L" n="10" break="no"/>uis sit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e570">
+               <lb ed="#L" n="11"/>Vndecimum, Plerique historici &amp; ij nobiles 
+      tradide<lb ed="#L" n="12" break="no"/>runt, Artaxerxem aedificationem templi impediisse. At.  
+      <lb ed="#L" n="13"/>contra scriptura tradit, templum aedificatum esse 
+      praeci<lb ed="#L" n="14" break="no"/>piente Cyro, Dario &amp; Artaxerxe. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e581">
+               <lb ed="#L" n="15"/>Duo decimum, Iosue post mortem Moysis 26. annos 
+      <lb ed="#L" n="16"/>imperasse, auctores sunt Iosephus lib. 5. ant. ca. 1. 
+      Sabelli<lb ed="#L" n="17" break="no"/>cus Aenea. 1. lib. 4. Nauclerus Chronographiae suae 
+      ge<lb ed="#L" n="18" break="no"/>neratione. 28. Nam Eusebius in chronicis, atque hunc 
+      <lb ed="#L" n="19"/>secuti lsidorus, Seuerus, Sulpicius, &amp; Ioannes Carion. 27. 
+      <lb ed="#L" n="20"/>annos Iosue imperio tribuerunt. Quae si vera essent, non 
+      <lb ed="#L" n="21"/>esset vera summa. 4S0. annorum, quae ab exitu filiorum 
+      <lb ed="#L" n="22"/>lsrael de Aegypto ad templi aedificationem. 3. Reg. lib.  
+      <lb ed="#L" n="23"/>cap. 6. colligitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e603">
+               <lb ed="#L" n="24"/>Tertiumdecimum, Si qua historia Theologo probanda 
+      <lb ed="#L" n="25"/>est, ea erit maxime, quae omnium ecclesiarum ore 
+      celebra<lb ed="#L" n="26" break="no"/>tur. At eiusmodi multae nullam faciunt prorsus in Theo 
+      <lb ed="#L" n="27"/>logia fidem. Etenim, vt ea praetereamus, quae ridicule &amp;  
+      <lb ed="#L" n="28"/>false de Cirico &amp; Iulita, De Gregorio, de Catherina 
+      mar<lb ed="#L" n="29" break="no"/>tyre, deque vndecim mille virginibus referuntur: certe 
+      hi<lb ed="#L" n="30" break="no"/>storia Thomae Apostoli apocrypha &amp; commentitia est, non 
+      <lb ed="#L" n="31"/>solum Gelasio 15. dist. cap. Sancta Romana, sed etiam 
+      Au<lb ed="#L" n="32" break="no"/>gustino lib. 22. con. Faust. ca. 79. &amp; lib. vnico aduer. 
+      Adi<lb ed="#L" n="33" break="no"/>mantum. ca. 17. &amp; li. 1. de ser. do. in mon. cap. 38. His adde 
+      <lb ed="#L" n="34"/>Marthae &amp; Mariae Magdalenae fabulam, quae narrat ad 
+      Ma<lb ed="#L" n="35" break="no"/>riam quidem Magdalum, ad Martham vero Bethaniam sorte 
+      <lb ed="#L" n="36"/>haereditaria peruenisse: cum contra scribat Ioannes 
+      Be<lb ed="#L" n="37" break="no"/>thaniam Castellum Mariae Marthaeque fuisse. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e636">
+               <lb ed="#L" n="38"/>Quartum decimum, ea historia reliquas videtur 
+      excel<lb ed="#L" n="39" break="no"/>lere, quae a summis pontificibus probata est. Constantini 
+      <!--575.xml-->
+      <pb ed="#L" n="564"/>
+               <lb ed="#L" n="1"/>vero donatio, lepra, baptismus, sanitas, non modo 
+      histo<lb ed="#L" n="2" break="no"/>riis celebrantur ecclesiae: verumetiam per summos 
+      ponti<lb ed="#L" n="3" break="no"/>ices approbantur. At haec ficta esse omnia multi viri 
+      do<lb ed="#L" n="4" break="no"/>ctissimi contenderunt. Nulla igitur ecclesiastica historia 
+      <lb ed="#L" n="5"/>Theologo idonea argumenta ministrat. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e658">
+               <lb ed="#L" n="6"/>quintum decimum, Nemo in ecclesiasticis viris est, qui 
+      <lb ed="#L" n="7"/>historiae probabilis auctor haberi queat. Non Philo in 
+      <lb ed="#L" n="8"/>temporum breuiario. Nam in eo libello quanuis exiguo 
+      <lb ed="#L" n="9"/>tot mendacia sunt, vt sint numeratu difficillima. Non 
+      Io<lb ed="#L" n="10" break="no"/>sephus. Primum quia multa tradit sacris literis 
+      vebemen<lb ed="#L" n="11" break="no"/>ter repugnantia. Deinde, quia tertium Esdrae librum in 
+      <lb ed="#L" n="12"/>historia sequitur, quem Hieronimus non aliter quam 
+      som<lb ed="#L" n="13" break="no"/>nia reiicit. Postremo, quia in temporibus rerum 
+      notan<lb ed="#L" n="14" break="no"/>dis vario fuit errore versatus. Ecquis ergo in ecclesia 
+      au<lb ed="#L" n="15" break="no"/>ctor historiae certus habebitur: An Aphricanus? Sed 
+      hu<lb ed="#L" n="16" break="no"/>tus historia Gelasio apocrypha est. An Eusebius? Sed 
+      hu<lb ed="#L" n="17" break="no"/>ius quoque historiam tanquam apocrypham, idem 
+      Gela<lb ed="#L" n="18" break="no"/>sius reprobat. Sed in historia tripartita Sozomenus 
+      prin<lb ed="#L" n="19" break="no"/>ceps habetur. At hunc damnat Gregorius inquies, In 
+      hi<lb ed="#L" n="20" break="no"/>storia Sozomeni de quodam Eudoxio aliqua narrantur. 
+      <lb ed="#L" n="21"/>Sed ipsam historiam sedes apostolica recipere recusat: 
+      quo<lb ed="#L" n="22" break="no"/>niam multa mentitur, &amp; Theodorum nimium laudat, atque  
+      <lb ed="#L" n="23"/>vsque ad vltimum sui diem magnum ecclesiae doctorem 
+      <lb ed="#L" n="24"/>fuisse praedicat. Si igitur hi, qui primas in historia 
+      eccle<lb ed="#L" n="25" break="no"/>siastica partes habent, incerti ac mendaces auctores sunt: 
+      <lb ed="#L" n="26"/>nimirum neque ex his neque ex aliis, quorum minor est 
+      <lb ed="#L" n="27"/>auctoritas, idoneum sumet Theologus argumentum ad 
+      <lb ed="#L" n="28"/>suas conclusiones corroborandas. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e711">
+               <lb ed="#L" n="29"/>Saxtumdecimum, Innocentius. 2O. dist. ca. de quibus. 
+      <lb ed="#L" n="30"/>solas ecclesiasticas historias in causis ecclesiae finiendis 
+      <lb ed="#L" n="31"/>approbauit. Ethnicorum ergo de rebus gestis 
+      monimen<lb ed="#L" n="32" break="no"/>ta parum in Theologiae vsum valere possunt. Id quod 
+      <lb ed="#L" n="33"/>concilium Florentinum sessione septima confirmat in 
+      <lb ed="#L" n="34"/>haec verba. Romanorum aut Graecorum historia 
+      nequa<lb ed="#L" n="35" break="no"/>quam in synodo vti debemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e729">
+               <lb ed="#L" n="36"/>Decimumseptimum, In Assyriorum monarchia 
+      Bero<lb ed="#L" n="37" break="no"/>sus commendari supra caeteros solet. At huius auctoris 
+      <lb ed="#L" n="38"/>nulla extat historia. Nam, quae Berosi nomine est ab 
+      An<lb ed="#L" n="39" break="no"/>nio edita, eam fictam esse viri eruditi deprehenderunt. In 
+      <!--576.xml-->
+      <pb ed="#L" n="565"/>
+               <lb ed="#L" n="1"/>persarum vero rebus gestis commemorandis praefertur 
+      <lb ed="#L" n="2"/>Metasthenes, quimeros &amp; publicos Persarum annales, vt 
+      <lb ed="#L" n="3"/>fertur, secutus est. At huius etiam monimenta multo 
+      fal<lb ed="#L" n="4" break="no"/>siore titulo Annius edidit. Metasthenes siquidem iste 
+      An<lb ed="#L" n="5" break="no"/>nianus, octo solum Persarum reges fuisse tradit, cum tamen 
+      <lb ed="#L" n="6"/>fuerint quatuordecim, quos ordine &amp; Hieronymus in 
+      <lb ed="#L" n="7"/>septimum Danielis caput, &amp; Eusebius censet in chronicis.  
+      <lb ed="#L" n="8"/>Iam Graecarum rerum historia quid nisi fabulas continet: 
+      <lb ed="#L" n="9"/>quas illi passim pro veris historiis edunt? Cicero quippe 
+      <lb ed="#L" n="10"/>auctor est grauis, quod testimoniorum religionem 
+      Grae<lb ed="#L" n="11" break="no"/>ca natio non coluit. Scipio item apud Liuium non aliter 
+      <lb ed="#L" n="12"/>historias Graecas ac fabulas refert. Vere quoque dixit 
+      Fa<lb ed="#L" n="13" break="no"/>bius, Graecis historiis plerunqe poeticae similem esse 
+      licem<lb ed="#L" n="14" break="no"/>tiam. Vt iure illud ex Satyra vulgi etiam sermone teratur, 
+      <lb ed="#L" n="15"/>Et quicquid Graecia mendax audet in historia. Atque 
+      Io<lb ed="#L" n="16" break="no"/>sephus in prooemio lib. de Bello Iudai. veritatem a 
+      Grae<lb ed="#L" n="17" break="no"/>cis in historia negligi testis est. Id quod in 1. cont. App.  
+      <lb ed="#L" n="18"/>libr. confirmat. Sed &amp; e nostris Hieronymus cum 
+      Grae<lb ed="#L" n="19" break="no"/>cas historias opposuisset, non debemus, inquit, eorum 
+      <lb ed="#L" n="20"/>auctoritati acquiescere, quorum mendacia detestamur. 
+      <lb ed="#L" n="21"/>Sane, vt taceam de reliquis, Herodotus &amp; Renophon,  
+      <lb ed="#L" n="22"/>quos historiae parentes Graeci habent, confictis fere 
+      nar<lb ed="#L" n="23" break="no"/>rationibus abutuntur. Quid in imperio Romanorum? An 
+      <lb ed="#L" n="24"/>vlli extant annales publici, quibus credere debeamus? 
+      <lb ed="#L" n="25"/>Minime gentium. Sed quisque, pro affectu suo res illorum 
+      <lb ed="#L" n="26"/>gestas scripsit. Laudationibus porro, quod Tullius ait 2. 
+      <lb ed="#L" n="27"/>historia rerum Romanarum est facta mendosior. Quaedam  
+      <lb ed="#L" n="28"/>autem in Liuio esse, quaedam in Sallustio, quaedam in 
+      Cor<lb ed="#L" n="29" break="no"/>nelio Tacito, quaedam in Trogo, quorum fides 
+      manife<lb ed="#L" n="30" break="no"/>stis testimontis labefactari possit, Flauius Vopiscus: 
+      ve<lb ed="#L" n="31" break="no"/>rissime dixit. Nihil ergo fidei ethnicorum historiis 
+      ha<lb ed="#L" n="32" break="no"/>bendum est: vtpote quae nullam habeant non modo 
+      cer<lb ed="#L" n="33" break="no"/>tam, sed ne probabilem quidem auctoritatem.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1015-d1e816">
+               <lb ed="#L" n="34"/>Postremum argumentum historias omneis generaliter 
+      <lb ed="#L" n="35"/>&amp; ecclesiasticas &amp; profanas impugnat. Illud est 
+      huiusmo<lb ed="#L" n="36" break="no"/>di. Fidem humanam idcirco. Aristoteles virtutum 
+      intel<lb ed="#L" n="37" break="no"/>lectualium numero exemit, quod iuxtam ad falsum &amp; 
+      ve<lb ed="#L" n="38" break="no"/>rum inclinat. Theologia ergo, quae tota veritate 
+      per<lb ed="#L" n="39" break="no"/>penditur, non accipiet ab humana side adiutorium, nec 
+      <!--577.xml-->
+      <pb ed="#L" n="566"/>
+               <lb ed="#L" n="1"/>verax cum fallaci ad argumentandum consociationem 
+      <lb ed="#L" n="2"/>contrahet: quoniam tale argumentum exen parte, qua 
+      hu<lb ed="#L" n="3" break="no"/>manae fidei innititur, aeque falsitati ac veritati innitetur. 
+      <lb ed="#L" n="4"/>Confirmat autem hoc, vel maxime, quod homines 
+      men<lb ed="#L" n="5" break="no"/>daces sunt, fallereque &amp; falli omnes ad vnum possunt. 
+      Si<lb ed="#L" n="6" break="no"/>ue igitur pauci, seu plures historici quicquam affirment,  
+      <lb ed="#L" n="7"/>imbecilla ea omnis argumentatio erit, quae in testimonia 
+      <lb ed="#L" n="8"/>hominum inclinata recumbit. Quocirca argumentum 
+      quod<lb ed="#L" n="9" break="no"/>cunqe ex humana historia petitum imbecillius est, quam  
+      <lb ed="#L" n="10"/>vt in Theologia vllam omnino faciat fidem. His 
+      argu<lb ed="#L" n="11" break="no"/>mentis loci huius auctoritas impugnatur, Nam si quae sunt 
+      <lb ed="#L" n="12"/>alia, erunt autem fortasse plura, similia sunt : etque adeo 
+      <lb ed="#L" n="13"/>similiter refellentur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

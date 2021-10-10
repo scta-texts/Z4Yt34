@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="540"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e924"><!-- Z4Yt34-l10c5 -->
+            <head xml:id="Z4Yt34-d1e924-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e924-d1e109">
+               <lb ed="#L" n="10"/>Caput quintum.
+    </p>
+            <p xml:id="Z4Yt34-d1e924-d1e114">
+               <lb ed="#L" n="11"/>CVm vero de vnius aut alterius Philosophi fsecta disse 
+      <lb ed="#L" n="12"/>ritur, longe diuersa quaestio est. Atque quo quisque 
+      <lb ed="#L" n="13"/>doctior &amp; grauior est, eo est illius quidem, &amp; probabi 
+      <lb ed="#L" n="14"/>lior auctoritas, &amp; fide dignius testimonium. Sed nulli 
+      <lb ed="#L" n="15"/>Theologu ita sese adiudicare debet, vt ab eo ne latum 
+      qui<lb ed="#L" n="16" break="no"/>dem vnguem putet discedendum. Non enim aequum est, vt apud 
+      <lb ed="#L" n="17"/>Christi discipulos tantum Ethnici vnius auctoritas 
+      pos<lb ed="#L" n="18" break="no"/>sit, vt etiam sine ratione vincat. Refert certe in quacunque 
+      <lb ed="#L" n="19"/>arte plurimum, vnum in illa excellentem auctorem legere, 
+      <lb ed="#L" n="20"/>cui potissimum te addicas. Nullus tamen quamlibet 
+      eru<lb ed="#L" n="21" break="no"/>ditus sentiendi tibi ac dissentiendi auctor futurus est. 
+      Ne<lb ed="#L" n="22" break="no"/>mo enim fuit omnium, qui non, vt homo, interdum halluci 
+      <lb ed="#L" n="23"/>naretur. Enimuero quis primas inter Philosopos habeat,  
+      <lb ed="#L" n="24"/>quis ve proinde ille sit, cui praecipuam dare operam 
+      operae<lb ed="#L" n="25" break="no"/>pretium sit, variae sunt doctissimorum hominum 
+      discrepan<lb ed="#L" n="26" break="no"/>tesque sententiae. Nam, vt alios praeterea, in huiusmodi cau 
+      <lb ed="#L" n="27"/>sa aliud D. Augu. videri solet, cui caue quenqua 
+      antepo<lb ed="#L" n="28" break="no"/>nas, nec enim doctior vir fuit Augustino quisquam nec 
+      cla<lb ed="#L" n="29" break="no"/>rior. Aliud autem videtur D. Thomae, maximo 
+      grauissimo<lb ed="#L" n="30" break="no"/>que theologo atque philosopho. D. Augustino Plato 
+      sum<lb ed="#L" n="31" break="no"/>mus est, D. Thomae summus est Aristoteles, sic fere res ha 
+      <lb ed="#L" n="32"/>bet, vt id doctrinae genus quisque, maxime probet, cui a 
+      te<lb ed="#L" n="33" break="no"/>neris annis maxime assuetus est. Exoritur Augustini ratio 
+      <lb ed="#L" n="34"/>ex altera parte, nullos esse omnium Christianae magis 
+      do<lb ed="#L" n="35" break="no"/>ctrines concordes quam Platonicos. Plato siquidem fuit ex 
+      <lb ed="#L" n="36"/>Hebraeis philosophus, vt Clemens Alexandrinus auctor 
+      <lb ed="#L" n="37"/>est. Imo vero, inquit Thomas, Peripateticorum doctrina 
+      <!--552.xml-->
+      <pb ed="#L" n="541"/>
+               <lb ed="#L" n="1"/>Christiano dogmati consentit plurimum. Clemens enim 
+      <lb ed="#L" n="2"/>Alexandrinus li. 5. Stro. etiam refert, Aristobolum multis 
+      <lb ed="#L" n="3"/>libris probasse philosophiam peripateticam, ex lege 
+      Mo<lb ed="#L" n="4" break="no"/>saica &amp; alijs dependisse Prophetis. Ac D. Thomae senten 
+      <lb ed="#L" n="5"/>tia quidem, &amp; omnium pene getium &amp; multorum 
+      seculo<lb ed="#L" n="6" break="no"/>rum vsu probata est. Platonem enim iam inde a multis 
+      an<lb ed="#L" n="7" break="no"/>nis vix in angulis homines otiosi legunt. Aristotelem vero 
+      <lb ed="#L" n="8"/>magno consensu orbis academiae resonant. In Aristotelem 
+      <lb ed="#L" n="9"/>quoque illud elogium vnicum vniuersae consentiunt 
+      gen<lb ed="#L" n="10" break="no"/>tes, per Antonomasiam philosophum, hoc est, 
+      philosopho<lb ed="#L" n="11" break="no"/>rum primarium fuisse. Iure ergo illum amplectimur, cuius 
+      <lb ed="#L" n="12"/>de laude omnium sit fama consentiens. Diuo etiam 
+      Tho<lb ed="#L" n="13" break="no"/>mae ita sunt Theologi scholastici assensi, vt in schola theo 
+      <lb ed="#L" n="14"/>logiae, Plato ne locum habeat quidem, it. eam Aristoteles 
+      <lb ed="#L" n="15"/>occupauit. Illud constat nemine in rebus naturalibus ple 
+      <lb ed="#L" n="16"/>ne eruditum esse posse, si solum Platonem legat. Solus 
+      au<lb ed="#L" n="17" break="no"/>tem Aristoteles abunde sat est, vt sit homo in Philosophiae 
+      <lb ed="#L" n="18"/>tribus omnino partibus eruditus. Sane, ne quis causetur, 
+      <lb ed="#L" n="19"/>misero seculo Aristotelem Theologis, Platonem autem 
+      me<lb ed="#L" n="20" break="no"/>liore ecclesiae statu placuisse, sciat is, quicunqe est tandem,  
+      <lb ed="#L" n="21"/>scholam Aristotelicam Alexandiiae tum etia vigere 
+      soli<lb ed="#L" n="22" break="no"/>tam, cum ibi doctores Apostolici vigerent plurimum. Sec 
+      <lb ed="#L" n="23"/>enim, vt mihi quidem videtur, nec Augustini nec Thomae 
+      <lb ed="#L" n="24"/>contemnenda est sententia. Nam &amp; ijs concedendum est,  
+      <lb ed="#L" n="25"/>qui Aristotelem amant, &amp; ijs forsitan qui Platonis amici 
+      <lb ed="#L" n="26"/>sunt. Quorum iudicium, in eo quod de animi 
+      immorta<lb ed="#L" n="27" break="no"/>litate, de Dei prouidentia, de rerum creatione, de 
+      fini<lb ed="#L" n="28" break="no"/>bus bonorum &amp; malorum, deque alterius vitae vel 
+      prae<lb ed="#L" n="29" break="no"/>mio vel poenis, Platonem apertius constantiusque locutum 
+      <lb ed="#L" n="30"/>asserant, difficile factu est non probare. Probanda vero ma 
+      <lb ed="#L" n="31"/>gis est Diui Thomae opinio, sed ita tamen, vt adhibeatur 
+      <lb ed="#L" n="32"/>moderatio quaedam, sine qua probari illa non potest. 
+      <lb ed="#L" n="33"/>Placet enim quoque nobis Aristoteles, &amp; recte placet,  
+      <lb ed="#L" n="34"/>modo ne repugnantem etiam illum ad Christi velimus 
+      <lb ed="#L" n="35"/>semper, dogma conuertere. Id quod interpretes fere 
+      so<lb ed="#L" n="36" break="no"/>lent. Qui vim contextui saepe afferunt, atque Aristotelem 
+      <lb ed="#L" n="37"/>cogunt, vt velit nolit pro fide catholica pronunciet. Peri 
+      <lb ed="#L" n="38"/>clitemur autem, si placet, &amp; in ijs quidem exemplis, in quibus 
+      <lb ed="#L" n="39"/>errasse Aristotelem, vulgus Theologorum fortasse non  
+      <!--553.xml-->
+      <pb ed="#L" n="542"/>
+               <lb ed="#L" n="1"/>putat. Nec enim hoc loco de aeternitate mundi mentiumque 
+      <lb ed="#L" n="2"/>praefinito numero disserendum est. Sed ne de animi immor 
+      <lb ed="#L" n="3"/>talitate quidem. Nam illa priora obuia sunt omnibus, haec 
+      <lb ed="#L" n="4"/>autem quaestio in his commentarijs, quos de anima 
+      scri<lb ed="#L" n="5" break="no"/>sit, accuratissime est a Caietano disputata. Verum haec 
+      <lb ed="#L" n="6"/>consideremus, quae difficiliora sunt, &amp; que Aristoteles 
+      va<lb ed="#L" n="7" break="no"/>fre verbisque de industria ad imponendum compositis 
+      <lb ed="#L" n="8"/>obscure videtur enunciasse: vt si a doctis fortasse viris 
+      <lb ed="#L" n="9"/>ure quandoque &amp; vere reprehenderetur, haberet quo 
+      <lb ed="#L" n="10"/>posset elabi, atque ab amicis excusari. Nec ego hic 
+      tamen<lb ed="#L" n="11" break="no"/>aduersus Aristotelem accusationem instituo virum 
+      do<lb ed="#L" n="12" break="no"/>ctissimum, deque humanis literis omnibus bene meritum. 
+      <lb ed="#L" n="13"/>Sed cum plerique ab illo nunc non aliter atque ab 
+      oracu<lb ed="#L" n="14" break="no"/>lo pendere videantur, secureque omnia illius opera lege 
+      <lb ed="#L" n="15"/>re, minuenda est haec opinio, ne ab huius Philosophi placi 
+      <lb ed="#L" n="16"/>tis dissentire, piaculi loco sit. Audiuimus enim Italos esse 
+      <lb ed="#L" n="17"/>quosdam, qui suis &amp; Aristoteli &amp; Auerroi tantum 
+      tempo<lb ed="#L" n="18" break="no"/>ris dant, quantum sacris literis ij, qui maxime sacra 
+      do<lb ed="#L" n="19" break="no"/>ctrina delectantur, tantum vero fidei, quantum apostolis, 
+      <lb ed="#L" n="20"/>&amp; Euangelistis ij, qui maxime sunt in Christi doctrinam  
+      <lb ed="#L" n="21"/>religiosi. Ex quo nata sunt in Italia pestifera illa dogmata 
+      <lb ed="#L" n="22"/>de mortalitate animi, &amp; diuina circa res hamanas 
+      impro<lb ed="#L" n="23" break="no"/>uidentia, si verum est, quod dicitur, nihil enim praeter 
+      au<lb ed="#L" n="24" break="no"/>ditum habeo. Cum homines Aristotelis inflati 
+      opinioni<lb ed="#L" n="25" break="no"/>bugiturpiter sibi blandiuntur, &amp; inde in maximo 
+      versan<lb ed="#L" n="26" break="no"/>tur errore. Sed haec hactenus. Nunc ad propositum 
+      reuer<lb ed="#L" n="27" break="no"/>tamur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e924-d1e327">
+               <lb ed="#L" n="28"/>Primus igitur locus, vbi contra scripturarum fidem 
+      er<lb ed="#L" n="29" break="no"/>rasse Aristotelem existimo, habetur de somno &amp; vigilia. 
+      <lb ed="#L" n="30"/>quo loco negat Deum immittere somnia redditque eius rei 
+      <lb ed="#L" n="31"/>causam, quod si Deus eorum esset auctor, sapientibus vel 
+      ma<lb ed="#L" n="32" break="no"/>xime, &amp; his quidem vigilantibus ea immitterentur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e924-d1e340">
+               <lb ed="#L" n="33"/>Alterum exemplum est in tractatu de bona fortuna, 
+      <lb ed="#L" n="34"/>vbi res fortuitas diuinae gubernationi ac directioni 
+      sub<lb ed="#L" n="35" break="no"/>trahit, duobus argumentis persuasus: Vno quod res secum 
+      <lb ed="#L" n="36"/>dae prauis obueniant, quorum Deum habere curam nem sit 
+      <lb ed="#L" n="37"/>vero simile. Altero quod peus potius dirigeret in effecta 
+      <lb ed="#L" n="38"/>fortunaes homines sapientes, cum contra fere videamus, im 
+      <lb ed="#L" n="39"/>prudentissimos quosque esse fortunatissimos. 
+      <!--554.xml-->
+      <pb ed="#L" n="543"/>
+               <lb ed="#L" n="1"/>Tertius locus est libro primo de coeso, vbi quicquid 
+      <lb ed="#L" n="2"/>genitum esset, id corruptibile asseruit: nec incorruptibi 
+      <lb ed="#L" n="3"/>le quicquam, quod non esset ingenitum. Posuerat vero 
+      <lb ed="#L" n="4"/>ante omnia varias harum vocum significationes, ne res 
+      <lb ed="#L" n="5"/>verbi ignorantia clauderetur. Ratus itaque se aduersus 
+      <lb ed="#L" n="6"/>Platonem bonam habere causam, certamque proinde sibi 
+      <lb ed="#L" n="7"/>victoriam pollicitus, contra morem suum non obscure, sed 
+      <lb ed="#L" n="8"/>quam fieri potuit aperte docuit, quicquid 
+      incorruptibi<lb ed="#L" n="9" break="no"/>le esset, id ingenitum esse ac perpetuum oportere, hoc est 
+      <lb ed="#L" n="10"/>nullo vnquam modo incepisse. Sic enim vocem illam 
+      in<lb ed="#L" n="11" break="no"/>terpretatur. Qua ex re fieret, vt anima rationalis aut 
+      cor<lb ed="#L" n="12" break="no"/>ruptioni esset obnoxia, aut esset certe ingenita ac 
+      sempi<lb ed="#L" n="13" break="no"/>terna. 
+      </p>
+            <p xml:id="Z4Yt34-d1e924-d1e391">
+               <lb ed="#L" n="14"/>Quartus locus est libro quinto, rursumque duo decimo  
+      <lb ed="#L" n="15"/>Metaphy, quibus locis definit. Deum animal esse perpetuum 
+      <lb ed="#L" n="16"/>&amp; optimum. Vocat autem Deum communi nomine 
+      substan<lb ed="#L" n="17" break="no"/>tiam quamcunqe coelestem, &amp; diuina. Nam post hec incipit 
+      <lb ed="#L" n="18"/>inquirere, an illa substatia sempiterna vna an plures sint.  
+      <lb ed="#L" n="19"/>Atque eodem lib. 12. consentit bene antiquos res illas prae 
+      <lb ed="#L" n="20"/>stantissimas deos appellasse. Ludit autem per amphiboliam,  
+      <lb ed="#L" n="21"/>nunc. n mentem ipsam deum Vocat, nunc coelum, cuius 
+      a<lb ed="#L" n="22" break="no"/>nima meus est, id quod libro etiam 2. de coelo videre 
+      li<lb ed="#L" n="23" break="no"/>cet, Sed ne quis admiratus, quod coelestes substantias ani 
+      <lb ed="#L" n="24"/>malia hic Aristoteles nuncupet, nam veterum more 
+      sub<lb ed="#L" n="25" break="no"/>stantiam animatam siue anima sensitiua, seu intellectiua 
+      <lb ed="#L" n="26"/>vocat animal. Itaque arbitratur deum illum vnum 
+      principen<lb ed="#L" n="27" break="no"/>caeterorum, extremo coelo affixum, per se mouere ipsum, 
+      <lb ed="#L" n="28"/>quomodo caeterae mentes suos orbes mouent, suntque 
+      Ari<lb ed="#L" n="29" break="no"/>stoteli ipsorum orbium animae: vt &amp; D. Tho. 2. con. gen. c. 
+      <lb ed="#L" n="30"/>7O. admittit. Nec Aristot. aut 8. Physi. aut 12. Metaphy. 
+      <lb ed="#L" n="31"/>hominis intelligentiam ad aliud principium reuocat, que ad 
+      <lb ed="#L" n="32"/>illam primam mentem, quae vi sempiterna primum mobile ciet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e924-d1e435">
+               <lb ed="#L" n="33"/>Quintus locus est eodem quoque libro, vbi substantijs 
+      <lb ed="#L" n="34"/>intessectualibus coelorum motricibus virtutem tribuit 
+      in<lb ed="#L" n="35" break="no"/>finitam, quod infinito tempore moueant. 
+      </p>
+            <p xml:id="Z4Yt34-d1e924-d1e444">
+               <lb ed="#L" n="36"/>Sextus locus est eodem etiam libro, vbi, vt mihi quidem 
+      <lb ed="#L" n="37"/>videtur. Dei prouidentiam praemiaque &amp; supplicia, quae 
+      <lb ed="#L" n="38"/>probos &amp; improbes in futura vita manent, fabulas esse 
+      <lb ed="#L" n="39"/>significauit, gratia vulgi continendi in officio confictas. 
+      <!--555.xml-->
+      <pb ed="#L" n="544"/>
+               <lb ed="#L" n="1"/>Reliqua, ait, fabulose iam sunt allata ad persuasionem vulgi, 
+      <lb ed="#L" n="2"/>atque ad vsum legum vitaeque humanae vtilitatem. Ecquae 
+      <lb ed="#L" n="3"/>enim rogo illa sunt veteribus tradita, in quibus haec 
+      am<lb ed="#L" n="4" break="no"/>bo conueniant, vt sint ad vsum legum, &amp; ad vitae humanae 
+      <lb ed="#L" n="5"/>vtilitatem tradita, nisi ea, quae nos explicare voluimus, 
+      <lb ed="#L" n="6"/>Aristoteles noluit, ne proborum hominum, eorum vel 
+      <lb ed="#L" n="7"/>maxime, qui Reip. curam gererent, inuidiam sibi 
+      odium<lb ed="#L" n="8" break="no"/>que confsaret? Nam, quod Aristoteles Deo rerum huma 
+      <lb ed="#L" n="9"/>narum prouidentiam adimat, maxima auctoritate 
+      Theo<lb ed="#L" n="10" break="no"/>logi affirmant. Clemens Alexand. lib. 5. Strom. &amp; Epiph. 
+      <lb ed="#L" n="11"/>3. lib. aduersum haereses c. vltimo. Quos autem 
+      locuple<lb ed="#L" n="12" break="no"/>tiores auctores quaerimus, quam sanctos eruditos, in Grae 
+      <lb ed="#L" n="13"/>corumque, doctrinis apprime versatos? Anne ipsius etiam  
+      <lb ed="#L" n="14"/>Aristotelis de se testimonium expectamus? Nimirum 12. 
+      <lb ed="#L" n="15"/>Metaphy. lib. verbis artificiose excogitatis, ne in hoc 
+      e<lb ed="#L" n="16" break="no"/>tiam a more suo discederet, absurdum esse docuit, Deum 
+      <lb ed="#L" n="17"/>de quibusdam intelligere, quo praestet videre aliqua quam  
+      <lb ed="#L" n="18"/>non videre. Vbi non dixit absurdum esse Deum quedam 
+      <lb ed="#L" n="19"/>intelligere, sed de quibusdam intelligere, aut meditari, vt 
+      <lb ed="#L" n="20"/>vetus interpres reddidit. Vt non tam simplex rerum 
+      vi<lb ed="#L" n="21" break="no"/>lium intelligentia, quam prouidentia earum, &amp; cura 
+      signi<lb ed="#L" n="22" break="no"/>ficaretur. Sentit itaque Deum magna curare, parua 
+      negli<lb ed="#L" n="23" break="no"/>gere. Atque in libello de mundo, si modo eius est hoc 
+      o<lb ed="#L" n="24" break="no"/>pus, Deum facit similem magno Persarum regi Rerxi, vel 
+      <lb ed="#L" n="25"/>Cambysi, vel Dario, qui ipse per se maxima, &amp; 
+      pulcherri<lb ed="#L" n="26" break="no"/>ma regni obeat munia, minora, &amp; sordida mandet alijs. 
+      <lb ed="#L" n="27"/>Ac 1O. Ethic. libro, Quod si dij, inquit, curam habent 
+      ali<lb ed="#L" n="28" break="no"/>quam humanarum rerum, quemadmodum existimatur &amp;  
+      <lb ed="#L" n="29"/>creditur, rationabile est, eos amantibus mentem 
+      honoram<lb ed="#L" n="30" break="no"/>tibusque fauere, tanqe rerum sibi charissimarum 
+      curatori<lb ed="#L" n="31" break="no"/>bus ac bene agentibus. Nota, vt existimatur, &amp; creditur, 
+      <lb ed="#L" n="32"/>&amp;c. Iam Diogenes Laertius aperte tradit Aristotelem, Dei 
+      <lb ed="#L" n="33"/>prouidentiam ad coelestia vsque perstringere. Iam, quod 
+      <lb ed="#L" n="34"/>libertatem Deo in naturae rebus Aristoteles neget, viri 
+      <lb ed="#L" n="35"/>docti &amp; graues ita magnis argumentis suadent, vt 
+      super<lb ed="#L" n="36" break="no"/>uacaneum sit eas hic a me rationes repeti, quas in 
+      prom<lb ed="#L" n="37" break="no"/>ptu est, ex illorum libris cognoscere. Certe vbi de 
+      mun<lb ed="#L" n="38" break="no"/>di aeternitate velis equisque, vt aiunt, cum Platone 
+      <lb ed="#L" n="39"/>tertat, si naturae auctorem liberum faciat, ridiculus esse 
+      <!--556.xml-->
+      <pb ed="#L" n="545"/>
+               <lb ed="#L" n="1"/>videatur. Quid de indignatione ob prospera impiorum 
+      <lb ed="#L" n="2"/>euenta, quam ad bonos mores pertinere secundo Rheto 
+      <lb ed="#L" n="3"/>ritorum libro affirmat? Quid quod 7. Polyti. libro 
+      prae<lb ed="#L" n="4" break="no"/>scribit, nihil mutilum, &amp; imminutum orbatumque 
+      natura<lb ed="#L" n="5" break="no"/>educendum: scilicet, ne nimia filiorum multitudine res sua 
+      <lb ed="#L" n="6"/>illa publica formam speciemque, congruentem amitteret? 
+      <lb ed="#L" n="7"/>Propter quam etiam causam praeuertendos foetus 
+      existi<lb ed="#L" n="8" break="no"/>mat, aborsumque ante animationem faciendum. Nam postquevitam 
+      <lb ed="#L" n="9"/>acceperint, nephas putat attingere. Quid de animaru infi 
+      <lb ed="#L" n="10"/>nita multitudine? Quam admittat necesse est, ne in 
+      Py<lb ed="#L" n="11" break="no"/>thagorae uaere Aduxoyip, incidat? Illa vero admissa, cum 
+      <lb ed="#L" n="12"/>infinita corpora esse non posse existimet, demonstratum 
+      <lb ed="#L" n="13"/>resurrectionis articulum non admittet. Quid quo duo prin 
+      <lb ed="#L" n="14"/>cipia Aristoteles posuit, Deum &amp; materiam, nec enim 
+      re<lb ed="#L" n="15" break="no"/>rum creationem ex nihilo agnouit. Cuius quidem rei 
+      te<lb ed="#L" n="16" break="no"/>stes non mediocres, sed haud scio an grauissimos, 
+      Cle<lb ed="#L" n="17" break="no"/>mentem Alexandrinum Epiphaniumque, lector noli 
+      con<lb ed="#L" n="18" break="no"/>temnere. Atque haec quidem Aristotelis sensa fuisse, 
+      ve<lb ed="#L" n="19" break="no"/>recundius assero propter D. Thomam, qui huius 
+      Philo<lb ed="#L" n="20" break="no"/>sophi solet fere esse patronus, sed Doctores doctissimi 
+      <lb ed="#L" n="21"/>probant illum ita sensisse, quos ego in hac parte secutus 
+      <lb ed="#L" n="22"/>sum. Si quis vero pro Aristoteiis sensu Apologiam ador 
+      <lb ed="#L" n="23"/>net, cum hoc ego non magnopere contenderim. Tatum a 
+      <lb ed="#L" n="24"/>Lectore postulo, vt mihi concedat, si potest, Aristotelem 
+      <lb ed="#L" n="25"/>in his locis errasse, sin hoc non licet per D. Thomam, vt 
+      <lb ed="#L" n="26"/>illud certe dabit, vel caute eum vt varium &amp; lubricum 
+      <lb ed="#L" n="27"/>esse legendum, vel certe esse in nonnullis placitis 
+      repro<lb ed="#L" n="28" break="no"/>bandum. Mihi vtrumuis satis est, &amp; tum hoc tum illud 
+      <lb ed="#L" n="29"/>probabilius videtur, nec praeterea quicquam probabile. 
+      <lb ed="#L" n="30"/>Quantum ergo Philosophi vel simul omnes, vel 
+      separa<lb ed="#L" n="31" break="no"/>tim singuli, ad faciendam fidem habeant virium, satis, vt 
+      <lb ed="#L" n="32"/>arbitror diligenter, explicatum est.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

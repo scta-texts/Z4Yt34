@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="531"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e903"><!-- Z4Yt34-l10c3 -->
+            <head xml:id="Z4Yt34-d1e903-Hd1e106">Caput 3</head>
+            <p xml:id="Z4Yt34-d1e903-d1e109">
+               <lb ed="#L" n="30"/>Caput tertium.
+    </p>
+            <p xml:id="Z4Yt34-d1e903-d1e114">
+               <lb ed="#L" n="31"/>PHilosophorum auctoritas eorum, qui falsa senserunt, 
+      <lb ed="#L" n="32"/>nostram non potest adiuuare doctrinam, &amp; latentia 
+      <lb ed="#L" n="33"/>cognita facere, vt Augustinus ad Dioscorum vere 
+      <lb ed="#L" n="34"/>&amp; sapienter scripsit. Quid enim nobis est, ait, propter 
+      de<lb ed="#L" n="35" break="no"/>fensionem Christianae religionis, quaerere quid senserit 
+      <lb ed="#L" n="36"/>Anaximenes, Democritus, Epicurus, Parmenides &amp; 
+      Melis<lb ed="#L" n="37" break="no"/>sus, alijque similes huius farinae philosophi, quorum 
+      do<lb ed="#L" n="38" break="no"/>ctrina erroribus naturae rationi contrarijs plena fuit? 
+      <!--543.xml-->
+      <pb ed="#L" n="532"/>
+               <lb ed="#L" n="1"/>Non itaque omnas philosophi, scholae nostrae probati 
+      <lb ed="#L" n="2"/>sunt, sed illi, de quibus apud Platonem Socrates, sunt 
+      in<lb ed="#L" n="3" break="no"/>quit, in mysterijs multi quidem, qui gestant ferulam, 
+      <lb ed="#L" n="4"/>pauci vero Bacchi. Magnifica vero vox &amp; magno viro ac 
+      <lb ed="#L" n="5"/>sapiente digna, qua docemur, multos vtique barba &amp; pal 
+      <lb ed="#L" n="6"/>lio tenus, sed paucos re vera fuisse philosophos. Paucos 
+      <lb ed="#L" n="7"/>igitur hos, qui scilicet naturae vim &amp; effecta, morum ac vi 
+      <lb ed="#L" n="8"/>tae normam, via &amp; ratione inuestigarunt, magnaque ex 
+      par<lb ed="#L" n="9" break="no"/>te consecuti sunt. Theologis esse vtiles, hac nos 
+      oratio<lb ed="#L" n="10" break="no"/>ne contendimus. Nec video equidem cur huiusmodi 
+      <lb ed="#L" n="11"/>philosophos tanto Lutherani odio prosequantur, nisi 
+      <lb ed="#L" n="12"/>quod auctores obscuros intellectuque difficiles perdisce 
+      <lb ed="#L" n="13"/>re nec volunt, nec vero possunt. Etenim optimi cuiusque 
+      <lb ed="#L" n="14"/>philosophi commentaria, praesertimque Aristotelis, 
+      disci<lb ed="#L" n="15" break="no"/>pulum non modo ingeniosum, sed amantem etiam 
+      labo<lb ed="#L" n="16" break="no"/>tis exigunt. Isti vero cum parum ingenio valent, tum in 
+      <lb ed="#L" n="17"/>laboribus e vita etiam Christiana pellendis occupati 
+      <lb ed="#L" n="18"/>&amp; sunt &amp; fuerunt. Quamobrem quod in philosophorum 
+      <lb ed="#L" n="19"/>libris difficile atque arduum esse vident, id &amp; horrent 
+      i<lb ed="#L" n="20" break="no"/>psi, &amp; ab eo iuuenum animos alienant. Quid autem sibi 
+      <lb ed="#L" n="21"/>Theophilus Alexandrinus velit, penitus non intelligo, 
+      <lb ed="#L" n="22"/>cum in secundo paschali libro Orgenem carpit, quod 
+      phi<lb ed="#L" n="23" break="no"/>losophorum argutias tractatibus suis miscuerit, atque ita 
+      <lb ed="#L" n="24"/>ex malo exordio in fabulas &amp; deliramenta processerit, ac 
+      <lb ed="#L" n="25"/>Theologicum dogma ludum &amp; iocum fecerit. Quanto il 
+      <lb ed="#L" n="26"/>lud apud Porphyrium, quanquam ab impio philosopho 
+      <lb ed="#L" n="27"/>dictum est, verius tamen &amp; luculentius dictum est, Origene 
+      <lb ed="#L" n="28"/>Graecorum diuitias omnes ad Christianum dogma 
+      locu<lb ed="#L" n="29" break="no"/>pletandum conuertisse. Sed haec forte obscura sunt, cum 
+      <lb ed="#L" n="30"/>lente argumentis nullis appositis explicantur. Factis 
+      pri<lb ed="#L" n="31" break="no"/>mum illustranda sunt summorum virorum haec. Deinde 
+      <lb ed="#L" n="32"/>patrum nostrorum testimonijs. Tum rationibus, apertissi 
+      <lb ed="#L" n="33"/>mis illis quidem, sed quam paucissimis. Cum enim in 
+      hu<lb ed="#L" n="34" break="no"/>iusmodi causis, quae scholae propriae sunt, verear equidem,  
+      <lb ed="#L" n="35"/>ne cui ex scholasticorum disputationibus, non ex 
+      eccle<lb ed="#L" n="36" break="no"/>siae sensu deprompta nostra videatur oratio interdum 
+      <lb ed="#L" n="37"/>argumenta ducta a ratione praestringimus, &amp; veritatem,  
+      <lb ed="#L" n="38"/>quam sequimur, maiorum potissimum auctoritate 
+      suade<lb ed="#L" n="39" break="no"/>mus. Intelligendum est autem, cum proposita sint genera¬ 
+      <!--544.xml-->
+      <pb ed="#L" n="533"/>
+               <lb ed="#L" n="1"/>decem, e quibus argumenta rationesque manarent, 
+      splen<lb ed="#L" n="2" break="no"/>didissimum videri, quod veterum traditione exemplisque, 
+      <lb ed="#L" n="3"/>consistit. Atque si bono loco res essent: quae more 
+      agun<lb ed="#L" n="4" break="no"/>tur &amp; institutis ecclesiae, de his nihil erat argumentandum, 
+      <lb ed="#L" n="5"/>illa enim ipsa certissima argumenta sunt. Lutheranorum  
+      <lb ed="#L" n="6"/>vero oratio tota mox erat eijcienda. Est enim inimica 
+      ec<lb ed="#L" n="7" break="no"/>clesiasticae regulae, sine qua nihil rectum esse potest, nihil 
+      <lb ed="#L" n="8"/>constans, nihil verum, sed haec alias. Nunc quod instat 
+      a<lb ed="#L" n="9" break="no"/>gamus. Porro olim ecclesiae doctores summi fuere, qui 
+      ij<lb ed="#L" n="10" break="no"/>dem fuere philosophi, Didymus, Iustinus, Origenes, Gre 
+      <lb ed="#L" n="11"/>gorius Nazanzenus, Basilius, Gregorius Nissenus. Dama 
+      <lb ed="#L" n="12"/>scenus, Augustinus. Tales enim, cum habebantur, 
+      eccle<lb ed="#L" n="13" break="no"/>siasticae scholae praefici solere, Eusebius lib. 5. eccle. hist. c. 
+      <lb ed="#L" n="14"/>1O. scribit his verbis. Consuetudo antiquitus tradita 
+      ser<lb ed="#L" n="15" break="no"/>uabatur, vt diuinarum scripturarum doctores in schola 
+      ec<lb ed="#L" n="16" break="no"/>clesiastica habeantur, viri duntaxat scientia, &amp; eruditione 
+      <lb ed="#L" n="17"/>probatissimi. Huius officij auctor, &amp; dux tunc satis 
+      illu<lb ed="#L" n="18" break="no"/>stris habebatur Panthaenus, qui in Philosophis Stoicis 
+      <lb ed="#L" n="19"/>prius nobiliter floruisset. Tradit quoque Origenes apud 
+      <lb ed="#L" n="20"/>Euseb. lib. 6. c. 15. non solum a Panthaeno, sed ab 
+      Haeracla<lb ed="#L" n="21" break="no"/>alijsque plerisque doctoribus Apostolicis Thilesophorum 
+      li<lb ed="#L" n="22" break="no"/>bros legi solitos. Quod si sanctorum loca referre volueri 
+      <lb ed="#L" n="23"/>mus, quibus illi philosophorum testimonijs vtuntur, non 
+      <lb ed="#L" n="24"/>eorum modo, qui de moribus, sed eorum etiam, qui de 1.a 
+      <lb ed="#L" n="25"/>tura scripserunt, verendum nobis est, ne in causa parum  
+      <lb ed="#L" n="26"/>dubia testibus vtamur minime necessarijs. Legant isti omnia 
+      <lb ed="#L" n="27"/>eorum commentaria, quibus, de opere sex dieru disputatio 
+      <lb ed="#L" n="28"/>instituta est, atque in his vel solis videre poterunt, &amp; quanta 
+      <lb ed="#L" n="29"/>fuerit maiorum nostrorum perlegendis philosophis 
+      diligen<lb ed="#L" n="30" break="no"/>tia, &amp; quantus sit philosophorum explicandis sacris literis 
+      <lb ed="#L" n="31"/>vsus. Vide aut etiam Hier. in 17. cap. Hiere. Et li. 2. aduersus 
+      <lb ed="#L" n="32"/>Iouinia, vbi etiam cum haeretico disserens, varijs 
+      philoso<lb ed="#L" n="33" break="no"/>phorum testimonijs vtitur: multisque e philosophorum con 
+      <lb ed="#L" n="34"/>mentarijs, rerum naturalium exemplis editis, plane docet 
+      <lb ed="#L" n="35"/>quantum horum auctoritas theologo ad argumentandum 
+      <lb ed="#L" n="36"/>conferat. Sed de hac re paulo post. Nunc id quod erat 
+      in<lb ed="#L" n="37" break="no"/>stitutum persequamur. Sane vt reliquos praeteream, quos 
+      sta<lb ed="#L" n="38" break="no"/>re a nobis aduersarij nostri non dubitant, Epiphanius cer 
+      <lb ed="#L" n="39"/>te ipse, quem nobis, obijciunt, Philofophorum auctoritatem 
+      <!--545.xml-->
+      <pb ed="#L" n="534"/>
+               <lb ed="#L" n="1"/>haud semel vsurpat. Docturus em haeresi. 51. quamnam ratione 
+      <lb ed="#L" n="2"/>essent haeretici fugandi, aiunt, inquit, hi, qui haec in 
+      con<lb ed="#L" n="3" break="no"/>suetudine habuerunt, odore Dictamni, Styracis, 
+      Libano<lb ed="#L" n="4" break="no"/>tidis, Abrotoni, Bituminis. Thymiamatis, Lapidis 
+      Gaga<lb ed="#L" n="5" break="no"/>tae, aut cornucerui fugari reptilia, &amp; venenum iaculantia. 
+      <lb ed="#L" n="6"/>Item haeresi. 78. cum multis argumentis suassisset, Beatam  
+      <lb ed="#L" n="7"/>virginem post partum virginitatem conseruasse, subdit.  
+      <lb ed="#L" n="8"/>Si vero etiam ab alia quadam speculatione ipsas res 
+      acci<lb ed="#L" n="9" break="no"/>pere conuenit, attingemus quoque rationum naturae 
+      co<lb ed="#L" n="10" break="no"/>gnationes. Aiunt leaenam non parere praeterquam semel &amp; 
+      <lb ed="#L" n="11"/>vnum. Cumque subiecisset causam, quam eius rei 
+      Philo<lb ed="#L" n="12" break="no"/>sophi naturales redderent, colligit, Beatam virginem, quae 
+      <lb ed="#L" n="13"/>Leonem peperit de tribu Iuda, non ni semel atque vnicum 
+      <lb ed="#L" n="14"/>peperisse. En Epiphanius, &amp; Christianos instruens, &amp; cum 
+      <lb ed="#L" n="15"/>naereticis de fide certans, Philosophorum testimonia 
+      re<lb ed="#L" n="16" break="no"/>fert. Quin etiam Paulus non solum cum ethnicis 
+      persua<lb ed="#L" n="17" break="no"/>det, sed etiam cum fideles instituit, Poentarum &amp; 
+      Philoso<lb ed="#L" n="18" break="no"/>phorum testimonia referre solet, exque ijs argumenta 
+      sume<lb ed="#L" n="19" break="no"/>re. Nam ad Athenienses loquens ex Arati Astronomi, 
+      <lb ed="#L" n="20"/>Phaenomenis vsurpat illud, ipsius enim, &amp; genus sumus, ad 
+      <lb ed="#L" n="21"/>Corinthios vero ex Euripidis Poetae Tragoedijs illud, 
+      <lb ed="#L" n="22"/>corrumpunt bonos mores colloquia praua, ad Titum 
+      au<lb ed="#L" n="23" break="no"/>tem ex oraculis, Epimenidis philosophi illud, Cretenses 
+      <lb ed="#L" n="24"/>semper mendaces, malae bestiae, ventres pigri. Ac subijcit 
+      <lb ed="#L" n="25"/>hic protinus. Testimonium hoc verum est. Si igitur quae 
+      <lb ed="#L" n="26"/>dicit Apostolus, ea Philosophorum testimonijs confirmat,  
+      <lb ed="#L" n="27"/>Pauli etiam non modo aliorum sanctorum exemplo 
+      face<lb ed="#L" n="28" break="no"/>re nos idem, &amp; possumus &amp; debemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e903-d1e377">
+               <lb ed="#L" n="29"/>Alter erat locus, a patrum testimonijs ostendere Theolo 
+      <lb ed="#L" n="30"/>gis Philosophos esse vtiles, vbi nihil laboris esse video,  
+      <lb ed="#L" n="31"/>cum testentur hoc plerique quidem non obscure, sed aper 
+      <lb ed="#L" n="32"/>tissime, Augustinus, lib. de doctriua Christiana. 2. ca. 40. 
+      <lb ed="#L" n="33"/>Socrates, libr. 3. histo. eccles: cap. 16. Num locupletiores 
+      <lb ed="#L" n="34"/>quaeris auctores? Citarem alios, nisi alio nostra festinaret 
+      <lb ed="#L" n="35"/>oratio. Certe Hieronymus in episto. ad oratorem 
+      Ma<lb ed="#L" n="36" break="no"/>gnum non testatur hoc modo, sed magnis etiam 
+      argu<lb ed="#L" n="37" break="no"/>mentis confirmat. Tertium est propositum, rationibus 
+      il<lb ed="#L" n="38" break="no"/>lud ipsum demonstrare. Id quod faciam plane, &amp; faciam  
+      <lb ed="#L" n="39"/>breuius quam res tanta fieri possit. 
+      <!--546.xml-->
+      <pb ed="#L" n="535"/>
+               <lb ed="#L" n="1"/>Multa a Philosophis prudenter fuisse &amp; grauiter 
+      Sispe<lb ed="#L" n="2" break="no"/>tata, multa etiam breuiter, &amp; commode dicta, multa 
+      deni<lb ed="#L" n="3" break="no"/>que ingeniose &amp; luculenter exposita, qui negauerint, ij 
+      <lb ed="#L" n="4"/>non sunt verbis &amp; ratione, sed vinculis &amp; carcere fatigandi. 
+      <lb ed="#L" n="5"/>Atque si etiam hoc naturae ratiopraescribit, vt quae viri gra 
+      <lb ed="#L" n="6"/>ues, ingeniosi, eruditi, acute diligenterque tradiderint, ca 
+      <lb ed="#L" n="7"/>iuuenes memoriae mandent, fierique studeant illorum, &amp; 
+      <lb ed="#L" n="8"/>scientia, &amp; prudentia docti, necesse est, Philosophorum 
+      do<lb ed="#L" n="9" break="no"/>ctrinam non iuuenibus solum, sed his etiam omnibus esse 
+      <lb ed="#L" n="10"/>vtilem, quibus vllum aliquando commercium cum huma 
+      <lb ed="#L" n="11"/>na sapientia &amp; prudentia futurum est. Quod si ita est, idque 
+      <lb ed="#L" n="12"/>nos superiore loco satis ostendimus, Theologos ad res 
+      <lb ed="#L" n="13"/>multas huiusmodi commercium habituros, nimirum, quoad 
+      <lb ed="#L" n="14"/>poterunt &amp; licebit, ab eorum latere non discedent, qui recte 
+      <lb ed="#L" n="15"/>de moribus &amp; natura sentiunt. Idque ipsum si ita est, 
+      Philo<lb ed="#L" n="16" break="no"/>sophorum certe libris theologi dare operam debent: non 
+      <lb ed="#L" n="17"/>enim alios hodic reperient, qui de rebus huiusmodi 
+      ap<lb ed="#L" n="18" break="no"/>tius &amp; sapientius philosophentur. Verum autem primum 
+      ve<lb ed="#L" n="19" break="no"/>rum igitur &amp; extremum. Nam illud quidem absurdum est, quo 
+      <lb ed="#L" n="20"/>quidam dicunt, omnia esse sacris literis prodita, quae ad 
+      <lb ed="#L" n="21"/>rationem hominis instituendam videntur esse oportuna &amp;  
+      <lb ed="#L" n="22"/>necessaria. Quorum error, quoniam abundem ex ijs, quae supra 
+      <lb ed="#L" n="23"/>diximus, exploditur: non est hic pluribus refclledus. Quid 
+      <lb ed="#L" n="24"/>enim stultius esse potest, quam aut in scrixtura sacra 
+      libe<lb ed="#L" n="25" break="no"/>rales omnes disciplinas traditas credere, aut huiusmodi 
+      di<lb ed="#L" n="26" break="no"/>sciplinis existimare, hominis rationem non bene &amp; vtiliter 
+      <lb ed="#L" n="27"/>institui? Quod si philosophia Theologo vtilis &amp; bona 
+      <lb ed="#L" n="28"/>est, eam aute nisi philosophorum libris adiutus consequi non 
+      <lb ed="#L" n="29"/>potest, non vtique sunt ei philosophi negligendi. Cum autem 
+      <lb ed="#L" n="30"/>herbarum, lapidum, animantium, arborum, clementorum, 
+      <lb ed="#L" n="31"/>aliarumque, rerum terrestrium coelestiumque cognitio, sacris li 
+      <lb ed="#L" n="32"/>teris intelligendis sit magnopere necessaria, 
+      quemadmo<lb ed="#L" n="33" break="no"/>dum August. 2. de doctrina Christiana li. docet, nosque 
+      <lb ed="#L" n="34"/>etiam sumus idem in. 13. huius operis libro fusius 
+      demon<lb ed="#L" n="35" break="no"/>straturi, insanus profecto erit, qui in harum rerum 
+      cogni<lb ed="#L" n="36" break="no"/>tione paranda eos auctores neglexerit, qui &amp; summo 
+      in<lb ed="#L" n="37" break="no"/>genio, &amp; magna peruestigatione, &amp; multi temporis 
+      expe<lb ed="#L" n="38" break="no"/>rimentis, in his cognoscendis elaborarunt. Cum igitur hic 
+      <lb ed="#L" n="39"/>locus nihil habeat dubitationis, quin Philosophi plurimum 
+      <!--547.xml-->
+      <pb ed="#L" n="536"/>
+               <lb ed="#L" n="1"/>Theologis prosint, illud de quo dubitari a doctis etiam  
+      <lb ed="#L" n="2"/>potest, iam statuendum est, argumenta e Philosophorum 
+      <lb ed="#L" n="3"/>auctoritate petita, certa nem, an potius incerta sint.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

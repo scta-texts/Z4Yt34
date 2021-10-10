@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="545"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e934"><!-- Z4Yt34-l10c6 -->
+            <head xml:id="Z4Yt34-d1e934-Hd1e106">Caput 6</head>
+            <p xml:id="Z4Yt34-d1e934-d1e109">
+               <lb ed="#L" n="33"/>Caput Sextum.
+    </p>
+            <p xml:id="Z4Yt34-d1e934-d1e114">
+               <lb ed="#L" n="34"/>Vllius vero negotij erit obiectiones contra a 
+      prin<lb ed="#L" n="35" break="no"/>A cipio positas repellere. Primum enim facile intelli¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e934-d1e121">
+               <lb ed="#L" n="36"/>vitur, non eos qui missi sunt, sed illos qui venerunt 
+      <lb ed="#L" n="37"/>vel Pseudoprophetas vel Pscudophilosophos a pomino 
+      <lb ed="#L" n="38"/>seprobari. Non mittebam, inquit, &amp; ipsi currebant. Veros 
+      <!--557.xml-->
+      <pb ed="#L" n="546"/>
+               <lb ed="#L" n="1"/>autem Philosophos diuinitus fuisse procuratos satis supra, 
+      <lb ed="#L" n="2"/>ni fallor, argumentati sumus. Deinde Graeciae Philosophos 
+      <lb ed="#L" n="3"/>alia ratione fures esse dictos contendit Clemens, quod 
+      <lb ed="#L" n="4"/>vltra quam a Moyse, &amp; Prophetis sapientiam 
+      subripue<lb ed="#L" n="5" break="no"/>rint, gloriolae aucupandae gratia quasi suam iactare sunt 
+      <lb ed="#L" n="6"/>soliti. Pythagoras quidem discipulus fuit Iudaei cuiusdam 
+      <lb ed="#L" n="7"/>Nazareti, vt Alexander in libro de symbolis 
+      Pythagori<lb ed="#L" n="8" break="no"/>cis scribit. Quin D. Ambrosius Pythagoram genere 
+      fuis<lb ed="#L" n="9" break="no"/>se Hebraeum non obscure tradidit. Certe fuisse 
+      circun<lb ed="#L" n="10" break="no"/>cisum Clemens Alexandrinus auctor est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e934-d1e156">
+               <lb ed="#L" n="11"/>Clearchus autem Peripateticus in primo libro de som 
+      <lb ed="#L" n="12"/>no, dicit se nosse Iudaeum quendam, grauissimum non  
+      <lb ed="#L" n="13"/>solum eloquio, sed etiam animo, cum quo versatus est 
+      Ari<lb ed="#L" n="14" break="no"/>stoteles. Nam Platonem non solum a Pythagora, sed a 
+      no<lb ed="#L" n="15" break="no"/>stris etiam doctrinam accepisse, &amp; Augustinus &amp; Clemens 
+      <lb ed="#L" n="16"/>testati sunt, &amp; Ambrosius multis argumentis suadet. Id 
+      <lb ed="#L" n="17"/>quod Plato ipse in Timaeo ingenue fatetur. Cum itaquo  
+      <lb ed="#L" n="18"/>ea, quae philosophis recte &amp; sapienter dicta sunt, nostris 
+      <lb ed="#L" n="19"/>nos disputationibus inseruerimus, repetemus nostra tunc,  
+      <lb ed="#L" n="20"/>non aliena mutuabimur. Ac de primo quidem 
+      argumen<lb ed="#L" n="21" break="no"/>to hactenus. Nam caetera sunt huiusmodi, vt negotium 
+      <lb ed="#L" n="22"/>lectori facturi simus, si ea modo refutemus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

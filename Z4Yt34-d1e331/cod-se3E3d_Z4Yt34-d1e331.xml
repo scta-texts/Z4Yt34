@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="174"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e331"><!-- Z4Yt34-l3c2 -->
+            <head xml:id="Z4Yt34-d1e331-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e331-d1e109">
+               <lb ed="#L" n="34"/>Superuacaneam videri cum Lutheranis non de hoc solum 
+      <lb ed="#L" n="35"/>loco, sed de quibusque aliis disputationem. 
+      <lb ed="#L" n="36"/>Cap. secundum.
+    </p>
+            <p xml:id="Z4Yt34-d1e331-d1e118">
+               <lb ed="#L" n="37"/>EGo vero cum Lutheranis quotiescunque me 
+      compa<lb ed="#L" n="38" break="no"/>Lro ad disserendum, repente a me auertitur oratio 
+      <!--186.xml-->
+      <pb ed="#L" n="175"/>
+               <lb ed="#L" n="1"/>mea, &amp; omnis statim mihi disputandi ratio tollitur. Quo 
+      <lb ed="#L" n="2"/>namque consilio aduersum hos disputare aut debeam, aut  
+      <lb ed="#L" n="3"/>possim, qui cum omnia Theologiae principia tollunt, tun 
+      <lb ed="#L" n="4"/>vna fere sola asseuerandi audacia vtuntur, quae illis 
+      per<lb ed="#L" n="5" break="no"/>petua est pro locis dialecticis theologicisque omnibus? 
+      <lb ed="#L" n="6"/>Quid ego contra hos scribam, qui nullam in ecclesia 
+      le<lb ed="#L" n="7" break="no"/>gem esse volunt, per quam scripture sensa finiantur? Sed suo 
+      <lb ed="#L" n="8"/>cuique ingenio esse vtendum, nec id sentire oportere, quod 
+      <lb ed="#L" n="9"/>alii senserint, sed quod ratio propria praescripserit. Quid 
+      <lb ed="#L" n="10"/>autem stultius, quam cum eo disputare, qui nihil admittit 
+      <lb ed="#L" n="11"/>nisi scripturae verba, sed huius interpretationem sibi vni 
+      <lb ed="#L" n="12"/>reseruans, reliquos omneis existimat miris modis 
+      hallu<lb ed="#L" n="13" break="no"/>cinari? Machumetus ne si res esset via &amp; ratione 
+      explo<lb ed="#L" n="14" break="no"/>rata, in male suscepta causa cedere cogeretur, omnem 
+      dispu<lb ed="#L" n="15" break="no"/>tationis aditum lege suis edita praeclusit. Et Lutherus 
+      dis<lb ed="#L" n="16" break="no"/>serendi principia suis vniuersa tollens, si disputationem 
+      in<lb ed="#L" n="17" break="no"/>stituat, nec aditum nec exitum poterit reperire. Perinde 
+      <lb ed="#L" n="18"/>enim est, scripturas solas sine lege &amp; pro cuiusque 
+      inter<lb ed="#L" n="19" break="no"/>pretatas arbitrio accipere: ac si nullum fixum certumque 
+      dis<lb ed="#L" n="20" break="no"/>serendi principium acceperis. Quapropter miseri 
+      Luthera<lb ed="#L" n="21" break="no"/>ni, haud secus atque Saraceni, nec suas nec magistri 
+      pos<lb ed="#L" n="22" break="no"/>sunt ineptias deprehendere: nec nos cum iis disserendo 
+      <lb ed="#L" n="23"/>aliud possumus, quam tempus, &amp; operam ludere. Qui tamen 
+      <lb ed="#L" n="24"/>haberent ius suum disputandi, si principiorum aliquem  
+      <lb ed="#L" n="25"/>delectum reliquissent, vt ad veritatis inuentionem aditus 
+      <lb ed="#L" n="26"/>esset. Nunc autem nulla principia relinquunt. Vana 
+      igi<lb ed="#L" n="27" break="no"/>tur cum eis erit &amp; futilis disputatio. Omnino enim 
+      me<lb ed="#L" n="28" break="no"/>minisse debemus, id quod ab scholasticis saepissime 
+      vsur<lb ed="#L" n="29" break="no"/>patum, iam quasi in prouerbii consuetudinem venit, 
+      con<lb ed="#L" n="30" break="no"/>tra negantem principia, quoniam frustra id fiat, non esse 
+      <lb ed="#L" n="31"/>disputandum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e331-d1e196">
+               <lb ed="#L" n="32"/>Accedit eodem, quod paradoxa cum communi sensu 
+      <lb ed="#L" n="33"/>pugnantia afferunt, quae si vis argumentando refellere, 
+      <lb ed="#L" n="34"/>res minime dubias argumentando dubias facis. Cum 
+      <lb ed="#L" n="35"/>enim illa, quae in syllogismo antecedunt, vt fidem aliquam 
+      <lb ed="#L" n="36"/>faciant, certiora notioraque esse oporteat his, quae ex 
+      <lb ed="#L" n="37"/>antecedentibus consequuntur, verendum sane est, 
+      quan<lb ed="#L" n="38" break="no"/>do Lutheranorum placita coarguimus, ne res maxime 
+      <lb ed="#L" n="39"/>absurdas minore euidentia refellentes, peccatum hoc 
+      <!--187.xml-->
+      <pb ed="#L" n="176"/>
+               <lb ed="#L" n="1"/>ratiocinationis vitiosae ineptaeque peccemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e331-d1e222">
+               <lb ed="#L" n="2"/>Nec vero huius rei explicandae gratia longe 
+      exempla<lb ed="#L" n="3" break="no"/>petenda sunt, cum habeamus in manibus. Etenim, vt hanc,  
+      <lb ed="#L" n="4"/>quam modo dixi, opinationem Lutherani tueantur, 
+      po<lb ed="#L" n="5" break="no"/>nunt primo sacras literas non habere plures sensus. Falso 
+      <lb ed="#L" n="6"/>autem illud ponunt, sed demus hoc eis liberaliter. 
+      Assu<lb ed="#L" n="7" break="no"/>munt deinde, in scripturis sensum illum vnum certissime 
+      <lb ed="#L" n="8"/>familiarissimeque doceri. Nec esse eas velut caeneum 
+      quem<lb ed="#L" n="9" break="no"/>dam nasum in sensum, omnem flexibiles: sed potius esse 
+      <lb ed="#L" n="10"/>per se expositas &amp; in promptu cuique sine magistro &amp;  
+      <lb ed="#L" n="11"/>docente patere. Quibus egregie sciteque positis, iam 
+      fa<lb ed="#L" n="12" break="no"/>cile conficiunt, sacris libris intelligendis, nec veterum  
+      <lb ed="#L" n="13"/>traditionem, nec ecclesiae iudicium expectandum. Quae 
+      <lb ed="#L" n="14"/>omnia, cum &amp; per se sint falsa perspicue &amp; scripturis ipsis 
+      <lb ed="#L" n="15"/>vehementer repugnantia, si contendam ego ex aduerso 
+      <lb ed="#L" n="16"/>refellere, aqua mihi, vt dicitur, haerebit. Qui scilicet 
+      in<lb ed="#L" n="17" break="no"/>telligam, quam sit ridiculum confutare velle vanas 
+      com<lb ed="#L" n="18" break="no"/>mentitiasque sententias, portenta non disserentium 
+      <lb ed="#L" n="19"/>Theologorum sed hominum somniantium, quam 
+      stul<lb ed="#L" n="20" break="no"/>tum cuilibet opponenti contraria respondere, quam 
+      in<lb ed="#L" n="21" break="no"/>utile faces in meridianam solis lucem inferre, quam 
+      de<lb ed="#L" n="22" break="no"/>nique ociosum in re manifesta periclitari. Petrus ait, in 
+      <lb ed="#L" n="23"/>Paulinis epistolis esse quaedam difficilia intellectu quae 
+      <lb ed="#L" n="24"/>indocti homines &amp; instabiles deprauant ad suam ipsorum 
+      <lb ed="#L" n="25"/>perditionem. Hi vero contra aiunt, omnes Pauli 
+      episto<lb ed="#L" n="26" break="no"/>las esse intellectu facillimas. Paulus perfectis sapientiam  
+      <lb ed="#L" n="27"/>loquitur in mysterio absconditam, paruulis autem lac 
+      <lb ed="#L" n="28"/>potum dat, quoniam ferre aliud non possunt. Isti sine 
+      <lb ed="#L" n="29"/>discrimine omnes, ac si Deo placet, inter pocula 
+      vniuer<lb ed="#L" n="30" break="no"/>sa scripturae sacramenta deuorant, &amp; solidum etiam cibum 
+      <lb ed="#L" n="31"/>struthionum more concoquunt. Sapientibus &amp; 
+      pruden<lb ed="#L" n="32" break="no"/>dentibus quaedam pater abscondit, istis omnia reuelauit. 
+      <lb ed="#L" n="33"/>Filius discipulis suis aliquando in parabolis est locutus,  
+      <lb ed="#L" n="34"/>nis palam semper Ioquitur, &amp; prouerbium nullum dicit. 
+      Li<lb ed="#L" n="35" break="no"/>ber in Apocalypsi septem sicillis signatus ostenditur, quem 
+      <lb ed="#L" n="36"/>cum dederis homini scienti siteras vt legat, respondebit 
+      <lb ed="#L" n="37"/>tibi, non possum: signatus est enim. Et his librum agnus 
+      ape<lb ed="#L" n="38" break="no"/>ruit, aperuit item oculos, vt videant quae nos miseri &amp; 
+      cae<lb ed="#L" n="39" break="no"/>ci videre non possumus. Imo quae Origenes, Basilius, 
+      <!--188.xml-->
+      <pb ed="#L" n="177"/>
+               <lb ed="#L" n="1"/>Gregorius, Chrysostomus, Ambrosius, Hieronymus, Au 
+      <lb ed="#L" n="2"/>gustinus, Hilarius non viderunt. Eunuchus ille actorum 
+      <lb ed="#L" n="3"/>Apostolicorum tam religiosus, vt relicta aula regia de 
+      <lb ed="#L" n="4"/>extremis mundi finibus veniret ad templum, tam diuinae 
+      <lb ed="#L" n="5"/>legis amator, vt etiam in vehiculo sacras literas legeret: 
+      <lb ed="#L" n="6"/>non poterat Esaiam intelligere nisi aliquis eum doceret. 
+      <lb ed="#L" n="7"/>&amp; ab istis prophetae omnes sine magistro &amp; interprete 
+      in<lb ed="#L" n="8" break="no"/>telliguntur. Breuiter, vt Hieronymus ait, nulla ars, sine 
+      <lb ed="#L" n="9"/>praeceptore percipi potest, sola scripturarum scientia est,  
+      <lb ed="#L" n="10"/>quam hi passim sibi omnes vendicent, praesumant, doceant 
+      <lb ed="#L" n="11"/>antequam discant. Sunt in libris sacris loca plurima, in 
+      <lb ed="#L" n="12"/>quibus tanta difficultas &amp; obscuritas inest, vt post 
+      vete<lb ed="#L" n="13" break="no"/>rum omnium interpretum vigilias, studia, operas, adhuc 
+      <lb ed="#L" n="14"/>vix a doctissimis &amp; optimis quibusque intelligi posse 
+      vi<lb ed="#L" n="15" break="no"/>deantur: Et multitudo imperita, in qua nec ratio inest,  
+      <lb ed="#L" n="16"/>nec iudicium, vniuersos scripturae locos facile expediet 
+      <lb ed="#L" n="17"/>atque interpretabitur: Itamne facile est expedire, vt 
+      reli<lb ed="#L" n="18" break="no"/>qua taceam, Hebraei sermonis ambiguitatem, tropos vel 
+      <lb ed="#L" n="19"/>vetustate obscurissimos, phrases alienas ab hisce linguis, 
+      <lb ed="#L" n="20"/>quibus assueuimus, nostris inaudita prouerbia, parabolas 
+      <lb ed="#L" n="21"/>peregrinas, translationes interdum etiam longissime 
+      pe<lb ed="#L" n="22" break="no"/>titas? Expone mihi facile, si potes, prouerbia Salomonis 
+      <lb ed="#L" n="23"/>&amp; cantica: Exechielis, Danielis, Esaiae, Hieremiae, 
+      prophe<lb ed="#L" n="24" break="no"/>tias: Dauidicos psalmos expone: &amp; si exposueris, tum ve 
+      <lb ed="#L" n="25"/>ro libri sacri, nec sunt difficiles neque obscuri. Quis 
+      sa<lb ed="#L" n="26" break="no"/>piens, ait Oseas, &amp; intelliget ista: intelligens, &amp; sciet haec? 
+      <lb ed="#L" n="27"/>Et Salomon: Quis talis vt sapiens est? Et quis cognouit 
+      <lb ed="#L" n="28"/>solutionem verbi? Atqui sapientes sunt omnes isti, &amp;  
+      <lb ed="#L" n="29"/>lumma facilitate difficillimas scripturae quaestiones 
+      sol<lb ed="#L" n="30" break="no"/>uunt. Quod si scripturae in varium sensum torqueri flecti 
+      <lb ed="#L" n="31"/>que non queunt, quomodo haereses omnes ex praua 
+      in<lb ed="#L" n="32" break="no"/>telligentia scripturarum ortae sunt? At hoc solum 
+      traden<lb ed="#L" n="33" break="no"/>tibus Hilario. 2. lib. de Trinit. Hieron. ad Galat. 1. Ireneo 
+      <lb ed="#L" n="34"/>lib. 1. aduers: haeres: c. 1. Augustino in Ioannem tractat. 18. 
+      <lb ed="#L" n="35"/>Vincentio Lirinen. contra propha. noua. septima synodo.  
+      <lb ed="#L" n="36"/>Acti. 6. sed manifesto etiam experimento coonouimus. 
+      <lb ed="#L" n="37"/>Vnde vero inter ipsos quoque Lutheranos de rebus 
+      ma<lb ed="#L" n="38" break="no"/>ximis, controuersiae, si scripturae in varios sensus non 
+      fle<lb ed="#L" n="39" break="no"/>ctuntur? Nam illa verba, hoc est enim corpus meum, alij 
+      <!--189.xml-->
+      <pb ed="#L" n="178"/>
+               <lb ed="#L" n="1"/>proprie, alij per tropum accipiunt. Quae cum ita sint, alia 
+      <lb ed="#L" n="2"/>ratione atque isti dicunt scripturae diuinae inuestiganda te 
+      <lb ed="#L" n="3"/>nendaque intelligetia est. Si enim ad priuatam haec regulam 
+      <lb ed="#L" n="4"/>dirigatur, vnde euincetur Eluidius de perpetua Mariae 
+      <lb ed="#L" n="5"/>virginitate? Vnde Arius de vera Dei in Christo natura? 
+      <lb ed="#L" n="6"/>Imo vero vnde constabit huius ne an illius intelligentia 
+      <lb ed="#L" n="7"/>vera sit, si scripturas cuique liceat pro suo ingenio 
+      interpre<lb ed="#L" n="8" break="no"/>tari? Cum enim variae erunt, vt fit, de eodem scripturarum 
+      <lb ed="#L" n="9"/>loco sentetiae, quae certa sit, eam nemo praestabit. Ii enim 
+      <lb ed="#L" n="10"/>omnes, qui inter se dissentient, pari ratione suum quisque, 
+      <lb ed="#L" n="11"/>sensum tuebuntur. Hoc enim morbi fere innatum est homi 
+      <lb ed="#L" n="12"/>num ingenijs, yt cedere nesciant simul atque res in 
+      conten<lb ed="#L" n="13" break="no"/>tionem vocata est. Quae postquam incaluit, hoc cuique vide 
+      <lb ed="#L" n="14"/>tur verissimum, quod temere etiam tuendum susceperit. 
+      <lb ed="#L" n="15"/>Aut igitur sensum quisque suum certum habet, &amp; redibit 
+      <lb ed="#L" n="16"/>insania veterum, quam Arist. 4. Metaphy. lib. manifestis 
+      <lb ed="#L" n="17"/>argumentis explosit: Aut nullius sententia certa erit, &amp; 
+      <lb ed="#L" n="18"/>praeterquam quod dissidiorum nullus erit finis, nullum 
+      ha<lb ed="#L" n="19" break="no"/>bebimus certum fidei Christianae iudicium, sed ex sua 
+      opi<lb ed="#L" n="20" break="no"/>nione quisque, suam sibi fidem affinget. Ita fides catholica 
+      <lb ed="#L" n="21"/>nulla erit. Ac re vera ridiculi Lutherani sunt, qui 
+      postu<lb ed="#L" n="22" break="no"/>lent, vt ipsis sacras literas interpretantibus, ac nouo 
+      qui<lb ed="#L" n="23" break="no"/>dem mirabilique more interpretantibus, certa fides 
+      habea<lb ed="#L" n="24" break="no"/>tur. Non est creditum Apostolis, vt salse ridet Erasmus,  
+      <lb ed="#L" n="25"/>donec multa magnaque miracula fidem adstruxissent 
+      do<lb ed="#L" n="26" break="no"/>ctrinae, &amp; nunc quilibet sibi postulat credi, quod affirmet 
+      <lb ed="#L" n="27"/>se habere spiritum intelligentiae, cum nullus eorum tamen 
+      <lb ed="#L" n="28"/>ne equum quidem claudum sanare potuerit. Multa 
+      prae<lb ed="#L" n="29" break="no"/>tereunda sunt, ne quid habeat iniucunditatis oratio: &amp; 
+      ta<lb ed="#L" n="30" break="no"/>men multa dicuntur, quae aperte horum insaniam refutent. 
+      <lb ed="#L" n="31"/>Sane nisi Cochlaeus in epistolis ad Germaniae principes 
+      <lb ed="#L" n="32"/>&amp; ad Bernenses anteuertisset, exemplis positis periculum 
+      <lb ed="#L" n="33"/>facerem, &amp; in illis varie in vtranque partem luderem, vt 
+      <lb ed="#L" n="34"/>vel hoc ipso periculo compertum esset omnibus, quam  
+      <lb ed="#L" n="35"/>non sit difficile vnumquodlibet thema e sacris literis 
+      <lb ed="#L" n="36"/>aut probariaut improbari, si pro suo eas quisque ingenio 
+      <lb ed="#L" n="37"/>interpretetur. Quanquam, fateor, nonnulla sunt 
+      scriptu<lb ed="#L" n="38" break="no"/>rae loca, quae in alium atque alium sensum trahi, ne a 
+      con<lb ed="#L" n="39" break="no"/>tentiosis quidem possunt. Quis enim illud torqueat, quod 
+      <!--190.xml-->
+      <pb ed="#L" n="179"/>
+               <lb ed="#L" n="1"/>Paulus ad Corinthios scripsit, alij per spiritum dari 
+      ser<lb ed="#L" n="2" break="no"/>monem sapientiae, alij sermonem scientiae, alij 
+      interpreta<lb ed="#L" n="3" break="no"/>tionem sermonum? At isti omnia ecclesiastici corporis 
+      <lb ed="#L" n="4"/>munia confundunt, istis totum corpus est oculus. Omnes 
+      <lb ed="#L" n="5"/>siquidem spiritu doctore intelligunt scripturae vniuersa 
+      <lb ed="#L" n="6"/>mysteria. Sed bene habet, quod vel Lutherus ipse quaedam 
+      <lb ed="#L" n="7"/>in psalmis loca se non intelligere confitetur. Bene habet,  
+      <lb ed="#L" n="8"/>quod doctores in ecclesia Christus dedit, non omnes, 
+      <lb ed="#L" n="9"/>sed quosdam, ad consummationem sanctorum in opus 
+      <lb ed="#L" n="10"/>ministerij. Verum de his &amp; multa in secundo libro 
+      dis<lb ed="#L" n="11" break="no"/>serui, &amp; plura adhuc in septimo disserentur: Non quo ad 
+      <lb ed="#L" n="12"/>uersum Lutheranos pugnam inire velimus, qui clausis, vt 
+      <lb ed="#L" n="13"/>dicitur, oculis more Andabatarum pugnant. Sed quo 
+      <lb ed="#L" n="14"/>videant catholici, cum omnes locos ratione animoque 
+      lu<lb ed="#L" n="15" break="no"/>strauerint, nullum esse certiorem, nullum stabiliorem, nul 
+      <lb ed="#L" n="16"/>lum denique sacris literis exponendis magis necessarium, 
+      <lb ed="#L" n="17"/>quam is, quo ecclesiae traditio continetur. Quo est 
+      de<lb ed="#L" n="18" break="no"/>testabilior Lutheranorum impudentia, qui hunc locum 
+      <lb ed="#L" n="19"/>labefactare ac funditus delere nituntur. Sed vt haec 
+      om<lb ed="#L" n="20" break="no"/>nis quaestio semel hic, vbi proprius est locus, 
+      constitua<lb ed="#L" n="21" break="no"/>tur, aliquot fundamenta iacienda sunt, quae Theologiae 
+      <lb ed="#L" n="22"/>fideique simul neruos ac vires continent.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 11</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 11</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="76"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e225"><!-- Z4Yt34-l2c11 -->
+            <head xml:id="Z4Yt34-d1e225-Hd1e106">Caput 11</head>
+            <p xml:id="Z4Yt34-d1e225-d1e109">
+               <lb ed="#L" n="34"/>Cap. Vndecimum. Vbi confutantur argumenta capite 
+      <lb ed="#L" n="35"/>nunc proximo posita.
+    </p>
+            <p xml:id="Z4Yt34-d1e225-d1e116">
+               <lb ed="#L" n="36"/>NOn ego catholica doomata crassis istorum 
+      circum<lb ed="#L" n="37" break="no"/>d fundere tenebris, nisi lumen possem accendere, quo 
+      <lb ed="#L" n="38"/>quasi sole exoriente fugarentur. Alioqui in haereti¬ 
+      <!--88.xml-->
+      <pb ed="#L" n="77"/>
+               <lb ed="#L" n="1"/>corum argumentationibus recitandis digitos ad fontes 
+      <lb ed="#L" n="2"/>solum intendere, ne videlicet lutulentae illorum aquae in 
+      no<lb ed="#L" n="3" break="no"/>stra scripta deriuentur: Consilium est amicorum quidem, sed cnisi 
+      <lb ed="#L" n="4"/>me fallit amorptimentium vbi non est timor. Existimarent 
+      <lb ed="#L" n="5"/>namque, imperiti argumenta esse maiora quam vt a nobis 
+      re<lb ed="#L" n="6" break="no"/>felli possent, si aut summatim &amp; breuiter 
+      perstringere<lb ed="#L" n="7" break="no"/>mus, aut certe omnino dissimularemus. Mucronem itaque  
+      <lb ed="#L" n="8"/>aduersariorum ipsi, qui acuimus, retundemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e147">
+               <lb ed="#L" n="9"/>Nam ad primum argumentum tametsi respondere 
+      pos<lb ed="#L" n="10" break="no"/>sumus, non omnes libros canonicos esse simul ab 
+      vniuer<lb ed="#L" n="11" break="no"/>sa ecclesia receptos, quo fieri potuisse, vt quem priora 
+      com<lb ed="#L" n="12" break="no"/>cilia minime recepissent, eum posteriora confirmarent: 
+      <lb ed="#L" n="13"/>Respondemus tamencidque verius, Baruch prophetiam tanqe 
+      <lb ed="#L" n="14"/>partem quandam Hieremiae fuisse a veteribus conputatam. 
+      <lb ed="#L" n="15"/>Quodine nostrum videatur esse commentum testimoniis 
+      <lb ed="#L" n="16"/>antiquitatis roborandum est. Augustinus in primis tradit 
+      <lb ed="#L" n="17"/>hoc 18. de ciuit. Dei lib. haec in verba, Prophetans autem de 
+      <lb ed="#L" n="18"/>Christo Hieremias, hic Deus meuscinquit &amp; non aestima 
+      <lb ed="#L" n="19"/>bitur alter ad eum: Post hac in terris visus est, &amp; cum homini 
+      <lb ed="#L" n="20"/>bus conuersatus est. Atque, euestigio Augustinus hoc testi 
+      <lb ed="#L" n="21"/>moniumCait, quidam non Hieremiae, sed Baruch scribae eius 
+      <lb ed="#L" n="22"/>attribuunt : sed Hieremiae celebratius habetur. Et auctor 
+      <lb ed="#L" n="23"/>lib. q. ve. &amp; no. test. q. 1O2. siue Augustinus siue quicunque 
+      <lb ed="#L" n="24"/>tandem alius is fuerit. Cassio. etiam in Psal. S1. 
+      Chrysosto<lb ed="#L" n="25" break="no"/>quoque idem testimonium nomine Hieremiae citat, in 
+      ho<lb ed="#L" n="26" break="no"/>milia quadam de Trinitate. Sexta etiam Synodus sess. 8. 
+      <lb ed="#L" n="27"/>refert ex eiusdem Chryso. altera homilia, cuius initium est,  
+      <lb ed="#L" n="28"/>Profundam sectionem nomine Hieremiae illud idem testimo 
+      <lb ed="#L" n="29"/>nium. Clemens item Alex. Ii. 1. Pedago. cap. 1O. illud, Audi 
+      Is<lb ed="#L" n="30" break="no"/>rael mandata vitae, &amp;c. quod Baruch 3. nos habemus, 
+      Hie<lb ed="#L" n="31" break="no"/>remiae assignauit: &amp; li. 2. cap. 3. referens illud, vbi sunt, &amp;c. 
+      <lb ed="#L" n="32"/>diuinam scripturam vocat. &amp; Basilius. 4. Ii. contra Eunomium 
+      <lb ed="#L" n="33"/>super illud, vt cognoscant te solum verum Deum. 
+      Ambro<lb ed="#L" n="34" break="no"/>sius item lib. 1. de poenitentia. cap. 8. &amp; lib. 3. 
+      Exameron<lb ed="#L" n="35" break="no"/>cap.14. &amp; lib. 1. de fide. cap. 2. ex eodem lib. sub nomine 
+      <lb ed="#L" n="36"/>Hieremiae testimonia referunt. His adde Sixtum Papam  
+      <lb ed="#L" n="37"/>in epistola sua prima ad omnes Christi fideles. Foelicem in 
+      <lb ed="#L" n="38"/>epistola ad Petrum episcopum Antiochenum ins. Synodo 
+      <lb ed="#L" n="39"/>condemnatum. Pelagium denique in epistola ad Vigi¬ 
+      <!--89.xml-->
+      <pb ed="#L" n="78"/>
+               <lb ed="#L" n="1"/>lium. Ecce qui libellus Baruch nomine nunc legitur, eum 
+      <lb ed="#L" n="2"/>olim antiqui Hieremiae tribuebant. Essetque difficile 
+      cre<lb ed="#L" n="3" break="no"/>dere, nisi testes huius rei certissimos haberemus, quorum 
+      <lb ed="#L" n="4"/>auctoritate primum illud argumentum, difficulter quidem, 
+      <lb ed="#L" n="5"/>sed abundem tamen elusimus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e232">
+               <lb ed="#L" n="6"/>Ad confirmationem autem facilius responderi potest. 
+      <lb ed="#L" n="7"/>Fateor enim tempore. D. Hieronymi, quod nunc tenemus, 
+      <lb ed="#L" n="8"/>id non fuisse adeo certum. Sed quemadmodum ante tempora 
+      <lb ed="#L" n="9"/>Hieronymi, licet quidam asseruerint epistolam Iacobi ab  
+      <lb ed="#L" n="10"/>alio sub nomine eius editam, tamen paulatim Cvt idem aito 
+      <lb ed="#L" n="11"/>procedente tempore obtinuit auctoritatem, &amp; epistola 
+      <lb ed="#L" n="12"/>Iudae, quam a plerisque Hieronymus astruit fuisse 
+      reie<lb ed="#L" n="13" break="no"/>ctam, auctoritatem vsu meruit: ita &amp; liber iste Baruch 
+      quam<lb ed="#L" n="14" break="no"/>quam olim a quibusdam non fuerit receptus, modo tamen 
+      <lb ed="#L" n="15"/>dignus est habitus, qui ab ecclesia &amp; conciliis 
+      vniuersa<lb ed="#L" n="16" break="no"/>libus reciperetur. 
+      <lb ed="#L" n="17"/>Secundum quoque argumentum facile diluitur. Nec enim 
+      <lb ed="#L" n="18"/>verum est, in libris canonicis decernendis ecclesiae 
+      regu<lb ed="#L" n="19" break="no"/>am esse Hieronymum: quod Caietanus perperam ne dicam 
+      per<lb ed="#L" n="20" break="no"/>niciose existimauit. Hieronymus quippe Svt Ioanes 
+      Co<lb ed="#L" n="21" break="no"/>cleus vere dixit in enumeratione canonicorum librorum 
+      <lb ed="#L" n="22"/>veteris testamenti, Iosephum secutus est: qui in 1. lib. 
+      aduer<lb ed="#L" n="23" break="no"/>sus Apionem ex maiorum suorum traditione, vt inquit. 22. 
+      <lb ed="#L" n="24"/>lib. enumerat. Auctor est Euse. Ii. 3. c. 9. &amp; 19. At Augusti 
+      <lb ed="#L" n="25"/>nus non Iudaeos, sed Christianos in ea re sequitur, &amp; 
+      re<lb ed="#L" n="26" break="no"/>cte hic quidem: Nam ecclesia gentium columna est &amp; 
+      fir<lb ed="#L" n="27" break="no"/>mamentum veritatis. Probatur vero a Gelasio sententia 
+      <lb ed="#L" n="28"/>Hieronymi non in canone sanctarum scripturarum 
+      con<lb ed="#L" n="29" break="no"/>stituendo, sed in his auctoribus condemnandis, quos 
+      Hie<lb ed="#L" n="30" break="no"/>ronymus zelo Dei &amp; fidei religione reprehendit. Atque 
+      <lb ed="#L" n="31"/>ad secundum argumentum haec satis dicta sint.  
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e292">
+               <lb ed="#L" n="32"/>Nam ad prima eius confirmationem respondeocid quod 
+      <lb ed="#L" n="33"/>doctiores fere credunt, librum illum non esse Cypriani, sed 
+      <lb ed="#L" n="34"/>Ruffini. Certe D. Cyprianus in epistola ad Rogatianum  
+      <lb ed="#L" n="35"/>Ecclesiasticum, &amp; in libro de habitu virginum, Sapientiam, 
+      <lb ed="#L" n="36"/>vt diuinos libros citat. Quod vero Ruffinus asserit, ex 
+      <lb ed="#L" n="37"/>patrum traditione eos libros a canone reiiciendos Space 
+      <lb ed="#L" n="38"/>lectoris dictum sitpatrum traditiones ignorauit. Tertium 
+      <lb ed="#L" n="39"/>namque, Carthaginense concilium, quod hos inter cano¬ 
+      <!--90.xml-->
+      <pb ed="#L" n="79"/>
+               <lb ed="#L" n="1"/>nicos numerauit, dicit se a patribus accepisse. &amp; August. 
+      <lb ed="#L" n="2"/>lib. 1. de praedest. Sanctorum, proxinios apostolorum 
+      af<lb ed="#L" n="3" break="no"/>firmat librum Sapientiae tanqua diuinum citauisse. Atque 
+      <lb ed="#L" n="4"/>Dionysius ex eodem libro magno praefationis honore 
+      te<lb ed="#L" n="5" break="no"/>stimonium allegat inquiens, In primis scripturarum 
+      institu<lb ed="#L" n="6" break="no"/>tionibus quendam de diuina sapictia dixisse comperies, 
+      <lb ed="#L" n="7"/>Amator factus sum formae illius. Quid omnes 
+      commemo<lb ed="#L" n="8" break="no"/>rem? Hieronymus in primum caput Hieremiae vt librum  
+      <lb ed="#L" n="9"/>prophetae citat: Ambrosius autem 1. lib. de fide, Gregor. 
+      <lb ed="#L" n="10"/>18. moralium. &amp; concil. Sardicense in epistola ad omnes 
+      epi<lb ed="#L" n="11" break="no"/>scopos, vt diuinum librum Sapientiae referunt. Concilium 
+      <lb ed="#L" n="12"/>demum Toletanum vndecimum in confessione fidei 
+      san<lb ed="#L" n="13" break="no"/>ctam esse scripturam asseuerat. 
+      <lb ed="#L" n="14"/>Quid ecclesiasticum? vt diuinum citat Clemens Alex. 
+      <lb ed="#L" n="15"/>7. lib. Strom. Ambros: serm. 31. &amp; lib. 4. de fide. Euaristus 
+      <lb ed="#L" n="16"/>papa in epistola prima ad episcopos Aphricanos: Sixtus 
+      <lb ed="#L" n="17"/>secundus in epistola ad Gratum episcopum. Vtrumque autem 
+      <lb ed="#L" n="18"/>librum diuinam scripturam esse tanquam re certa in fide tradit 
+      <lb ed="#L" n="19"/>Epiphanius haeresi 76. Anomaeorum. Non igitur patrum  
+      <lb ed="#L" n="20"/>traditione eos libros Ruffinus, sed suo potius sensu 
+      re<lb ed="#L" n="21" break="no"/>futauit. At eo tempore quo res nondum erat definita. 
+      <lb ed="#L" n="22"/>Qua etiam ratione &amp; reliquos excusamus. Nam quod D. 
+      <lb ed="#L" n="23"/>Thomas in eam sententiam aduocatur, id ferendum nullo 
+      <lb ed="#L" n="24"/>modo est: vt ex 1. parte q. 1. art. 3. colligere licet. &amp; ex 
+      com<lb ed="#L" n="25" break="no"/>mentariis in quartum caput de diuinis nominibus. Sed in 
+      <lb ed="#L" n="26"/>illa quaestione. 89. nihil de suo dixit: quin ad verbum 
+      re<lb ed="#L" n="27" break="no"/>tulit Augustinum. Qui tamen quam haberet constantem 
+      fir<lb ed="#L" n="28" break="no"/>mamque, sententia, lib. 2. de doctri. Christiana, cap. 8. &amp; li. 
+      <lb ed="#L" n="29"/>17. de Ciuitate Dei. c. 8. &amp; ad Horosium contra 
+      Priscilia<lb ed="#L" n="30" break="no"/>nistas. cap. 11. imo eo ipso libro de cura pro mortuis 
+      ge<lb ed="#L" n="31" break="no"/>renda. cap. 17. manifeste declarauit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e383">
+               <lb ed="#L" n="32"/>Secunda autem confirmatio, quae ab auctoritate concilij 
+      <lb ed="#L" n="33"/>Laodiceni sumitur, imbecilla est. Non enim concilium 
+      ne<lb ed="#L" n="34" break="no"/>gat esse canonicos: licet inter canonicos noluerit 
+      annu<lb ed="#L" n="35" break="no"/>merare: quod nondum ea res satis erat explorata. 
+      Vi<lb ed="#L" n="36" break="no"/>delicet Cquod saepe iam diximus  non omnes simul 
+      <lb ed="#L" n="37"/>libri canonici ab ecclesia sunt communi consensu 
+      re<lb ed="#L" n="38" break="no"/>cepti. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e401">
+               <lb ed="#L" n="39"/>Ad tertiam vero confirmationem CQuoniam nihil in 
+      <!--91.xml-->
+      <pb ed="#L" n="80"/>
+               <lb ed="#L" n="1"/>praesentia de auctoritate canonum, qui dicuntur 
+      aposto<lb ed="#L" n="2" break="no"/>lorum, disputare volumus, nam haec quaestio ab ea, quae 
+      <lb ed="#L" n="3"/>nunc in manibus est, separatur, dupliciter respondemus. 
+      <lb ed="#L" n="4"/>Prius, ne quis eiusmodi argumento nos velit vrgere, 
+      in<lb ed="#L" n="5" break="no"/>telligat eodem ca. 84. tres Machabaeorum libros inter 
+      ca<lb ed="#L" n="6" break="no"/>nonicos supputari. Quod si apostolorum hos 
+      octoginta<lb ed="#L" n="7" break="no"/>quinqe canones recipere cogimur, respondeant hic ipsi 
+      <lb ed="#L" n="8"/>nobis qui Machabaeorum libros reiiciunt. sinautem cne 
+      con<lb ed="#L" n="9" break="no"/>fiteantur hos esse canonicos, testimonium huius capituli 
+      <lb ed="#L" n="10"/>contemnunt: iam profecto non est cur pondere illius nos 
+      <lb ed="#L" n="11"/>velint obruere. Sed hanc disputationem Cvt diximus, in 
+      <lb ed="#L" n="12"/>aliud tempus reseruantes, quod ad presentem locum satis 
+      <lb ed="#L" n="13"/>est, alteram responsionem subiicimus: Clementem qui eos 
+      <lb ed="#L" n="14"/>canones dispersos in vnum volume congregasse dicitur, non 
+      <lb ed="#L" n="15"/>omnes libros canonicos collegisse, quos apostoli verbo 
+      <lb ed="#L" n="16"/>tenus ecclesiae tradiderunt. Non enim aliunde, vel 
+      con<lb ed="#L" n="17" break="no"/>cilia, vel patres apostolorum proximi, hos esse: sacros,  
+      <lb ed="#L" n="18"/>quam ab apostolis didicerunt. Ait tamen Irenae. lib. 3. c. 
+      <lb ed="#L" n="19"/>3. referturque ab Euseb. lib. 5. cap. 6. Clementem, quoniam  
+      <lb ed="#L" n="20"/>cum Apostolis vitam semper egerit, atque ab apostolis 
+      insti<lb ed="#L" n="21" break="no"/>tutus fuerit, recentem gessisse traditionis eorum 
+      memo<lb ed="#L" n="22" break="no"/>riam, &amp; eorum formam semper in oculis habuisse. Ita si 
+      <lb ed="#L" n="23"/>haec responsio non placet, detur alia, non omnes illos 
+      ca<lb ed="#L" n="24" break="no"/>nones a Clemente editos, sed nonnullos a Graecis 
+      adie<lb ed="#L" n="25" break="no"/>ctos, esse. 
+      <lb ed="#L" n="26"/>Ad postremam denique confirmationem, huiusmodi 
+      ha<lb ed="#L" n="27" break="no"/>beto responsum. Vt cum iis liberaliter agamus, donemusque  
+      <lb ed="#L" n="28"/>cis Synaoogam in fide errare non posse Cquod 
+      tamen<lb ed="#L" n="29" break="no"/>non perinde vt de ecclesia catholica certum est, negamus 
+      <lb ed="#L" n="30"/>hos libros a Synagoga esse reiectos. Aliud est enim non  
+      <lb ed="#L" n="31"/>recipere, aliud vero reiicere. Iudaei ergo intra suum 
+      ca<lb ed="#L" n="32" break="no"/>nonem hos quidem libros publica auctoritate minime 
+      re<lb ed="#L" n="33" break="no"/>ceperunt: tametsi nonnulli etiam ex eis diuinos &amp; sacros 
+      <lb ed="#L" n="34"/>esse crediderunt. Qua de re vide Coclaeum in libello de 
+      <lb ed="#L" n="35"/>canonicae scripturae &amp; catholicae ecclesiae auctoritate. De 
+      <lb ed="#L" n="36"/>secundo igitur argumento hactenus. 
+      <lb ed="#L" n="37"/>Ad tertium autem praecipuum argumentum 
+      respon<lb ed="#L" n="38" break="no"/>detur, Ante id temporis nec re fuisse tam expeditam, nec 
+      <lb ed="#L" n="39"/>conciliorum lectionem tam assiduam, nec haereticorum 
+      <!--92.xml-->
+      <pb ed="#L" n="81"/>
+               <lb ed="#L" n="1"/>impudentiam tam procacem in libris canonicis, vel 
+      in<lb ed="#L" n="2" break="no"/>firmandis, vel etiam reijciendis. Quocirca, non fuerunt 
+      <lb ed="#L" n="3"/>perinde soliciti fideles de huiusmodi quaestione: cuius 
+      <lb ed="#L" n="4"/>definitionem sine iactura pietatis poterant ignorare. 
+      <lb ed="#L" n="5"/>Quod si argumentum idem contorquere in aduersarios 
+      <lb ed="#L" n="6"/>volumus, nihil est quod facilius efficere possimus. Nam  
+      <lb ed="#L" n="7"/>Cvt ex concilio primo Toletano didicimus, si quis dixe 
+      <lb ed="#L" n="8"/>rit, vel crediderit alias scripturas praeter eas quas 
+      eccle<lb ed="#L" n="9" break="no"/>sia catholica recipit, in auctoritate habendas esse, vel ve 
+      <lb ed="#L" n="10"/>nerandas, anathema est. Cum ergo pleriquesquod retro 
+      <lb ed="#L" n="11"/>ostendimus, hos libros tanquam diuinos venerentur, cer 
+      <lb ed="#L" n="12"/>te si ecclesia non reciperet, in anathema concilij 
+      Toleta<lb ed="#L" n="13" break="no"/>ni pariter omnes incurrerent. Ne igitur hos audaciae &amp;  
+      <lb ed="#L" n="14"/>temeritatis condemnemus, illos potius ignorantia labo 
+      <lb ed="#L" n="15"/>rasse concedamus. Imo cum perniciosius ecclesiae sit 
+      li<lb ed="#L" n="16" break="no"/>bros recipere pro sacris, qui reuera non sunt quam librum 
+      <lb ed="#L" n="17"/>reijcere, qui alias vere sacer est Tvt D. Thomas prima par 
+      <lb ed="#L" n="18"/>te, quaest. 68. artic. 1. &amp; de potentia quaest. 4. artic. 1. latius 
+      <lb ed="#L" n="19"/>explicato cum concilium Carthaginense, Florentinum, 
+      <lb ed="#L" n="20"/>Tridentinum, Innocentius, Gelasius, ac fere sancti hos 
+      li<lb ed="#L" n="21" break="no"/>bros tanquam sacros Ecclesiae tradiderint, profecto, si ij 
+      <lb ed="#L" n="22"/>non essent, perniciosissime falleremur. De tertio igitur 
+      <lb ed="#L" n="23"/>argumento satis dictum est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e549">
+               <lb ed="#L" n="24"/>Ad quartum vero argumentum primo dicitur, quod 
+      <lb ed="#L" n="25"/>Gelasius forsitamvnius sibri nomine ambos 
+      complecti<lb ed="#L" n="26" break="no"/>tur: quod etiam in Esdra non ipse modo fecit, sed &amp; 
+      lsi<lb ed="#L" n="27" break="no"/>dorus &amp; Hieronymus qui Esdram interpretatus, vnicum 
+      <lb ed="#L" n="28"/>edidit, sequens Hebraeorum consuetudinem, qua Esdrae 
+      <lb ed="#L" n="29"/>primus &amp; secundus liber in vno est, vt Origen: in primum 
+      <lb ed="#L" n="30"/>Psalmum docet, &amp; Eusebius lib. 6. capitulo i8. Hanc 
+      au<lb ed="#L" n="31" break="no"/>tem mentem fuisse Gelasij, Vel illud abundem magnum 
+      ar<lb ed="#L" n="32" break="no"/>gumentum est, quod idem ipse probat lectionem scriptu 
+      <lb ed="#L" n="33"/>rarum, quae per anni circulum distribuuntur, librum 
+      au<lb ed="#L" n="34" break="no"/>tem Machabaeorum pro dominicis Octobris: in quibus 
+      <lb ed="#L" n="35"/>ambos ecclesia legit. Deinde respondetur, Gelasium de 
+      <lb ed="#L" n="36"/>secundo libro ambiguam forte sententiam tenuisse: eoque  
+      <lb ed="#L" n="37"/>consilio in enumeratione eum librum praetermisisse. 
+      <lb ed="#L" n="38"/>At Augustinus 18. de ciuitate Dei, &amp; lsidorus 6. 
+      Etymo<lb ed="#L" n="39" break="no"/>logiarum, vtrumque Machabaeorum, ab ecclesia recipi 
+      <!--93.xml-->
+      <pb ed="#L" n="82"/>
+               <lb ed="#L" n="1"/>isseuerant. Quod &amp; in prooemio horum librorum 
+      asse<lb ed="#L" n="2" break="no"/>ritur. Nec id modo in dubium vocare licet, quod Diuo 
+      <lb ed="#L" n="3"/>Gregorio, Euseb. atque reliquis licuit aliquando dubitare. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e597">
+               <lb ed="#L" n="4"/>Iam ad primam rationem, quae in huius quarti 
+      argumen<lb ed="#L" n="5" break="no"/>ti confirmationem affertur, Ioannes Annius in 
+      commen<lb ed="#L" n="6" break="no"/>tariis super secundum librum Philonis de temporibus 
+      <lb ed="#L" n="7"/>tradit, libros Machabaeorum, qui absque temporibus 
+      scri<lb ed="#L" n="8" break="no"/>pti erant, Iosephum adiectione temporum apocryphos 
+      <lb ed="#L" n="9"/>reddidisse. Ostendit vero id argumento, quo nos vsi 
+      su<lb ed="#L" n="10" break="no"/>mus: quo eodem Ioannes quoque Lucidus permotus est 
+      <lb ed="#L" n="11"/>4. suae chronographiae libro. Vnde autem Annius noster 
+      <lb ed="#L" n="12"/>acceperit aut sine temporibus Machabaeorum olim 
+      li<lb ed="#L" n="13" break="no"/>bros haberi, aut Iosephum adiecisse tempora cingenue 
+      <lb ed="#L" n="14"/>fateor, me praeterit. Sed si id verum est, quemadmodum 
+      <lb ed="#L" n="15"/>mendum, quod in numeris facillimum est, non auctoribus, 
+      <lb ed="#L" n="16"/>sed librariis imputatur: ita menda, quae Iosephi per 
+      incu<lb ed="#L" n="17" break="no"/>riam inducta sunt, non auctori libri Machabaeorum, sed 
+      <lb ed="#L" n="18"/>Iosepho tribuemus. Nec ob id libros hos apocryphos 
+      <lb ed="#L" n="19"/>existimabimus. Tametsi Iosephum germanam veramque 
+      <lb ed="#L" n="20"/>catholicorum lectionem vitiasse viris ecclesiasticis omni 
+      <lb ed="#L" n="21"/>bus dissimulantibus, atque adeo conniuentibus, mihi 
+      <lb ed="#L" n="22"/>quidem non fit verisimile. Nisi volumus mille 
+      quingen<lb ed="#L" n="23" break="no"/>tos annos &amp; eo amplius, ecclesia in vtramquesaurem dor 
+      <lb ed="#L" n="24"/>mitante, inimicum hominem 2izania superseminasse. 
+      <lb ed="#L" n="25"/>Quamobrem, multo melius Eusebius Caesatiensis licet 
+      <lb ed="#L" n="26"/>hos libros non crediderit in sacrorum numerum refere 
+      <lb ed="#L" n="27"/>dos, asserit tamen auctorem illorum non supputare Grae 
+      <lb ed="#L" n="28"/>corum regnum ab Alexandro, sed a Seleuco Nicanore, 
+      <lb ed="#L" n="29"/>qui regnauit in Syria anno a morte Alexandri exacto 
+      <lb ed="#L" n="30"/>vndecimo. Cui numero si addas quinque annos, quibus 
+      <lb ed="#L" n="31"/>Alexander tanquam Monarcha imperauit Graecis, 
+      con<lb ed="#L" n="32" break="no"/>ficitur numerus annorum exactus sexdecim. Quibus 
+      mi<lb ed="#L" n="33" break="no"/>nor erat supputatio Monarchiae Graecorum iuxta 
+      rati<lb ed="#L" n="34" break="no"/>onem Hebraicam. Nam Graeci ab Alexandro 
+      suppu<lb ed="#L" n="35" break="no"/>tabant. Igitur quod iuxta annalia Graeca Antiochus 
+      <lb ed="#L" n="36"/>regnasse dicitur anno centesimo quinquagesimo tertio, 
+      <lb ed="#L" n="37"/>&amp; iuxta primum Machabaeorum anno centesimo 
+      trigesi<lb ed="#L" n="38" break="no"/>moseptimo, verborum, non rerum dissensio est. Quippe, 
+      <lb ed="#L" n="39"/>si centesimo trigesimoseptimo sexdecim adiicias, nume¬ 
+      <!--94.xml-->
+      <pb ed="#L" n="83"/>
+               <lb ed="#L" n="1"/>rus centesimus quinquagesimustertius conficietur. 
+      Ioan<lb ed="#L" n="2" break="no"/>nes vero Lucidus in eo discrepat ab Eusebio, quod 
+      scri<lb ed="#L" n="3" break="no"/>bit Alexandrum post adeptam Monarchiam annos 
+      se<lb ed="#L" n="4" break="no"/>ptem regnasse, Seleucum vero anno octauo post 
+      mor<lb ed="#L" n="5" break="no"/>tem Alexandri iam exacto. Sed quod ad praesentem 
+      at<lb ed="#L" n="6" break="no"/>tinet quaestionem, non ad modum refert, vtrum ex his ve 
+      <lb ed="#L" n="7"/>rum sit, cum supputatio praecipua, de qua hic agimus, 
+      mi<lb ed="#L" n="8" break="no"/>nime varietur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e699">
+               <lb ed="#L" n="9"/>In huius vero confirmatione argumenti Ambrosius 
+      <lb ed="#L" n="10"/>Catharinus Caietanum affirmat tot peccata admisisse, 
+      <lb ed="#L" n="11"/>quot verba pene effudit. Sic enim ille loquitur. Nec 
+      ad<lb ed="#L" n="12" break="no"/>uertit homo ad carpendum promptulus, se quoque in re 
+      <lb ed="#L" n="13"/>prehendendo Caietano saepe ac multum errasse. Hoc 
+      <lb ed="#L" n="14"/>certe loco ter errauit. Sed istius errores coarguere nec 
+      <lb ed="#L" n="15"/>meum est, nec huius temporis. Quid ergo? Nonne hic 
+      <lb ed="#L" n="16"/>peccauit Caietanus? Peccauit sane. Primum in eo quod 
+      <lb ed="#L" n="17"/>temere &amp; inconsiderate, ne superbe dicam &amp; arroganter, 
+      <lb ed="#L" n="18"/>auctorem libri Machabaeorum ait in intelligentia Danie 
+      <lb ed="#L" n="19"/>lis esse deceptum: quem constat Spiritus sancti afflatu 
+      <lb ed="#L" n="20"/>eum librum scripsisse. Deinde falso existimat Caietanus,  
+      <lb ed="#L" n="21"/>si auctor libri Machabaeorum verba Danielis vsurpat, id 
+      <lb ed="#L" n="22"/>circo Danielem interpretari. Quasi non licuerit 
+      Bernar<lb ed="#L" n="23" break="no"/>do verbis scripturarum passim vti: quas si quis arguat ab  
+      <lb ed="#L" n="24"/>ipso male intelligi, quod verba non in eum afferat sensum 
+      <lb ed="#L" n="25"/>qui scripturarum erat germanus &amp; proprius, is stultus esse 
+      <lb ed="#L" n="26"/>videatur. Certe poetae recentiores veterum versus etiam  
+      <lb ed="#L" n="27"/>integros vsurparunt elegantissime: nec tamen priorum 
+      <lb ed="#L" n="28"/>illi versus a posterioribus in eandem sententiam 
+      capi<lb ed="#L" n="29" break="no"/>untur. Fallitur praeterea Caietanus in eo quod putat,  
+      <lb ed="#L" n="30"/>Danielis prophetiam non potuisse ad idolum Antiochi 
+      <lb ed="#L" n="31"/>referri: quia Dominus ad futura tempora referendam 
+      <lb ed="#L" n="32"/>declarauit. Eadem quippe scriptura &amp; ad Luciferum 
+      per<lb ed="#L" n="33" break="no"/>tinet &amp; ad Nabuchodonosor, &amp; ad Antichristum. 
+      Va<lb ed="#L" n="34" break="no"/>nissimum ergo fuit auctorem libri Machabaeorum repre 
+      <lb ed="#L" n="35"/>hendere, quod in idolo, abominatione &amp; desolatione 
+      <lb ed="#L" n="36"/>Antiochi ad verba Danielis alluserit, vel ea certe in simi 
+      <lb ed="#L" n="37"/>li causa vsurparit. Nam &amp; si in illum sensum Danielem 
+      ad<lb ed="#L" n="38" break="no"/>duxisset, id fecisset egregie, quod &amp; Paulus &amp; 
+      Apostoli<lb ed="#L" n="39" break="no"/>caeteri saepe fecerunt. 
+      <!--95.xml-->
+      <pb ed="#L" n="84"/>
+               <lb ed="#L" n="1"/>At secunda ratio duobus modis refellitur. Prius enim 
+      <lb ed="#L" n="2"/>nihil impedit vt Spiritus 8. scriptori assistat, qui in 
+      qui<lb ed="#L" n="3" break="no"/>busdam tamen humano more ex modestia loquitur. Sic 
+      <lb ed="#L" n="4"/>enim Paulus ait, &amp; si imperitus sermone non tamen 
+      scien<lb ed="#L" n="5" break="no"/>tia. Et rursum, vt minus sapiens dico, plus ego. Et iterum, 
+      <lb ed="#L" n="6"/>lonate mihi hanc iniuriam. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e787">
+               <lb ed="#L" n="7"/>Posterius aliud est loqui de ipsius historiae veritate, 
+      a<lb ed="#L" n="8" break="no"/>liud de interpretatione in aliam linguam. Interpres ergo 
+      <lb ed="#L" n="9"/>veniam petit, non falsitatis, quae nulla erat: sed 
+      elocutio<lb ed="#L" n="10" break="no"/>nis, quae ab homine erat. Secunda igitur illa ratio hac du 
+      <lb ed="#L" n="11"/>plici responsione conuellitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e800">
+               <lb ed="#L" n="12"/>Sed &amp; tertia bis quoque confutari potest: &amp; quia non  
+      <lb ed="#L" n="13"/>est opus confiteri, epistolam, cuius in priori fit mentio, 
+      <lb ed="#L" n="14"/>eam esse, quae euestigio subditur: &amp; quod si esse quis 
+      con<lb ed="#L" n="15" break="no"/>tendat, habet in promptu quid dicat: puncta librariorum 
+      <lb ed="#L" n="16"/>incuria esse male distincta. Illa enim verba, Anno 
+      cente<lb ed="#L" n="17" break="no"/>simo octogesimooctauo, non sunt initium epistolae sequem 
+      <lb ed="#L" n="18"/>tis, sed finis antecedentis. Vt subsequens epistola hoc 
+      <lb ed="#L" n="19"/>principium habeat, Populus qui est Hierosolymis. Cuius 
+      <lb ed="#L" n="20"/>rei illud est argumentum, quod diem annumue, quo 
+      scri<lb ed="#L" n="21" break="no"/>bitur epistola, non ab initio statim, sed a fine ponere 
+      so<lb ed="#L" n="22" break="no"/>lemus : salutationem vero statim a principio. Tametsi 
+      <lb ed="#L" n="23"/>vtrumque Constantinus &amp; in epist. ad Donum papam, &amp;  
+      <lb ed="#L" n="24"/>in epistola ad Georgium Constantin. Patriarcham, 
+      con<lb ed="#L" n="25" break="no"/>iunxerit. Quae igitur secundo loco ponitur, haec scripta 
+      <lb ed="#L" n="26"/>est anno centesimo sexagesimonono, vt in priori episto 
+      <lb ed="#L" n="27"/>la dicitur. Quae vero ordine quidem scripturae 
+      antece<lb ed="#L" n="28" break="no"/>dit, sed re ipsa tamen posterius missa est, ea scripta fuit 
+      <lb ed="#L" n="29"/>anno centesimo, octogesimooctauo.  
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e842">
+               <lb ed="#L" n="30"/>Ita ad quartam rationem facile dici poterat squod 
+      an<lb ed="#L" n="31" break="no"/>te monuimus, illam epistolam non esse cuius prior 
+      me<lb ed="#L" n="32" break="no"/>minit. Quare nec necesse est fateri, eam esse scriptam 
+      an<lb ed="#L" n="33" break="no"/>no centesimo sexagesimonono. Quin compilator 
+      il<lb ed="#L" n="34" break="no"/>lius secundi libri, siue is fuerit Iosephus, vt Annio 
+      pla<lb ed="#L" n="35" break="no"/>cet, siue quisque alius, quascunque epistolas inuenire 
+      po<lb ed="#L" n="36" break="no"/>tuit a Iudaeis scriptas, nullo seruato ordine, in initio 
+      li<lb ed="#L" n="37" break="no"/>bri forsitan collocauit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e862">
+               <lb ed="#L" n="38"/>Quod si secundam illam esse admittimus, quam 
+      com<lb ed="#L" n="39" break="no"/>memorat prima, dicere oportet, numerum non secundum 
+      <!--96.xml-->
+      <pb ed="#L" n="85"/>
+               <lb ed="#L" n="1"/>Hebraicam computationem haberi, sed secundum 
+      Grae<lb ed="#L" n="2" break="no"/>cam. Potuit enimcnec id incommodeofieri, vt qui eas 
+      li<lb ed="#L" n="3" break="no"/>teras dederint, ij Graecam monarchiae supputationem 
+      <lb ed="#L" n="4"/>fuerint secuti: quam tamen is qui librum illum dicitur in 
+      <lb ed="#L" n="5"/>compendium redigisse, noluit immutare: sed exscribere 
+      <lb ed="#L" n="6"/>numerum, vt scriptum reperit. In aliis vero secutus est 
+      <lb ed="#L" n="7"/>semper supputationem Hebraicam. Iudas itaque 
+      mor<lb ed="#L" n="8" break="no"/>tuus est iuxta Hebraeorum rationem, anno centesimo 
+      <lb ed="#L" n="9"/>quinquagesimosecundo expleto: hoc est, anno centesimo  
+      <lb ed="#L" n="10"/>quinquagesimotertio. Quibus si apponas sedecim annos 
+      <lb ed="#L" n="11"/>Graecae supputationis, constat numerus centesimus 
+      sexa<lb ed="#L" n="12" break="no"/>gesimus nonus: qui idem est cum priori. Nam, quo anno 
+      <lb ed="#L" n="13"/>Iudas mortuus est, scripsit epistolam. Ita non est necesse 
+      <lb ed="#L" n="14"/>cum Ruperto libro de victoria verbi, alium a Machabaeo 
+      <lb ed="#L" n="15"/>Iudam diuinare, qui eam epistolam dederit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e906">
+               <lb ed="#L" n="16"/>Ad quintam non desunt qui existiment non Antiochum 
+      <lb ed="#L" n="17"/>membratim diuisum, sed ducem ab eo missum: sic enim 
+      <lb ed="#L" n="18"/>videtur 1. cap. significari. Illum vero fuga elapsum 
+      mor<lb ed="#L" n="19" break="no"/>bo pestilenti interiisse, vt cap. 9. dicitur. Sunt etiam qui 
+      <lb ed="#L" n="20"/>contendunt in cap. illo. 1. particulam, &amp;, adiectam esse 
+      li<lb ed="#L" n="21" break="no"/>brariorum vitio: lectionem autem Veram hanc esse, 
+      Per<lb ed="#L" n="22" break="no"/>cusserunt ducem, &amp; eos qui cum ipso erant, diuiserunt 
+      men<lb ed="#L" n="23" break="no"/>bratim, &amp;c. Scio autem verbum percutere interdum 
+      si<lb ed="#L" n="24" break="no"/>vnificare id, quod occidere. Vt eo loco: Percussit 
+      Phili<lb ed="#L" n="25" break="no"/>staeum, &amp; c. Sed non cogimur hic vocabuli propria 
+      signi<lb ed="#L" n="26" break="no"/>ficatione deserta ad dictionem confugere figuratam, prae 
+      <lb ed="#L" n="27"/>sertim cum Danielis 11. cap. de Antiocho scriptum sit, 
+      <lb ed="#L" n="28"/>Et venient super eum Romani &amp; percutietur. Quo loco 
+      <lb ed="#L" n="29"/>Hieronym. Percussus ait, dicitur esse, non quod 
+      interie<lb ed="#L" n="30" break="no"/>rit &amp;c. Et 2. Reg. 2. Serui Dauid percusserunt de 
+      Benia<lb ed="#L" n="31" break="no"/>min 36O. qui &amp; mortui sunt. Sed ne illud quidem huic 
+      <lb ed="#L" n="32"/>expositoni repugnat, quod Lyranus obiicit, Antiochum 
+      <lb ed="#L" n="33"/>vvt hic dicitur cecidisse. Non enim semper eo verbo 
+      <lb ed="#L" n="34"/>mors significatur: sed qui victus est cecidisse vere 
+      asseri<lb ed="#L" n="35" break="no"/>tur. Ceciderunt, inquit, per prona fugientes. Sed ne 
+      il<lb ed="#L" n="36" break="no"/>lud quidem obstat quod ibi legitur, Cum ingressus esset 
+      <lb ed="#L" n="37"/>intra ambitum fani, clauserunt templum: Cum autem 
+      in<lb ed="#L" n="38" break="no"/>trasset Antiochus, &amp;c. Vbi videtur designari Antiocho 
+      <lb ed="#L" n="39"/>conclusio nullum fuisse locum fugiendi reliquum. Non 
+      <!--97.xml-->
+      <pb ed="#L" n="86"/>
+               <lb ed="#L" n="1"/>enim intelligendum est templum clausum post 
+      ingres<lb ed="#L" n="2" break="no"/>sum ducis: sed cum milites essent intra fani ambitum, vt 
+      <lb ed="#L" n="3"/>si exempli causa dicamus, in atriis, sacerdotes clauserunt 
+      <lb ed="#L" n="4"/>ianuas templi. At contra, cum milites Antiochi aditum  
+      <lb ed="#L" n="5"/>templi occultum aperuissent, vt cognita res est, 
+      lapidi<lb ed="#L" n="6" break="no"/>bus sunt a Iudaeis obruti. Potuit ergo dux ipse 
+      percus<lb ed="#L" n="7" break="no"/>sus, si ducis nomine Antiochus intelligitur, quo aditu 
+      <lb ed="#L" n="8"/>aperto intrauerat, exire atque fugere. Ob quam fugam  
+      <lb ed="#L" n="9"/>c. 9. dicitur, inhoneste ac turpiter de Perside rediisse. 
+      <lb ed="#L" n="10"/>Sed ne rimulas quaerere ad elabendum videamur, illa 
+      re<lb ed="#L" n="11" break="no"/>sponsio &amp; planior &amp; verior est, cui historicorum grauium 
+      <lb ed="#L" n="12"/>consentit auctoritas, non eundem esse Antiochum de 
+      <lb ed="#L" n="13"/>quo primo capite, &amp; de quo capite nono perhibetur. 
+      <lb ed="#L" n="14"/>Sed ibi Antiochi magni mortem scribi, hic vero 
+      An<lb ed="#L" n="15" break="no"/>tiochi Epiphanis. Cuius etiam finis primi libri capite 
+      <lb ed="#L" n="16"/>sexto texitur. Nam illum Strabo libro 16. ait templum 
+      <lb ed="#L" n="17"/>Beli expoliare conatum finitimos Barbaros interemisse. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1002">
+               <lb ed="#L" n="18"/>Ad sextam, licet Rupertus omnia ea figurate velit 
+      in<lb ed="#L" n="19" break="no"/>telligi de arca noui testamenti, id est, humanitate lesum 
+      <lb ed="#L" n="20"/>Christi: ad literam tamen miraculum illud vel iam 
+      fa<lb ed="#L" n="21" break="no"/>ctum est, cum expulsis gentibus a Iudaea Hebraei ex 
+      di<lb ed="#L" n="22" break="no"/>uersis locis, vbi erant dispersi, conuenerunt, vel forte 
+      <lb ed="#L" n="23"/>etiam in conuersione Iudaeorum ante diem iudicij 
+      fu<lb ed="#L" n="24" break="no"/>tura fiet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1021">
+               <lb ed="#L" n="25"/>Nec nostris coniecturis diuina promissio 
+      debili<lb ed="#L" n="26" break="no"/>tanda est. Est enim Deus verax, omnis autem homo 
+      <lb ed="#L" n="27"/>mendax. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1030">
+               <lb ed="#L" n="28"/>Postrema demum ratione soluenda varie torquentur 
+      <lb ed="#L" n="29"/>auctores. Alij namque fingunt, Machabaeos per matrem 
+      <lb ed="#L" n="30"/>a tribu Iuda originem ducere: eaque ratione defendunt, 
+      <lb ed="#L" n="31"/>sceptrum de Iuda non esse transsatum. Alij sequentes 
+      <lb ed="#L" n="32"/>traditiones Talmud astruunt, Machabaeis quoque 
+      exi<lb ed="#L" n="33" break="no"/>stentibus ducibus, fuisse iudices quosdam ex tribu 
+      Iu<lb ed="#L" n="34" break="no"/>da, penes quos summa decernendi atque imperandi 
+      po<lb ed="#L" n="35" break="no"/>testas resideret. Qui Hebraice xanedris, Latine senatus 
+      <lb ed="#L" n="36"/>vt apud Romanos appellabatur. Vnde illud est, 
+      Popu<lb ed="#L" n="37" break="no"/>lus qui est Hierosolymis, senatusque &amp; Iudas, &amp;c. Hos 
+      <lb ed="#L" n="38"/>itaque cum Herodes qui primus ex alienigenarum genere 
+      <lb ed="#L" n="39"/>ortus, regnum Iudaicae gentis obtinuit, in odinm Daui¬ 
+      <!--98.xml-->
+      <pb ed="#L" n="87"/>
+               <lb ed="#L" n="1"/>dici regni de medio sustulit, tum vere sceptrum de tribum 
+      <lb ed="#L" n="2"/>Iuda dicitur abstulisse. Alij hunc nodum soluunt : 
+      affir<lb ed="#L" n="3" break="no"/>mantes illam Iacob prophetiam, promissionem fuisse ad 
+      <lb ed="#L" n="4"/>legem comminationum intelligendam: quae scilicet 
+      mu<lb ed="#L" n="5" break="no"/>tatis moribus commutetur. Et quemadmodum 
+      senten<lb ed="#L" n="6" break="no"/>tia aduersus Niniuitas post poenitentiam translata est, ita 
+      <lb ed="#L" n="7"/>quoque haec diuina promissio, filijs Iuda peccantibus 
+      <lb ed="#L" n="8"/>fuerit commutata. Quam quidem normam in 
+      explican<lb ed="#L" n="9" break="no"/>dis tum comminationibus tum promissionibus ex 
+      Exe<lb ed="#L" n="10" break="no"/>chiele desumunt: apud quem Dei &amp; comminatio &amp; 
+      pol<lb ed="#L" n="11" break="no"/>licitatio pro conuersis, aut auersis hominum moribus 
+      <lb ed="#L" n="12"/>transferuntur. Nos vero, quibus consilium est alienas 
+      <lb ed="#L" n="13"/>expositones non inimice, aut insectari, aut 
+      repelle<lb ed="#L" n="14" break="no"/>re, facilius hunc locum expediemus, si ex primo 
+      Ma<lb ed="#L" n="15" break="no"/>chabaeorum libro intelligimus populum Iudaeorum 
+      du<lb ed="#L" n="16" break="no"/>catum Machabaeis tradidisse, non tanquam proprium &amp; 
+      <lb ed="#L" n="17"/>haereditarium, sed ad legem depositi conseruandum: vt 
+      <lb ed="#L" n="18"/>videlicet lsraeliticam plebem interea tuerentur, donec 
+      <lb ed="#L" n="19"/>surgeret propheta fidelis, yel qui eos instrueret, vel quem 
+      <lb ed="#L" n="20"/>de tribu Iuda venturum expectabant. Qua ex re 
+      sce<lb ed="#L" n="21" break="no"/>ptrum de tribu Iuda non auferebatur: eo praesertim,  
+      <lb ed="#L" n="22"/>quod ipsa quoque tribus in hoc populi condictum 
+      sen<lb ed="#L" n="23" break="no"/>tentiamque a principio saltem creditur consensisse. 
+      <lb ed="#L" n="24"/>Quartum ergo argumentum cum suis confirmationibus 
+      <lb ed="#L" n="25"/>hoc modo fuerit confutatum. Nam quod argumentum 
+      <lb ed="#L" n="26"/>Caietanus in Matthaei 24. c. ponit auctorem libri 
+      Ma<lb ed="#L" n="27" break="no"/>chabaeorum errasse in interpretatione Prophetiae 
+      Da<lb ed="#L" n="28" break="no"/>nielis, quam ad Antiochum ille refert: cum Lucas ad ex- 
+      <lb ed="#L" n="29"/>ercitum Romanorum perspicue retulerit, id nullius 
+      mo<lb ed="#L" n="30" break="no"/>menti est. Eadem quippe litera &amp; ad 
+      Nabuchodonoso<lb ed="#L" n="31" break="no"/>rum &amp; ad Antichristum spectare potest. Sic eadem &amp; ad 
+      <lb ed="#L" n="32"/>Antiochiochum, &amp; ad Idolum Romanorum &amp; ad 
+      Anti<lb ed="#L" n="33" break="no"/>christum pertinet. Quae omnino res, quoniam nihil 
+      ob<lb ed="#L" n="34" break="no"/>scura est, nostra explicatione non eget. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1137">
+               <lb ed="#L" n="35"/>At quintum argumentum refellimus. Non modo 
+      con<lb ed="#L" n="36" break="no"/>cilium Carthaginense, &amp; Innocentius, sed plerique alij 
+      <lb ed="#L" n="37"/>Sapientiam &amp; Ecclesiast. Salomoni assignauerunt. Nam,  
+      <lb ed="#L" n="38"/>librum quidem Sapientiae nomine Salomonis citat 
+      Ter<lb ed="#L" n="39" break="no"/>tullianus de praescriptionibus haereticorum: Origen, super 
+      <!--99.xml-->
+      <pb ed="#L" n="88"/>
+               <lb ed="#L" n="1"/>epistolam ad Romanos lib. octauo : Cyprianus sermone 
+      <lb ed="#L" n="2"/>quarto de immortalitate: Basilius lib. 5. contra Eunomium: 
+      <lb ed="#L" n="3"/>Ambrosius sermone octauo in Psalmum, Beati 
+      immacu<lb ed="#L" n="4" break="no"/>lati: &amp; li. 3. Exameron, c. 15. &amp; 4. lib. de fid. c. 6. &amp; Euse. 11. 
+      <lb ed="#L" n="5"/>lib. praeparationis Euangelicae cap. 5. Quin Eusebius ipse 
+      <lb ed="#L" n="6"/>lib. 4. Eccl. hist. c. 22. asserit, Egesippum, Irenaeum, &amp; 
+      om<lb ed="#L" n="7" break="no"/>nes antiquos librum Sapientiae Salomoni tribuisse. Tribue 
+      <lb ed="#L" n="8"/>runt certe Euaristus in epistola ad episcopos 
+      Aphrica<lb ed="#L" n="9" break="no"/>nos, Felix primus ad omnes episcopos Galliae, Felix 
+      se<lb ed="#L" n="10" break="no"/>cundus ad Athanasium &amp; caeteros episcopos Aegypti, 
+      <lb ed="#L" n="11"/>Epiphanius haeresi 76. Anomaeorum. Damascenus 
+      quar<lb ed="#L" n="12" break="no"/>to suae Theologiae libro: vbi Iodocus Clichtoueus 
+      mul<lb ed="#L" n="13" break="no"/>tis argumentis contendit, librum illum non fuisse 
+      Philo<lb ed="#L" n="14" break="no"/>nis, sed Salomonis. In quibus illud maximum est, quod 
+      <lb ed="#L" n="15"/>verba quae auctor capite nono eiusdem libri de se dicit,  
+      <lb ed="#L" n="16"/>non alij quam Salomoni congruere possunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1189">
+               <lb ed="#L" n="17"/>Ecclesiasticum quoque auctores nobilissimi 
+      Salomo<lb ed="#L" n="18" break="no"/>nis nomine retulerunt : Clemens Alexand. lib. 7. stroma. 
+      <lb ed="#L" n="19"/>Gregorius Nazanzenus oratione octaua, Basilius 
+      quar<lb ed="#L" n="20" break="no"/>to lib. contra Eunomium, Chrysostomus, siue quis alius 
+      <lb ed="#L" n="21"/>fuerit, homil. 3. imperfecti operis in Matthaeum, Ambros. 
+      <lb ed="#L" n="22"/>super 7. caput prioris ad Corinth. Hieronymus in ca. 10. 
+      <lb ed="#L" n="23"/>Ecclesiastes, Cyprianus ad Rogatianum, &amp; tertio lib. ad 
+      <lb ed="#L" n="24"/>Quirinum, &amp; primo sermone de eleemosyna. Casiodo. in 
+      <lb ed="#L" n="25"/>psalm. 55. &amp; 66. &amp; 93. Gregorius 10. lib. Moralium, &amp; I. 
+      <lb ed="#L" n="26"/>quaest. 1. c. non est putanda, Sixtus primus in epist. ad 
+      om<lb ed="#L" n="27" break="no"/>nes fratres, Marcellinus ad Salomonem episcopum, 
+      Fa<lb ed="#L" n="28" break="no"/>bianus in epistola ad omnes Orientales episcopos, Sixtus 
+      <lb ed="#L" n="29"/>secundus ad Gratum. Damasus ad episcopos Italiae, 
+      Ioan<lb ed="#L" n="30" break="no"/>nes papa ad Valerium episcopum. Quod si post tot 
+      tam<lb ed="#L" n="31" break="no"/>que graues auctores libros illos Salomonis esse 
+      asseuere<lb ed="#L" n="32" break="no"/>mus, nihil erit profecto cur timere debeamus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1226">
+               <lb ed="#L" n="33"/>Deinde librum esse huius aut illius scriptoris non 
+      ad<lb ed="#L" n="34" break="no"/>modum interest catholicae fidei, dummodo Spiritus 
+      san<lb ed="#L" n="35" break="no"/>ctus auctor esse credatur. Quod Gregorius in prooemio 
+      <lb ed="#L" n="36"/>super Iob capite primo erudite &amp; tradit &amp; explicat. Nec 
+      <lb ed="#L" n="37"/>enim refert, qua penna rex epistolam scripserit, si vere 
+      <lb ed="#L" n="38"/>scripsit. Vnde, nihil obstaret, vt in ea re, quae ad fidem non 
+      <lb ed="#L" n="39"/>pertinet, Innocentius &amp; concilium Carthaginense com¬ 
+      <!--100.xml-->
+      <pb ed="#L" n="89"/>
+               <lb ed="#L" n="1"/>munem antiquorum opinionem sequerentur. Nec proin 
+      <lb ed="#L" n="2"/>de tamen in libris canonicis enumerandis errare 
+      potue<lb ed="#L" n="3" break="no"/>re, quippe quod ad fidem attinere certum sit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1255">
+               <lb ed="#L" n="4"/>Denique vt has duas responsiones praetermitteremus, 
+      <lb ed="#L" n="5"/>habemus aliam multo potiorem: quam ex Euseb. libr. 11. 
+      <lb ed="#L" n="6"/>praeparationis euangelicae Ioannis Driedonis expressit. 
+      <lb ed="#L" n="7"/>Cum enim Salomon iuxta scripturam, locutus fuerit tria 
+      <lb ed="#L" n="8"/>milia parabolarum, &amp; carminum quinqe millia, quae non  
+      <lb ed="#L" n="9"/>sunt in vnum aliquod volumen a Salomone coacta: 
+      fue<lb ed="#L" n="10" break="no"/>runt alij atque alij qui sententias Salomonis sparsas 
+      colle<lb ed="#L" n="11" break="no"/>gerunt : vt patet Prouerbiorum cap. 25. Ita Augustinus 
+      <lb ed="#L" n="12"/>Eugubinus secutus rabbi Moysen &amp; Thalmudistas, cre 
+      <lb ed="#L" n="13"/>didit Esaiam libros Salomonis scripsisse. Quod equidem 
+      <lb ed="#L" n="14"/>incertum habeo: illud vero exploratum, sententias libro 
+      <lb ed="#L" n="15"/>rum, qui sapientiales vulgo nuncupatur, a Salomone qui 
+      <lb ed="#L" n="16"/>dem fuisse primum exceptas, sed non ab eodem auctore 
+      <lb ed="#L" n="17"/>collectas. Vnde &amp; Iesus Sirach in Ecclesiastico, non ait 
+      <lb ed="#L" n="18"/>se protulisse, sed renouasse sapientiam de corde suo. 
+      Hu<lb ed="#L" n="19" break="no"/>ius ergo rei Innocentius &amp; concilium Carthaginense non 
+      <lb ed="#L" n="20"/>ignari, optima ratione hos omnes libros Salomoni dede 
+      <lb ed="#L" n="21"/>runt. Ac de quinto argumento haec dixcrimus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1298">
+               <lb ed="#L" n="22"/>Sextum vero argumentum Caietani est in fine 
+      commen<lb ed="#L" n="23" break="no"/>tariorum super libros historicos veteris Testamenti. Pu 
+      <lb ed="#L" n="24"/>det autem Virum alioqui ingeniosum &amp; doctum, virum  
+      <lb ed="#L" n="25"/>pium ac nostrae familiae columen, vano distinctionis 
+      no<lb ed="#L" n="26" break="no"/>ae commento argumentum firmissimum eludere 
+      voluis<lb ed="#L" n="27" break="no"/>se: atque vt leuiorem plapam repelleret, grauiorem 
+      acce<lb ed="#L" n="28" break="no"/>pisse. Cum enim nomen libri canonici apud scriptores 
+      <lb ed="#L" n="29"/>omnes, vno excepto Caietano, pro sacro atque diuino 
+      <lb ed="#L" n="30"/>sumatur, non modo comprehendi animo, sed ne suspicio 
+      <lb ed="#L" n="31"/>ne quidem potest attingi, Pontifices &amp; Concilia omnia ali 
+      <lb ed="#L" n="32"/>ter vocabulum vsurpasse, quam erat in vsu vniuersorum. 
+      <lb ed="#L" n="33"/>Deinde, concilium Carthaginense, ne quis aliter 
+      inuer<lb ed="#L" n="34" break="no"/>teret, quid nomine scripturarum canonicarum 
+      intellige<lb ed="#L" n="35" break="no"/>ret, declarauit: inquiens, Praeter scripturas canonicas,  
+      <lb ed="#L" n="36"/>nihil in ecclesia legatur sub nomine diuinarum scriptura 
+      <lb ed="#L" n="37"/>rum. Sunt autem canonicae scripturae, &amp;c. Et Innocentius, 
+      <lb ed="#L" n="38"/>hi libri, ait, recipiuntur in canonem sanctarum 
+      scriptura<lb ed="#L" n="39" break="no"/>rum. Et in concilio Florentino eodem spiritu inspirante 
+      <!--101.xml-->
+      <pb ed="#L" n="90"/>
+               <lb ed="#L" n="1"/>illi omnes libri quos suscipit, &amp; veneratur ecclesia, &amp; de 
+      <lb ed="#L" n="2"/>quibus praesens disputatio instituitur, scripti a sacris 
+      au<lb ed="#L" n="3" break="no"/>ctoribus asseruntur. Praeterea, cum sub eodem contextu 
+      <lb ed="#L" n="4"/>omnes illi libri nullo facto discrimine definiantur esse ca 
+      <lb ed="#L" n="5"/>nonici, ridiculum est, vt partim in vna significatione, 
+      <lb ed="#L" n="6"/>partim in alia, libros canonicos habeamus. Ac si hanc 
+      se<lb ed="#L" n="7" break="no"/>mel distinctionem admittimus, auctoritate conciliorum 
+      <lb ed="#L" n="8"/>atque pontificum nullus liber sacer constare poterit. 
+      <lb ed="#L" n="9"/>Nam, pari causatione, si id quidem lubitum esset, 
+      haere<lb ed="#L" n="10" break="no"/>tici dicerent, vnumquemlibet de caeteris non esse 
+      cano<lb ed="#L" n="11" break="no"/>nicum ad firmandam fidem, sed ad instruendos mores. 
+      <lb ed="#L" n="12"/>Id quoniam absurdum omnino est, retineamus potius 
+      <lb ed="#L" n="13"/>eam rationem oportet, quam Caietanus voluit 
+      euerte<lb ed="#L" n="14" break="no"/>re: vir Cvt saepe iam dixij cum primis eruditus &amp; pius: 
+      <lb ed="#L" n="15"/>sed qui in libris sacris constituendis Erasmi nouitates 
+      <lb ed="#L" n="16"/>ingeniumque secutus, dum alienis vestigijs voluit 
+      insi<lb ed="#L" n="17" break="no"/>stere, propriam gloriam maculauit. Ac de sexto 
+      argu<lb ed="#L" n="18" break="no"/>mento hactenus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1383">
+               <lb ed="#L" n="19"/>Ad confirmationem autem facilius responderi potest, 
+      <lb ed="#L" n="20"/>Non Ambrosium modo, sed &amp; Cyprianum ad Pompeis 
+      <lb ed="#L" n="21"/>num, &amp; Augustinus 18. de Ciuit. Dei, referre ex 3. &amp; Ad 
+      <lb ed="#L" n="22"/>pro Esdrae testimonia: sed non tanquam ex spiritu 
+      diui<lb ed="#L" n="23" break="no"/>no edita, quibus scilicet nefas sit refragari. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1396">
+               <lb ed="#L" n="24"/>In septimo principali argumento moleste fero, non 
+      a<lb ed="#L" n="25" break="no"/>ienos modo, verumetiam nostrates Cbona venia 
+      lege<lb ed="#L" n="26" break="no"/>tur in tam nouam, ne dicam leuem sententiam incidisse, 
+      <lb ed="#L" n="27"/>vt epistolam ad Hebiaeos apostoli Pauli esse negauermt. 
+      <lb ed="#L" n="28"/>Sed id multo molestius, vt si Pauli non sit, protinus non sit 
+      <lb ed="#L" n="29"/>canonica. Nam, auctore incerto poterit epistola certo 
+      <lb ed="#L" n="30"/>esse canonica. Siue enim Lucas, seu BarnabasCquod 
+      qui<lb ed="#L" n="31" break="no"/>dam sunt opinatiy eam epistolam scripserint, canonica 
+      <lb ed="#L" n="32"/>erit. Nam, &amp; per Lucam &amp; Barnabam Spiritus sanctus 
+      <lb ed="#L" n="33"/>loquebatur. Sed ad rem. Cum haereticum sit hanc 
+      episto<lb ed="#L" n="34" break="no"/>lam a sacris scripturis excludere, certe temerarium est cne 
+      <lb ed="#L" n="35"/>quid amplius dicamo de huius epistolae auctore 
+      dubita<lb ed="#L" n="36" break="no"/>re. Quem Paulum fuisse certissimis testimontis 
+      confir<lb ed="#L" n="37" break="no"/>matur. Origenes in primis libro primo 
+      commentario<lb ed="#L" n="38" break="no"/>rum super Matthaeum, &amp; refertur ab Eusebio lib. 6. 
+      eccle<lb ed="#L" n="39" break="no"/>siasticae historiae, Ego dicocait, quod ipsa manifestissime 
+      <!--102.xml-->
+      <pb ed="#L" n="91"/>
+               <lb ed="#L" n="1"/>est Pauli apostoli, &amp; semper omnes antiqui maiores 
+      no<lb ed="#L" n="2" break="no"/>stri eam vt Pauli apostoli susceperunt: &amp; opinio vsque 
+      <lb ed="#L" n="3"/>ad nos peruienit, quod sermo eius est Graeco sermone 
+      <lb ed="#L" n="4"/>compositus, vel per Clementem Romanae vrbis 
+      episco<lb ed="#L" n="5" break="no"/>pum, vel per Lucam. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1448">
+               <lb ed="#L" n="6"/>Clemens item Alexandrinus apud Eusebium6. 
+      Eccle<lb ed="#L" n="7" break="no"/>siasticae historiae libro. Manifeste cinquit est Pauli, 
+      scri<lb ed="#L" n="8" break="no"/>pra quidem Hebraeo sermone tanquam Hebraeis: sed a 
+      <lb ed="#L" n="9"/>Luca in Graecum interpretata. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1459">
+               <lb ed="#L" n="10"/>Eusebius quoque in eandem sententiam iuit 3. lib. 
+      hi<lb ed="#L" n="11" break="no"/>storiae ecclesiasticae. Vbi cum dixisset Clementem 
+      Roma<lb ed="#L" n="12" break="no"/>mum Episcopum in epistola ad Corinthios nomine Pauli 
+      <lb ed="#L" n="13"/>testimonijs huius epistolae vsum, continuo subijcit. 
+      <lb ed="#L" n="14"/>Vnde constat quod Apostolus hanc epistolam tanquam  
+      <lb ed="#L" n="15"/>Hebraeis mittendam patrio eam sermone conscripserit: &amp;  
+      <lb ed="#L" n="16"/>vt quidam traduntO Lucam Euangelistam, alij autem 
+      Cle<lb ed="#L" n="17" break="no"/>mentem interpretatum esse: quod &amp; magis verum est.  
+      <lb ed="#L" n="18"/>Quia &amp; stylus ipse epistolae Clementis cum hac 
+      concor<lb ed="#L" n="19" break="no"/>dat, &amp; sensus nimirum vtriusque scripturae plurimam 
+      si<lb ed="#L" n="20" break="no"/>militudinem ferunt. Hactenus Eusebius. Et cap. 3. eiusdem 
+      <lb ed="#L" n="21"/>libri, Pauli manifeste i4: sunt epistolae. Dies me deficiet, 
+      <lb ed="#L" n="22"/>si velim enumerare auctores Graecos, qui hanc epistolam  
+      <lb ed="#L" n="23"/>Paulo tribuerunt: Nec minus si commemorem etiam 
+      La<lb ed="#L" n="24" break="no"/>tinos. Quid enim referam Athanasium in epistola ad 
+      <lb ed="#L" n="25"/>episcopos Aphricanos, &amp; libro vn decimo de fide trini 
+      <lb ed="#L" n="26"/>tatis? Quid Cyrillum duo decimo libro Thesau? Quid 
+      <lb ed="#L" n="27"/>Chrysostomum infinitis prope locis? Quid lgnatium, 
+      <lb ed="#L" n="28"/>Quid Irenaeum? Quid Damascenum? Quid 
+      Anacle<lb ed="#L" n="29" break="no"/>tum in epistola de ordinatione Episcoporum? Quid 
+      <lb ed="#L" n="30"/>lginium in epistola ad omnes Christi fideles? Quid 
+      <lb ed="#L" n="31"/>concilium Laodicenum? Quid tandem concilium E 
+      <lb ed="#L" n="32"/>phesinum? Cum omnes Graeci scriptores Cvt auctor 
+      <lb ed="#L" n="33"/>est Hieronymus ad Dardanum hanc epistolam 
+      Apo<lb ed="#L" n="34" break="no"/>stoli Pauli esse vna voce fateantur. Theophylactus 
+      <lb ed="#L" n="35"/>certe miratur, eorum impudentiam, qui hanc 
+      episto<lb ed="#L" n="36" break="no"/>lam Pauli esse inficiantur. Affirmatque eos non secus 
+      <lb ed="#L" n="37"/>peccare, quam si a Paulo abesse Christum negarent. Quid 
+      <lb ed="#L" n="38"/>Latini? Nempe fatentur etiam. Fatetur Ambrosius 
+      su<lb ed="#L" n="39" break="no"/>per Psalmum, Beati immaculati: &amp; libro de his qui 
+      <!--103.xml-->
+      <pb ed="#L" n="92"/>
+               <lb ed="#L" n="1"/>mysteriis initiantur cap. 8. Augustinus insuper 2. libr. de 
+      <lb ed="#L" n="2"/>doctr. Christian. ca. 8. &amp; saepe alias. Item Gregor, quinto 
+      <lb ed="#L" n="3"/>libro moralium ca. 3. Gelasius cum concilio septuaginta 
+      <lb ed="#L" n="4"/>episcoporum: Innocentius papa: concilium 
+      Carthaginen<lb ed="#L" n="5" break="no"/>se, Florentinum. Tridentinum. Quid moror? mille 
+      quin<lb ed="#L" n="6" break="no"/>gentos ab hinc annos ecclesia legit hanc nomine Pauli 
+      <lb ed="#L" n="7"/>apostoli: &amp; audemus nos in dubium vertere, quod omnes 
+      <lb ed="#L" n="8"/>catholici tot retro saeculis sine ambiguitate tenuerunt? 
+      <lb ed="#L" n="9"/>Omitto quod Petrus, nisi me valde opinio fallit, testatur 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1550">
+               <lb ed="#L" n="10"/>Paulum Hebraeis epistolam scripsisse. Nam primam Petri 
+      <lb ed="#L" n="11"/>Hebraeis scriptam esse salutatio ipsa adeo aperte docet,  
+      <lb ed="#L" n="12"/>vt ne Caietanus ipse quidem negare potuerit. At secunda 
+      <lb ed="#L" n="13"/>Petri eisdem quoque scripta est. Ait enim, Ecce iam 
+      vo<lb ed="#L" n="14" break="no"/>pis hanc secundam scribo epistolam. In huius vero fine 
+      <lb ed="#L" n="15"/>sic Petrus inquit, Sicut &amp; charissimus frater noster 
+      Pau<lb ed="#L" n="16" break="no"/>lus scripsit vobis, sicut &amp; in omnibus epistolis, &amp;c. Vobis 
+      <lb ed="#L" n="17"/>scilicet Hebraeis, ad quos scribebat Petrus. Vnde facta 
+      <lb ed="#L" n="18"/>distinctione subiungit, Sicut &amp; in omnibus epistolis: vt 
+      <lb ed="#L" n="19"/>non obscure intelligeres, quod Paulus Hebraeis de 
+      lon<lb ed="#L" n="20" break="no"/>ganimitate &amp; salute Christi, idem &amp; in aliis epistolis 
+      scri<lb ed="#L" n="21" break="no"/>psisse. Non est ergo cur de auctore huius epistolae quir 
+      <lb ed="#L" n="22"/>quam dubitet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1582">
+               <lb ed="#L" n="23"/>At, Hieronymus dubitat. Certe, vt dubitasset, non 
+      <lb ed="#L" n="24"/>proinde nostram hanc certam indubitatamque, fidem, 
+      ambi<lb ed="#L" n="25" break="no"/>guam efficere potuisset. Sed negamus Hieronymum 
+      an<lb ed="#L" n="26" break="no"/>cipitem hoc locosquod illi falsissime impingitur, 
+      habe<lb ed="#L" n="27" break="no"/>re sententiam. Nam, vt innumera loca silentio 
+      praeterea<lb ed="#L" n="28" break="no"/>mus, quibus refert Hieronymus ex hac epistola 
+      nomi<lb ed="#L" n="29" break="no"/>ne Pauli testimonia, vt illud etiam dissimulemus, quod 
+      <lb ed="#L" n="30"/>de viris illustribus in Paulo, cum quorundam contrarium 
+      <lb ed="#L" n="31"/>sensum expressisset, eorum argumenta refellit: ille 
+      profe<lb ed="#L" n="32" break="no"/>cto locus Hieronymianae sententiae clarissimus testis est,  
+      <lb ed="#L" n="33"/>qui habetur in epistola ad Dardanum de terra promissio 
+      <lb ed="#L" n="34"/>nis, in haec verba: Vas electionis loquitur ad Hebraeos, 
+      fi<lb ed="#L" n="35" break="no"/>de qui vocatur Abraham, &amp;c. Nec me fugit quod 
+      perfi<lb ed="#L" n="36" break="no"/>dia Iudaeorum haec testimonia non suscepit. Illud nostris 
+      <lb ed="#L" n="37"/>dicendum est, hanc epistolam, quae inscribitur ad 
+      He<lb ed="#L" n="38" break="no"/>braeos, non solum ab ecclesijs Orientis, sed ab omnibus 
+      <lb ed="#L" n="39"/>retro Graeci sermonis scriptoribus, quasi Pauli apostoli 
+      <!--104.xml-->
+      <pb ed="#L" n="93"/>
+               <lb ed="#L" n="1"/>suscipi: &amp; nihil interesse cuius sit, cum Ecclesiastici viri 
+      <lb ed="#L" n="2"/>sit, &amp; quotidie ecclesiarum lectione celebretur. Quod si 
+      <lb ed="#L" n="3"/>eam Latinorum consuetudo non recipit inter scripturas 
+      <lb ed="#L" n="4"/>canonicas, nec Graecorum ecclesiae Apocalypsim 
+      Ioan<lb ed="#L" n="5" break="no"/>nis eadem libertate suscipiunt : &amp; tamen nos vtraque 
+      sus<lb ed="#L" n="6" break="no"/>cipimus, nequaquam huius temporis consuetudinem, sed 
+      <lb ed="#L" n="7"/>veterum scriptorum auctoritatem sequentes, qui 
+      vtrius<lb ed="#L" n="8" break="no"/>que testimonijs vtuntur, non vt interdum de apocryphis 
+      <lb ed="#L" n="9"/>facere solent, sed quasi canonicis &amp; ecclesiasticis. 
+      Hacte<lb ed="#L" n="10" break="no"/>nus Hieronymus. Et in epistolam ad Titum, lege cinquit  
+      <lb ed="#L" n="11"/>ad Hebraeos epistolam Pauli apostoli, siue cuiuscunque 
+      <lb ed="#L" n="12"/>alterius eam esse putas, quia iam inter ecclesiasticas est 
+      <lb ed="#L" n="13"/>recepta. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1654">
+               <lb ed="#L" n="14"/>Ad primam igitur rationem, quoniam in relectione de 
+      <lb ed="#L" n="15"/>poenitentia accurate sane ac diligenter illa Apostoli 
+      lo<lb ed="#L" n="16" break="no"/>ca explicata sunt, non est necesse modo respondere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1663">
+               <lb ed="#L" n="17"/>Ad secundam respondere necesse est, &amp; quidem eoor 
+      <lb ed="#L" n="18"/>dine, quo aduersum constitutam veritatem obiectionis 
+      <lb ed="#L" n="19"/>singulae particulae fuere propositae. Nam, quod prima 
+      <lb ed="#L" n="20"/>particula obijciebatur, facile diluitur: cum cotingere po 
+      <lb ed="#L" n="21"/>tuerit, vt interpres reliquerit quidem in textu verba 
+      Hae<lb ed="#L" n="22" break="no"/>braica, sed in marginesquod fieri soleto addita fuerit 
+      in<lb ed="#L" n="23" break="no"/>terpretatio, quam librarius textui deinceps inseruerit. 
+      <lb ed="#L" n="24"/>Quod etiam idem in Matthaeo vsu fortasse venit in 
+      ver<lb ed="#L" n="25" break="no"/>bis illis Eli Eli, &amp;c. Quod autem quae expositor fortasse 
+      <lb ed="#L" n="26"/>quispiam in margine apposuerit, ea scriptorum vitio 
+      tex<lb ed="#L" n="27" break="no"/>tui nonnunquam inserantur, Nicolaus Liranus recte 2. 
+      <lb ed="#L" n="28"/>Regum 8. animaduertit. Illa enim verba, de quo fecit 
+      Sa<lb ed="#L" n="29" break="no"/>lomon omnia vasa aurea in templo, &amp; mare aeneum, &amp; co 
+      <lb ed="#L" n="30"/>lumnas &amp; altare, in hunc modum &amp; adiecta &amp; inserta esse 
+      <lb ed="#L" n="31"/>constat.  
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1698">
+               <lb ed="#L" n="32"/>Potuit &amp; alia ex causa proficisci: vt Apostolus vel 
+      E<lb ed="#L" n="33" break="no"/>uangelista Hebraice scribens, quorundam vocabulorum 
+      <lb ed="#L" n="34"/>interpretationem adiecerit, quod apud Iudaeos erant 
+      ver<lb ed="#L" n="35" break="no"/>ba quaedam vel Chaldaica, vel Syriaca, quae potuerunt 
+      <lb ed="#L" n="36"/>commode in linguam Hebraicam verti: vt Golgotha, &amp;  
+      <lb ed="#L" n="37"/>epheta. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1714">
+               <lb ed="#L" n="38"/>Ecce duas causas, quibus interim argumentum illud 
+      <lb ed="#L" n="39"/>Caietani posset eludi. Quo ne librum quidem Geneseos 
+      <!--105.xml-->
+      <pb ed="#L" n="94"/>
+               <lb ed="#L" n="1"/>Hebraico sermone scriptum sibi Caietanus suaderet. Na 
+      <lb ed="#L" n="2"/>ibi legitur, Rachel vocasse filij sui nomen Benoni, id est,  
+      <lb ed="#L" n="3"/>filium doloris mei: nomen vero ei a patre inditum 
+      Ben<lb ed="#L" n="4" break="no"/>lamin, id est, filium dextrae: &amp; in Exodo, est enim phase, 
+      <lb ed="#L" n="5"/>d est, transitus Domini. Respondeant nobis isti, qui 
+      si<lb ed="#L" n="6" break="no"/>mili argutia negotium nobis exhibere volunt: &amp; si non  
+      <lb ed="#L" n="7"/>valuerint, tertiam causam nos reddemus. Videlicet, sunt 
+      <lb ed="#L" n="8"/>nomina composita ex multis simplicibus, quae 
+      nonnun<lb ed="#L" n="9" break="no"/>quam integra in compositione manent, interdum 
+      corru<lb ed="#L" n="10" break="no"/>ta, ea si alijs verbis eadem etiam lingua, explicare volue 
+      <lb ed="#L" n="11"/>ro, nihil absurdum orietur, vt si verpi causa dicam 
+      Dei<lb ed="#L" n="12" break="no"/>cola, interpretatur, Dei cultor: paterfamilias, hoc est, 
+      do<lb ed="#L" n="13" break="no"/>mus gubernator &amp; parens. Quod idem in nominibus 
+      <lb ed="#L" n="14"/>Benoni &amp; Melchisedech, euenire potuit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1756">
+               <lb ed="#L" n="15"/>Sed ne ad haec tanquam in aram confugiamus, illa 
+      cau<lb ed="#L" n="16" break="no"/>sa &amp; praestantissima &amp; verissima est, Interpretem id iure 
+      <lb ed="#L" n="17"/>suo facere potuisse: cum videlicet necessum fuit Hebrai 
+      <lb ed="#L" n="18"/>ca verba manere. Si enim interpres transtulisset. Deus 
+      <lb ed="#L" n="19"/>meus, Deus meus, vt quid dereliquisti me, non fuisset a 
+      <lb ed="#L" n="20"/>Latinis perceptum, quorsum astantes dixerint, 
+      Helian<lb ed="#L" n="21" break="no"/>vocat iste. Quare verba Hebraica retinere coactus, 
+      eo<lb ed="#L" n="22" break="no"/>rum interpretationem apposuit, quod facere aeque pote 
+      <lb ed="#L" n="23"/>rat verbis Hebraicis non retentis. Certe Geneseos 
+      3r<lb ed="#L" n="24" break="no"/>&amp; Exod. 12. in Hebraeo nominum interpretatio non 
+      ha<lb ed="#L" n="25" break="no"/>peturised interpres adiecit de suo.  
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1783">
+               <lb ed="#L" n="26"/>Quod si obijcias, illam particulam non esse sacram 
+      scri<lb ed="#L" n="27" break="no"/>pturam, si hoc, verum est: vt quae ab officina interpretis 
+      <lb ed="#L" n="28"/>prodierit, Primum, conceditur conclusio: nec ego video 
+      <lb ed="#L" n="29"/>cur perhorrescere debeamus. Deinde, negatur illa 
+      colle<lb ed="#L" n="30" break="no"/>ctio. Si ab interprete proficiscitur, extra sacras literas est. 
+      <lb ed="#L" n="31"/>Nam, particula quae ad seruandam, vel congruitatem,  
+      <lb ed="#L" n="32"/>vel intelligentiam in sacrarum literarum interpretatione 
+      <lb ed="#L" n="33"/>additur, non censetur a saeris literis aliena. Vnde 
+      Hie<lb ed="#L" n="34" break="no"/>ronymus in commentariis epistolae ad Galatas, hanc 
+      con<lb ed="#L" n="35" break="no"/>suetudinem, inquit in pluribus locis scriptura conseruat,  
+      <lb ed="#L" n="36"/>vt Hebraicum verbum cum interpretatione sua ponat:  
+      <lb ed="#L" n="37"/>Bartimeus filius Timei, Aser, diuitiae. Tabita. Dorcas, &amp;  
+      <lb ed="#L" n="38"/>Mesech, vernaculus, Ecce scripturam Hieronymus 
+      vo<lb ed="#L" n="39" break="no"/>cat etiam eam particulam, quam interpretem addidisse 
+      <!--106.xml-->
+      <pb ed="#L" n="95"/>
+               <lb ed="#L" n="1"/>compertum est. Atque id in epistola ad Hebraeos vel 
+      <lb ed="#L" n="2"/>maxime locum habet: cuius interpres fuit, vel Lucas,  
+      <lb ed="#L" n="3"/>vel Clemens: quod Apostolo &amp; viuente &amp; vidente 
+      fa<lb ed="#L" n="4" break="no"/>ctum esse, ad veritatis similitudinem uidetur esse 
+      propen<lb ed="#L" n="5" break="no"/>uius. Verum esse asseuerarem, nisi academiae 
+      temperamen<lb ed="#L" n="6" break="no"/>tum in causa coniecturali placeret. Nibil ergo prima illa 
+      <lb ed="#L" n="7"/>causa mouere nos debet, vt credamus hanc epistolam  
+      <lb ed="#L" n="8"/>Hebraice scriptam non fuisse. Sed ne secunda quidem  
+      <lb ed="#L" n="9"/>causa mouet, eadem enim in Apostolum torqueretur, qui 
+      <lb ed="#L" n="10"/>in Actorum lib. Iudaeis loquens citat scriptura veterem 
+      <lb ed="#L" n="11"/>iuxta translationem septuaginta. Itaque interpres aut  
+      <lb ed="#L" n="12"/>Lucas, aut Clemens, licet Hebraeos Hebraice Paulus 
+      fue<lb ed="#L" n="13" break="no"/>rit allocutus, versionem tamen septuaginta interpretum 
+      <lb ed="#L" n="14"/>magis reddere voluit, ne Graeci literae nouitate 
+      turba<lb ed="#L" n="15" break="no"/>rentur. Quam etiam ob rem Apostolus Romanis 
+      scri<lb ed="#L" n="16" break="no"/>hens, abutitur testimonio Abacuch iuxta translationem 
+      <lb ed="#L" n="17"/>septuaginta: ne Romanis auribus insuetam orationem 
+      <lb ed="#L" n="18"/>afferret: vt Hieronymus auctor est in commentariis 
+      su<lb ed="#L" n="19" break="no"/>per Abacuch. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1861">
+               <lb ed="#L" n="20"/>Iam vero, tertia illa causa, quae in postrema huius ratio 
+      <lb ed="#L" n="21"/>nis parte nobis opponitur, nulla est. Audiui equidem ab  
+      <lb ed="#L" n="22"/>Hebraeo, cui Hebraei Carpentoratenses primas ex suis 
+      <lb ed="#L" n="23"/>hominibus deferebant, epistolam hanc Hebraicam 
+      ho<lb ed="#L" n="24" break="no"/>dic etiam, Matthaeique Euangelium extare. Sed vt 
+      Iu<lb ed="#L" n="25" break="no"/>daeus ille nos irridere voluerit, aut etiam ex alicuius 
+      He<lb ed="#L" n="26" break="no"/>braei versione illi habeant nunc Hebraicam epistolam  
+      <lb ed="#L" n="27"/>Pauli, Euangeliumque Matthaei, perierint vero legitimum 
+      <lb ed="#L" n="28"/>Matthaei ad Hebraeos Euangelium, &amp; epistola Pauli ad 
+      <lb ed="#L" n="29"/>Hebraeos, Iudaeorum cura id verisimillimum est 
+      acci<lb ed="#L" n="30" break="no"/>disse. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1887">
+               <lb ed="#L" n="31"/>Ad tertiam rationem, qua etiam id agitur, vt Paulus 
+      <lb ed="#L" n="32"/>auctor huius epistolae non credatur, prius respondetur, 
+      <lb ed="#L" n="33"/>testimonium illud in sensu literali ad Christum 
+      refer<lb ed="#L" n="34" break="no"/>ri. Nec obstat, sensum etiam literalem ad Salomonem 
+      e<lb ed="#L" n="35" break="no"/>tiam pertinere: cum eadem litera plura simul literalia 
+      <lb ed="#L" n="36"/>sensa contineat: vt D. Thom. &amp; ante hunc D. 
+      Augusti<lb ed="#L" n="37" break="no"/>nus tradidere. Quemadmodum igitur nomine Dauid Chri 
+      <lb ed="#L" n="38"/>stus interdum ad literam significatur, vt Ezech. 34. 
+      Susci<lb ed="#L" n="39" break="no"/>tabo super ea pastorem vnum, seruum meum Dauid: &amp;  
+      <!--107.xml-->
+      <pb ed="#L" n="96"/>
+               <lb ed="#L" n="1"/>Hieremiae 3O. Seruient Domino Deo suo, &amp; Dauid regi 
+      <lb ed="#L" n="2"/>suo, &amp;c. Sic &amp; per nomen Salomonis Christum Dominum 
+      <lb ed="#L" n="3"/>eo loco scriptura signauit. Id ne nos praeteriret, adiecit, 
+      <lb ed="#L" n="4"/>stabiliam thronum eius vsque in sempiternum. Quod 
+      a<lb ed="#L" n="5" break="no"/>pud Lucam Angelum ad Christum retulisse, notius est,  
+      <lb ed="#L" n="6"/>quam vt explicandum sit: filius, inquit, altissimi 
+      vocabi<lb ed="#L" n="7" break="no"/>ur, &amp; super domum Dauid sedebit. Augustinus porro 
+      <lb ed="#L" n="8"/>auctor est. Psalm. 71. licet in Salomonem inscribatur, 
+      Iu<lb ed="#L" n="9" break="no"/>daeos tamen de Christo esse prophetiam inuictissime 
+      de<lb ed="#L" n="10" break="no"/>fendere, quia nonnulla ibi ita dicta sunt, vt in 
+      Salomo<lb ed="#L" n="11" break="no"/>nem conuenire non possint. Quae eadem profecto 
+      cau<lb ed="#L" n="12" break="no"/>sa, vt de Psalmo quadragesimoquarto idem sentiamus 
+      <lb ed="#L" n="13"/>cogit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1942">
+               <lb ed="#L" n="14"/>Posterius, vt in sensu allegorico hoc testimonio 
+      Pau<lb ed="#L" n="15" break="no"/>lus abuteretur, nihil a suo more faceret alienum: qui cum 
+      <lb ed="#L" n="16"/>saepe alias, tum maxime in priori ad Corinth. epistola, ex 
+      <lb ed="#L" n="17"/>sensu allegorico argumentatur. Aliud est enim ex sensu 
+      <lb ed="#L" n="18"/>spirituali certum &amp; efficax argumentum trahi, quod 
+      Au<lb ed="#L" n="19" break="no"/>gustinus, Dionysius, Hieronymusque negarunt. Aliud 
+      <lb ed="#L" n="20"/>vero argumentum inde probabile duci, id quod nemo 
+      <lb ed="#L" n="21"/>sane doctus negaro potest. Quod enim Rhetores 
+      argu<lb ed="#L" n="22" break="no"/>menta verosimilia certis &amp; exploratis adiungunt, id 
+      Apo<lb ed="#L" n="23" break="no"/>stolus quoque facit. Potuit autem hoc loco multo &amp; 
+      con<lb ed="#L" n="24" break="no"/>modius &amp; vehementius facere, vbi Hebraei intelligebant 
+      <lb ed="#L" n="25"/>ea, quae Dauidi in Salomone Deus promiserat, in Christo 
+      <lb ed="#L" n="26"/>esse complenda. Intelligebant autem, eisdem sacris 
+      lite<lb ed="#L" n="27" break="no"/>ris saepius admoniti, vt Micheae 4. Dani. 7. patet.  
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e1975">
+               <lb ed="#L" n="28"/>Ad quartam rationem non oporteret respondere, si 
+      <lb ed="#L" n="29"/>oratio Pauli colo &amp; comate aptius distingueretur. Itaque  
+      <lb ed="#L" n="30"/>lectio in hunc modum habere debet. Quae cuminitium 
+      <lb ed="#L" n="31"/>accepisset enarrari per dominum ab eis qui audierunt, in 
+      <lb ed="#L" n="32"/>nos confirmata est, vt illa verba, ab eis qui audierunt, non 
+      <lb ed="#L" n="33"/>ad participium sequens, sed ad infinitiuum antecedens 
+      <lb ed="#L" n="34"/>referantur. Sed cul haec displicent, is tale habeat 
+      respon<lb ed="#L" n="35" break="no"/>sum. Quod Paulus ait, in nos confirmata est, non ad se 
+      <lb ed="#L" n="36"/>peculiariter refert, sed ad Iudaeos generaliter, vt Glossa 
+      <lb ed="#L" n="37"/>interlinearis admonuit. Praeterquam quod Paulus non  
+      <lb ed="#L" n="38"/>ait se accepisse doctrinam ab eis qui audierunt, sed 
+      salu<lb ed="#L" n="39" break="no"/>tis confirmationem: accepit enim &amp; sacramenta ab illis &amp; 
+      <!--108.xml-->
+      <pb ed="#L" n="97"/>
+               <lb ed="#L" n="1"/>doctrinae confirmationem, tum quia Ananias dixit illi, 
+      <lb ed="#L" n="2"/>quid oporteret eum facere. Tum quia ascendit ad 
+      ante<lb ed="#L" n="3" break="no"/>cessores apostolos, ne forte in vanum curreret, &amp;c. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2014">
+               <lb ed="#L" n="4"/>Ad quintam vero respondere oportet in hunc modum,  
+      <lb ed="#L" n="5"/>nomen testamenti apud Latinos interdum significare 
+      pa<lb ed="#L" n="6" break="no"/>ctum, &amp; promissionem: vt Hiero. in Hiere. 31. ca. &amp; in 
+      Ma<lb ed="#L" n="7" break="no"/>la. 2. cap. scripsit, &amp; Innocentius in capite. cum Marthae. 
+      <lb ed="#L" n="8"/>de celebratione missa. eruditem postea docuit. In quam 
+      si<lb ed="#L" n="9" break="no"/>gnificationem illud tradidit accipiendum, quod in 
+      ca<lb ed="#L" n="10" break="no"/>none dicitur. Hic est calix noui &amp; aeterni testamenti, id 
+      <lb ed="#L" n="11"/>est, nouae ac aeternae promissionis. &amp; illud etiam ad 
+      He<lb ed="#L" n="12" break="no"/>braeos, Noui testamenti mediator est, vt repromissionem 
+      <lb ed="#L" n="13"/>accipiant qui vocati sunt, haereditatis aeternae. Illud etiam 
+      <lb ed="#L" n="14"/>exploratum est, apud Graecos nomen, diabusu, interdum 
+      <lb ed="#L" n="15"/>proprie testamentum, nonnunquam pactum, foedus, &amp;  
+      <lb ed="#L" n="16"/>pollicitationem significare. vt ex actorum apostolicorum 
+      <lb ed="#L" n="17"/>capite tertio Bubaeus in commentariis probat. In qua etiam 
+      <lb ed="#L" n="18"/>posteriori significatione &amp; Geneseos nono, &amp; psalmo.  
+      <lb ed="#L" n="19"/>54. &amp; 88. &amp; 1O5. nomen diobnen legitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2052">
+               <lb ed="#L" n="20"/>Vocabulum quoque Hebraicum Beriib quod 
+      Exodi<lb ed="#L" n="21" break="no"/>24. &amp; Hieremiae 31. habetur, licet frequenter pactum 
+      foe<lb ed="#L" n="22" break="no"/>dusque significet, quandoque tamen ad testamenti 
+      significa<lb ed="#L" n="23" break="no"/>tionem flectitur. Nam, &amp; Hieronymus Rachariae nono,  
+      <lb ed="#L" n="24"/>&amp; psalmorum interpres Psalmo. 44. nomen Berith, in 
+      te<lb ed="#L" n="25" break="no"/>stamentum vertit. Imo licet Aquila nomen illud 
+      semper<lb ed="#L" n="26" break="no"/>pactum interpretetur, at. 7O. tamen fere testamentum, vt 
+      <lb ed="#L" n="27"/>Hiero. in 2. cap. Mala. testatur. In nomine igitur 
+      Hebrai<lb ed="#L" n="28" break="no"/>co Paulus ludere potuit Rhetorum more, &amp; vocem a 
+      pro<lb ed="#L" n="29" break="no"/>prio ad improprium significatum flectere: quod idem si 
+      <lb ed="#L" n="30"/>aut Graece, aut Latine loqueretur, facere potuisset. Idque  
+      <lb ed="#L" n="31"/>eo magis, quod instrumentum a sanis obsignatum, 
+      testa<lb ed="#L" n="32" break="no"/>mentum dicitur: quanuis codicillo postea, vel mutentui 
+      <lb ed="#L" n="33"/>aliqua, &amp; aliqua inducantur, vel etiam totum omnino quod 
+      <lb ed="#L" n="34"/>testamento semel cautum erat, antiquetur. Quocirca, &amp;  
+      <lb ed="#L" n="35"/>vetus illud legatum, testamentum quidem erat signatum  
+      <lb ed="#L" n="36"/>a viuo: sed apertum moriente Christo, vt velum scissum 
+      <lb ed="#L" n="37"/>ostendit: ac per euangelicam legem velut per 
+      codicil<lb ed="#L" n="38" break="no"/>lum abolitum. Id quod Lactantius de vera sapientia 
+      vi<lb ed="#L" n="39" break="no"/>detur mihi intellexisse. Nihil igitur obstat, quo minus 
+      <!--109.xml-->
+      <pb ed="#L" n="98"/>
+               <lb ed="#L" n="1"/>Exodum loquentem de veteri foedere, loquens etiam 
+      pro<lb ed="#L" n="2" break="no"/>prie de testamento Paulus adducat. Quinimo 
+      consenta<lb ed="#L" n="3" break="no"/>neum argumentum est, vt perfectum testamentum, 
+      scili<lb ed="#L" n="4" break="no"/>cet nouum, sanguine confirmatum sit &amp; morte testatoris. 
+      <lb ed="#L" n="5"/>Quandoquidem imperfectum illud vetus non sine 
+      san<lb ed="#L" n="6" break="no"/>guine firmatum est: vt figura figurato congrueret. Atque 
+      <lb ed="#L" n="7"/>haec quidem responsio argumento Caietani satisfacit: etiam 
+      <lb ed="#L" n="8"/>si nomen Hebraicum non testamentum proprie, sed 
+      fo<lb ed="#L" n="9" break="no"/>dus solum significet. Quod &amp; Hiero. in 31. cap. Hiere. &amp;  
+      <lb ed="#L" n="10"/>Hebraei docti contendunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2124">
+               <lb ed="#L" n="11"/>Ad postremam vero rationem is ipse, qui posuit, respon 
+      <lb ed="#L" n="12"/>det: Illa tria quidem in arca fuisse omnia, vt Paulus dicit: 
+      <lb ed="#L" n="13"/>sed vrnam &amp; virgam foris pendentes a latere: tabulas 
+      ve<lb ed="#L" n="14" break="no"/>ro intus: vt 3. lib. Regum habetur. Rursum etiam forte post 
+      <lb ed="#L" n="15"/>illa Salomonis tempora, sacerdotes cupientes virgam &amp;  
+      <lb ed="#L" n="16"/>manna in secretiori tutiorique esse custodia, intra arcam 
+      <lb ed="#L" n="17"/>cum tabulis posuerunt. Cuius rei Paulus non erat 
+      insci<lb ed="#L" n="18" break="no"/>us: nos sumus, qui Hebraeorum traditiones ignoramus. 
+      <lb ed="#L" n="19"/>Theoph: in epist. ad Hebraeos. c. 9. asserit Paulum optime 
+      <lb ed="#L" n="20"/>institutum in rebus iudaicis a Gamaliele ex traditione 
+      <lb ed="#L" n="21"/>hoc habuisse, hodieque Pharisaeorum sectam assentiri rem ita 
+      <lb ed="#L" n="22"/>se habere. Admonuerat fere idem prior Chrysost. homi. 
+      <lb ed="#L" n="23"/>i8. De septimo itaque argumento &amp; huic adiunctis 
+      ratio<lb ed="#L" n="24" break="no"/>nibus satis est dictum. Na quod ex illis verbis, Celerius auem 
+      <lb ed="#L" n="25"/>videbo vos, Caietanus argumentatur, alienum a ratione 
+      vi<lb ed="#L" n="26" break="no"/>deri, vt postque appellauerit Cesare, spondeat se Paulus datu 
+      <lb ed="#L" n="27"/>rum Iudeis: adeo leue est, vt referre pigeat, nedum refellere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2163">
+               <lb ed="#L" n="28"/>In octauo vero principali argumento, quo quarta 
+      con<lb ed="#L" n="29" break="no"/>clusio coarguitur, Caietanus quidem non negat epistolam 
+      Ia<lb ed="#L" n="30" break="no"/>cobi esse canonicam: sed auctore asserit incertum esse, Eras 
+      <lb ed="#L" n="31"/>mus addit eam non sapere apostolicam auctoritatem. At, eum Hie 
+      <lb ed="#L" n="32"/>ronymus de viris illustri. Vrbanus papa in epistola de con 
+      <lb ed="#L" n="33"/>muni vita, Alexander Quintus a Petro in epistola ad omnes 
+      <lb ed="#L" n="34"/>episcopos, Anacletus in epistola de oppressione 
+      episco<lb ed="#L" n="35" break="no"/>porum, Marcellus papa ad episcopos Antiochenae 
+      pro<lb ed="#L" n="36" break="no"/>uinciae, Gelasius cum concilio septuaginta, Innocentius 
+      pri<lb ed="#L" n="37" break="no"/>mus, concilium Mileuitanum capite septimo, concilium Laodi 
+      <lb ed="#L" n="38"/>cenum, Carthaginese, Florentinum. Tridentinum, hac epistolam 
+      <lb ed="#L" n="39"/>Iacobi apostoli, Iacobi, inque, apostoli esse affirmauerint,  
+      <!--110.xml-->
+      <pb ed="#L" n="99"/>
+               <lb ed="#L" n="1"/>idque ecclesiae vniuersalis vsu confirmante, temerarium est, ne 
+      <lb ed="#L" n="2"/>dicam erroneum, huius epistolae certitudinem velle aut ex 
+      <lb ed="#L" n="3"/>incerto auctore, aut ex stylo salutationis infirmare: idque 
+      <lb ed="#L" n="4"/>argumento leuiori, quam cui respondere debeamus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2205">
+               <lb ed="#L" n="5"/>Ad nonum argumentum sic respondeo. Erroneum est,  
+      <lb ed="#L" n="6"/>ne dicam haereticum, secundam illam epistolam Petri apo 
+      <lb ed="#L" n="7"/>stoli esse, negare. Aduersatur enim imprimis omnibus 
+      <lb ed="#L" n="8"/>sanctis: Deinde Innocentio &amp; Gelasio. Praeterea, conciliis 
+      <lb ed="#L" n="9"/>Laodiceno, Carthaginensi, Florentino. Tridentino: 
+      De<lb ed="#L" n="10" break="no"/>nique vsui catholicae Ecclesiae, quae legit eam in festo 
+      tras<lb ed="#L" n="11" break="no"/>figurationis nomine Petri apostoli¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2223">
+               <lb ed="#L" n="12"/>Contineret etiam aliquid falsi, si Petrus apostolus eius 
+      <lb ed="#L" n="13"/>auctor non fuisset. Nam, licet argume ntum ex salutatione 
+      <lb ed="#L" n="14"/>ipsius epistolae forsitan eluderetur, quod a falsario 
+      quo<lb ed="#L" n="15" break="no"/>piam esset adiecta: at, quod capite primo illius epistolae 
+      <lb ed="#L" n="16"/>legitur, eludi nulla ratione potest. Hanc vocencait, nos au 
+      <lb ed="#L" n="17"/>diuimus de caelo allata, cum essemus in monte sancto cum 
+      <lb ed="#L" n="18"/>ipso. Quod si Petrus non scripsit epistolam, Ioanni autem 
+      Iaco<lb ed="#L" n="19" break="no"/>boue tribuere stultitiae manifestariae est, falsum epistola 
+      <lb ed="#L" n="20"/>continet. Quod est Haereticum. Argumentum vero illud, 
+      <lb ed="#L" n="21"/>quod Erasmum mouit, imo plerosque olim ante Hieromymum 
+      <lb ed="#L" n="22"/>Cvt refert idem de viris illustribus in Petropinfirmum est: cum 
+      <lb ed="#L" n="23"/>eundem auctore saepe contingat, non aliam modo, verum eandem 
+      <lb ed="#L" n="24"/>quoque sententiam stylo scribere differenti. Quod Cvt 
+      reli<lb ed="#L" n="25" break="no"/>quos praetereamus, in D. Gregorio videre licet. Cuius 
+      <lb ed="#L" n="26"/>epistolas si cum aliis eiusdem operibus conferas, 
+      iudici<lb ed="#L" n="27" break="no"/>umque feras ex diuerso dicendi charactere, ab alio auctore 
+      <lb ed="#L" n="28"/>scriptas esse iudicaueris. Hieronymus tamen ad Hedibiam. 
+      <lb ed="#L" n="29"/>q. 11. aliter respondet, inquiens. Duae epistolae quae feruntur 
+      <lb ed="#L" n="30"/>Petri, stylo inter se &amp; charactere discrepant, structuraque  
+      <lb ed="#L" n="31"/>verborum: ex quo intelligimus Petrum pro necessitate 
+      <lb ed="#L" n="32"/>rerum diuersis fuisse vsum interpretibus. En Hieronymus 
+      <lb ed="#L" n="33"/>ex dissimili stylo non diuersos auctores colligit. sed inter 
+      <lb ed="#L" n="34"/>pretes differentes. Apostoli enim in aliena lingua male 
+      <lb ed="#L" n="35"/>bant per interpretem scribere, quam dono linguarum 
+      ab<lb ed="#L" n="36" break="no"/>uti: quod non ad elegantiam &amp; luxum, sed ad vsus neces 
+      <lb ed="#L" n="37"/>larios acceperat. Nec me fugit, quod Erasmus hunc locum 
+      <lb ed="#L" n="38"/>Hieronymi detorquet: sed more suo facit, vt pro sua 
+      li<lb ed="#L" n="39" break="no"/>bidine interturbet omnia. 
+      <!--111.xml-->
+      <pb ed="#L" n="100"/>
+               <lb ed="#L" n="1"/>Propter decimum argumentum Erasmus &amp; Caietanus 
+      <lb ed="#L" n="2"/>duas illas posteriores epistolas negant esse Ioannis 
+      Euam<lb ed="#L" n="3" break="no"/>gelistae. Quam ego sententiam non temerariam modo, sed 
+      <lb ed="#L" n="4"/>etiam erroneam esse crediderim. Quoniam si Ioannis 
+      co<lb ed="#L" n="5" break="no"/>gnomento senioris asseruntur, non sunt profecto 
+      cano<lb ed="#L" n="6" break="no"/>nicae. Nec enim quisquam Ioannem presbyterum 
+      aucto<lb ed="#L" n="7" break="no"/>rem sacrum existimauit. Sunt autem sine dubio, vt ante a 
+      <lb ed="#L" n="8"/>nobis demonstratum est, epistolae canonicae: non ergo 
+      <lb ed="#L" n="9"/>sunt Ioannis presbyteri, sed Euangelistae. Quod 
+      Orige<lb ed="#L" n="10" break="no"/>nes in 1. psal. apud Eusebium6. lib. Ecclesiasticae hist. 
+      ca<lb ed="#L" n="11" break="no"/>i8. Clemens lib. 2. stro. Damascenus 4. lib. lsidorus sexto 
+      <lb ed="#L" n="12"/>etymolog. August. 2. de doctrina Christi, Hieronymus 
+      <lb ed="#L" n="13"/>ad Euagrium, Innocentius primus, Gelasius, concilium 
+      <lb ed="#L" n="14"/>Laodicenum, Carthaginense, Florentinum, Tridentinumque 
+      <lb ed="#L" n="15"/>testantur. Sed &amp; tempore paschali vniuersalis ecclesia 
+      <lb ed="#L" n="16"/>duas has epistolas nomine Ioanis apostoli populo legit, 
+      <lb ed="#L" n="17"/>Ecclesiae autem, conciliis, &amp; sanctis antiquis tutius nos 
+      <lb ed="#L" n="18"/>committemus, quam nouitiis istis auctoribus. Quorum 
+      ar<lb ed="#L" n="19" break="no"/>gumentum cum imbecillum sit, alia confutatione non  
+      <lb ed="#L" n="20"/>eget. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2334">
+               <lb ed="#L" n="21"/>Vndecimum vero argumentum indignum esset, quod 
+      <lb ed="#L" n="22"/>in aliorum numero censeretur, nisi ob illud Caietanus 
+      <lb ed="#L" n="23"/>asseruisset, hanc epistolam minoris esse auctoritatis quam  
+      <lb ed="#L" n="24"/>alias, quae sunt certo scripturae sacrae. Nam, huius epistolae 
+      <lb ed="#L" n="25"/>auctoritatem expresse negare non audet, nequid inuidiae 
+      <lb ed="#L" n="26"/>subeat, aut criminis. Cum autem Hieronymus asserat,  
+      <lb ed="#L" n="27"/>auctoritatem iam vetustate &amp; vsu meruisse, &amp; inter 
+      cano<lb ed="#L" n="28" break="no"/>nicas computari: miror equidem cur Caietanus aliorum 
+      <lb ed="#L" n="29"/>opinionem sub Hieronymi censuram non redegerit: quem 
+      <lb ed="#L" n="30"/>pro certa regula sacrorum librorum habendum 
+      existima<lb ed="#L" n="31" break="no"/>uit. Caietani igitur assertio hoc loco periculosa est, si 
+      <lb ed="#L" n="32"/>vis comparatiui teneatur. Minoris Cinquit auctoritatis 
+      <lb ed="#L" n="33"/>est iis, quae sunt certo scriptura sacra. Non est igitur 
+      cer<lb ed="#L" n="34" break="no"/>to scriptura sacra: quod est erroneum. At quidam ante 
+      <lb ed="#L" n="35"/>Hieronymum hanc epistolam non probarunt. Fateor, sed 
+      <lb ed="#L" n="36"/>fuerunt nonnulla ante Hieronymium in controuersia, quae 
+      <lb ed="#L" n="37"/>modo in dubium vertere haereticum est. At, citat librum  
+      <lb ed="#L" n="38"/>apocryphum. forsitan apocryphus apud Hebraeos non  
+      <lb ed="#L" n="39"/>erat. Quod si esset, vt &amp; Hieronymo &amp; plerisque aliis pla¬ 
+      <!--112.xml-->
+      <pb ed="#L" n="101"/>
+               <lb ed="#L" n="1"/>cet, nihil mirum si ab apostolo Iuda referatur: cum 
+      testi<lb ed="#L" n="2" break="no"/>monia referat Paulus ex Arato, Menandro, Epimenide, 
+      <lb ed="#L" n="3"/>aethnicis prophanisque poetis. Vide Hieronymum in 
+      epis<lb ed="#L" n="4" break="no"/>ad Eph. cap. 5. &amp; ad Titum 1. At coarouit hoc responsum 
+      <lb ed="#L" n="5"/>Caieta. Non abs re, inquit, haec epistola a multis refutata 
+      <lb ed="#L" n="6"/>est. Quoniam etsi citare apocrypha multo magis licet 
+      <lb ed="#L" n="7"/>quam poetas: auctoritati tamen sacrae scripturae derogat,  
+      <lb ed="#L" n="8"/>vt apocrypha prophetia, vt simpliciter &amp; absolute 
+      pro<lb ed="#L" n="9" break="no"/>phetia inducatur. Haec ille. Verum aliud est, totum librum 
+      <lb ed="#L" n="10"/>apocryphum esse, quod Hieronymus ait: quia scilicet 
+      <lb ed="#L" n="11"/>quaedam in eo libro continerentur, quae essent ambigua. 
+      <lb ed="#L" n="12"/>Aliud, particulam illam, quam Iudas excitauit apocrypham 
+      <lb ed="#L" n="13"/>esse, quod nec Hieronymus, nec alius ex catholicis dixit. 
+      <lb ed="#L" n="14"/>Nam licet ex alio loco non haberemus eam esse 
+      prophe<lb ed="#L" n="15" break="no"/>tiam: at auctoritas Iudae satis est, vt illam verissime a 
+      Spi<lb ed="#L" n="16" break="no"/>ritu sancto extitisse sentiamus. Sicut credimus illa verba, 
+      <lb ed="#L" n="17"/>Beatius est magis dare quam accipere Iesu Christi esse, 
+      <lb ed="#L" n="18"/>quia Paulus dixit. Sed stultus ego sum, qui huiusmodi 
+      ar<lb ed="#L" n="19" break="no"/>gumenta conor refellere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e225-d1e2424">
+               <lb ed="#L" n="20"/>Ad postremum argumentum, Vbi Erasmi Lutherique 
+      <lb ed="#L" n="21"/>coniecturae ponuntur, vt Apocalypseos auctoritas 
+      infir<lb ed="#L" n="22" break="no"/>metur, post ea quae diximus non fuerit opus 
+      responde<lb ed="#L" n="23" break="no"/>re: tantum satis fuerit admonere discipulos. Manifesta 
+      <lb ed="#L" n="24"/>enim percurrimus, vt in obscurioribus immoremur. Atque  
+      <lb ed="#L" n="25"/>Franciscus Titelmanus in hac causa accuratissime 
+      elabo<lb ed="#L" n="26" break="no"/>rauit, ediditque peculiarem controuersiam, vnde lector 
+      pe<lb ed="#L" n="27" break="no"/>tere ea poterit, quae huic responsioni nostrae deesse 
+      vide<lb ed="#L" n="28" break="no"/>buntur. Nam ratio postulat, vt secundae huius 
+      contro<lb ed="#L" n="29" break="no"/>uersiae finem aliquando faciamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

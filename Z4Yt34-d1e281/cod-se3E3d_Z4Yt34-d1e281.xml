@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 16</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 16</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="143"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e281"><!-- Z4Yt34-l2c16 -->
+            <head xml:id="Z4Yt34-d1e281-Hd1e106">Caput 16</head>
+            <p xml:id="Z4Yt34-d1e281-d1e109">
+               <lb ed="#L" n="11"/>Cap. Sextum decimum, Vbi ponuntur argumenta eorum qui 
+      <lb ed="#L" n="12"/>sunt opinati, sacros auctores in libris Canonicis, non 
+      <lb ed="#L" n="13"/>semper diuino spiritu fuisse locutos.
+    </p>
+            <p xml:id="Z4Yt34-d1e281-d1e118">
+               <lb ed="#L" n="14"/>QVarta consequens fit. An auctores sacri in libris 
+      Ca<lb ed="#L" n="15" break="no"/>nonicis spiritu interdum humano sine diuina &amp; 
+      su<lb ed="#L" n="16" break="no"/>pernaturali reuelatione loquantur. Fuerunt enim 
+      <lb ed="#L" n="17"/>viri Ecclesiastici nonnulli vt Hieronymus in prooemio 
+      <lb ed="#L" n="18"/>super epistolam ad Philemonem testatus est, qui crede 
+      <lb ed="#L" n="19"/>rent, non semper auctores sacros spiritum in se loquentem 
+      <lb ed="#L" n="20"/>habuisse. Quia nec humana imbecillitas vnum 
+      tenorem<lb ed="#L" n="21" break="no"/>Sancti spiritus tam longo orationis decursu ferre 
+      potu<lb ed="#L" n="22" break="no"/>isset: Nec dignum est Cinquiunt vt ad huius corpusculi 
+      <lb ed="#L" n="23"/>naturales &amp; euidentes necessitates Spiritus sancti 
+      maie<lb ed="#L" n="24" break="no"/>statem sine causa deducamus. Adhibent vero huius rei 
+      <lb ed="#L" n="25"/>exempla ex epistola ad Timotheum 2. penulam, quam 
+      reli<lb ed="#L" n="26" break="no"/>qui Troade apud Carpum, veniens affer tecum. Et illud, 
+      <lb ed="#L" n="27"/>Lucas est mecum solus: &amp; Trophimum reliqui infirmum.  
+      <lb ed="#L" n="28"/>&amp; alia eiusmodi, quae passim in epistolis Pauli humanitus 
+      <lb ed="#L" n="29"/>scripta inueniuntur. Non igitur scriptores sacri Spiritum 
+      <lb ed="#L" n="30"/>lanctum semper manentem &amp; in ipsis loquentem 
+      habue<lb ed="#L" n="31" break="no"/>re. Nam, &amp; hoc Christo domino peculiare fuit, vt 
+      Ioan<lb ed="#L" n="32" break="no"/>nis 1. cap. dicitur : super quem videris Cinquit, 
+      spiri<lb ed="#L" n="33" break="no"/>tum descendentem, &amp; manentem super eum, &amp;c. 
+      Con<lb ed="#L" n="34" break="no"/>firmatur autem idem hoc argumento, maxime quod 
+      <lb ed="#L" n="35"/>sicut Deus non deficit in necessarus, ita non 
+      redun<lb ed="#L" n="36" break="no"/>dat in superfluis, quemadmodum Aristoteles 
+      demon<lb ed="#L" n="37" break="no"/>strauit. Ad ea vero quae naturali lumine nota erant,  
+      <!--155.xml-->
+      <pb ed="#L" n="144"/>
+               <lb ed="#L" n="1"/>non erat supernaturalis reuclatio necessaria. Quae igitur 
+      <lb ed="#L" n="2"/>scriptores sacri viderant, &amp; manibus attrectauerant, non 
+      <lb ed="#L" n="3"/>diuino lumine infuso, sed humano locuti sunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e281-d1e183">
+               <lb ed="#L" n="4"/>Deinde, Apostolus in priori ad Corinthios epistoli 
+      <lb ed="#L" n="5"/>quaedam ponit, de quibus asserit, quod domini sunt 
+      ma<lb ed="#L" n="6" break="no"/>data. Praecipio Cinquit non ego, sed dominus. Mox 
+      ve<lb ed="#L" n="7" break="no"/>ro subdit, Caeteris ego dico, non dominus. Quod si 
+      Pau<lb ed="#L" n="8" break="no"/>lus ex interna reuelatione spiritus sancti omnia 
+      scribe<lb ed="#L" n="9" break="no"/>ret, profecto non diceret, ego dico, non dominus. 
+      Quo<lb ed="#L" n="10" break="no"/>niam eiusmodi consilia, quae Deo reuelante dantur, 
+      do<lb ed="#L" n="11" break="no"/>mini sunt : Quemadmodum quae a prophetis per 
+      reuela<lb ed="#L" n="12" break="no"/>tionem dicebantur, Dei verba erant. Non enim 
+      Prophe<lb ed="#L" n="13" break="no"/>ta asseruisset, hoc ego dico, non dominus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e281-d1e207">
+               <lb ed="#L" n="14"/>Hanc vero argumentationem non leuiter, sed haud 
+      <lb ed="#L" n="15"/>scio an grauissime Basilius confirmat lib. 5. contra 
+      Eu<lb ed="#L" n="16" break="no"/>nomium capite penultimo, in haec verba: Quaecunque 
+      spi<lb ed="#L" n="17" break="no"/>ritus loquitur, Dei verba sunt : &amp; propterea oinis 
+      scri<lb ed="#L" n="18" break="no"/>ptura diuinitus inspirata, &amp; vtilis est, quam locutus est 
+      <lb ed="#L" n="19"/>spiritus. Nam vere id monstrat, spiritum non esse 
+      crea<lb ed="#L" n="20" break="no"/>turam: Quoniam omnis rationalis creatura, est 
+      quan<lb ed="#L" n="21" break="no"/>do ea quae Dei sunt loquitur : vt cum dicit Paulus De 
+      <lb ed="#L" n="22"/>virginibus autem praeceptum non habeo: concilium 
+      au<lb ed="#L" n="23" break="no"/>tem do tanquam misericordiam consecutus : his autem,  
+      <lb ed="#L" n="24"/>qui matrimonio coniuncti sunt, praecipio, non ego, sed 
+      <lb ed="#L" n="25"/>dominus. Et propheta, O domine, iudicia loquar ad 
+      te<lb ed="#L" n="26" break="no"/>Quid quoniam impii prosperantur? &amp; rursus, heum me 
+      <lb ed="#L" n="27"/>mater, vt quid me peperisti? Nonnunquam autem dicit,  
+      <lb ed="#L" n="28"/>haec dicit dominus. Et nonnunquam Moses, ego sum 
+      <lb ed="#L" n="29"/>tenuis voce, &amp; tardae linguae. Aliquando vero is ipse, 
+      <lb ed="#L" n="30"/>haec dicit dominus, emittas populum meum, vt mihi 
+      <lb ed="#L" n="31"/>sacrificet. Spiritus autem non sic. Nonenim aliquando 
+      <lb ed="#L" n="32"/>sua, aliquando quae Dei sunt loquitur: id nanque 
+      crea<lb ed="#L" n="33" break="no"/>turae est: verum omnia spiritus verba. Dei verba sunt.  
+      <lb ed="#L" n="34"/>Hactenus Basilius. Sed &amp; Origenes homilia 16. super 
+      <lb ed="#L" n="35"/>numeros, sermo Cait qui apud Ionam scriptus est, &amp;  
+      <lb ed="#L" n="36"/>non est factus, a Iona potius quam a Deo prolatus esse 
+      <lb ed="#L" n="37"/>videtur. Non enim semper ea, quae per prophetam 
+      di<lb ed="#L" n="38" break="no"/>cuntur, quasi a Deo dicta suscipiantur oportet. Nam per 
+      <lb ed="#L" n="39"/>Moysen multa quidem locutus est Deus, aliquanta 
+      <!--156.xml-->
+      <pb ed="#L" n="145"/>
+               <lb ed="#L" n="1"/>tamen &amp; Moyses propria auctoritate mandauit. Quod 
+      <lb ed="#L" n="2"/>Dominus in Euangelijs euidentissima distinctione secer 
+      <lb ed="#L" n="3"/>nit: cum dicit de repudio mulieris interrogatus, ad 
+      duri<lb ed="#L" n="4" break="no"/>tiam cordis vestri permisit vobis Moyses dimittere vxo 
+      <lb ed="#L" n="5"/>res vestras: ab initio autem non fuit sic, &amp;c. ostendit haec 
+      <lb ed="#L" n="6"/>&amp; Paulus in literis suis. cum dicit de quibusdam. 
+      Domi<lb ed="#L" n="7" break="no"/>nus dicit, &amp; non ego: &amp; de aliis, haec autem ego dico, non  
+      <lb ed="#L" n="8"/>Dominus. Et iterum in alijs, Praeceptum Domini non ha 
+      <lb ed="#L" n="9"/>beo, consilium autem do. Et iterum, Quae loquor, non lo 
+      <lb ed="#L" n="10"/>quor secundum Deum. Vnde similiter etiam in caeteris 
+      <lb ed="#L" n="11"/>Prophetis aliqua quidem Dominus locutus est, &amp; non  
+      <lb ed="#L" n="12"/>Prophetae, alia vero Prophetae, &amp; non Dominus. 
+      Hacten<lb ed="#L" n="13" break="no"/>Origenes. Qui eandem quoque sententiam in prooemio 
+      <lb ed="#L" n="14"/>commentariorum in Ioannem amplexus est. Et Ambros. 
+      <lb ed="#L" n="15"/>lib. 8. in Lucam c. 16. explicans illud: Ad duritiam cordis 
+      <lb ed="#L" n="16"/>vestri, &amp;c. ostendit, ait, locus hic, quae propter fragilitatem  
+      <lb ed="#L" n="17"/>humanam scripta sunt, non a Deo scripta. Vnde &amp; 
+      Apo<lb ed="#L" n="18" break="no"/>stolus: Denuncio, inquit, non ego sed Dominus, vxorem 
+      <lb ed="#L" n="19"/>a viro non discedere. Et infra: Caeteris, inquit, ego dico,  
+      <lb ed="#L" n="20"/>non Dominus: Si quis &amp;c. Hic Apostolus negauit legis 
+      <lb ed="#L" n="21"/>esse diuinae, vt coniuigium qualecunque soluatur. 
+      Tan<lb ed="#L" n="22" break="no"/>tum Ambrosius. Cum igitur Basilius, Abrosius &amp; Orige 
+      <lb ed="#L" n="23"/>nes viri clarissimi, non in ea modo sententia fuerint, 
+      ve<lb ed="#L" n="24" break="no"/>rumetiam scripturae sacrae testimonijs confirmauerint, ni 
+      <lb ed="#L" n="25"/>hil erit absurdi, si nos etiam asseramus, non omnia, quae 
+      <lb ed="#L" n="26"/>sacri auctores scripsere, Spiritus sancti afflatu scripta fuis 
+      <lb ed="#L" n="27"/>se. Adde quod Apostolus in posteriore ad Corin. episto 
+      <lb ed="#L" n="28"/>la, affectum se poenitentia dicit, quod illos prioris episto 
+      <lb ed="#L" n="29"/>lae reprehensione vexarit. Rei autem semel scriptae, non  
+      <lb ed="#L" n="30"/>alium poenitere potest, nisi eum, qui scribendo crediderit 
+      <lb ed="#L" n="31"/>se errasse. Non igitur Paulus quaecunque ad Corinthios 
+      <lb ed="#L" n="32"/>scripsit, diuino ea spiritu se scripsisse existimauit. Adde 
+      <lb ed="#L" n="33"/>rursum, quod in hac etiam epistola posteriore, in quo 
+      <lb ed="#L" n="34"/>quis audet, inquit, in insipientia dico, audeo &amp; ego. 
+      Mi<lb ed="#L" n="35" break="no"/>nistri Christi sunt Cvt minus sapiens dicoy plus ego. At 
+      <lb ed="#L" n="36"/>blasphemum est, verba Spiritus sancti in insipientia dicta 
+      <lb ed="#L" n="37"/>affirmare, spiritu igitur hominis Paulus ibidem locutus 
+      <lb ed="#L" n="38"/>est. Adde etiam quod in eadem epistola, cum dixisset 
+      <lb ed="#L" n="39"/>Apostolus se plus omnibus laborasse, correctione mox 
+      <!--157.xml-->
+      <pb ed="#L" n="146"/>
+               <lb ed="#L" n="1"/>adhibita, docet parum se caute fuisse locutum. Non autem 
+      <lb ed="#L" n="2"/>ego, inquit, sed gratia Dei mecum. Praeterea si quaecunque 
+      <lb ed="#L" n="3"/>Apostoli praescripserunt, ex diuina auctoritate ac 
+      reuela<lb ed="#L" n="4" break="no"/>tione existunt omnia, certe illud Pauli praeceptum, quo 
+      <lb ed="#L" n="5"/>iubet, vt Episcopus sit vnius vxoris vir, diuinum esset, 
+      <lb ed="#L" n="6"/>non humanum. Ita fieret, vt summus pontifex in eo dispesa 
+      <lb ed="#L" n="7"/>re non posset. Nam vt Augu. ad Ianuarium ait, quae Christus 
+      <lb ed="#L" n="8"/>praescripsisset, ea nemo auderet variare. At, vt qui 
+      biga<lb ed="#L" n="9" break="no"/>mus fuisset, is fieret episcopus, summus pontifex orbe 
+      e<lb ed="#L" n="10" break="no"/>tiam probante aliquando fecit: Non ergo Apostoli 
+      de<lb ed="#L" n="11" break="no"/>creta omnia Spiritu sancto auctore praescripta sunt. 
+      Mat<lb ed="#L" n="12" break="no"/>theus insuper memoria lapsus est, nam pro Tacharia 
+      Hie<lb ed="#L" n="13" break="no"/>remiam posuit, &amp; Marcus item, cum in Esaia scriptum 
+      af<lb ed="#L" n="14" break="no"/>firmet, quod in Malachia scriptum est. Et cum rursum ho 
+      <lb ed="#L" n="15"/>ra tertia narret Dominum crucifixum, qui hora fere sex- 
+      <lb ed="#L" n="16"/>ta a Pilato iudicatus est, vt Ioan. c. 19. dicitur. Qua ex re 
+      <lb ed="#L" n="17"/>sit, vt non semper in omnibus Euangelistae scribenti 
+      Spiri<lb ed="#L" n="18" break="no"/>tus sauctus affuerit. Praeterea Lucas capite Euangelij ter 
+      <lb ed="#L" n="19"/>tio dicit Cainam filium fuisse Arphaxad, Salec autem 
+      fia<lb ed="#L" n="20" break="no"/>lium Cainam. Constat vero Genes: cap. 11. Salec non 
+      Ar<lb ed="#L" n="21" break="no"/>phaxad nepotem fuisse, sed filium, nullamque, inter hos ne 
+      <lb ed="#L" n="22"/>diam generationem intercessisse. Superflua igitur est in 
+      <lb ed="#L" n="23"/>genealogia Christi vna generatio, atque adeo non est instin 
+      <lb ed="#L" n="24"/>ctu. Sancti spiritus apposita. Lucas denique idem Acto. 7. 
+      <lb ed="#L" n="25"/>multa refert, quae spiritu afflante referri non poterant. Vt 
+      <lb ed="#L" n="26"/>est illud primum, quod Ioseph accersiuit, omnem 
+      cogna<lb ed="#L" n="27" break="no"/>tionem suam in animabus 75. At bene. 46. &amp; Exod. 1. 
+      se<lb ed="#L" n="28" break="no"/>ptuaginta solum animae enumerantur. Nec vero dict 
+      po<lb ed="#L" n="29" break="no"/>test, Stephanum Iosephi eos etiam filios supputare, qui nati 
+      <lb ed="#L" n="30"/>sunt postea. Et per anticipationem aut prolepsim hos cum 
+      <lb ed="#L" n="31"/>illis simul 75. dicere. Eos enim Iosephus accersire no 
+      po<lb ed="#L" n="32" break="no"/>tuit. Dicit autem Lucas Ioseph 75. animas, accersisse, Il 
+      <lb ed="#L" n="33"/>lud grauius est, quod deinde subijcitur, Iacob &amp; 
+      Patriar<lb ed="#L" n="34" break="no"/>chas tanslatos fuisse in Sichem. Cum Iosephus 2. anti. lib.  
+      <lb ed="#L" n="35"/>c. 8. fratres Ioseph affirmat conditos esse in Hebron, qua 
+      <lb ed="#L" n="36"/>in re non aliud scribere credendus est, quam quoda 
+      ma<lb ed="#L" n="37" break="no"/>ioribus per manus traditum vulgo etiam tenebatur. Prae 
+      <lb ed="#L" n="38"/>terquam quod Lucas hic aperte dicit Patriarchas 
+      sepul<lb ed="#L" n="39" break="no"/>tos esse in sepulchro, quod emit Abraham. At qui certum 
+      <!--158.xml-->
+      <pb ed="#L" n="147"/>
+               <lb ed="#L" n="1"/>est, Abraham in Hebron emisse sepulchrum Gene. 23. 
+      Ter<lb ed="#L" n="2" break="no"/>tium vero multo difficilius est, quod rursum addit, Abra 
+      <lb ed="#L" n="3"/>ham sepulchrum emisse a filijs Emor, filij Sichem. Iacob 
+      <lb ed="#L" n="4"/>si quidem a filijs Emor agri partem emit, vt Gene. cap. 33. 
+      <lb ed="#L" n="5"/>scribitur. Abraham aute non a filijs Emor, sed ab Ephron 
+      <lb ed="#L" n="6"/>filio Sohar, speluncam emit duplicem, quod Genes. cap. 
+      <lb ed="#L" n="7"/>23. non obscure traditum est. Quid ? quod Emor Lucas 
+      <lb ed="#L" n="8"/>dicit filium fuisse Sichem, cum Genes. 33. contra dicatur 
+      <lb ed="#L" n="9"/>Emor patrem Sichem fuisse non filium. Frustra ergo, vt 
+      <lb ed="#L" n="10"/>videtur, asserimus nihil in sacris esse libris, quod non idem 
+      <lb ed="#L" n="11"/>spiritus afflatu scriptum sit. Verum a contraria parte illud 
+      <lb ed="#L" n="12"/>facit, quod si in libris Canonicis aliqua humano more &amp;  
+      <lb ed="#L" n="13"/>spiritu, vel scripta, vel commemorata fuissent, nihil obsta 
+      <lb ed="#L" n="14"/>re videretur, quo minus in ijs aliquod mendacium esset. 
+      <lb ed="#L" n="15"/>Iam si errorem aliquem in scripturis sacris agnoscimus,  
+      <lb ed="#L" n="16"/>earum auctorem Spiritum 8. esse quis credet?
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

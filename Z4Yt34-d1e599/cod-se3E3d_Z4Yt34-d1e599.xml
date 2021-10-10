@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="384"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e599"><!-- Z4Yt34-l6c5 -->
+            <head xml:id="Z4Yt34-d1e599-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e599-d1e109">
+               <lb ed="#L" n="27"/>Cap. Quintum, vbi conclusio ead em extenditur sanctorum 
+      Ve<lb ed="#L" n="28" break="no"/>terum testimonijs manifestis.
+    </p>
+            <p xml:id="Z4Yt34-d1e599-d1e116">
+               <lb ed="#L" n="29"/>Ec vero audiendi sunt illi, qui reprehendunt &amp; irria 
+      <lb ed="#L" n="30"/>TNdet, quod eorum hic testimonia referamus, quorum 
+      <lb ed="#L" n="31"/>tamquam in propria causa iudicium merito &amp; optimo.  
+      <lb ed="#L" n="32"/>iure detrectare aduersarij possunt. Non enim pontificum 
+      <lb ed="#L" n="33"/>Romanorum causa isthaec propria erat, sed ecclesiae 
+      gen<lb ed="#L" n="34" break="no"/>tiumque omnium communis. Atque, in ijs testibus quidam 
+      La<lb ed="#L" n="35" break="no"/>tini erant, alij Graeci, partim Hispani, partim Affricani, 
+      par<lb ed="#L" n="36" break="no"/>tim Galli &amp; Germani, quibus fere hominibus ecclesiae Ro 
+      <lb ed="#L" n="37"/>manae causa non solum propria non erat, sed erat etiam aliena. 
+      <lb ed="#L" n="38"/>Fuerunt quoque in his viri plurimi adeo graues integrique, 
+      <!--396.xml-->
+      <pb ed="#L" n="385"/>
+               <lb ed="#L" n="1"/>doctrina, vita, moribus, vt eorum fides, suspecta esse nec 
+      <lb ed="#L" n="2"/>debeat nec vero possit. Accedit, quod nonnulli ex his 
+      <lb ed="#L" n="3"/>vel apostolorum fuere discipuli, vel illi certe seculo 
+      pro<lb ed="#L" n="4" break="no"/>ximi, cui nullam fictionis notam inurere nisi impijs, &amp; 
+      per<lb ed="#L" n="5" break="no"/>frictae fontis, hominihus permissum est. Sed ne vllus tergi 
+      <lb ed="#L" n="6"/>uersandi locus relinquatur, libet quoque sanctorum 
+      Ve<lb ed="#L" n="7" break="no"/>terum, qui Romani pontifices non fuere, testimonijs 
+      vti<lb ed="#L" n="8" break="no"/>Nam ij causam cur aut ignorarent aut fingerent nullam  
+      <lb ed="#L" n="9"/>profecto habuerunt. Irenaeus lib. 3. aduersus haere. cap. 3 
+      <lb ed="#L" n="10"/>Sed quoniam omnium ecclesiarum numerare successiones 
+      <lb ed="#L" n="11"/>valde longum est: maximae &amp; antiquissimae, &amp; omnibus 
+      <lb ed="#L" n="12"/>cognitae, a gloriosissimis duobus apostolis Petro &amp; 
+      Pau<lb ed="#L" n="13" break="no"/>lo Romae fundatae ecclesiae, eam quam habet ab 
+      Aposto<lb ed="#L" n="14" break="no"/>lis traditionem &amp; annunciatam hominibus fidem, 
+      perue<lb ed="#L" n="15" break="no"/>nientem vsque ad nos, indicantes confundimus omnes 
+      <lb ed="#L" n="16"/>eos, qui praeterquam oportet colligunt. Ad hanc enim 
+      ec<lb ed="#L" n="17" break="no"/>clesiam propter potentiorem principalitatem, necesse est 
+      <lb ed="#L" n="18"/>omnem conuenire ecclesiam, hoc est, eos qui sunt vndique 
+      <lb ed="#L" n="19"/>fideles, in qua semper conseruata est ea, quae est ab aposto 
+      <lb ed="#L" n="20"/>lis traditio. Hactenus Irenaeus. Qua re persuasus Augusti 
+      <lb ed="#L" n="21"/>nus contra epistolam Manichaei. c. 4. Multa sunt, ait, quae 
+      <lb ed="#L" n="22"/>in ecclesiae gremio me iustissime tenent. Tenet ab ipsa 
+      se<lb ed="#L" n="23" break="no"/>de apostoli Petri, cui pascendas oues suas dominus 
+      com<lb ed="#L" n="24" break="no"/>mendauit, vsque ad praesentem episcopatum facerdotum 
+      <lb ed="#L" n="25"/>successio. Hanc etiam apostolicam cathedram &amp; 
+      princi<lb ed="#L" n="26" break="no"/>patum in Romana ecclesia agnoscit idem Augustinus in 
+      <lb ed="#L" n="27"/>epi. 162. ad Glorium &amp; Eleusium, &amp; in epi. 1O6. ad Pauli 
+      <lb ed="#L" n="28"/>num, &amp; in Ioan. tract. 56. &amp; lib. 2. contra Pelag. &amp; Celest. 
+      <lb ed="#L" n="29"/>&amp; lib. 2. contra Donatist. c. 1. 
+      </p>
+            <p xml:id="Z4Yt34-d1e599-d1e207">
+               <lb ed="#L" n="30"/>Cyprianus lib. 1. epi: in epistola ad Cornelium, &amp; lib. 4 
+      <lb ed="#L" n="31"/>in epist. ad Pupianum, &amp; in tract. de simpl. Prael. eandem 
+      <lb ed="#L" n="32"/>sententiam apertissime tenet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e599-d1e216">
+               <lb ed="#L" n="33"/>Ambrosius quoque eiusdem rei testis est clarus, in lib. 
+      <lb ed="#L" n="34"/>de excessu fratris sui Satyri. ca. 7. &amp; sermone 47. de fide 
+      <lb ed="#L" n="35"/>Petri. 
+      </p>
+            <p xml:id="Z4Yt34-d1e599-d1e226">
+               <lb ed="#L" n="36"/>Cyrillus apud D. Tho. in libello contra errores 
+      Grae<lb ed="#L" n="37" break="no"/>eorum multo euidentius quam autores caeteri huic 
+      verita<lb ed="#L" n="38" break="no"/>ti testimonium perhibet. Nec mireris, quod in libris The 
+      <lb ed="#L" n="39"/>sau, e quibus loca illa a diuo Tho, referuntur, ea nunc re 
+      <!--397.xml-->
+      <pb ed="#L" n="386"/>
+               <lb ed="#L" n="1"/>perire non licet. Detruncarunt enim haeretici librum 
+      il<lb ed="#L" n="2" break="no"/>lum, &amp; quae in eo ad Romani pontificis auctoritatem 
+      per<lb ed="#L" n="3" break="no"/>tinebant, haec eraserunt omuia. Quod idem in commenta 
+      <lb ed="#L" n="4"/>rijs Theophilacti super Ioannem haereticos fecisse, a viris 
+      <lb ed="#L" n="5"/>hodie catholicis &amp; deprehensum &amp; patefactum est. 
+      Quan<lb ed="#L" n="6" break="no"/>quam non omnes libri Thesau. Iatini facti sunt. Nam in 
+      <lb ed="#L" n="7"/>syno. 6. citatur. 32. liber, qui nobis non est redditus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e599-d1e257">
+               <lb ed="#L" n="8"/>Maximum quoque refert Diuus Thom, eandem 
+      senten<lb ed="#L" n="9" break="no"/>I. 
+      <lb ed="#L" n="10"/>tiam non asserentem modo, verumetiam eo argumento 
+      <lb ed="#L" n="11"/>confirmantem, quod Paulus apostolus ad Petri 
+      magiste<lb ed="#L" n="12" break="no"/>rium venit, formam videlicet futuris praestans, vt ad 
+      Po<lb ed="#L" n="13" break="no"/>tri successores Romanos Pontifices simili causa 
+      recurre<lb ed="#L" n="14" break="no"/>ront.  
+      </p>
+            <p xml:id="Z4Yt34-d1e599-d1e275">
+               <lb ed="#L" n="15"/>Hieronymus insuper in epistola ad Damasum de 
+      no<lb ed="#L" n="16" break="no"/>mine hipostasis, huius rei testis locupletissimus est. 
+      Cu<lb ed="#L" n="17" break="no"/>ius verba retulit Gratianus. 24. quaestione. 1. capit. 
+      Quo<lb ed="#L" n="18" break="no"/>niam vetusto. Nam quod ea. causa &amp; quaest. cap. Haec est 
+      <lb ed="#L" n="19"/>fides. refertur, ex explanatione Symboli ad Damasum, 
+      <lb ed="#L" n="20"/>consulto praetereo: quoniam Erasmus eam epistolam 
+      Hie<lb ed="#L" n="21" break="no"/>ronymi esse negat. Sed bene habet, quod illa ad 
+      Dama<lb ed="#L" n="22" break="no"/>sum de nomine hypostasis Hieronymi sine controuersia 
+      <lb ed="#L" n="23"/>est. Adde, quod lib. 1. apolo. aduersus. Ruffinum, pro 
+      eo<lb ed="#L" n="24" break="no"/>dem habet, quempiam Romanam fidem tenere &amp; 
+      catholi<lb ed="#L" n="25" break="no"/>cum esse. 
+      <lb ed="#L" n="26"/>Bernardus quoque a nobis facit in opist. 131. ad 
+      Medio<lb ed="#L" n="27" break="no"/>lanenses, &amp; 166. ad Innocentium, &amp; 189. ad eundem, &amp; 237. 
+      <lb ed="#L" n="28"/>ad Eugenium, &amp; 242. ad Romanos. Referrem alios, nisi 
+      <lb ed="#L" n="29"/>hi satis abundem essent ad eius rei faciendam fidem. Quid 
+      <lb ed="#L" n="30"/>enim? tot tantorumque patrum consentiens, conspiraus, 
+      <lb ed="#L" n="31"/>continuataque sententia, quem non coget, ea quae 
+      dicun<lb ed="#L" n="32" break="no"/>tur comprobare? Praeterquam quod ea sentiunt, quae 
+      san<lb ed="#L" n="33" break="no"/>ctarum etiam synodorum testimonia confirmant, id quod 
+      <lb ed="#L" n="34"/>capite sequenti demonstrabitur.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

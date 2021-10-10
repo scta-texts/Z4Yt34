@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="549"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e964"><!-- Z4Yt34-l10c9 -->
+            <head xml:id="Z4Yt34-d1e964-Hd1e106">Caput 9</head>
+            <p xml:id="Z4Yt34-d1e964-d1e109">
+               <lb ed="#L" n="32"/>Caput Nonum.
+    </p>
+            <p xml:id="Z4Yt34-d1e964-d1e114">
+               <lb ed="#L" n="33"/>ET quanquam argumentum, quod a iure ciuili 
+      duci<lb ed="#L" n="34" break="no"/>tur, nec certum fortasse, nec exploratum est: sed 
+      pro<lb ed="#L" n="35" break="no"/>babilissimum est tamen, cum omne, tum illud magis, 
+      <lb ed="#L" n="36"/>quod a legibus Christiane reipublicae vsu probatis 
+      the<lb ed="#L" n="37" break="no"/>ologus accipiet. Non enim sine diuino nutu huiusmodi 
+      <lb ed="#L" n="38"/>leges Romanis esse datas credendum est. Quin diuinitus 
+      <!--561.xml-->
+      <pb ed="#L" n="550"/>
+               <lb ed="#L" n="1"/>per ora principum promulgatas fuisse, Ioannes 8. 
+      praedi<lb ed="#L" n="2" break="no"/>cat. Et Augustinus inquit, humana iura per imperatores, 
+      <lb ed="#L" n="3"/>&amp; rectores seculi deum humano generi distribuisse. Ac 
+      <lb ed="#L" n="4"/>Demosthenes, leges inuentum munusque deorum esse 
+      pu<lb ed="#L" n="5" break="no"/>tat. Et Cicero principis legem ad iubendum &amp; 
+      vetan<lb ed="#L" n="6" break="no"/>dum aptam, rationem rectam esse, ait, summi Iouis. Et 
+      So<lb ed="#L" n="7" break="no"/>lomon. Diuinatio, inquit, in labiis regis, in iudicio non  
+      <lb ed="#L" n="8"/>errabit os eius. Ad dei ergo procurationem pertinuit, vt 
+      <lb ed="#L" n="9"/>numine quodam legum Romanarum latores afflarentur, 
+      <lb ed="#L" n="10"/>quo ad reip. moderationem ea scita praescriberent, quae 
+      <lb ed="#L" n="11"/>essent iusta atque legitima. Quamobrem si theologus ex 
+      <lb ed="#L" n="12"/>illis agumentum sumat, nihil abhorrebit a professionis 
+      <lb ed="#L" n="13"/>suae instituto, &amp; si non certo, at probabiliter 
+      argumenta<lb ed="#L" n="14" break="no"/>bitur. Nec enim mihi Ludouicus Viues probari potest,  
+      <lb ed="#L" n="15"/>in eo quod vniuersam legum Romanarum, &amp; vim nititur. 
+      <lb ed="#L" n="16"/>frangere, &amp; eleuare auctoritatem. Plus ille nimio 
+      inter<lb ed="#L" n="17" break="no"/>dum sibi indulget, dum corruptas disciplinas 
+      persequi<lb ed="#L" n="18" break="no"/>tur. Nec nouitios solum errores, qui vel irrepserunt vel 
+      <lb ed="#L" n="19"/>inuaserunt coarguere, sed antiquorum recepta placita con 
+      <lb ed="#L" n="20"/>uellere pertentat, maximo quidem semper verborum 
+      am<lb ed="#L" n="21" break="no"/>bitu, sed vi quandoque argumentorum minima. Dixit ille 
+      <lb ed="#L" n="22"/>quidem in libris de corruptis disciplinis multa vere, multa 
+      <lb ed="#L" n="23"/>praeclare. Atqui fidenter pronunciauit aliquando tanqe e 
+      <lb ed="#L" n="24"/>diuorum concilio descendisset. Multo autem: Viris doctis 
+      <lb ed="#L" n="25"/>probaretur magis, si qua diligentia, &amp; disertitudine 
+      cau<lb ed="#L" n="26" break="no"/>sas corruptarum artium expressit, eadem collapsas 
+      resti<lb ed="#L" n="27" break="no"/>tuisset, sed in tradendis disciplinis elanguit, cum in 
+      car<lb ed="#L" n="28" break="no"/>pendis erroribus viguisset. Nec mirum. Nam aliorum 
+      er<lb ed="#L" n="29" break="no"/>rata etiam probabiliter reprehendere, facile est id 
+      quidem<lb ed="#L" n="30" break="no"/>Artes vero, quas iam inde a multis annis, viri quidam &amp;  
+      <lb ed="#L" n="31"/>indocti &amp; barbari deflexerunt, ad rectam lineam reuocare, 
+      <lb ed="#L" n="32"/>scilicet hoc opus hic laborest. Hucque erat omnino 
+      co<lb ed="#L" n="33" break="no"/>nandum, si quicquam magna laude dignum agendum erat. 
+      <lb ed="#L" n="34"/>Aliud est autem leges ciuiles, presertim in repub. bene 
+      in<lb ed="#L" n="35" break="no"/>stituta, longo vsu probatas reprehendere: aliud errorem 
+      <lb ed="#L" n="36"/>interpretum increpare. Quanquam Ludouicus, quod ad 
+      <lb ed="#L" n="37"/>iurisperitos attinet, eadem nobiscum sensit. Ait enim. Ac 
+      <lb ed="#L" n="38"/>iuris ciuilis veteres interpretes summo olim in honore 
+      <lb ed="#L" n="39"/>fuere, iure quidem merito magnisque, rationibus. Quoniam  
+      <!--562.xml-->
+      <pb ed="#L" n="551"/>
+               <lb ed="#L" n="1"/>ius ciuile, vt a praeclaris philosophis grauiter prudenterque 
+      <lb ed="#L" n="2"/>editum fuerat, ita illud etiam non nisi graues prudentesque  
+      <lb ed="#L" n="3"/>philosophi interpretabantur. Postea vero quam facultas 
+      <lb ed="#L" n="4"/>haec in eorum manu esse coepit, qui nulla philosophia, 
+      nul<lb ed="#L" n="5" break="no"/>la graui disciplina ante instructi ad eam, &amp; ornati 
+      accesse<lb ed="#L" n="6" break="no"/>rant, scientiae huius splendor omnis deletus est: neque eius 
+      <lb ed="#L" n="7"/>professores habentur in pretio nisi a vulgo, quod litibus 
+      <lb ed="#L" n="8"/>plenum est omne. Quemadmodum autem Aegyptii 
+      sa<lb ed="#L" n="9" break="no"/>cerdotes mirifice colebantur, quod multam in 
+      mathema<lb ed="#L" n="10" break="no"/>ticis posuissent operam, Geometria vero Aegyptus tota 
+      <lb ed="#L" n="11"/>indigeret, confusis per annos singulos agrorum limiti 
+      <lb ed="#L" n="12"/>bus ab inundante Nilo: sic cum lites inundatione sua 
+      <lb ed="#L" n="13"/>orbis Christiani fines peruaserint, miscuerint, 
+      confude<lb ed="#L" n="14" break="no"/>rint, necesse est, eos honore summo affici, qui iurgiorum 
+      <lb ed="#L" n="15"/>componendorum dicuntur esse periti. Componant nec 
+      <lb ed="#L" n="16"/>ne, ipsi viderint, hoc nos certe videmus, minus ibi esse 
+      <lb ed="#L" n="17"/>litium, vbi minus est huius generis literatorum. 
+      Noui<lb ed="#L" n="18" break="no"/>tios itaque eos iureconsultos, ne ego quidem in vsum 
+      <lb ed="#L" n="19"/>theologiae vendicare cupio. Nec enim mihi 
+      iureconsul<lb ed="#L" n="20" break="no"/>tus est leguleius quispiam, cautus &amp; acutus, cautor formu 
+      <lb ed="#L" n="21"/>larum, auceps syllabarum, iniustitiae aequem, vt iustitiae 
+      pa<lb ed="#L" n="22" break="no"/>tronus. Sed id doceo, ciuiles leges eas vel maxime, quae 
+      <lb ed="#L" n="23"/>Christiani populi vsu &amp; more obseruatae diu sunt, 
+      theo<lb ed="#L" n="24" break="no"/>logo ad argumentandum esse vtiles. Sed de his satis. Nunc 
+      <lb ed="#L" n="25"/>de historiae auctoritate dicamus. Nam argumenta 
+      <lb ed="#L" n="26"/>quae posuimus, vt iuris ciuilis auctoritatem  
+      <lb ed="#L" n="27"/>eleuaremus, faciliora sunt, quam 
+      qui<lb ed="#L" n="28" break="no"/>bus refutandis nostra 
+      im<lb ed="#L" n="29" break="no"/>morari debeat 
+      <lb ed="#L" n="30"/>oratio.
+      <lb ed="#L" n="31"/>Decimi Libri finis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

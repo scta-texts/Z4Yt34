@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 18</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 18</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="150"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e303"><!-- Z4Yt34-l2c18 -->
+            <head xml:id="Z4Yt34-d1e303-Hd1e106">Caput 18</head>
+            <p xml:id="Z4Yt34-d1e303-d1e109">
+               <lb ed="#L" n="17"/>Caput Decimumoctauum, bi refeltuntur argumenta 
+      <lb ed="#L" n="18"/>capitis sexti decimi.
+    </p>
+            <p xml:id="Z4Yt34-d1e303-d1e116">
+               <lb ed="#L" n="19"/>COnfirmanda atque tuenda veritate ea rationum ac 
+      <lb ed="#L" n="20"/>testimoniorum praesidia satis sint, quae capite 
+      supe<lb ed="#L" n="21" break="no"/>riore sunt posita. Nunc vero argumenta ea confutanda 
+      <lb ed="#L" n="22"/>sunt, quibus aduersatij contra pugnarunt. Atqe a primo  
+      <lb ed="#L" n="23"/>quidem agumento, quo veritas impugnabatur, facilis est 
+      <lb ed="#L" n="24"/>&amp; expedita defensio. Fateor enim, non singulas 
+      scriptu<lb ed="#L" n="25" break="no"/>rae particulas, vt a sacris auctoribus scriberentur, propria 
+      <lb ed="#L" n="26"/>&amp; expressa reuelatione indiguisse, sed singulas 
+      tamen<lb ed="#L" n="27" break="no"/>scriptas ex peculiari Spiritus sancti instinctu afflatuque 
+      <lb ed="#L" n="28"/>vere &amp; iure contendo. Ille, Christus ait, vos docebit 
+      <lb ed="#L" n="29"/>omnia, &amp; suggeret vobis omnia, quaecunque dixero 
+      vo<lb ed="#L" n="30" break="no"/>bis. Alias etiam oblita suggeret, alias etiam vestris auribus 
+      <lb ed="#L" n="31"/>audita suggeret, quae alias natura sponteque sua in mentem 
+      <lb ed="#L" n="32"/>venire poterant, ea quoque suggeret. Non supernaturalia 
+      <lb ed="#L" n="33"/>modo, sed &amp; naturalia suggeret, &amp; quae alias humano mo 
+      <lb ed="#L" n="34"/>re scriberent. Omnia, inquit, quaecunque dixi vobis. Atque  
+      <lb ed="#L" n="35"/>Apostolus nos, ait, non spiritum huius mundi accepimus,  
+      <lb ed="#L" n="36"/>sed spiritum qui ex Deo est, vt sciamus quae a Deo 
+      do<lb ed="#L" n="37" break="no"/>nata sunt nobis: quae &amp; loquimur, non indoctis humanae 
+      <!--162.xml-->
+      <pb ed="#L" n="151"/>
+               <lb ed="#L" n="1"/>sapientiae verbis, sed in doctrina spiritus, spiritualibus spi 
+      <lb ed="#L" n="2"/>ritualia comparantes. Spiritualis enim iudicat omnia, 
+      si<lb ed="#L" n="3" break="no"/>cut scriptum est, Quis cognouit sensum Domini? Nos au  
+      <lb ed="#L" n="4"/>tem sensum Christi habemus. Ecce Apostoli, in quorum 
+      no<lb ed="#L" n="5" break="no"/>mine Paulus loquitur, ad doctrinam spiritus edendam 
+      spiri<lb ed="#L" n="6" break="no"/>tum accipere, per quem in Christi sensu omnia iudicabint.  
+      <lb ed="#L" n="7"/>Nimirum animalia illa oculis vndique plena ad expressionem 
+      <lb ed="#L" n="8"/>quatuor Euangelistarum posita per scriptores omnes 
+      sa<lb ed="#L" n="9" break="no"/>cros trasferre merito &amp; optimo iure possumus. Nihil 
+      er<lb ed="#L" n="10" break="no"/>go auctores sacri caecis oculis scribebant: sed scribentium 
+      <lb ed="#L" n="11"/>calamum spiritus ipse attemperabat, ne scribendo 
+      laberen<lb ed="#L" n="12" break="no"/>tur. Inde enim, cum in secunda ad Corinth. epistola 
+      que<lb ed="#L" n="13" break="no"/>dam dixisset Apostolus, quae humano more ab ecclessae 
+      <lb ed="#L" n="14"/>praefecto dici possent, subiecit protinus, an experimentum 
+      <lb ed="#L" n="15"/>eius quaeritis, qui in me loquitur Christus? Spiritu igitur 
+      <lb ed="#L" n="16"/>sancto inspirati quasuis scripturae partes scripsere sancti 
+      <lb ed="#L" n="17"/>Dei homines. Nolite, inquit, cogitare quomodo aut qud 
+      <lb ed="#L" n="18"/>loquamini, dabitur enim vobis in illa hora quid 
+      loqua<lb ed="#L" n="19" break="no"/>mini. Quod idem profecto sacris auctoribus praeceptum 
+      <lb ed="#L" n="20"/>erat, vt non cogitarent scilicet quomodo aut quid 
+      scri<lb ed="#L" n="21" break="no"/>berent: dabatur enim illis illa hora quid scriberent. Hoc 
+      <lb ed="#L" n="22"/>vero Spiritus sancti donum toto vitae decursu non 
+      habe<lb ed="#L" n="23" break="no"/>bant: sed tantisperdum lingua eorum calamus erat scribae 
+      <lb ed="#L" n="24"/>velociter scribentis. At Christus nullum vnqe verbum 
+      lo<lb ed="#L" n="25" break="no"/>cutus est, quod non idem ab Spiritu 8. extiterit. Erat enim,  
+      <lb ed="#L" n="26"/>vt scholae verbis vtar, Christi Iesu sacratissima lingua 
+      <lb ed="#L" n="27"/>perpetuum diuinitatis instrumentum. Et hinc apparet eius 
+      <lb ed="#L" n="28"/>argumenti certa ruina, quo deinde contrariam partem 
+      con<lb ed="#L" n="29" break="no"/>firmabamus. No. ni asserimus, per immediatam Spiritus 
+      san<lb ed="#L" n="30" break="no"/>cti reuelationem, quae quidem proprie reuelatio dicenda sit, 
+      <lb ed="#L" n="31"/>quamlibet scripturae sacrae partem fuisse editam. Quin 
+      Lu<lb ed="#L" n="32" break="no"/>tas quae ab Apostolis accepit, ea scripto ipse mandanit, vt 
+      <lb ed="#L" n="33"/>in euangelij sui prooemio testatur. Et Marcum quae a Petro 
+      <lb ed="#L" n="34"/>didicerat, rogatum a discipulis scripsisse: auctores sunt 
+      Cle<lb ed="#L" n="35" break="no"/>mens in 6. dispositionum libro, apud Eusebium li. 2. 
+      ec<lb ed="#L" n="36" break="no"/>cle. hist. c. 15. &amp; Papias apud eundem eo. lib. &amp; c. &amp; lib. 3. c. 
+      <lb ed="#L" n="37"/>vlt. &amp; Orinenes 1. li. comment. in Matth. eodem Eusebio 
+      <lb ed="#L" n="38"/>referente si. 6. c. 18. &amp; Eusebius quoque ipse lib. 3. cap. 4. &amp;  
+      <lb ed="#L" n="39"/>Hieronymus de viris illustrib. in Marco, &amp; lrenaeus li. 3. 
+      <!--163.xml-->
+      <pb ed="#L" n="152"/>
+               <lb ed="#L" n="1"/>aduersum haereses c. 1. Siue ergo Matthaeus &amp; Ioannes, 
+      si<lb ed="#L" n="2" break="no"/>ue Marcus &amp; Lucas, quamuis illi visa, hi audita referrent,  
+      <lb ed="#L" n="3"/>non egebant quidem noua Spiritus sancti reuelatione, 
+      e<lb ed="#L" n="4" break="no"/>gebant tamen peculiari Spiritus sancti directione. Primae 
+      <lb ed="#L" n="5"/>gitur argumentationi hoc modo satisfecerimus. 
+      <lb ed="#L" n="6"/>Secundae vero sic responsum est. Paulum Domini seu 
+      <lb ed="#L" n="7"/>praeceptum seu consilium eo sane loco vocare, quod 
+      Chri<lb ed="#L" n="8" break="no"/>stus Dominus ore proprio, vel praecipit in Euangelio, vel 
+      <lb ed="#L" n="9"/>consulit. Nam, quod consilium suum Paulus Spiritus 
+      san<lb ed="#L" n="10" break="no"/>cti confilium existimaret, satis ipse indicat: dices, beatior 
+      <lb ed="#L" n="11"/>erit, si sic permanserit secundum meum consilium: puto 
+      <lb ed="#L" n="12"/>autem quod &amp; ego spiritum Dei habeam. Huius vero 
+      ar<lb ed="#L" n="13" break="no"/>gumenti confirmatio ex ijs maxime eliditur, quae primae 
+      <lb ed="#L" n="14"/>sunt argumentationi responsa. Etenim, quae sacri auctores 
+      <lb ed="#L" n="15"/>scripsere, haec in duplici sunt differentia. Quaedam, quae 
+      <lb ed="#L" n="16"/>supernaturali solum reuelatione cognoscebant: &amp; ea 
+      Ba<lb ed="#L" n="17" break="no"/>silius tradit a Spiritu sancto esse. Alia vero naturali 
+      co<lb ed="#L" n="18" break="no"/>gnitione tenebant, quae scilicet, aut oculis viderant, aut  
+      <lb ed="#L" n="19"/>manibus etiam attrectauerant. Atque haec quidem, vt 
+      pau<lb ed="#L" n="20" break="no"/>lo ante diximus supernaturali lumine &amp; expressa 
+      reuela<lb ed="#L" n="21" break="no"/>tione, vt scriberentur, non egebant, sed egebant tamen 
+      <lb ed="#L" n="22"/>ppiritus sancti praesentia &amp; auxilio peculiari, vt licet 
+      hu<lb ed="#L" n="23" break="no"/>mana essent &amp; naturae ratione cognita, diuinitus 
+      tamen<lb ed="#L" n="24" break="no"/>sine vllo errore scriberentur. Haec vero illa sunt, quae iux- 
+      <lb ed="#L" n="25"/>ta Basilium Paulus &amp; Prophetae de suo loquebantur. 
+      So<lb ed="#L" n="26" break="no"/>lent etiam nonnulli veterum, Origenis non sententias 
+      <lb ed="#L" n="27"/>modo, sed verba referre, non aliter certe accipenda, quam  
+      <lb ed="#L" n="28"/>Origenes ipse acceperit. At Origenes eam re 
+      significa<lb ed="#L" n="29" break="no"/>uit potius quam asseruit. Nec. n. in ea sententia persistit. 
+      <lb ed="#L" n="30"/>Sed &amp; Ambrosius in priorem epistolam ad Corinthios,  
+      <lb ed="#L" n="31"/>vbi locus proprius erat, nobiscum apertissime sensit. 
+      <lb ed="#L" n="32"/>Ad illud vero, quod tertio loco obiectum est, breuis 
+      <lb ed="#L" n="33"/>&amp; non difficilis est responsio. Non enim ibi poenitere, 
+      <lb ed="#L" n="34"/>resipiscere est: sed tristari. Tristatur autem pater, cum 
+      fi<lb ed="#L" n="35" break="no"/>lios dolentes videt: sed laetatur, cum dolorem ad salutem 
+      <lb ed="#L" n="36"/>fuisse intellexit. Nam quod additur, id facillimum etiam  
+      <lb ed="#L" n="37"/>est. Quo enim modo Paulus sit intelligendus, Paulus ipse 
+      <lb ed="#L" n="38"/>explicat, inquiens: Quod loquor, non loquor secundum 
+      <lb ed="#L" n="39"/>Deum, sed quasi in insipientia. Et paulo ante, iterum dico,  
+      <!--164.xml-->
+      <pb ed="#L" n="153"/>
+               <lb ed="#L" n="1"/>ne quis me putet insipientem esse, alioquin velut 
+      insipien<lb ed="#L" n="2" break="no"/>tem accipite me. Et capite eiusdem epistolae duo decimo,  
+      <lb ed="#L" n="3"/>si voluero gloriari non ero insipiens: veritatem enim 
+      di<lb ed="#L" n="4" break="no"/>cam. Et paulo post, factus sum insipiens, vos me coegistis. 
+      <lb ed="#L" n="5"/>Quid ergo, sapiens &amp; insipiens? Nempe sapiens re vera, 
+      <lb ed="#L" n="6"/>sed quasi insipiens: qui tanquam insipientis personam 
+      as<lb ed="#L" n="7" break="no"/>sumere &amp; seipsum iactare videretur. Laudare quippe se 
+      <lb ed="#L" n="8"/>insipientis hominis nota est. Verum haec, quae stultitia 
+      es<lb ed="#L" n="9" break="no"/>se videbatur, Dei erat sapientia, vt Apostolus non 
+      spon<lb ed="#L" n="10" break="no"/>te, sed coactus: non ex vanitate, sed ex charitate 
+      gloriare<lb ed="#L" n="11" break="no"/>tur. Ab Spiritum igitur sancto erat huiusmodi quasi stulta 
+      <lb ed="#L" n="12"/>gloriatio. Sed ne illud quidem est difficile, quod deinde 
+      <lb ed="#L" n="13"/>subijcitur. Non enim, quod ait quidam, incaute Paulus 
+      <lb ed="#L" n="14"/>fuerat locutus. Sed ne quis in ea laude aut arrogantiam  
+      <lb ed="#L" n="15"/>aut vanitatem aliquam subesse interpretaretur, docet se 
+      <lb ed="#L" n="16"/>non in se, sed in Domino gloriari. Non ego, inquit, sed 
+      <lb ed="#L" n="17"/>gratia Dei mecum. Simile fere illud est, quod cum Domi 
+      <lb ed="#L" n="18"/>nus doctrinam Euangelij suam appellasset: subiecit proti 
+      <lb ed="#L" n="19"/>nus, mea doctrina non est mea, sed eius qui misit me patris.  
+      <lb ed="#L" n="20"/>Huns igitur in modum cum Paulus vere dixisset, se plus 
+      <lb ed="#L" n="21"/>omnibus laborasse, addit, &amp; vere etiam addit, se non plus 
+      <lb ed="#L" n="22"/>omnibus laborasse, &amp; c. 
+      </p>
+            <p xml:id="Z4Yt34-d1e303-d1e389">
+               <lb ed="#L" n="23"/>Ad quartum vero argumentum sunt qui respondeant,  
+      <lb ed="#L" n="24"/>ecclesiae auctoritatem tantam esse, vt quaedam etiam de 
+      <lb ed="#L" n="25"/>scripturis sacris immutarit. Huius generis exempla 
+      po<lb ed="#L" n="26" break="no"/>nunt, Sabbatum, esum suffocati &amp; sanguinis, Baptisma in 
+      no<lb ed="#L" n="27" break="no"/>mine Iesu, &amp; que Christus coenatis dedit Eucharistiam, 
+      ec<lb ed="#L" n="28" break="no"/>clesia ieiunis, Christus sub ambabus speciebus, ecclesia 
+      <lb ed="#L" n="29"/>laicis sub vna, quo Paulus denique permisit dispares in fide 
+      <lb ed="#L" n="30"/>coniuges, ecclesia improbauit. Ita quauis lex scripturae sit, 
+      <lb ed="#L" n="31"/>vt is non ordinetur episcopus, qui duas habuerit vxores: 
+      <lb ed="#L" n="32"/>ecclesia tamen eam legem poterit vel ex parte soluere, vel 
+      <lb ed="#L" n="33"/>etiam omnino abrogare: Hoc autem responsum hanc quidem 
+      <lb ed="#L" n="34"/>habet viam, quae deducit ad conuenientiam 
+      conseruatio<lb ed="#L" n="35" break="no"/>nemque, ecclesiasticae auctoritatis, quam si sequemur, nunque 
+      <lb ed="#L" n="36"/>aberrabimus, sequemurque &amp; id quode certum &amp; tutum est,  
+      <lb ed="#L" n="37"/>&amp; id quod ad fidelium consociationem accommodatum, &amp;  
+      <lb ed="#L" n="38"/>id quod vehemens atque forte. Sed cauendum sane est, ne 
+      <lb ed="#L" n="39"/>si in argumentorum confutatione ad ecclesiam tand in 
+      <!--165.xml-->
+      <pb ed="#L" n="154"/>
+               <lb ed="#L" n="1"/>u ermimpo nuum o moeama proy veao a vsas aV ga viam VaM 
+      aa<lb ed="#L" n="2" break="no"/>mur. Mihi itaque aliud responsum multo &amp; doctius vide 
+      <lb ed="#L" n="3"/>tur &amp; verius, quod duplici partitione subnixum est. Vna 
+      <lb ed="#L" n="4"/>est huiusmodi. Scripturae praecepta quaedam temporaria 
+      <lb ed="#L" n="5"/>erant, id est, ad tempus ex loci, temporis, personarum alia 
+      <lb ed="#L" n="6"/>rumue rerum &amp; causarum ratione seruanda. Atque 
+      hu<lb ed="#L" n="7" break="no"/>iusmodi ipsa ex se in praefinito tempore antiquabantur, 
+      <lb ed="#L" n="8"/>nulla etiam ecclesiae interueniente auctoritate. Quod 
+      em<lb ed="#L" n="9" break="no"/>pro necessitate temporis statutum est, cessante 
+      necessi<lb ed="#L" n="10" break="no"/>tate, debet cessare pariter quod vrgebat 1. 4. 1. Quod pro 
+      <lb ed="#L" n="11"/>necessitate. Eius generis fuit Sabbatismus, &amp; reliqua om 
+      <lb ed="#L" n="12"/>nia, quae proprie ad legem vetere pertinebant. Talis etiam 
+      <lb ed="#L" n="13"/>lex illa fuit de immolatis, sanguine &amp; susfocato. Talis 
+      <lb ed="#L" n="14"/>quoque vsus Apostolicus de baptismo in nomine 
+      Iesu<lb ed="#L" n="15" break="no"/>Alia vero praecepta aeterna sunt, quorum seruandorum 
+      ra<lb ed="#L" n="16" break="no"/>tio non breuis &amp; temporalis, sed perpetua &amp; sempiterna est. 
+      <lb ed="#L" n="17"/>Sempiternum autem scripturae more voco, qu semp erit, non 
+      <lb ed="#L" n="18"/>qud semper fuit. In hoc genere sunt oia naturae praecepta, 
+      <lb ed="#L" n="19"/>que tam in veteri quam in nouo Testamento continentur. In 
+      <lb ed="#L" n="20"/>hoc etiam lex illa, nisi quis renatus fuerit, &amp;c. &amp; 
+      alterasi<lb ed="#L" n="21" break="no"/>milis de poenitentiae sacramento. Praecepta rursum 
+      Apo<lb ed="#L" n="22" break="no"/>stolorum, quae in sacris literis scripta sunt, quaedam a 
+      Chri<lb ed="#L" n="23" break="no"/>sto ipsi acceperunt gentibus euulganda, iuxta illud, 
+      Bapti<lb ed="#L" n="24" break="no"/>xate omnes gentes, docentes eos seruare omnia, quaecun 
+      <lb ed="#L" n="25"/>que mandaui vobis. Altera vero non fuerunt quidem a 
+      <lb ed="#L" n="26"/>Christo Apostolis iniuncta: sed ipsi post Christum in coe 
+      <lb ed="#L" n="27"/>los assumptum ea populis tradiderunt. Quae tamen 
+      Chri<lb ed="#L" n="28" break="no"/>sti Deique praecepta dicuntur, non ob eam modo causam,  
+      <lb ed="#L" n="29"/>quod per acceptam a Domino potestatem lata sunt: 
+      ve<lb ed="#L" n="30" break="no"/>rumetiam quia Dei Spiritu peculiariter suggerente edita 
+      <lb ed="#L" n="31"/>fuere. Visum est, inquiunt, Spirituisancto &amp; nobis, nihil 
+      <lb ed="#L" n="32"/>vltra imponere, &amp;c. Quae verba Basilius 5. libro contra Eu 
+      <lb ed="#L" n="33"/>nomium referens, spiritui, ait, visum est quidem, a quo vt 
+      <lb ed="#L" n="34"/>Domino ecclesiae leges datae sunt: Apostolis vero tanqe 
+      <lb ed="#L" n="35"/>ministris, per, quos decreta sunt edita. Quod autem 
+      prae<lb ed="#L" n="36" break="no"/>cepta haec Christi quoque dici possint, Christus ipse do 
+      <lb ed="#L" n="37"/>cet inquiens, qui vos audit, me audit, &amp; qui vos spernit,  
+      <lb ed="#L" n="38"/>me spernit. Inter haec autem scripturae mandata non leue 
+      <lb ed="#L" n="39"/>discrimen est, quod priora illa a Domino Apostolis tra¬ 
+      <!--166.xml-->
+      <pb ed="#L" n="155"/>
+               <lb ed="#L" n="1"/>dita, vt propria sunt legis nouae praecepta: ita ea ecclesia 
+      <lb ed="#L" n="2"/>nec soluere, nec remittere vlli potest, sicut ne legem 
+      na<lb ed="#L" n="3" break="no"/>turae quidem. Cuius rei causam nos in relectione de 
+      poeni<lb ed="#L" n="4" break="no"/>tentia dedimus, quo legis auctor Euangelicae Christus 
+      do<lb ed="#L" n="5" break="no"/>minus non alia praecepta per se ipse edidit, que quae essent 
+      <lb ed="#L" n="6"/>summopere ad salutem necessaria. At posteriora mandata 
+      <lb ed="#L" n="7"/>pprie quidem humana &amp; ecclesiastica fuere: que videlicet 
+      <lb ed="#L" n="8"/>ab Apostolis ecclesiam gubernantibus edita sunt, non 
+      ali<lb ed="#L" n="9" break="no"/>ter atque alia fuere, postea a praefectis ecclesie subsequenti 
+      <lb ed="#L" n="10"/>bus: dispari tamen auctoritate. Nam Apostolorum nemo in 
+      <lb ed="#L" n="11"/>pceptis suis errare poterat: sed ab Spiritu 8. 
+      peculiarissi<lb ed="#L" n="12" break="no"/>me eorum quisque, dirigebat in ferendis ecclesiae legibus. 
+      <lb ed="#L" n="13"/>Posteriores vero antistites hanc peculiarem Spiritus S. 
+      <lb ed="#L" n="14"/>praesentiam non habent, nisi cum in nomine Christi &amp; ec 
+      <lb ed="#L" n="15"/>clesiae congregantur. Quod vtique sit in concilijs 
+      genera<lb ed="#L" n="16" break="no"/>libus. Qua de re libro postea quinto fusius disseremus. 
+      <lb ed="#L" n="17"/>His autem praeceptis, licet Apostolica fuerint, &amp; in sacris 
+      e<lb ed="#L" n="18" break="no"/>tiam literis scripta, Sumus pontifex subditos suos liberare, 
+      <lb ed="#L" n="19"/>vel ex parte, vel omnino potest. Qua etiam ratione, vt alia 
+      <lb ed="#L" n="20"/>non esset lex illa Apostolica de abstinendo a sanguine &amp;  
+      <lb ed="#L" n="21"/>suffocato, per ecclesiae potestatem abrogari potuit. Quam 
+      <lb ed="#L" n="22"/>quam, vt diximus, ea lege admonitae sunt gentes, ne sua li 
+      <lb ed="#L" n="23"/>bertate in fratrum offensionem abuterentur. Praescribunt 
+      <lb ed="#L" n="24"/>autem Apostoli quatenus pro tempore expediebat, 
+      qui<lb ed="#L" n="25" break="no"/>bus illae rebus in fratrum offensionem possint incurrere. 
+      <lb ed="#L" n="26"/>Quiam igitur lex a finesuo aestimanda est, tunc haec 
+      intelli<lb ed="#L" n="27" break="no"/>gitur aprogata, cum ab illis offensionibus ac dissidijs, d 
+      <lb ed="#L" n="28"/>bus occurrere voluerunt Apostoli, nihil amplius periculi 
+      <lb ed="#L" n="29"/>fuit. Quibus positis facile, vt opinor, quartum illud argu 
+      <lb ed="#L" n="30"/>mentum refelletur. Nam Pauli praeceptum de non 
+      ordi<lb ed="#L" n="31" break="no"/>nando episcopo qui bigamus fuerit, secundi generis est,  
+      <lb ed="#L" n="32"/>id est, humanum &amp; ecclesiasticum: cuius proinde 
+      vincu<lb ed="#L" n="33" break="no"/>lum soluere ecclesia iure suo potest. Sed id tamen nisi 
+      se<lb ed="#L" n="34" break="no"/>mel aut iterum, &amp; graui etiam vrgente causa non fecit. 
+      <lb ed="#L" n="35"/>Nec id nisi summo Pontifici permissum in ecclesia est, nam 
+      <lb ed="#L" n="36"/>episcopis contra Apostolum dispensare cum bigamis non 
+      <lb ed="#L" n="37"/>licet: vt Lucius &amp; Innocentius tradunt. Diuus vero 
+      Au<lb ed="#L" n="38" break="no"/>gustinus de legibus primi generis loquebatur, quas si 
+      <lb ed="#L" n="39"/>Christus ipse tulerit, vt quae vere &amp; proprie diuinae &amp;  
+      <!--167.xml-->
+      <pb ed="#L" n="156"/>
+               <lb ed="#L" n="1"/>euangelicae sunt, nemo aut possit aut ausit immutare. 
+      <lb ed="#L" n="2"/>Quarto igitur argumento diluendo satis dixisse mihi vi 
+      <lb ed="#L" n="3"/>deor. At quintum sic refellitur. Primum, sunt qui velint,  
+      <lb ed="#L" n="4"/>aut impiorum malitia, aut librariorum errore pro Tacharia 
+      <lb ed="#L" n="5"/>Hieremiam scriptum esse. Cuius sententiae fuit Eusebius 
+      <lb ed="#L" n="6"/>li. 10. demonst. euang. demonstra. 4. Id quod nec 
+      Orige<lb ed="#L" n="7" break="no"/>ni displicuit, &amp; Caietanus verosimile existimauit. Nec 
+      <lb ed="#L" n="8"/>Hieronymus certe ab hac opinione alienus est. Quin in 
+      <lb ed="#L" n="9"/>psalm. 77. errore scriptoris dicit pro Tacharia Hieremiam 
+      <lb ed="#L" n="10"/>esse suppositum. Sunt alij qui opinentur, eandem 
+      senten<lb ed="#L" n="11" break="no"/>tiam &amp; apud Hieremiam olim scriptam reperiri: sed non  
+      <lb ed="#L" n="12"/>omnia Hieremiae vaticinia nunc extare. Opinatur 
+      quo<lb ed="#L" n="13" break="no"/>que Augustin. lib. de cons. Euange. 3. ca. 7. quoniam 
+      eo<lb ed="#L" n="14" break="no"/>dem spiritu Hieremias &amp; Racharias scripsere, nihil 
+      refer<lb ed="#L" n="15" break="no"/>re, si vnius sententiam alteri tribuas: imo peculiari 
+      Spiri<lb ed="#L" n="16" break="no"/>tus sancti consilio id factum esse, vt ab eodem auctore 
+      scri<lb ed="#L" n="17" break="no"/>pti libri omnes sacri credantur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e303-d1e647">
+               <lb ed="#L" n="18"/>lllud vero, quod Marco Euangelistae obiectum est, 
+      fri<lb ed="#L" n="19" break="no"/>uolum his videri solet, qui Latinam editionem passim ad 
+      <lb ed="#L" n="20"/>Graeca exemplaria expendunt. In quibus quoniam non  
+      <lb ed="#L" n="21"/>legitur, Sicut scriptum est in Esaia, sed sicut scriptum est 
+      <lb ed="#L" n="22"/>in Prophetis: argumentum esse infirmum aiunt, vt quod 
+      <lb ed="#L" n="23"/>librorum deprauatione nititur. Huic vero sententiae 
+      <lb ed="#L" n="24"/>Theophilactum subscripsisse, facile profecto suaderi 
+      po<lb ed="#L" n="25" break="no"/>test. Non enim in Esaia, sed in Prophetis legit. Atque 
+      <lb ed="#L" n="26"/>Hieronymus in comment, super 3. Matth. caput, huic 
+      quo<lb ed="#L" n="27" break="no"/>que opinioni subscribit inquiens: Nos nomen Esaiae 
+      pu<lb ed="#L" n="28" break="no"/>tamus additum scriptorum vitio, quod &amp; in alijs locis pro 
+      <lb ed="#L" n="29"/>bare possumus, aut certe de diuersis testimonijs 
+      scriptu<lb ed="#L" n="30" break="no"/>rarum vnum corpus effectum. Existimat ergo 
+      Hierony<lb ed="#L" n="31" break="no"/>mus, siue hoc, siue illud accipias, locum esse deprauatum. 
+      <lb ed="#L" n="32"/>Id quod &amp; de Psalm. 13. credidit. At Erasmus, tametsi 
+      fa<lb ed="#L" n="33" break="no"/>tetur Graeca exemplaria omnia, quae videre quidem ipse 
+      <lb ed="#L" n="34"/>potuit, O Ageourpis habere: lectionem nostram 
+      pro<lb ed="#L" n="35" break="no"/>bat tamen, Graecamque, asserit a Graecis fuisse immutatam,  
+      <lb ed="#L" n="36"/>Hieronymus etiam ipse in epist. ad Pammach. de opt. ge. 
+      <lb ed="#L" n="37"/>in. solam hanc, quam habemus lectionem, probat: alterius 
+      <lb ed="#L" n="38"/>autem eo loco ne meminit quidem. Et Porphyrius14. libr.  
+      <lb ed="#L" n="39"/>Marcum euangelistam eo nomine acculat, quod homo 
+      <!--168.xml-->
+      <pb ed="#L" n="157"/>
+               <lb ed="#L" n="1"/>imperitus &amp; rudis, vel suas literas nesciat, idque quasi ab  
+      <lb ed="#L" n="2"/>vno eo demque, propheta scriptum referat, quod non ab vno,  
+      <lb ed="#L" n="3"/>sed a duobus scriptum est. Cui calumniae Chrysostomus 
+      <lb ed="#L" n="4"/>respondens non causatur, aut codices mendosos esse, aut  
+      <lb ed="#L" n="5"/>certe ab impio locum deprauatum: sed plane consentit, 
+      <lb ed="#L" n="6"/>eo prorsus modo lectum iri, quo Porphyrius in obiectio 
+      <lb ed="#L" n="7"/>ne legit. Qua ex re perspicuum fit, ante Chrysostomi &amp;  
+      <lb ed="#L" n="8"/>Hieronymi tempora in editionem nostram omnes &amp; Grae 
+      <lb ed="#L" n="9"/>cos &amp; Latinos codices consensisse. Vbi non possum 
+      no<lb ed="#L" n="10" break="no"/>uitios istos interpretes non ridere, qui tanta facilitate &amp;  
+      <lb ed="#L" n="11"/>confidentia e prauis Graecis Latina emendant non praua. 
+      <lb ed="#L" n="12"/>Nimirum enim patientur hic, si de ipsis ludimus: 
+      qui<lb ed="#L" n="13" break="no"/>bus in vsu est ludere de nobis. Imo patientur potius, vt 
+      <lb ed="#L" n="14"/>quod hoc loco eorum antesignanus Erasmus summo 
+      iu<lb ed="#L" n="15" break="no"/>re magnaque ratione facit: idem nos aliis quoque locis 
+      <lb ed="#L" n="16"/>faciamus, &amp; Graecis exemplaribus posthabitis, Latinam  
+      <lb ed="#L" n="17"/>editionem veneremur. Sed vt eo reuocetur, vnde huc de 
+      <lb ed="#L" n="18"/>clinauit oratio, cum argumentum illud non sit tam 
+      faci<lb ed="#L" n="19" break="no"/>le, quam istis est visum: maiore omnino vi &amp; arte 
+      refellen<lb ed="#L" n="20" break="no"/>dum est. Illa igitur verba, Sicut scriptum est in Esaia, non 
+      <lb ed="#L" n="21"/>referuntur ad omnia ea, quae sequuntur: sed ad id tantum, 
+      <lb ed="#L" n="22"/>vox clamantis in deserto, &amp;c. Illa vero, Ecce ego mitto 
+      <lb ed="#L" n="23"/>angelum meum &amp;c. tanquam de suo Euangelista addidit,  
+      <lb ed="#L" n="24"/>quod facere iure potuit, quamuis eadem in alio 
+      prophe<lb ed="#L" n="25" break="no"/>ta reperiantur. Non enim, si Aristotelem refero, opus est,  
+      <lb ed="#L" n="26"/>sequentia verba omnia Aristotelis esse. Quin licet mihi 
+      <lb ed="#L" n="27"/>nonnulla de meo adijcere, praesertim si ad explicationem 
+      <lb ed="#L" n="28"/>Aristotelis conducunt maxime. Sic quoniam 
+      Euangeli<lb ed="#L" n="29" break="no"/>stae illa: verba, Ecce ego mitto angelum meum, &amp;c. 
+      ver<lb ed="#L" n="30" break="no"/>borum Esaiae erant exposito quaedam: nihil Marci 
+      dero<lb ed="#L" n="31" break="no"/>gat fidei, si Esaiae testimonium verbis eiusmodi adiectis 
+      <lb ed="#L" n="32"/>&amp; exposuit &amp; ornauit. Nisi infidelis seruus est, qui 
+      appo<lb ed="#L" n="33" break="no"/>sito verborum ornatu heri sui munus amplificat. Hoc re 
+      <lb ed="#L" n="34"/>spondet Chrysostomus. Hieronymus autem 
+      Euangeli<lb ed="#L" n="35" break="no"/>stas fuisse ait non de verbis, sed de sensu solicitos: omnia 
+      <lb ed="#L" n="36"/>vero illa, quae in Marco sequuntur, ab Esaia scripta non 
+      se<lb ed="#L" n="37" break="no"/>cundum verba quidem, sed secundum sensum esse. Qui 
+      <lb ed="#L" n="38"/>enim vocem clamantem, &amp;c. aperte dixit, is angelum eun 
+      <lb ed="#L" n="39"/>dem esse sensit, qui viam Domino praepararet. Aque haec 
+      <!--169.xml-->
+      <pb ed="#L" n="158"/>
+               <lb ed="#L" n="1"/>responsio a Beda vel maxime probatur in comment. 
+      su<lb ed="#L" n="2" break="no"/>per Marcum. Iam, quod falsitatis etiam Marcus 
+      <lb ed="#L" n="3"/>qui Christum scripserit hora tertia crucifixum: de 
+      ha<lb ed="#L" n="4" break="no"/>quatuor video sententias ferri, quarum nulla est,  
+      <lb ed="#L" n="5"/>non maior adhuc probabilitas desideretur. Prima eor 
+      <lb ed="#L" n="6"/>est, qui animaduertunt, Ioannem non scribere, Pila 
+      <lb ed="#L" n="7"/>hora ferme diei sexta pro tribunali sedisse: sed pa 
+      <lb ed="#L" n="8"/>ues hora fere sexta. Aiunde vero diem, aliunde parasce 
+      <lb ed="#L" n="9"/>uen initium sumere. Nam Iudaeos ante diei principium 
+      <lb ed="#L" n="10"/>hoc est, anae solis ortum praeparationi paschali o 
+      <lb ed="#L" n="11"/>dare solitos, rationi consentaneum est. Si enim Christias 
+      <lb ed="#L" n="12"/>ni in huiusmodi festorum vigilijs multo ante diluculi 
+      <lb ed="#L" n="13"/>incipiunt quaedam necessaria praeparare: Iudaei ac mul 
+      <lb ed="#L" n="14"/>etiam magis idem fecisse credendi sunt, qui non modo axy 
+      <lb ed="#L" n="15"/>ma in multos dies, verum complura quoque alia erant 
+      pa<lb ed="#L" n="16" break="no"/>raturi, non solum ad festum diem, sed ad vesperam etiam  
+      <lb ed="#L" n="17"/>paschae. Sunt &amp; alij, qui Augustinum secuti, putant, 
+      Mar<lb ed="#L" n="18" break="no"/>cum non de crucifixione militum locutum esse, sed de 
+      <lb ed="#L" n="19"/>crucifixione Iudaeorum. Hi enim vel maxime Christum 
+      <lb ed="#L" n="20"/>crucifixerunt: quemadmodum Actorum c. 4. illis Petrus 
+      <lb ed="#L" n="21"/>edixit. Vt ergo ostenderet. Euangelista Dominum lesum 
+      <lb ed="#L" n="22"/>non tam a militibus, qui simplex ministerium praesidi prae 
+      <lb ed="#L" n="23"/>buere, quam a Iudaeis crucifixum: posteaquam militum 
+      <lb ed="#L" n="24"/>ministerium expressit inquiens, Et crucifigentes eum 
+      di<lb ed="#L" n="25" break="no"/>uiserunt, &amp;c. tum vero ad vocem, quae sanguinem iusti 
+      <lb ed="#L" n="26"/>petijt, auctoresque flagitij crucem Domini reuocauit in haec 
+      <lb ed="#L" n="27"/>verba, Erat autem hora tertia &amp; crucifixerunt eum. 
+      Ho<lb ed="#L" n="28" break="no"/>ram quippe crucifixionis militum, vt quae vulgo nota 
+      e<lb ed="#L" n="29" break="no"/>rat, non credidit exprimendam. Alij credunt huic se 
+      ab<lb ed="#L" n="30" break="no"/>surditati satis occurrere, si dicant, Christum intra horam  
+      <lb ed="#L" n="31"/>tertiam &amp; sextam crucifixum: &amp; ab vtroque extremo, 
+      quem<lb ed="#L" n="32" break="no"/>admodum media solent, horam mortis Christi esse nomi 
+      <lb ed="#L" n="33"/>natam: ab vno videlicet tertiam, ab altro sextam. Sed haec 
+      <lb ed="#L" n="34"/>responsio patentem habet scrupulum. Quod enim hora 
+      <lb ed="#L" n="35"/>quinta fiat hoc, si quis vel quarta, vel sexta fieri ab vtroque 
+      <lb ed="#L" n="36"/>extremo dicat: quauis improprie id quidem dicat, sed ferri 
+      <lb ed="#L" n="37"/>tamen vtcunqe potest. At quod in quinta hora fit, hoc in 
+      <lb ed="#L" n="38"/>tertia vel secunda fieri, nec vsus profecto nec ratio fert. 
+      <lb ed="#L" n="39"/>Ponunt igitur alij, qo quemadmodum nox in quatuor vi¬ 
+      <!--170.xml-->
+      <pb ed="#L" n="159"/>
+               <lb ed="#L" n="1"/>gilias, ita dies in quatuor stationes &amp; partes diuisus a 
+      lu<lb ed="#L" n="2" break="no"/>daeis est. Quarum prima incipiebat a diluculo, &amp; durabat 
+      <lb ed="#L" n="3"/>vsque ad horam diei tertiam: vocabaturque prima, eo quod 
+      <lb ed="#L" n="4"/>ab hora prima initium sumeret. Secunda autem incipiebat 
+      <lb ed="#L" n="5"/>ab hora tertia, &amp; durabat vsque ad horam sextam: 
+      voca<lb ed="#L" n="6" break="no"/>baturque hora tertia, quod ab hora tertia, principium 
+      ha<lb ed="#L" n="7" break="no"/>beret. Tertia vero diei pars incipiebat ab hora sexta, &amp;  
+      <lb ed="#L" n="8"/>durabat vsque ad horam nonanzappellabaturque similiter 
+      <lb ed="#L" n="9"/>ab hora vnde principium acceperat, hora sexta. Quarta 
+      <lb ed="#L" n="10"/>demum statio parsque diei incipiebat ab hora nona, &amp; 
+      du<lb ed="#L" n="11" break="no"/>rabat vsque ad occasum solis, vocabaturque, vel hora no 
+      <lb ed="#L" n="12"/>na, vel vespera. Quae si vera sunt, iam pulchre consentient 
+      <lb ed="#L" n="13"/>Euangelistae. Nam in secunda statione, quae hora tertia 
+      <lb ed="#L" n="14"/>dicebatur, circa finem Christus crucifixus est, hora 
+      scili<lb ed="#L" n="15" break="no"/>cet illa nondum elapsa. Aliquanto vero prius, in eadem  
+      <lb ed="#L" n="16"/>hora tamen stationeque diei, Pilatus pro tribunali sedit: 
+      <lb ed="#L" n="17"/>nempe hora quasi sexta. Vere siquidem tertia erat, sed erat 
+      <lb ed="#L" n="18"/>proxima sexta. Quae nimirum opinio longe erit 
+      proba<lb ed="#L" n="19" break="no"/>bilissima, si probetur ad eum modum diem a Iudaeis 
+      di<lb ed="#L" n="20" break="no"/>uidi solitum. Atque in historia passionis quidem 
+      nomi<lb ed="#L" n="21" break="no"/>natim diluculi, tertiae, sextae &amp; nonae horarum mentio fit: 
+      <lb ed="#L" n="22"/>de reliquis autem interfluentibus omnino tacetur. At 
+      pa<lb ed="#L" n="23" break="no"/>Fabola de patrefamilias operarios in vineam suam 
+      con<lb ed="#L" n="24" break="no"/>ducente, quam isti etiam afferunt in huius rei 
+      confirma<lb ed="#L" n="25" break="no"/>tonem, non solum nihil iuuat, sed etiam officit. 
+      Quoni<lb ed="#L" n="26" break="no"/>am ibi Dominus non tantum primae, tertiae, sextae &amp; 
+      no<lb ed="#L" n="27" break="no"/>nae, sed vndecimae meminit. Id quod absurdum esset, si 
+      <lb ed="#L" n="28"/>quarta diei pars, hoc est, hora nona reliquuin omne 
+      eius<lb ed="#L" n="29" break="no"/>dem diei tempus complecteretur. Ac re vera, vt breuiter 
+      <lb ed="#L" n="30"/>simpliciterque dicatur, qui vndecimae horae, quae inter 
+      no<lb ed="#L" n="31" break="no"/>nam &amp; duo decimam interfluxit, expressam mentionem 
+      fe<lb ed="#L" n="32" break="no"/>cit, eum certo certius constat, diem non ad eum modum 
+      <lb ed="#L" n="33"/>instationes &amp; horas quatuor: sed vt moris est nostri, in 
+      <lb ed="#L" n="34"/>partes &amp; horas duodecim diuisisse. Verum vt haec 
+      cun<lb ed="#L" n="35" break="no"/>que habeant, , huic nos responsioni libentissime 
+      sub<lb ed="#L" n="36" break="no"/>scribemus, si illa diei in stationes quatuor partitio, 
+      <lb ed="#L" n="37"/>illaeque rursum ab initijs denominationes quatuor aut  
+      <lb ed="#L" n="38"/>idoneo testimomo, aut prohabili ratione constant. 
+      <lb ed="#L" n="39"/>Nec enim desunt, qui existiment haec a recentioribus 
+      <!--171.xml-->
+      <pb ed="#L" n="160"/>
+               <lb ed="#L" n="1"/>Iudaeis esse conficta omnia. Nam secunda diei statio, cum 
+      <lb ed="#L" n="2"/>tres solum horas complecteretur, quartam, quintam &amp; sex- 
+      <lb ed="#L" n="3"/>tam, non hora tertia a fine scilicet stationis proxime 
+      ela<lb ed="#L" n="4" break="no"/>psae, sed hora quarta ab initio stationis eiusdem 
+      nominam<lb ed="#L" n="5" break="no"/>da erat. Ecquis autem ferre possit stationem, quae a decima 
+      <lb ed="#L" n="6"/>vsque ad duo decimae finem protenditur, nonam horam 
+      ap<lb ed="#L" n="7" break="no"/>pellari : Certe sicut prima hora, si verum est quod isti 
+      di<lb ed="#L" n="8" break="no"/>cunt, a principio suo nomen accipit, sic &amp; stationes caete 
+      <lb ed="#L" n="9"/>rae a suis proprijs principijs nominarentur. Mihi 
+      simpli<lb ed="#L" n="10" break="no"/>cissima ratio huius loci explicandi esse apparet, si cum 
+      <lb ed="#L" n="11"/>Theoph. &amp; Caietano dixerimus Marcum ita scripsisse, 
+      <lb ed="#L" n="12"/>u de ligo. 9? id est, erat autem hora sexta. Sed indoctos 
+      <lb ed="#L" n="13"/>oscitantensue librarios notam illam senarij 8. in 7. quae 
+      <lb ed="#L" n="14"/>est nota ternarij mutasse. Quod &amp; hoc loco ob 
+      nonnul<lb ed="#L" n="15" break="no"/>lam literarum similitudinem factu procliue fuit, &amp; in 
+      <lb ed="#L" n="16"/>his auctoribus, quorum libri huiuscemodi numeros &amp;  
+      <lb ed="#L" n="17"/>notas habent, saepe fieri notius est, quam vt indicandum 
+      <lb ed="#L" n="18"/>sit. Nec Theophi, solum &amp; Caietani auctoritas, sed ratio 
+      <lb ed="#L" n="19"/>quoque me, vt ita tenerem, impulit. Nam sexta hora 
+      Do<lb ed="#L" n="20" break="no"/>minum vere ac proprie crucifixum, vut omittam quod &amp; vulgo 
+      <lb ed="#L" n="21"/>Christianorum persuasum est, &amp; passim in crucis officio 
+      <lb ed="#L" n="22"/>ac precibus celebratur, certe ex Ioannis Euangelio 
+      colli<lb ed="#L" n="23" break="no"/>gitur. Tradit enim Pilatum hora ferme sexta pro 
+      tribu<lb ed="#L" n="24" break="no"/>nali sedisse. Erat igitur propemodum elapsaquinta. 
+      Alio<lb ed="#L" n="25" break="no"/>qui falso hora fere sexta diceretur. Incredibile autem est id 
+      <lb ed="#L" n="26"/>quod reliquum erat horae quintae, cum esset breue &amp; 
+      perexi<lb ed="#L" n="27" break="no"/>guum in sententia ferenda, in suscipiendo lesu &amp; 
+      educen<lb ed="#L" n="28" break="no"/>do, in eruce vsque ad Caluariae locum baiulanida,s non esse 
+      in<lb ed="#L" n="29" break="no"/>sumptu. Etenim nec locorum intercapedo parua erat, nec 
+      <lb ed="#L" n="30"/>tantum fuit celeritatis in via, vt non potuerit interea &amp; Si 
+      <lb ed="#L" n="31"/>mon angariari Cyrinensis, &amp; a Christo oratio haud 
+      mo<lb ed="#L" n="32" break="no"/>mentanea ad mulieres haberi. Itaque sine dubio si vere &amp;  
+      <lb ed="#L" n="33"/>pprie Marcus loqe voluit, cur autem noluerit nulla est causa, 
+      <lb ed="#L" n="34"/>non scripsit hora tertia, sed sexta Dum crucifixum. Id qu 
+      <lb ed="#L" n="35"/>Hieronymus, si is tamen horum commentariorum est auctor,  
+      <lb ed="#L" n="36"/>in Psal. 77. aperte docet. Sed quisquis illum Psalmum 
+      expo<lb ed="#L" n="37" break="no"/>suit, si non fuit Hieronymus, certe eruditus fuit. Atque 
+      <lb ed="#L" n="38"/>Erasmus in annotationibus super hunc Marci locum non 
+      <lb ed="#L" n="39"/>mine Hieronymi hoc commentarium refert. Accedit, 
+      <!--172.xml-->
+      <pb ed="#L" n="161"/>
+               <lb ed="#L" n="1"/>quod non alia fere scribit Marcus quam Matthaeus, idque 
+      <lb ed="#L" n="2"/>maxime in historia passionis Christi. Itaque dum 
+      conside<lb ed="#L" n="3" break="no"/>ro, Marcum in historia passionis non solum eadem 
+      eo<lb ed="#L" n="4" break="no"/>dem ordine cum Matthaeo, sed eisdem etiam pene verbis 
+      <lb ed="#L" n="5"/>scripsisse: facile adducor, vt sentiam ipsum non notam  
+      <lb ed="#L" n="6"/>ternarii sed senarii, vt est apud Matthaeum, posuisse. Quod 
+      <lb ed="#L" n="7"/>autem huic sententiae obiicit auctor commentariorum in 
+      <lb ed="#L" n="8"/>Marcum, quae Hieronymi titulo circumferuntur, hoc 
+      fa<lb ed="#L" n="9" break="no"/>cillime refellitur. Si sexta, inquit, hora dominus fuit 
+      cru<lb ed="#L" n="10" break="no"/>cifixus, cum a sexta vsque ad nonam tenebrae suffuderint 
+      <lb ed="#L" n="11"/>terram, non potuissent praetereuntes in eum mouere 
+      ca<lb ed="#L" n="12" break="no"/>pita, quem per tenebras omnino non cernerent. Cui ego 
+      <lb ed="#L" n="13"/>respondeo breuissime, Christum in sextae horae principio 
+      <lb ed="#L" n="14"/>crucifixum. Hora autem eadem labente conuicia in eum 
+      ia<lb ed="#L" n="15" break="no"/>ctata sunt. Sed circa eiusdem horae finem tenebrae orbem 
+      <lb ed="#L" n="16"/>circunfuderunt. Quod Marcus appositissime significare 
+      <lb ed="#L" n="17"/>videtur his verbis. Et facta hora sexta. Quid enim 
+      expe<lb ed="#L" n="18" break="no"/>ditius est, quam factam intelligere, non incipientem sed 
+      <lb ed="#L" n="19"/>expletam? Id quippe sactum, &amp; vulgo &amp; Philosophis vere 
+      <lb ed="#L" n="20"/>dicitur, non quod inchoatum sed quod consummatum 
+      <lb ed="#L" n="21"/>est. Qua ex re, velit nolit Osiander, satis plane 
+      intelligi<lb ed="#L" n="22" break="no"/>tur, omnia euangelistae dicta cohaerere: si legamus, Erat 
+      <lb ed="#L" n="23"/>autem hora sexta, &amp; crucifixerunt eum. Qua hora 
+      inter<lb ed="#L" n="24" break="no"/>fluente quoniam ea gesta sunt, quae euangelista subiicit, 
+      <lb ed="#L" n="25"/>idcirco ait tandem, &amp; facta hora sexta tenebrae, &amp;c. vt 
+      <lb ed="#L" n="26"/>expleta iam hora, nisi valde essemus tardi, tenebras factas 
+      <lb ed="#L" n="27"/>acciperemus. Ac de quinta obiectione satis abundanter, 
+      <lb ed="#L" n="28"/>vt arbitror, disputatum est. Eam vero obiectionem, quae 
+      <lb ed="#L" n="29"/>sexto loco posi ta: est, qua via Caietanus noster 
+      repellere<lb ed="#L" n="30" break="no"/>tentauerit: inuitus quidem facio, vut dicam, sed dicam 
+      ta<lb ed="#L" n="31" break="no"/>men, ne euangelii veritate tuenda nostris videar 
+      peper<lb ed="#L" n="32" break="no"/>cisse. Significat certe ille primum, nam deinde in ea 
+      opini<lb ed="#L" n="33" break="no"/>one non perstat, Eucam euangelistam 7O. interpretum 
+      er<lb ed="#L" n="34" break="no"/>rorem in hac parte, sine proprio tamen errore secutum. 
+      <lb ed="#L" n="35"/>Id quod ego non solum intelligere, sed ne cogitatione 
+      <lb ed="#L" n="36"/>quidem informare possum. Si enim euangelista 
+      impru<lb ed="#L" n="37" break="no"/>dens. 7O1. interpretes errantes in historia euangelii 
+      se<lb ed="#L" n="38" break="no"/>quitur, licet imprudens, sed errat tamen. Sin autem 
+      Vi<lb ed="#L" n="39" break="no"/>dens prudensque, vt dicitur, fictam a 7O. narrationem suo 
+      <!--173.xml-->
+      <pb ed="#L" n="162"/>
+               <lb ed="#L" n="1"/>euangelio inserit, errat quoque, &amp; eo magis, que 
+      <lb ed="#L" n="2"/>opera euangelii sy 
+      <lb ed="#L" n="3"/>taminat. Breuiter, si Cainam non fu 
+      <lb ed="#L" n="4"/>nec Salec filius Cainam, fals 
+      <lb ed="#L" n="5"/>storia, in qua non obscure dicitu 
+      <lb ed="#L" n="6"/>fuisse, Salec vero filius Cainam. Quod 
+      <lb ed="#L" n="7"/>ctores habuerit grauissimos, quos in 
+      err<lb ed="#L" n="8" break="no"/>id Euangelistam culpa liberare fortasse po 
+      <lb ed="#L" n="9"/>certe errare non poterit. Quo magis Eug 
+      <lb ed="#L" n="10"/>dendum censeo, qui aperte, constanter, &amp; sin 
+      <lb ed="#L" n="11"/>destiae aut reuerentiae temperamento asserit, 
+      errasse<lb ed="#L" n="12" break="no"/>Lucam in errore secutum. Iam, quod Hieronymus? 
+      <lb ed="#L" n="13"/>Heluidium ait, Euangelistas opinionem vuli 
+      <lb ed="#L" n="14"/>primere, quae, vt inquit, vera historiae lex est: id 
+      <lb ed="#L" n="15"/>citur, si ad voces spectes. Non solum eni 
+      <lb ed="#L" n="16"/>omnes omnino sapientes, vt Aristoteles mo 
+      <lb ed="#L" n="17"/>ac vulgus sentiant, cum Vulgo saepe loquuntur: nec 
+      lo<lb ed="#L" n="18" break="no"/>quuntur falso tamen. Sic scriptura eos fratres 
+      appella<lb ed="#L" n="19" break="no"/>qui iuxta Philosophiae regulas proprie &amp; 
+      <lb ed="#L" n="20"/>runt, sed qui vulgo, ac sine falsitate id quidem, fratres 
+      vo<lb ed="#L" n="21" break="no"/>cantur. Sic etiam Euangelistae Ioseph patrem domini v 
+      <lb ed="#L" n="22"/>cauerunt, nec re tamen ipsa falsam opinionem vulgi 
+      se<lb ed="#L" n="23" break="no"/>cuti sunt, quamuis sint locuti cum Vulgo. Pater namque 
+      <lb ed="#L" n="24"/>Christi Ioseph sine mendacio dicebatur, &amp; quia nueritius 
+      <lb ed="#L" n="25"/>erat, &amp; quia vir matris Christi erat, vtrique enim patres 
+      <lb ed="#L" n="26"/>vocani solent. Quid ergo facturi sumus, qui, vt in 
+      prouer<lb ed="#L" n="27" break="no"/>bio est, Lupum vtraque aure tenemus? Si enim veteris in 
+      <lb ed="#L" n="28"/>strumenti versionem, qua ecclesia vtitur, asserere &amp; 
+      vin<lb ed="#L" n="29" break="no"/>dicare nitimur: arguimus non solum 7O. interpretes, 
+      com<lb ed="#L" n="30" break="no"/>menti frigidissimi, sed apertissimi etiam erroris 
+      Euange<lb ed="#L" n="31" break="no"/>listam. Sin Lucam defendere tuerique volumus, versionem 
+      <lb ed="#L" n="32"/>scripturae sacrae ecclesiae vsu decretoque probatam improba 
+      <lb ed="#L" n="33"/>mus. Incidit in scyllam cupiens vitare carybdin. Nobis 
+      <lb ed="#L" n="34"/>autem illud in primis vitandum est, ne Lucam euangelistam 
+      <lb ed="#L" n="35"/>atque adeo Christi euangelium suas hoc est, diuina 
+      aucto<lb ed="#L" n="36" break="no"/>ritate fraudemus. Tueamur itaque illam in genealogia 
+      <lb ed="#L" n="37"/>Christi generationem, quam Lucas ex 7O. interpretum 
+      <lb ed="#L" n="38"/>editione posuit. Etenim hanc quoque editionem ecc 
+      <lb ed="#L" n="39"/>uo vsu probauit. Graeci certe scripto 
+      <!--174.xml-->
+      <pb ed="#L" n="163"/>
+               <lb ed="#L" n="1"/>generationem cum 7O. interpretibus agnoscunt. Et 
+      <lb ed="#L" n="2"/>August. 16. de ciuit. Dei. cap. 1O. nec quoquam pacto fit 
+      <lb ed="#L" n="3"/>verosimile. 7O. interpretes viros probos vane frigideque  
+      <lb ed="#L" n="4"/>generationem illam vnam confinxisse. Quid? quod vt 
+      Ori<lb ed="#L" n="5" break="no"/>genes ait, hoc pro vero habendum in scripturis diuinis est,  
+      <lb ed="#L" n="6"/>quod 7O. interpretes: transtulerunt. Nam id esse quod 
+      au<lb ed="#L" n="7" break="no"/>ctoritate Apostolica confirmatum sit. Nostra igitur 
+      testa<lb ed="#L" n="8" break="no"/>menti veteris editio imminuta est. Exemplaria vero, quae 
+      <lb ed="#L" n="9"/>Hieronymus nactus est, non fuerunt integra. Itaque sine 
+      <lb ed="#L" n="10"/>culpa &amp; errore potuit vnam generationem omittere. Nam  
+      <lb ed="#L" n="11"/>&amp; Euangelista Matthaeus plures omisit &amp; sine errore 
+      omi<lb ed="#L" n="12" break="no"/>sit, quu Christi genealogiam texeret. Alioqui nostram 
+      <lb ed="#L" n="13"/>nos editionem a falsitate quidem omni, sed non ab omni 
+      <lb ed="#L" n="14"/>imperfectione vendicamus. Nec me illud latet quod ab  
+      <lb ed="#L" n="15"/>Hertmanno, Ioane Nauclero &amp; Lucido dictum est: Luca 
+      <lb ed="#L" n="16"/>euangelium esse deprauatum, ac pro verbo, fuit, particulam, 
+      <lb ed="#L" n="17"/>&amp;, substituendam hoc modo. Qui fuit Sale, qui &amp; Cainam. 
+      <lb ed="#L" n="18"/>Vt Sale binomius intelligatur. Sed hi non videntur 
+      edi<lb ed="#L" n="19" break="no"/>tionem 7O. legisse: vnde Cainam nomen ab Euangelista 
+      <lb ed="#L" n="20"/>acceptum est. In editione quinpe 7c. interpretum 
+      eun<lb ed="#L" n="21" break="no"/>dem fuisse Sale &amp; Cainam ne fingi quidem potest. Sed &amp; 
+      <lb ed="#L" n="22"/>aliter ac fortasse melius: haec controuersia dirimitur, si 
+      <lb ed="#L" n="23"/>dicamus: exemplaria Hebraica vera &amp; emendata non 
+      ha<lb ed="#L" n="24" break="no"/>bere quidem generationem illam Cainam: sed a septua 
+      <lb ed="#L" n="25"/>ginta interpretibus fuisse: adiectam. Nec adiecta est falfo 
+      <lb ed="#L" n="26"/>tamen. Quin vel ex maiorum traditione, vel ex historiis 
+      <lb ed="#L" n="27"/>fide dignis habitum est, Arphaxad genuisse Cainam, 
+      Cai<lb ed="#L" n="28" break="no"/>nam vero genuisse Sale. Septuaginta igitur interpres non 
+      <lb ed="#L" n="29"/>vere solum, sed forte etiam prudenter illam vnam 
+      gene<lb ed="#L" n="30" break="no"/>rationem posuere: id videlicet metuentes, ne Ethnici aut 
+      <lb ed="#L" n="31"/>Hebraeorum antiquas traditiones, aut sacras certe 
+      litera<lb ed="#L" n="32" break="no"/>falsitatis arguerent: si in his legerent, Arphaxad genuisse 
+      <lb ed="#L" n="33"/>Sale: exillis acciperent, non Arphaxad, sed Cainam Sase 
+      genu<lb ed="#L" n="34" break="no"/>isse. Spiritus autem Dei occulta nobis ratione Moysis 
+      men<lb ed="#L" n="35" break="no"/>tem manumque permouit, vt in ea patrum serie vnam illam ge 
+      <lb ed="#L" n="36"/>nerationem praeteriret. Quemadmodum diuino consilio Mat.  
+      <lb ed="#L" n="37"/>thaeus plures etiam in Christi genealogia praetermisit. Eandem 
+      <lb ed="#L" n="38"/>vero causam Moysi Matthaeoque fuisse non absurdem hac con 
+      <lb ed="#L" n="39"/>iectura assequemur. Matthaeus vbi primum Christi maiores 
+      <!--175.xml-->
+      <pb ed="#L" n="164"/>
+               <lb ed="#L" n="1"/>recensuit, omnes, inquit, generationes ab Abraham vsque 
+      <lb ed="#L" n="2"/>ad Dauid, &amp;c. vt ne quis suspicaretur, aliquem ex 
+      maio<lb ed="#L" n="3" break="no"/>ribus memoriae lapsu &amp; non potius de industria fuisse 
+      si<lb ed="#L" n="4" break="no"/>lentio praeteritum. Et quanuis multas rei huius fortasse 
+      <lb ed="#L" n="5"/>causas Euangelista posset reddere: eam magis tamen in 
+      <lb ed="#L" n="6"/>epilogo videtur prae se ferre, quae tessara decadis 
+      com<lb ed="#L" n="7" break="no"/>mendationem habet. Ob id quippe tres generationum 
+      <lb ed="#L" n="8"/>ordines numero aequales esse voluit, vt numerus 14. 
+      ter<lb ed="#L" n="9" break="no"/>etiam in domini stemmate consecraretur. Quod Moyses 
+      <lb ed="#L" n="10"/>vt fecerit, subest omnino causa eadem, Ab Adam enim 
+      <lb ed="#L" n="11"/>ad Noe decem generationes attexuit. A Noe autem ad 
+      <lb ed="#L" n="12"/>Abraham decem item alteras: vt in denario numero, in 
+      <lb ed="#L" n="13"/>quem maiorum vtramque seriem redegerat, mysterium 
+      <lb ed="#L" n="14"/>aliquod subesse intelligeremus. Cur autem numerus 
+      quar<lb ed="#L" n="15" break="no"/>tus decimus ad legem euangelicam, decimus vero ad 
+      na<lb ed="#L" n="16" break="no"/>turae legem referatur: non est huius diei locique 
+      dissere<lb ed="#L" n="17" break="no"/>re. Vbi id tantum dicimus, nec sine causa septuaginta 
+      in<lb ed="#L" n="18" break="no"/>terpretes Cainan generationem addidisse, nec sine 
+      my<lb ed="#L" n="19" break="no"/>sterio eandem Moysem praetermisisse. Vtrunque vere 
+      <lb ed="#L" n="20"/>vtrunqe prudenter factum esse. Alterum &amp; vere &amp; 
+      pru<lb ed="#L" n="21" break="no"/>denter Lucam esse secutum. Nec vero quis tragoedias 
+      <lb ed="#L" n="22"/>nobis excitare debet, quod editionem nostram 
+      imperfe<lb ed="#L" n="23" break="no"/>ctam esse in quibusdam locis dixerimus. Possunt enim 
+      <lb ed="#L" n="24"/>verba Hebraica nonnulla in medium adduci, quae 
+      Hie<lb ed="#L" n="25" break="no"/>ronymus ipse in commentariis satetur significantius &amp;  
+      <lb ed="#L" n="26"/>melius potuisse transferri. Quin etiam in Isaiae caput 19. 
+      <lb ed="#L" n="27"/>neo, inquit, quod nos transtulimus incuruantem &amp; 
+      re<lb ed="#L" n="28" break="no"/>fraenantem: possumus dicere incuruum &amp; lasciuientem. 
+      <lb ed="#L" n="29"/>Nos autem verbum Hebraicum atum dum celeriter 
+      <lb ed="#L" n="30"/>quae scripta sunt vertimus, ambiguitate decepti 
+      refraena<lb ed="#L" n="31" break="no"/>tem diximus. Quod significantius Aquila transtulerit 
+      <lb ed="#L" n="32"/>ggegyouro, id est, qui nihil recte agit: sed omne 
+      peruer<lb ed="#L" n="33" break="no"/>sum: Hactenus Hieronymus. Qui &amp; cap. 9. eiusdem 
+      pro<lb ed="#L" n="34" break="no"/>phetae vocabulum idem in deprauantem verterat. Ac 
+      cer<lb ed="#L" n="35" break="no"/>te nec sensus, nec verba Hebraica patiuntur, vt 
+      refrenan<lb ed="#L" n="36" break="no"/>tem admittamus, quod alio loco explicandum erit. Nam  
+      <lb ed="#L" n="37"/>de sexto argumento dictum est satis, vt arbitror, diligenter. 
+      </p>
+            <p xml:id="Z4Yt34-d1e303-d1e1404">
+               <lb ed="#L" n="38"/>Ad illud vero, quod septimo demum loco sequitur, 
+      <lb ed="#L" n="39"/>multa quidem &amp; varia sunt virorum doctissimorum re¬ 
+      <!--176.xml-->
+      <pb ed="#L" n="165"/>
+               <lb ed="#L" n="1"/>sponsa, sed adeo tamen improbabilia, vt nec doctis nec 
+      <lb ed="#L" n="2"/>piis faciant satis. Nam primam obiectionis particulam 
+      Au<lb ed="#L" n="3" break="no"/>gustinus Eugubinus ita repellit, vt in editione 7O. 
+      inter<lb ed="#L" n="4" break="no"/>pretum. &amp; Genes. 46. &amp; ExO. 1. librariorum vitio dicat 
+      <lb ed="#L" n="5"/>pro 7O. animabus scriptum esse. 75. Eandem quoque 
+      cor<lb ed="#L" n="6" break="no"/>ruptelam a librariis Acto. 7. accidisse. Vel etiam Lucam,  
+      <lb ed="#L" n="7"/>vt qui Hebraice nescierit, locum, vt se haberet ea 
+      tempe<lb ed="#L" n="8" break="no"/>state, corruptum citasse, aut certe si 7O. interpretes ita 
+      <lb ed="#L" n="9"/>conuerterint, Euangelistam eorum editionem, quae vbique 
+      <lb ed="#L" n="10"/>erat receptissima, fuisse secutum. At Hieronymus in 
+      quae<lb ed="#L" n="11" break="no"/>stionibus Hebraicis librariorum negligentiae nihil 
+      impu<lb ed="#L" n="12" break="no"/>tat: sed docet reclamare quidem Hebraeam veritatem 70. 
+      <lb ed="#L" n="13"/>autem interpretes per prolepsim. 75. animas posuisse. 
+      Lu<lb ed="#L" n="14" break="no"/>cam vero non debere contrarium aliquid scribere 
+      aduer<lb ed="#L" n="15" break="no"/>sus eam scripturam, quae iam fuerat gentibus diuulgata. 
+      <lb ed="#L" n="16"/>Maioris enim opinionis illo duntaxat tempore 7O. 
+      in<lb ed="#L" n="17" break="no"/>terpretum habebatur auctoritas, quam Lucae, qui 
+      igno<lb ed="#L" n="18" break="no"/>tus &amp; vilis &amp; non magnae fidei in nationibus ducebatur: 
+      <lb ed="#L" n="19"/>licet plerique, inquit, tradant Lucam Euangelista, vt 
+      prose<lb ed="#L" n="20" break="no"/>lytum Hebraeas literas ignorasse. Tantum Hieronymus. 
+      <lb ed="#L" n="21"/>Principio autem, vt a capite exordiamur, omnia 
+      exempla<lb ed="#L" n="22" break="no"/>ria tun noua tum vetera Graecaque &amp; Latina tribus simul 
+      lo<lb ed="#L" n="23" break="no"/>cis fuisse corrupta, vix credibile est. Nullum vero 
+      aucto<lb ed="#L" n="24" break="no"/>rem ante Eugubinum, quum &amp; in ea loca &amp; in hanc 
+      que<lb ed="#L" n="25" break="no"/>stionem incurrissent plurimi, rem apertissimam 
+      animad<lb ed="#L" n="26" break="no"/>uertere potuisse, mihi quidem non sit verosimile. Atque 
+      <lb ed="#L" n="27"/>si huiusmodi soluendis nodis librariorum iniuria pro 
+      li<lb ed="#L" n="28" break="no"/>bidine abutimur, verendum sane illud est, ne dum 
+      alie<lb ed="#L" n="29" break="no"/>nam prodere conamur inscitiam, prodamus nostram. 
+      <lb ed="#L" n="30"/>Alioqui si ita placet, omnes ambiguas quaestiones &amp; quae 
+      <lb ed="#L" n="31"/>in scriptura sacra videntur esse pugnantia, ad istum 
+      mo<lb ed="#L" n="32" break="no"/>dum explicemus. Id quod passim Eugubinus facit. Nam  
+      <lb ed="#L" n="33"/>&amp; postrema obiectionis parte pellenda affirmat, 
+      scriben<lb ed="#L" n="34" break="no"/>tium vitio pro Iacob positum esse Abraham. &amp; patris 
+      po<lb ed="#L" n="35" break="no"/>situm esse pro filii. Certe si Diuus Hieronymus, quum 
+      <lb ed="#L" n="36"/>ipsi 7O. interpretum obiiceretur auctoritas, hac se 
+      defen<lb ed="#L" n="37" break="no"/>sione tueri posset, ea libentissime abuteretur. Sed quum vi 
+      <lb ed="#L" n="38"/>deret exemplaria vniuersa mirifice consentire, 
+      exposito<lb ed="#L" n="39" break="no"/>resque omnes vnum idemque sonare: non mendosos codi¬ 
+      <!--177.xml-->
+      <pb ed="#L" n="166"/>
+               <lb ed="#L" n="1"/>ces causatus est, sed confessus est plane 7O. interpretes 
+      <lb ed="#L" n="2"/>ita vertisse, quos Lucas Euangelista sequeretur. At enim 
+      <lb ed="#L" n="3"/>Lucam. Euangelistam locum ex veteri restamento, vt ea 
+      <lb ed="#L" n="4"/>erat aetate deprauatum citasse: multo absurdius inuenio,  
+      <lb ed="#L" n="5"/>cum ad veritatem coepi reuocare rationem. Aut enim igno 
+      <lb ed="#L" n="6"/>rantem facimus Euangelistam, si eum latebat deprauatio, 
+      <lb ed="#L" n="7"/>aut timidum facimus, si diuina auctoritate pollens non  
+      <lb ed="#L" n="8"/>est ausus deprauata restituere, quod sine vlla auctoritat 
+      <lb ed="#L" n="9"/>Eugubinus est ausus. Impium est autem quod Spiritus 
+      san<lb ed="#L" n="10" break="no"/>cti consilio scripsit Lucas, id Hebraicarum literarum igno 
+      <lb ed="#L" n="11"/>rationi tribuere. Cum ergo singulas scripturae parti culas 
+      <lb ed="#L" n="12"/>diuina inspiratione &amp; afflatu scriptas esse causis necessa 
+      <lb ed="#L" n="13"/>riis addixerimus, nulla earum profecto potest a 
+      lingua<lb ed="#L" n="14" break="no"/>rum ignorantia proficisci: nisi spiritus sanctus, qui 
+      Euan<lb ed="#L" n="15" break="no"/>gelistae regebat &amp; mentem &amp; manum, Hebraicas literas 
+      <lb ed="#L" n="16"/>ignorarit. Dicamus igitur, id quod praesenti loco satis 
+      <lb ed="#L" n="17"/>est. 7O. interpretes. 75. animas Gen: 46. &amp; Exo. 1. 
+      posuis<lb ed="#L" n="18" break="no"/>se. Id quod ex contextu manifeste colligitur. Cum enim 
+      <lb ed="#L" n="19"/>Genes: 46. filios Manasses &amp; Ephrain, hoc est, Machir, 
+      <lb ed="#L" n="20"/>Galaad, Sutalaam. Taam, Edem, interpretes 7O. 
+      annume<lb ed="#L" n="21" break="no"/>rauerint, necesse fuit vt numerus. 75. conflaretur. An vero 
+      <lb ed="#L" n="22"/>Hebraica exemplaria, quae 7O. interpretes conuerterunt, 
+      ne<lb ed="#L" n="23" break="no"/>potes illos Ioseph in illa genealogia supputarint, an 
+      po<lb ed="#L" n="24" break="no"/>tius ipsi 7O. interpretes per anticipationem addiderint: 
+      in<lb ed="#L" n="25" break="no"/>certum est. Illud certum, quae detraxerint, bona fide haec &amp;  
+      <lb ed="#L" n="26"/>prudenti fortasse consilio detraxisse: quae adiecerint, ea sine 
+      <lb ed="#L" n="27"/>dolo adiecisse. Constat, enim eos nonnullis locis magis 
+      pa<lb ed="#L" n="28" break="no"/>raphrasim que interpretationem edere. Lucas vero ac caeteri 
+      <lb ed="#L" n="29"/>Apostoli &amp; Euangelistae. 7O. interpretum editione vsi sunt  
+      <lb ed="#L" n="30"/>quoniam eo tempore illa erat praestantissima. Nec alienum 
+      se<lb ed="#L" n="31" break="no"/>quuntur errorem, quod nonnulli imprudenter affirmant  
+      <lb ed="#L" n="32"/>sed in eo, quo illi vere locuti sunt, eorum testimoniis 
+      <lb ed="#L" n="33"/>vtuntur. Nec me illud terret, quod quidam obiiciunt,  
+      <lb ed="#L" n="34"/>historiae huius veritatem non nisi per fipuratam dictionem 
+      defen<lb ed="#L" n="35" break="no"/>di posse. Nam &amp; editio nostra eadem defensione eget. Quum 
+      <lb ed="#L" n="36"/>enim 7O. animae ingressae in Aegyptum dicuntur, necesse est 
+      <lb ed="#L" n="37"/>quoque Ephraim &amp; Manassem ad explendum numerum 
+      sup<lb ed="#L" n="38" break="no"/>putari, qui tamen ipsi in Aegyptum non sunt ingressi. Nec 
+      <lb ed="#L" n="39"/>mirum est, si in 7O. interpretum editione anticipatio sit. 
+      <!--178.xml-->
+      <pb ed="#L" n="167"/>
+               <lb ed="#L" n="1"/>Cum etiam in nostra admittamus postpositionem. Gene 
+      <lb ed="#L" n="2"/>seos si quidem c. 12. post mortem Thare praeceptum 
+      domi<lb ed="#L" n="3" break="no"/>ni scribitur, quo iubet Abraham exire de terra ac 
+      cogna<lb ed="#L" n="4" break="no"/>tione sua. At acto. 7. Stephanus non obscure docet, 
+      prae<lb ed="#L" n="5" break="no"/>ceptum illud datum esse in Chaldaea prius quam Thare 
+      <lb ed="#L" n="6"/>moreretur &amp; veniret in Charran. Id quod &amp; D. 
+      Augu<lb ed="#L" n="7" break="no"/>stinus acutam vidit. 16. li. de ciuit. Dei. Et ratio quoque ipsa 
+      <lb ed="#L" n="8"/>demonstrat. Cum enim iubeatur Abraham exire de 
+      terra<lb ed="#L" n="9" break="no"/>&amp; cognatione sua, Chaldaeam cogimur intelligere. Quae 
+      <lb ed="#L" n="10"/>propria erat terra Abraham, vbi etiam habebat 
+      cogna<lb ed="#L" n="11" break="no"/>tionem suam. Si autem de Charran iuberetur exire, certe, 
+      <lb ed="#L" n="12"/>nec de terra sua exiret, nec de cognatione. Nam licet 
+      <lb ed="#L" n="13"/>Charran pars Mesopotamiae esset, non erat tamen 
+      Chal<lb ed="#L" n="14" break="no"/>daeae pars, quod quidam parum docte asseruerunt. Nec clam 
+      <lb ed="#L" n="15"/>me est Hieronymum in Exech. 3O. ca. scripsisse: in libris 
+      hi<lb ed="#L" n="16" break="no"/>storicis praeposteram narrationem nullam reperiri, sed in 
+      psal<lb ed="#L" n="17" break="no"/>mis &amp; prophetis. Quod mirari magis equidem quam 
+      refelle<lb ed="#L" n="18" break="no"/>re debeo, cum in euangeliis constet anticipationes vsurpari. 
+      <lb ed="#L" n="19"/>Qua de re alio loco diligentius. Sed ne illud quidem 
+      mo<lb ed="#L" n="20" break="no"/>uet, quod Ioseph dicitur. 75. animas accersisse, eadem enim 
+      <lb ed="#L" n="21"/>difficultas esset, si 7O. solum animas posuisset. Cum 
+      Ephra<lb ed="#L" n="22" break="no"/>im &amp; Manassem nusquam omnino accersierit. Non igitur, 
+      <lb ed="#L" n="23"/>vt Hieronymus ad Pamma. de opt. ge. interp. recte dixit,  
+      <lb ed="#L" n="24"/>in scripturis verba non sunt consideranda, sed sensus. De 
+      <lb ed="#L" n="25"/>prima ergo 6. argumenti particula hactenus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e303-d1e1647">
+               <lb ed="#L" n="26"/>Iam secunda, licet difficilior esse videatur, facilius 
+      ta<lb ed="#L" n="27" break="no"/>men refelletur. Nam 12. Patriarchas sepultos esse non in 
+      <lb ed="#L" n="28"/>Hebron, sed in Sychem, non solum ex Stephani narratione, 
+      <lb ed="#L" n="29"/>sed etiam ex Hieronymi testimonio cognoscimus. In 
+      <lb ed="#L" n="30"/>epitaphio nanque Paulae ad Eustochium, quum Paulae 
+      pe<lb ed="#L" n="31" break="no"/>regrinationem scriberet, sic ait. Transiuit Sychem, &amp; circa 
+      <lb ed="#L" n="32"/>puteum Iacob extructam intrauit ecclesia. Atque inde 
+      di<lb ed="#L" n="33" break="no"/>uertens, vidit. 12. Patriarcharum sepulchra. Ad Pamma 
+      <lb ed="#L" n="34"/>autem de op. ge. int. 12. inquit, Patriarchae non sunt sepulti 
+      <lb ed="#L" n="35"/>in Arboch, sed in Sychem. Quam eandem sententiam Beda 
+      <lb ed="#L" n="36"/>sequitur, aliique viri ecclesiastici. Quantum vero fidei 
+      Iose<lb ed="#L" n="37" break="no"/>pho sit in historia habendum, vndecimo postea loco 
+      de<lb ed="#L" n="38" break="no"/>monstrabimus. Atque de 2. argumen.6. parte tantum 
+      di<lb ed="#L" n="39" break="no"/>ctum sit. 
+      <!--179.xml-->
+      <pb ed="#L" n="168"/>
+               <lb ed="#L" n="1"/>Tertia vero eademque, postrema indissolubilem videtur 
+      <lb ed="#L" n="2"/>habere quaestionem. Nam quod Augustinus Eugubinus 
+      <lb ed="#L" n="3"/>&amp; hunc secutus Aloysius Lippomanus dicunt, locum esse 
+      <lb ed="#L" n="4"/>deprauatum &amp; pro Abraham legendum esse lacob, pro 
+      <lb ed="#L" n="5"/>filii esse substituendum patris : consistere hoc nullo 
+      mo<lb ed="#L" n="6" break="no"/>do potest. Tum quoniam omnia exemplaria Graeca atque 
+      <lb ed="#L" n="7"/>Latina iam inde ab Apostolorum aetate fuisse corrupta 
+      <lb ed="#L" n="8"/>non verosimile quidem est. Tum quoniam non est 
+      pro<lb ed="#L" n="9" break="no"/>babile Hieronymum, Rabbanum, Bedam, aliosque item 
+      <lb ed="#L" n="10"/>ecclesiae auctores, qui in hunc locum &amp; quaestionem 
+      in<lb ed="#L" n="11" break="no"/>cidere, huiusmodi defensionis praesidium neglecturos: si 
+      <lb ed="#L" n="12"/>vel tantillum probabilitatis in ea inesse existimassent. Nec 
+      <lb ed="#L" n="13"/>viri prudentes &amp; graues difficillimam quaestionem esse 
+      <lb ed="#L" n="14"/>dixissent, quae minimo quidem negocio, vt iunioribus 
+      <lb ed="#L" n="15"/>istis visum est, explicaretur. Quid, quod in vocibus adeo 
+      <lb ed="#L" n="16"/>dissimilibus nulla deprauationis occasio erat? Si enim 
+      li<lb ed="#L" n="17" break="no"/>brarii pro euerrit scribant euertit, pro fortem fontem, 
+      <lb ed="#L" n="18"/>vocum scilicet magna similitudine fallentur. At pro 
+      Ia<lb ed="#L" n="19" break="no"/>cob Abraham, pro patris scribere filii: in tanta nimirum  
+      <lb ed="#L" n="20"/>nominum discrepantia nullae deprauationis causae fingi 
+      <lb ed="#L" n="21"/>possunt, nisi librariorum aut ebrietas aut amentia. Quid,  
+      <lb ed="#L" n="22"/>quod in exemplari Graeco nec filii nec patris expressum 
+      <lb ed="#L" n="23"/>est, sed post vocem Emor, solus genitiuus Tou &amp;uneno 
+      <lb ed="#L" n="24"/>scriptus legitur? Vbi Latinus interpres, quoniam 
+      pro<lb ed="#L" n="25" break="no"/>pensius id erat, filium subintellexit, non patrem. Ad quem 
+      <lb ed="#L" n="26"/>omnino modum Sanctus quoque Pagninus interpretatur. 
+      <lb ed="#L" n="27"/>Nec me fugit, in epistola ad Pamma. de opt. ge. in patris 
+      <lb ed="#L" n="28"/>legi, non fisij. Sed Erasini fortasse lectio illa est, non 
+      Hie<lb ed="#L" n="29" break="no"/>ronymi. Verum de voce patris nihil moror. Nam si 
+      Grae<lb ed="#L" n="30" break="no"/>ca phrasis permittit, quod permittit certe, vt vel filii vel 
+      <lb ed="#L" n="31"/>patris nomen subintelligatur, Stephanus, qui Graece 
+      lo<lb ed="#L" n="32" break="no"/>cutus est, nihil patietur in hac parte calumniae. At in 
+      vo<lb ed="#L" n="33" break="no"/>ce Abraham locum non habet Eugubini responsum, pro 
+      <lb ed="#L" n="34"/>qua si Lucas Iacob scripsisse dicitur, nihilo secius 
+      accu<lb ed="#L" n="35" break="no"/>labitur. Iacob enim non praetio argenti sepulchum emit,  
+      <lb ed="#L" n="36"/>sed centum nouellis ouibus: vt Iosue. capt vlt: scriptum 
+      <lb ed="#L" n="37"/>est. Scio autem, quae nouitii interpretes hoc loco 
+      disse<lb ed="#L" n="38" break="no"/>rant: sed scriptura, quam ecclesia probat, editio quoque 
+      <lb ed="#L" n="39"/>7O. centum nouellas oues habent, non nummos argenteos 
+      <!--180.xml-->
+      <pb ed="#L" n="169"/>
+               <lb ed="#L" n="1"/>centum. Maneat igitur exemplaria non esse corrupta. Et 
+      <lb ed="#L" n="2"/>quoniam eadem facilitate reliquae aliorum 
+      responsio<lb ed="#L" n="3" break="no"/>nes coargui possunt, nihil video esse causae cur eis 
+      refel<lb ed="#L" n="4" break="no"/>lendis immoremur. Sed ne libenter quidem aliorum 
+      sen<lb ed="#L" n="5" break="no"/>tentias reprehendimus. Hoc igitur loco mihi Bedae 
+      opi<lb ed="#L" n="6" break="no"/>nio placet, cui &amp; Rabbanus assensus est. Verba illius in 
+      <lb ed="#L" n="7"/>hunc modum habent. Beatus Stephanus vulgo loquens,  
+      <lb ed="#L" n="8"/>vulgi magis in dicendo sequitur opinionem. Duas enim 
+      <lb ed="#L" n="9"/>pariter narrationes coniungens, non tam ordinem 
+      circum<lb ed="#L" n="10" break="no"/>stantis historiae, quam causam de qua agebatur, intendit, 
+      <lb ed="#L" n="11"/>&amp;c. Eadem sere Rabbanus. Quibus verbis verecundem 
+      qui<lb ed="#L" n="12" break="no"/>dem ac modeste significarunt, Stephano, id quod vulgo 
+      <lb ed="#L" n="13"/>fere solet, accidisse: vt in longa videlicet: narratione 
+      ea<lb ed="#L" n="14" break="no"/>demque, praesertim subita confuderit nonnulla &amp; 
+      miscue<lb ed="#L" n="15" break="no"/>rit, in quibusdam etiam memoria lapsus fuerit, in his 
+      dun<lb ed="#L" n="16" break="no"/>taxat, quae ad rem parum, aut nihil omnino attinerent. Nam  
+      <lb ed="#L" n="17"/>causae, de qua potissimum agebatur erat intentus. Lucas 
+      <lb ed="#L" n="18"/>vero historiae veritatem retinere volens, neliota quidem 
+      <lb ed="#L" n="19"/>immutauit, sed rem, vt a Stephano narrata erat, exposuit. 
+      <lb ed="#L" n="20"/>Nos autem non Stephanum ab omni lapsu sed Euangelistam 
+      <lb ed="#L" n="21"/>vindicare debemus. Solis quippe Apostolis, prophetis &amp; 
+      <lb ed="#L" n="22"/>euangelistis hunc honore deferre catholica fide docente 
+      <lb ed="#L" n="23"/>didicimus, vt nullum eorum, vel memoria lapsum esse 
+      creda<lb ed="#L" n="24" break="no"/>mus, nullum nec in magnis nec in paruis errasse. At 
+      Ste<lb ed="#L" n="25" break="no"/>phanus plenus erat Spiritu sancto. fateor. At spiritus 
+      lo<lb ed="#L" n="26" break="no"/>quebatur in eo. Et id equidem fateor. Sed aliter in 
+      Chri<lb ed="#L" n="27" break="no"/>sto spiritus loquitur, aliter in prophetis &amp; Apostolis, 
+      ali<lb ed="#L" n="28" break="no"/>ter in Stephano &amp; Ambrosio. Ac certe per hos omnes 
+      <lb ed="#L" n="29"/>loquebatur. Perconcilium oenerale Deus ecclesiae 
+      lo<lb ed="#L" n="30" break="no"/>quitur, per ecclesiae pastores Deus ecclesiae loquitur, per 
+      <lb ed="#L" n="31"/>Veteres sanctos. Deus ecclesiae loquitur. Et hi omnes 
+      ta<lb ed="#L" n="32" break="no"/>men in paruis labi possunt, memoria presertim, vbi lapsus 
+      <lb ed="#L" n="33"/>facilior est, Scriptorum ergo sacrorum hoc priuilegium est,  
+      <lb ed="#L" n="34"/>vt eorum nullus in scribendo erret. Apostolorum 
+      priuile<lb ed="#L" n="35" break="no"/>gium est, vt nullus eorum inidocendo erret. Stephanc 
+      <lb ed="#L" n="36"/>priuilegium hoc nec ratio concedit, nec auctoritas. Nec 
+      <lb ed="#L" n="37"/>vero ab sacris auctoribus alienum est, errantium quoque 
+      <lb ed="#L" n="38"/>verba referre. Sic enim Iepte Iudi. 11. trecentos annos 
+      <lb ed="#L" n="39"/>possessionis praetendit, cu reuera trecenti non fuissent. Et 
+      <!--181.xml-->
+      <pb ed="#L" n="170"/>
+               <lb ed="#L" n="1"/>facer tamen historicus tercentos retulit. Sic etiam 
+      Mat<lb ed="#L" n="2" break="no"/>thaeus, si Hieronymo credimus, prophetiam Michaeae non  
+      <lb ed="#L" n="3"/>vt a Michaea scripta erant, sed vt a scribis erat enuntiata 
+      <lb ed="#L" n="4"/>retulit. Scribere autem quam vanis &amp; friuolis 
+      argumen<lb ed="#L" n="5" break="no"/>tis hanc Hieronymi sententiam Erasmus reprehenderit, 
+      <lb ed="#L" n="6"/>non est huius, aut loci, aut temporis. Illud dicendum est,  
+      <lb ed="#L" n="7"/>Hieronymi &amp; Augustini verba in eum torquere sensum, 
+      <lb ed="#L" n="8"/>vticredantur asserere, Euangelistas esse aliquando lapsos, 
+      <lb ed="#L" n="9"/>nisiparum pudenter fieri no posse. Cum enim 
+      Hierony<lb ed="#L" n="10" break="no"/>mus in epistola illa de optigen: int, quaedam loca e sacris 
+      <lb ed="#L" n="11"/>auctoribus retulisset, quae lapsui memoriae assignari 
+      pos<lb ed="#L" n="12" break="no"/>sent, subdit. Haec replico, non vt Euangelistas targuam 
+      falsi<lb ed="#L" n="13" break="no"/>tatis. Hoc quippe impiorum est, Celsi, Porphyrii, fuliani. 
+      <lb ed="#L" n="14"/>Id tamen ita Erasmus accipit, ut falsitatis crimen 
+      abomi<lb ed="#L" n="15" break="no"/>netur in Euangelistis Hieronymus: memoriae lapsum non 
+      <lb ed="#L" n="16"/>item. Quasi falsum non sit, nisi quod mendacio de 
+      indu<lb ed="#L" n="17" break="no"/>stria conficto scriptum est. Certe siue memoria seu 
+      igno<lb ed="#L" n="18" break="no"/>rantia lapsi Euangelistae a veritate discesserint, iure 
+      falsi<lb ed="#L" n="19" break="no"/>tatis arguentur. Cumqe etiam Augustinus lib. de 
+      cons<lb ed="#L" n="20" break="no"/>quange. 3. c. 7. non lapsui memoriae, non errori tribuerit, 
+      <lb ed="#L" n="21"/>quod. Euangelista Matthaeus. ca. 27. nomindid 
+      Hiere<lb ed="#L" n="22" break="no"/>miae citauerit, quod apud Aachariam reperitur: sed 
+      tri<lb ed="#L" n="23" break="no"/>buerit Spiritus sancti consilio, directioni, constitutioni, 
+      <lb ed="#L" n="24"/>praecepto, quamobre contenderit illud sine falsitate esse 
+      <lb ed="#L" n="25"/>tactum. At Erasmus errorem, &amp; lapsum Euangelistae, ex 
+      <lb ed="#L" n="26"/>Augusti. sententia interpretatur. Ea quam falso viris 
+      san<lb ed="#L" n="27" break="no"/>ctilsimis impingantur, facillime iudicari poterit, cum ex 
+      <lb ed="#L" n="28"/>iis ipsis locis, diligenter euolutis, tum ex aliis eorundem  
+      <lb ed="#L" n="29"/>auctorum testimoniis, quae nos capite superiore 
+      citaui<lb ed="#L" n="30" break="no"/>mus. Nam quartae controuersiae iam tempus est, vt finem 
+      <lb ed="#L" n="31"/>faciamus. Hic autem primus etiam locus concludetur,  
+      <lb ed="#L" n="32"/>non paucis ille quideminam id fieri non poterat, quod 
+      am<lb ed="#L" n="33" break="no"/>plissimus esset, &amp; iusti voluminis copiosam materiam 
+      sup<lb ed="#L" n="34" break="no"/>peditaret, sed quam paucissimis fieri licuit, vt loci firmis¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e303-d1e1936">
+               <lb ed="#L" n="35"/>simi auctoritas eo statu esset, quem neque humani   
+      <lb ed="#L" n="36"/>u ingenii temeritas, neque 
+      Haereticor<lb ed="#L" n="37" break="no"/>piuitus miuinti, Ium labefactaret iniuria, rie eitossi di¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e303-d1e1945">
+               <lb ed="#L" n="38"/>Secundi libri finis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

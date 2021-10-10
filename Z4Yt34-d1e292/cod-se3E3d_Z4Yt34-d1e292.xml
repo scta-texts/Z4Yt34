@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 17</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 17</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="147"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e292"><!-- Z4Yt34-l2c17 -->
+            <head xml:id="Z4Yt34-d1e292-Hd1e106">Caput 17</head>
+            <p xml:id="Z4Yt34-d1e292-d1e109">
+               <lb ed="#L" n="17"/>cap. Decimumseptimum, Vbi ostenditur, singulas particulas 
+      <lb ed="#L" n="18"/>librorum canonicorum, Spiritu 8. assistente 
+      <lb ed="#L" n="19"/>sriptas fuisse.
+    </p>
+            <p xml:id="Z4Yt34-d1e292-d1e118">
+               <lb ed="#L" n="20"/>IN hac quaestione &amp; controuersia non defuisse, qui 
+      <lb ed="#L" n="21"/>priorem illam partem amplecterentur, auctor est 
+      Di<lb ed="#L" n="22" break="no"/>uus Hieronymus non in eo solum loco, quem paulo 
+      an<lb ed="#L" n="23" break="no"/>te retulimus, sed in commentarijs etiam super quintum 
+      <lb ed="#L" n="24"/>Micheae caput. Cuius erroris nota Erasmo quoque, vt 
+      <lb ed="#L" n="25"/>alios dissimulem, inusta est. Is autem error quam sit 
+      im<lb ed="#L" n="26" break="no"/>pius, illo primum argumento demonstro: quod 
+      sacra<lb ed="#L" n="27" break="no"/>rum scripturarum magna ex parte labefactatur 
+      auctori<lb ed="#L" n="28" break="no"/>tas, si haec opinio vera est. Nam, vt Augustinus ait, si in 
+      <lb ed="#L" n="29"/>sacro quouis libro vnaquaelibet falsitas reperitur, totius 
+      <lb ed="#L" n="30"/>libri certitudo interit. Quo vno argumento 
+      Augusti<lb ed="#L" n="31" break="no"/>nus de consen. Euangel. libro secundo cap. duo decimo  
+      <lb ed="#L" n="32"/>satis ostensum ac patefactum esse credit, Prophetarum  
+      <lb ed="#L" n="33"/>&amp; Apostolorum scripta nullam omnino habere 
+      falsita<lb ed="#L" n="34" break="no"/>tem, non solum eam, quae mentiendo promitur, sed ne 
+      <lb ed="#L" n="35"/>tam quidem, quae obliuiscendo. Leuibus, inquiunt in 
+      re<lb ed="#L" n="36" break="no"/>bus &amp; nihil ad salutem nostram pertinentibus, auctores 
+      <lb ed="#L" n="37"/>sacri &amp; falluntur &amp; fallunt. Ea igitur in dubium vocare 
+      <!--159.xml-->
+      <pb ed="#L" n="148"/>
+               <lb ed="#L" n="1"/>possumus, quae maxima &amp; grauissima sunt. Non eadem,  
+      <lb ed="#L" n="2"/>aiunt, causa est: Quoniam si ecclesiam, cuius erudiendae 
+      <lb ed="#L" n="3"/>gratia spiritum sacri auctores habuere, spiritus ipse in 
+      par<lb ed="#L" n="4" break="no"/>uis destituit, non mox destituit in magnis. Consentiunt 
+      <lb ed="#L" n="5"/>enim Theologi grauissimi, ecclesiam errare in minimia 
+      <lb ed="#L" n="6"/>posse, in maximis non posse. Quid igitur obstat, inquiunt, 
+      <lb ed="#L" n="7"/>cur non ad eundem quoque modum asseramus, 
+      Aposto<lb ed="#L" n="8" break="no"/>los &amp; Euangelistas in rebus parui momenti interdum 
+      la<lb ed="#L" n="9" break="no"/>psos, cum in rebus necessarijs lapsi non fuerint? Nam, fi 
+      <lb ed="#L" n="10"/>superis placet, huiusmodi errores in Apostolis maxime 
+      <lb ed="#L" n="11"/>&amp; Euangelijs agnoscunt. Quod si dicimus, spiritus 
+      sug<lb ed="#L" n="12" break="no"/>gessit Apostolis &amp; Euangelistis omnia. Aiunt, non omnia 
+      <lb ed="#L" n="13"/>simpliciter: sed quaecunque Christus dixisset illis. Haec 
+      <lb ed="#L" n="14"/>autem erant maxima. Si addimus, docuit spiritus eos 
+      om<lb ed="#L" n="15" break="no"/>nem veritatem. Respondent, non absolute omnem 
+      qui<lb ed="#L" n="16" break="no"/>dem, sed quae esset ad salutem necessaria. Sic elabi conan 
+      <lb ed="#L" n="17"/>tur isti. Sed frustra conantur tamen. Principio enim 
+      ec<lb ed="#L" n="18" break="no"/>quid rogo isti facturi sunt, si cum homine disserant, qui 
+      <lb ed="#L" n="19"/>multa Euangeliorum miracula commentitia esse, Euange 
+      <lb ed="#L" n="20"/>listasque Herodoti, Tenophontis ac Platonis exemplo, tun 
+      <lb ed="#L" n="21"/>fictis narrationibus abusos dicat, aut Christi illustranidi 
+      <lb ed="#L" n="22"/>gratia, aut fidelium in Christum affectus excitandi? Nempe 
+      <lb ed="#L" n="23"/>hoc facere, vt homines, sine Dei spiritu potuere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e292-d1e214">
+               <lb ed="#L" n="24"/>Deinde quam facile erit cuique res vel graues, vel leues 
+      <lb ed="#L" n="25"/>pro suo arbitratu ingenioque aestimare? Iam hic dicet 
+      <lb ed="#L" n="26"/>tibi, tres vnius substantiae praedicari personas 
+      leuicu<lb ed="#L" n="27" break="no"/>lum esse, nec ad salutem nostram pertinere. Iam 
+      conten<lb ed="#L" n="28" break="no"/>det alius, duas in Christo &amp; operationes &amp; voluntates e 
+      <lb ed="#L" n="29"/>rebus esse non grauibus. Nam &amp; spiritus a patre &amp; filio 
+      <lb ed="#L" n="30"/>procedentis vnicum esse principium, tamquam rem leuem 
+      <lb ed="#L" n="31"/>quidam contemnendam arbitratur. Quin, quod tertia 
+      <lb ed="#L" n="32"/>die an quarta Christus resurrexerit, cum non valde ad sa 
+      <lb ed="#L" n="33"/>lutem attineat, pro nihilo quispiam habebit. In his itaque  
+      <lb ed="#L" n="34"/>Euangelistas, Apostolos, Prophetas, errare, labi, 
+      halluci<lb ed="#L" n="35" break="no"/>nari potuisse. Porro, vt reliquas scripturae partes 
+      praeter<lb ed="#L" n="36" break="no"/>eamus, in sacris historijs distingui discernique non posset, 
+      <lb ed="#L" n="37"/>quid ex Deo, quid ex homine sit: quid auctor ex 
+      reuela<lb ed="#L" n="38" break="no"/>tione diuina, quid contra ex spiritu humano &amp; ingenio 
+      <lb ed="#L" n="39"/>proferat. Quocirea fluctuaret passim &amp; legentium &amp; au¬ 
+      <!--160.xml-->
+      <pb ed="#L" n="149"/>
+               <lb ed="#L" n="1"/>dientium fides, dum ignorarent, quonam spiritu, hominis 
+      <lb ed="#L" n="2"/>an Dei vnaquaelibet chronicorum sanctorum particula 
+      <lb ed="#L" n="3"/>fuisset scripta. Quis est autem tam perfrictae frontis, vt 
+      <lb ed="#L" n="4"/>pro Euangelistis nonnihil humano more loquamur, vt si 
+      <lb ed="#L" n="5"/>quid in publicum scribere velit de rebus, quarum memo 
+      <lb ed="#L" n="6"/>ria sit recentissima, quasque lectores fere suis non auribus 
+      au<lb ed="#L" n="7" break="no"/>dierint, sed conspexerint oculis: ea sponte inserat, quae 
+      <lb ed="#L" n="8"/>cum ad tem nihil faciant, tum narrationem totam falsam  
+      <lb ed="#L" n="9"/>&amp; incertam efficiant: Adeone stulti erant Euangelistae, 
+      <lb ed="#L" n="10"/>vt ea, quae omittere sine periculo poterant, aut 
+      affinge<lb ed="#L" n="11" break="no"/>rent, aut etiam pro certis assererent, cum manifesto 
+      dis<lb ed="#L" n="12" break="no"/>crimine causae, quam persuadendam acceperant? Quod si tales 
+      <lb ed="#L" n="13"/>fuissent, certe Iudei, quibus tanto erant opere inuisi, omni 
+      <lb ed="#L" n="14"/>vi &amp; arte contenderent atque adeo efficerent, vt huiusmodi, 
+      <lb ed="#L" n="15"/>vel figmenta, vel errata dephenderentur. Sed humana 
+      lo<lb ed="#L" n="16" break="no"/>quimur. Nam si in subitis concionibus Spiritus 8. 
+      Aposto<lb ed="#L" n="17" break="no"/>lorum linguas attemperabat, quid in scriptis, quae 
+      futura<lb ed="#L" n="18" break="no"/>erant aeterna? Et si noui testamenti idonei administri 
+      A<lb ed="#L" n="19" break="no"/>postoli &amp; Euangelistae facti sunt, illorum profecto 
+      suffi<lb ed="#L" n="20" break="no"/>cientia non ex illis, sed ex Deo est : illorum proinde error 
+      <lb ed="#L" n="21"/>Dei est, non illorum. Nos enim ab Apostolis, Christi 
+      te<lb ed="#L" n="22" break="no"/>stamentum accepimus: &amp; cum illos audimus, Christum au 
+      <lb ed="#L" n="23"/>dimus, cum eorum, Euangelium legimus, Christi legimus 
+      <lb ed="#L" n="24"/>Euangelium. Ac cum lex Moysis, quod est ministerium 
+      <lb ed="#L" n="25"/>mortis, tan. exacta diligentia scripta sit, vt iota vnum aut 
+      <lb ed="#L" n="26"/>vnus apex ex ea praeteriri non possit, multo certe magis 
+      <lb ed="#L" n="27"/>Euangelium Christi, quod est ministerium spiritus ac vitae,  
+      <lb ed="#L" n="28"/>scriptum erit tanta cura &amp; Dei assistentis afflatu, vt non mo 
+      <lb ed="#L" n="29"/>do verbum, sed ne apex quidem vllus sit, quod non sit ab  
+      <lb ed="#L" n="30"/>spiritu diuino suppeditatus. Quid? quod Apostolus 
+      offi<lb ed="#L" n="31" break="no"/>ciosum mendacium, quodque ad Dei laudem maxime per 
+      <lb ed="#L" n="32"/>tinere videretur, penitus horret, inquiens, Si autem 
+      Chri<lb ed="#L" n="33" break="no"/>stus non resurrexit, inanis est praedicatio nostra: inanis 
+      <lb ed="#L" n="34"/>est &amp; fides vestra, Inucuimur autem &amp; falsi testes Dei, quo 
+      <lb ed="#L" n="35"/>niam testimonium diximus aduersus Deum, quod 
+      susci<lb ed="#L" n="36" break="no"/>tauerit Christum, quem non suscitauit, si mortui non 
+      re<lb ed="#L" n="37" break="no"/>surgunt. Quod si falsitas haec, quae cum Dei potentiam  
+      <lb ed="#L" n="38"/>commendaret, tum populum in officio contineret, a 
+      sa<lb ed="#L" n="39" break="no"/>cris auctoribus excluditur, certe quaecunqe alia ac multo 
+      <!--161.xml-->
+      <pb ed="#L" n="150"/>
+               <lb ed="#L" n="1"/>etiam magis reijcietur. Nulla enim in sacris literis leuis 
+      <lb ed="#L" n="2"/>sed grauis esset, per quam scripturae auctoritas 
+      eleuare<lb ed="#L" n="3" break="no"/>tur. Iam si in huius rei confirmationem arcanarum 
+      litera<lb ed="#L" n="4" break="no"/>rum nos testimonia referre velimus, verendum sane est, ne 
+      <lb ed="#L" n="5"/>qui oppositum errorem tueri cupiunt, illa se ratione 
+      tue<lb ed="#L" n="6" break="no"/>antur, quod auctor scripturae sacrae eo etiam loco, qui a 
+      <lb ed="#L" n="7"/>nobis afferetur, non de spiritu diuino, sed de suo fuerit 
+      <lb ed="#L" n="8"/>locutus. Ita fieret, vt vix vllum e sacris literis testimonium 
+      <lb ed="#L" n="9"/>aduersum haereticos firmum esset. Quamobrem hos quidem 
+      <lb ed="#L" n="10"/>ab hoc sermone remoueamus, qui erronea sententia 
+      om<lb ed="#L" n="11" break="no"/>nem scripturae &amp; vim minuunt &amp; eleuant auctoritatem.  
+      <lb ed="#L" n="12"/>Ipsi vero fateamur, singula quaeque siue magna, seu parua 
+      <lb ed="#L" n="13"/>a sacris auctoribus Spiritu sancto dictante esse edita. Ida 
+      <lb ed="#L" n="14"/>patribus accepimus, id fidelium anin. is inditum &amp; quasi 
+      <lb ed="#L" n="15"/>insculptum est, id itaque ad nos ecclesia praesertim ipsa 
+      <lb ed="#L" n="16"/>magistra &amp; duce retinere debemus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

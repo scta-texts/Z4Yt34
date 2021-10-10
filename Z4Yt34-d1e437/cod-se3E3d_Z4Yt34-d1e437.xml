@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="234"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e437"><!-- Z4Yt34-l4c4 -->
+            <head xml:id="Z4Yt34-d1e437-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e437-d1e109">
+               <lb ed="#L" n="26"/>Quaenam sit ecclesiae catholicae in fidei dogmate auctoritas. 
+      <lb ed="#L" n="27"/>Caput quartum.
+    </p>
+            <p xml:id="Z4Yt34-d1e437-d1e116">
+               <lb ed="#L" n="28"/>Eecclesiae nomine ea dicta sunt, quae, cum necessaria 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e121">
+               <lb ed="#L" n="29"/>viderentur, praeteriri a nobis nec poterant nec 
+      de<lb ed="#L" n="30" break="no"/>bebant. Nunc ad rem ipsam, quae est in manibus, 
+      aggre<lb ed="#L" n="31" break="no"/>diamur: ostendamusque ecclesiae auctoritatem tantum 
+      <lb ed="#L" n="32"/>habere ad faciendam fidem, virium, vt firmissima etiam  
+      <lb ed="#L" n="33"/>theologis argumenta suppeditet. Hoc priusquam facio, 
+      <lb ed="#L" n="34"/>admonere operaepretium est, ecclesiam non ipsam modo 
+      <lb ed="#L" n="35"/>catholicorum concionem esse, quae per baptismum 
+      Chri<lb ed="#L" n="36" break="no"/>sto &amp; nomen dedit &amp; peculiaris nouaque respub. 
+      conse<lb ed="#L" n="37" break="no"/>crata est, verum etiam principes ac praefectos ipsos 
+      eccle<lb ed="#L" n="38" break="no"/>siasticos, in quibus scilicet reip. huius auctoritas potissi¬ 
+      <!--246.xml-->
+      <pb ed="#L" n="235"/>
+               <lb ed="#L" n="1"/>mum residet. Nec id nos aut recenti opinione 
+      confingi<lb ed="#L" n="2" break="no"/>mus, aut sine scripturae testimonijs afferimus. Praeclarum 
+      <lb ed="#L" n="3"/>est Aristotelis illud: ciuitatem id maxime esse, quod est in 
+      <lb ed="#L" n="4"/>ea principale. Inde enim quae principes ac gubernatores 
+      <lb ed="#L" n="5"/>ciuitatis faciunt &amp; sentiunt, ea ciuitas facere sentireque 
+      <lb ed="#L" n="6"/>dicitur. Cuius rei in sacris illud exemplum est, 
+      Congre<lb ed="#L" n="7" break="no"/>gati sunt omnes maiores natu lsrael cum principibus 
+      tri<lb ed="#L" n="8" break="no"/>buum, &amp; duces familiarum in Hierusalem. Et inferius, 
+      Con<lb ed="#L" n="9" break="no"/>uertitque rex faciem suam, &amp; benedixit omni ecclesiae 
+      ls<lb ed="#L" n="10" break="no"/>rael: omnis enim ecclesia lsrael stabat. Illud etiam simile 
+      <lb ed="#L" n="11"/>huic, Venit Moyses, &amp; conuocans maiores natu populi, 
+      <lb ed="#L" n="12"/>exposuit omnes sermones quos mandauerat dominus. 
+      <lb ed="#L" n="13"/>Responditque omnis populus simul, cuncta, quae locutus 
+      <lb ed="#L" n="14"/>est dominus faciemus. No est igitur, cur in hac 
+      significa<lb ed="#L" n="15" break="no"/>catione ecclesiae vocabulum fideles perhorrescant: quod 
+      <lb ed="#L" n="16"/>haeretici facere solent in odium ecclesiasticae potestatis: 
+      <lb ed="#L" n="17"/>quam Christus non penes populares, sed penes ecclesiae 
+      <lb ed="#L" n="18"/>lacerdotes ac pastores esse voluit: vt alio &amp; loco &amp; 
+      tem<lb ed="#L" n="19" break="no"/>pore, si facultas erit, explicabitur. Nunc scholae more rem 
+      <lb ed="#L" n="20"/>totam, quae huius libri caput est, quatuor conclusionibus 
+      <lb ed="#L" n="21"/>absoluemus. Sit ergo prima conclusio. 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e195">
+               <lb ed="#L" n="22"/>Ecclesiae fides deficere non potest. Est enim sponsa 
+      <lb ed="#L" n="23"/>Christi per fidem, sicut scriptum est, Desponsabo te mihi 
+      <lb ed="#L" n="24"/>in fide. Quod si ecclesiae fides deesset, iam sponsi sponsaeque  
+      <lb ed="#L" n="25"/>matrimonium dirimeretur: quorum tamen est 
+      indissolu<lb ed="#L" n="26" break="no"/>bilis perpetuaque coniunctio, Sponsabo, ait, te inihi in 
+      <lb ed="#L" n="27"/>sempiternum. Et sponsa. Tenui, inquit, eum nec dimittam.  
+      <lb ed="#L" n="28"/>Et ille rursum, Ecce ego vobiscum sum, ait omnibus 
+      die<lb ed="#L" n="29" break="no"/>bus, vsque ad consummationem seculi. Quo testimonio 
+      <lb ed="#L" n="30"/>ad id probandum vtitur Leo ad Augustam &amp; Theodo 
+      <lb ed="#L" n="31"/>rum. Probat etiam Iulius in decretis suis illo psalmi 
+      testi<lb ed="#L" n="32" break="no"/>monio, Circundate Sion &amp; complectimini eam, quoniam  
+      <lb ed="#L" n="33"/>hic est Deus noster in seculum: ipse reget nos in 
+      secula<lb ed="#L" n="34" break="no"/>Quod de ecclesia Christi iutelligi oportere, quicunque 
+      <lb ed="#L" n="35"/>psalmum leget, etiam me non demonstrante, intellecturus 
+      <lb ed="#L" n="36"/>est. Idem quoque ostenditur ex eo, Regnabit in domo 
+      sa<lb ed="#L" n="37" break="no"/>cob in aeternum, &amp; regni eius non erit finis. Sisergo in 
+      aeter<lb ed="#L" n="38" break="no"/>num ecclesia Christi manu sustinetur, Christi praesidio 
+      ar<lb ed="#L" n="39" break="no"/>matur, Christi virtute fulcitur, Christi sapientia regitur, 
+      <!--247.xml-->
+      <pb ed="#L" n="236"/>
+               <lb ed="#L" n="1"/>fides profecto in ea permanebit, sine qua regnum Christi 
+      <lb ed="#L" n="2"/>in terris nullum est. Confirmat autem hoc clarissima illa 
+      <lb ed="#L" n="3"/>lsaiae vaticinatio, Hoc foedus meum cum eis, dicit dominus,  
+      <lb ed="#L" n="4"/>spiritus meus qui est in te, &amp; verba mea quae posui in ore 
+      <lb ed="#L" n="5"/>tuo, non recedent de ore tuo, &amp; de ore seminis tui, &amp; de 
+      <lb ed="#L" n="6"/>ore seminis seminis tui, a modo &amp; vsque in sempiternum. 
+      <lb ed="#L" n="7"/>Huic &amp; illa similis est, Disposui testamentum electis meis,  
+      <lb ed="#L" n="8"/>iuraui Dauid seruo meo. Vsque in aeternum praeparabo 
+      <lb ed="#L" n="9"/>semen tuum. Item, Elegit dominus Sion, elegit eam in 
+      ha<lb ed="#L" n="10" break="no"/>bitationem sibi. Haec requies mea in seculum seculi. 
+      Illa<lb ed="#L" n="11" break="no"/>vero Hieremiae est longe simillima, Ecce dies veniunt 
+      di<lb ed="#L" n="12" break="no"/>cit dominus, &amp;c. Praeterea vir sapiens describitur a 
+      Do<lb ed="#L" n="13" break="no"/>mino is, qui aedificauit domum suam super petram : 
+      Chri<lb ed="#L" n="14" break="no"/>stus igitur domum suam super petram fundauit. Quare, 
+      <lb ed="#L" n="15"/>nec pluuia, nec flumina, nec venti obruere illam possunt. 
+      <lb ed="#L" n="16"/>At fide stamus, vt ait Paulus, ecclesia igitur fidem semper 
+      <lb ed="#L" n="17"/>habebit. Nam alias non stabit, sed ruet. Quid? quod 
+      aper<lb ed="#L" n="18" break="no"/>tis verbis hanc fidei firmitatem ecclesiae suae dominus 
+      <lb ed="#L" n="19"/>pollicetur, inquiens, super hanc petram aedificabo 
+      ec<lb ed="#L" n="20" break="no"/>clesiam meam, &amp; portae inferi non praeualebunt 
+      aduer<lb ed="#L" n="21" break="no"/>sus eam? Ecclesiae igitur fidem non poterit vel infernus 
+      <lb ed="#L" n="22"/>adimere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e290">
+               <lb ed="#L" n="23"/>Conclusio secunda, Ecclesia in credendo errare non  
+      <lb ed="#L" n="24"/>potest. Nonnulli enim ecclesiae perpetuam fidem sic 
+      in<lb ed="#L" n="25" break="no"/>terpretantur, vt intelligant. Deum ecclesiae esse 
+      praesen<lb ed="#L" n="26" break="no"/>tem vsque ad seculi consummationem: ne vnquam vera 
+      <lb ed="#L" n="27"/>illi fides &amp; charitas desint. Sed posse tamen probabiliter 
+      <lb ed="#L" n="28"/>gnorare rem Vnam quamlibet, qua scilicet ignorata, non  
+      <lb ed="#L" n="29"/>proinde ecclesia fidem amitteret. Faciamus enim 
+      dispu<lb ed="#L" n="30" break="no"/>tationis gratia, non esse a Deo reuelatum. Diuam 
+      Virgi<lb ed="#L" n="31" break="no"/>nem ab originali peccato immunem extitisse. Nihil enim 
+      <lb ed="#L" n="32"/>prohibet re fictam exempli loco ponere, quo facilius res 
+      <lb ed="#L" n="33"/>intelligatur. Quanquam exemplum verum est, vt 
+      poste<lb ed="#L" n="34" break="no"/>rius ostendemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e319">
+               <lb ed="#L" n="35"/>Aiunt ergo, quod quamuis ecclesia crederet, sanctam  
+      <lb ed="#L" n="36"/>virginem fuisse sine peccato conceptam, ideinque 
+      defini<lb ed="#L" n="37" break="no"/>ret ab omnibus esse credendum: non tamen in eo fidei 
+      ia<lb ed="#L" n="38" break="no"/>cturam facere existimaretur. Nam licet falleretur, at error 
+      <lb ed="#L" n="39"/>probabilis &amp; inculpatus fidem ecclesiae non excluderet. 
+      <!--248.xml-->
+      <pb ed="#L" n="237"/>
+               <lb ed="#L" n="1"/>Cuius sententiae, si de facie consideres, videntur esse 
+      Clos<lb ed="#L" n="2" break="no"/>sa interlinearis, sic enim vocant, in illud, portae inferi non  
+      <lb ed="#L" n="3"/>praeualebusit aduersus eam: &amp; D. Tho. in. 4. 4. 6. 4. 1. art. 3. 
+      <lb ed="#L" n="4"/>q. 2. ad. 3. &amp; Cardinalis Turrecre. lib. summae ecclesiae. 2. 
+      <lb ed="#L" n="5"/>c. 91. Et Alphosus a Castro Tamoren. de iusta. haere. 
+      pun<lb ed="#L" n="6" break="no"/>lib. 1. cap. 5. 
+      <lb ed="#L" n="7"/>At re vera id nos superiore propositione constituimus,  
+      <lb ed="#L" n="8"/>nempe ecclesiam semper fidem habituram. Verum est hoc: 
+      <lb ed="#L" n="9"/>quis negat? Sed praeterea ecclesiam in fide errare non posse, 
+      <lb ed="#L" n="10"/>sic a fidelibus accipiendum est, vt quicquid ecclesia 
+      tan<lb ed="#L" n="11" break="no"/>quam fidei dogma tenet, verum sit: nec quicquam falsum, 
+      <lb ed="#L" n="12"/>quod illa aut credit, aut docet esse credendum. Cum enim 
+      <lb ed="#L" n="13"/>corpus Christi sit, vt ad Ephes: docet Apostolus, a suo 
+      <lb ed="#L" n="14"/>certe capite mouetur ac regitur. Ecclesiae igitur error ad 
+      <lb ed="#L" n="15"/>Christum auctorem referetur. Nullo itaque pacto errare in 
+      <lb ed="#L" n="16"/>fide potest. Nam spiritus veritatis est huius corporis 
+      ani<lb ed="#L" n="17" break="no"/>ma, Vnus, inquit, spiritus &amp; vnum corpus. Quod si spiritu 
+      <lb ed="#L" n="18"/>veritatis ecclesia agitur, ad nullum errorem ne insciens 
+      <lb ed="#L" n="19"/>quidem, moueri poterit. Praeclara deinde promissionem 
+      <lb ed="#L" n="20"/>habet ecclesia, quod nunquam sit a Christo deserenda, 
+      quin<lb ed="#L" n="21" break="no"/>eius spiritu in omnem ducatur veritatem. Ego rogabo 
+      pa<lb ed="#L" n="22" break="no"/>trem, ait, &amp; alium paracletum dabit vobis, vt n aneat 
+      vo<lb ed="#L" n="23" break="no"/>biscum in aeternum, spiritum veritatis, quem vos 
+      cogno<lb ed="#L" n="24" break="no"/>scetis, quia apud vos manebit. Et postea, Paracletus autem 
+      <lb ed="#L" n="25"/>Spiritus sanctus ille vos docebit omnia, &amp; suggeret 
+      vo<lb ed="#L" n="26" break="no"/>bis omnia quaecunque dixero vobis. Item, cum autem 
+      Vene<lb ed="#L" n="27" break="no"/>rit ille spiritus veritatis, docebit vos omnem veritatem.  
+      <lb ed="#L" n="28"/>Nec me fugit, quod haeretici argumentum hoc duobus 
+      <lb ed="#L" n="29"/>modis eludere conantur. Primum enim, eiusmodi verba 
+      <lb ed="#L" n="30"/>aiunt de solis apostolis intelligenda: neque ad posteros in 
+      <lb ed="#L" n="31"/>ecclesia pertinere. Mox affirmant, Christum non tantum 
+      <lb ed="#L" n="32"/>numero duodenario coniunctum, sed apostolis quoque 
+      scor<lb ed="#L" n="33" break="no"/>sum singulis spiritum veritatis promisisse. Imo alijs 
+      simi<lb ed="#L" n="34" break="no"/>liter discipulis, vel quos iam assumpserat, vel qui postea 
+      <lb ed="#L" n="35"/>accessuri erant. Nam si eiusmodi promissiones sic 
+      inter<lb ed="#L" n="36" break="no"/>pretemur, quasi nemini Christianorum datae sint, sed 
+      vni<lb ed="#L" n="37" break="no"/>uersae simul ecclesiae, nihil nos aliud quam Christianis 
+      <lb ed="#L" n="38"/>omnibus consolationem tollere, quae inde ad ipsos redire 
+      <lb ed="#L" n="39"/>eximia debuerat. Sed vtraque iuxtam in re rustice indocteque  
+      <!--249.xml-->
+      <pb ed="#L" n="238"/>
+               <lb ed="#L" n="1"/>nugantur. Principio enim, verba illa non modo ad 
+      apo<lb ed="#L" n="2" break="no"/>stolos, sed ad successores etiam referri oportere, ex eo ante 
+      <lb ed="#L" n="3"/>omnia patet, Qui maneat vobiscum in aeternum. Quod illi 
+      <lb ed="#L" n="4"/>simile est, Ecce ego vobiscum sum omnibus diebus vsque 
+      <lb ed="#L" n="5"/>ad consummationem seculi. Rursum ex eo quoque patet,  
+      <lb ed="#L" n="6"/>sanctifica eos in veritate: sermo euus Veritas est. Pro eis 
+      <lb ed="#L" n="7"/>ego sanctificabo me ipsum, vt sint &amp; ipsi sanctificati in 
+      ve<lb ed="#L" n="8" break="no"/>ritate. Non pro eis autem rogo tantum, sed pro eis qui 
+      <lb ed="#L" n="9"/>credituri sunt per verbum eorum in me. Atque 
+      promis<lb ed="#L" n="10" break="no"/>sionis huius Isaias mihi videtur illustris non vates 
+      mo<lb ed="#L" n="11" break="no"/>do, sed interpres. Spiritus meus, ait, qui est in te, non 
+      re<lb ed="#L" n="12" break="no"/>cedet de ore tuo &amp; de ore seminis tui a modo &amp; vsque in 
+      <lb ed="#L" n="13"/>sempiternum. Quem igitur spiritum veritatis Christus 
+      <lb ed="#L" n="14"/>promisit apostolis, ecclesiae item post eos futurae 
+      promi<lb ed="#L" n="15" break="no"/>sit: nisi velimus ecclesiam defunctis apostolis fuisse a 
+      Do<lb ed="#L" n="16" break="no"/>mino destitutam: Imo vero ad eam nec concilia nec 
+      prae<lb ed="#L" n="17" break="no"/>cepta evangelij pertinere. Siquidem quae dominus apostolis 
+      <lb ed="#L" n="18"/>loquebatur, haec ad illos dumtaxat, non ad futuros in ecclesia 
+      <lb ed="#L" n="19"/>post eos spectare dicuntur. Quo quid stultius dici potest? 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e467">
+               <lb ed="#L" n="20"/>Iam secunda illa tergiuersatio quam vana etiam &amp; 
+      ridi<lb ed="#L" n="21" break="no"/>cula est? Si enim hoc ita communiter fidelibus dictum esse 
+      <lb ed="#L" n="22"/>volunt, vt seorsum quadret in singulos : sequitur, cuicumque 
+      <lb ed="#L" n="23"/>fideli spiritum veritatis sempiternum adesse, qui eum doceat 
+      <lb ed="#L" n="24"/>omnem veritatem, suggeratque ei omnia quaecunque dicta in 
+      <lb ed="#L" n="25"/>euangelio sunt. Sod esto, spiritu sapientiae, intelligetiae, 
+      lu<lb ed="#L" n="26" break="no"/>cis, veritatis, omnes polleant: num inficias ire possumus, 
+      quic<lb ed="#L" n="27" break="no"/>quid particulatim membrorum vnicuique tribuitur, id 
+      peni<lb ed="#L" n="28" break="no"/>tus &amp; ad plenum corpori conuenire? Quid ad hoc 
+      respon<lb ed="#L" n="29" break="no"/>deat <name xml:id="Z4Yt34-d1e437-Nd1e490">Caluinus</name> audiamus, Hoc, ait, tametsi habet 
+      nonnul<lb ed="#L" n="30" break="no"/>am veri speciem, veruntamen esse nego. O stultum 
+      ho<lb ed="#L" n="31" break="no"/>minem &amp; repugnantem manifestae veritati. An ignorat,  
+      <lb ed="#L" n="32"/>quae spiritus sancti dona singulis membris distribuuntur,  
+      <lb ed="#L" n="33"/>in communi conferri omnia? An videt oculus, &amp; non  
+      <lb ed="#L" n="34"/>magis homo videt: An non lucerna corporis est 
+      ocu<lb ed="#L" n="35" break="no"/>lus? Quid vero absurdius, quam membrum posse 
+      quic<lb ed="#L" n="36" break="no"/>quam, quod corpus nequeat efficere, partem habere, quod 
+      <lb ed="#L" n="37"/>non habeat totum? Vnicuique, ait, nostrum data est 
+      <lb ed="#L" n="38"/>gratia secundum mensuram donationis Christi. Et 
+      ip<lb ed="#L" n="39" break="no"/>se dedit quosdam quidem apostolos, &amp; caetera. ad con¬ 
+      <!--250.xml-->
+      <pb ed="#L" n="239"/>
+               <lb ed="#L" n="1"/>consummationem sanctoru in opus ministerij, in 
+      aedifica<lb ed="#L" n="2" break="no"/>tionem corporis Christi. Et posterius, crescamus in illo 
+      <lb ed="#L" n="3"/>qui est caput Christus: ex quo totum corpus compactum 
+      <lb ed="#L" n="4"/>&amp; connexum secundum operationem, in mensuram 
+      vnius<lb ed="#L" n="5" break="no"/>cuiusque membri, argumentum corporis facit in 
+      aedifica<lb ed="#L" n="6" break="no"/>tionem sui in charitate. Membrum igitur, quoniam id qd 
+      <lb ed="#L" n="7"/>est totius corporis est, nihil sibi vendicat proprium: sed 
+      <lb ed="#L" n="8"/>ita in corpus omnia confert, vt magis corporis que 
+      mem<lb ed="#L" n="9" break="no"/>bri actiones perfectionesque esse videantur. Quocirca 
+      il<lb ed="#L" n="10" break="no"/>lud absurdum est, quod ij scilicet quibus cum nunc 
+      disse<lb ed="#L" n="11" break="no"/>ritur, eam curam, quam debent capere, non capiunt: eam  
+      <lb ed="#L" n="12"/>capiunt, qua debent carere. Non enim probant, verba 
+      <lb ed="#L" n="13"/>Christi minime ad ecclesiam attinere, probant attinere 
+      <lb ed="#L" n="14"/>ad singulos: quod contra oportebat, si propositum illis 
+      <lb ed="#L" n="15"/>erat argumenti vires infirmare. Nos sane, quemadmodum 
+      <lb ed="#L" n="16"/>scimus animam actum &amp; perfectionem esse, maxime 
+      qui<lb ed="#L" n="17" break="no"/>dem corporis Physici organici, secundo autem loco mem  
+      <lb ed="#L" n="18"/>brorum etiam singulorum: in quibus varias licet edat 
+      <lb ed="#L" n="19"/>functiones, sed omnes illae &amp; corporis proprie sunt, &amp; 
+      <lb ed="#L" n="20"/>propter corpus ipsum membris a natura tributae. Ita 
+      spi<lb ed="#L" n="21" break="no"/>ritum veritatis ad corpus primum ecclesiae referimus, 
+      de<lb ed="#L" n="22" break="no"/>inde propter ecclesiam ad singulas etiam ecclesiae partes,  
+      <lb ed="#L" n="23"/>non ex aequo, sed analogia &amp; proportione quadam iuxta 
+      <lb ed="#L" n="24"/>mensuram vniuscuiusque membri. Vnum corpus, 
+      in<lb ed="#L" n="25" break="no"/>quit, &amp; vnus spiritus. Vnicuique autem nostrum data 
+      <lb ed="#L" n="26"/>est gratia secundum mensuram donationis Christi. 
+      Quae<lb ed="#L" n="27" break="no"/>nam vero haec mensura Christi est? Secundum 
+      operatio<lb ed="#L" n="28" break="no"/>nem, ait, in mensuram vniuscuiusque membri. Spiritus 
+      <lb ed="#L" n="29"/>ergo suo quidem modo singulis promissus est : vt 
+      ma<lb ed="#L" n="30" break="no"/>gnos doceat, doceat &amp; paruulos. Ac paruulis lac potum 
+      <lb ed="#L" n="31"/>dat: maioribus solidum cibum. Illis Christum loquitur, 
+      <lb ed="#L" n="32"/>&amp; hunc crucifixum : his loquitur sapientiam in mysterio 
+      <lb ed="#L" n="33"/>absconditam. Verum singulis membris sic spiritus 
+      veri<lb ed="#L" n="34" break="no"/>tatis adest, vt non solum corpori vniuerso non desit, sed 
+      <lb ed="#L" n="35"/>corpori quam membris prius potiusque intelligatur 
+      ad<lb ed="#L" n="36" break="no"/>esse. Quin etiam, si veritas omnium membrorum 
+      do<lb ed="#L" n="37" break="no"/>num est, tunc nimirum illa erit &amp; firmior &amp; certior, 
+      <lb ed="#L" n="38"/>cum in eam omnia simul membra concurrerint. 
+      Quam<lb ed="#L" n="39" break="no"/>obrem, si quid falsi haberet Ecclesia tanquam fidei 
+      <!--251.xml-->
+      <pb ed="#L" n="240"/>
+               <lb ed="#L" n="1"/>catholicae dogma, nec spiritus Christi aeternum cum fide 
+      <lb ed="#L" n="2"/>libus permaneret, nec eos omnem doceret veritatem. 
+      <lb ed="#L" n="3"/>Quae, nisi Christi pollicitationes vanas &amp; irritas facimus,  
+      <lb ed="#L" n="4"/>vera rataque esse non possunt. Ac si dogma falsum ecclesia 
+      <lb ed="#L" n="5"/>crederet, credendummue proponeret, quamlibet ex 
+      igno<lb ed="#L" n="6" break="no"/>rantia id faceret, quomodo columna &amp; firmamentum 
+      es<lb ed="#L" n="7" break="no"/>set veritatis? Certe si veritas in ecclesiae humeris innixa 
+      <lb ed="#L" n="8"/>est, deesse illi omnino non potest, nisi &amp; ecclesiae suae 
+      Chri<lb ed="#L" n="9" break="no"/>stus, &amp; Christo ipsa veritas desit. In summa, si ecclesia 
+      <lb ed="#L" n="10"/>posset in fidei quaestione falli, librum quoque vt diuinum 
+      <lb ed="#L" n="11"/>recipere posset, qui tamen a Deo non fuisset. Cum sit 
+      ca<lb ed="#L" n="12" break="no"/>dem ratio de vno libro, ac de vno quolibet dogmate. 
+      <lb ed="#L" n="13"/>Quare non valeret argumentum, Ecclesia habet 
+      euange<lb ed="#L" n="14" break="no"/>lium Matthaei pro canonico, ergo canonicum est. Quod,  
+      <lb ed="#L" n="15"/>quoniam impijssime &amp; absurdissime diceretur, illud nos 
+      <lb ed="#L" n="16"/>dicamus potius, recte fideles ecclesiam catholicam 
+      cre<lb ed="#L" n="17" break="no"/>dere, non solum in eo sensu, vt Ecclesiae catholicae fides 
+      <lb ed="#L" n="18"/>deficiat nunquam: sed in eo etiam, vt nihil ipsa 
+      credere<lb ed="#L" n="19" break="no"/>aut docere possit, quod sit verae fidei contrarium. 
+      Subdo<lb ed="#L" n="20" break="no"/>le autem atque versute mentem nostram Caluinus 
+      Buce<lb ed="#L" n="21" break="no"/>rusque interpretantur. Quasi in eum sensum ecclesiam  
+      <lb ed="#L" n="22"/>negemus errare posse, quod spiritus fauore ac praesentia 
+      <lb ed="#L" n="23"/>freta, quocunque volet pergere, tuto etiam sine verbo 
+      <lb ed="#L" n="24"/>incedat. Proinde, si quid praeter Dei verbum crediderit,  
+      <lb ed="#L" n="25"/>statuerit, finierit, id habendum esse non alio loco, quam  
+      <lb ed="#L" n="26"/>certum Dei oraculum. In hoc igitur discrimen esse aiutem, 
+      <lb ed="#L" n="27"/>quod nos ecclesiae auctoritatem extra verbum Dei 
+      col<lb ed="#L" n="28" break="no"/>locamus: ipsi verbo annexam volunt, nec patiuntur ab  
+      <lb ed="#L" n="29"/>eo separari. Laborat autem Caluinus vehementer in ijs 
+      <lb ed="#L" n="30"/>locis colligendis, in quibus Prophetae, Apostoli, atque 
+      <lb ed="#L" n="31"/>adeo Christus ipse nihil ex se attulisse, sed de ore 
+      Domi<lb ed="#L" n="32" break="no"/>ni locuti fuisse memorantur. Conficit multo equius esse, 
+      <lb ed="#L" n="33"/>ecclesiam Christi discipulam ab eius ore assidue 
+      pende<lb ed="#L" n="34" break="no"/>re: nec ex se sapere aut cogitare quicquam, sed statuere 
+      <lb ed="#L" n="35"/>sapientiae suae terminum, vbi loquendi finem ille fecerit. 
+      <lb ed="#L" n="36"/>ganctissime enim Chrysostomus: Multi, inquit, Spiritum 
+      <lb ed="#L" n="37"/>sanctum iactant, sed qui propria loquuntur, falso illum 
+      <lb ed="#L" n="38"/>praetendunt. Vt Christus non a seipso Ioqui se 
+      testaba<lb ed="#L" n="39" break="no"/>tur: ita si quid praeter Euangelium sub titulo spiritus 
+      <!--252.xml-->
+      <pb ed="#L" n="241"/>
+               <lb ed="#L" n="1"/>obtrudatur, ne credamus. Sane Christus nihil plus de 
+      <lb ed="#L" n="2"/>suo spiritu denunciat expectandum, quam vt mentes 
+      <lb ed="#L" n="3"/>illuminet ad percipiendam doctrinae suae veritatem. 
+      Spi<lb ed="#L" n="4" break="no"/>ritus, ait, ducet vos in omnem veritatem. Sed quomodo? 
+      <lb ed="#L" n="5"/>Quia suggeret omnia quaecunque dixero vobis. Haec 
+      o<lb ed="#L" n="6" break="no"/>mnia Caluinus. Nam Bucerus dixit multo etiam 
+      indo<lb ed="#L" n="7" break="no"/>ctius, tunc esse ecclesiae credendum, cum pronuntiat 
+      se<lb ed="#L" n="8" break="no"/>cundum scripturas recte intellectas. Sed hoc cum dicit,  
+      <lb ed="#L" n="9"/>omnia facit ambigua, quae sint ab ecclesia definita. Si 
+      e<lb ed="#L" n="10" break="no"/>nim aliter potest pronunciare, quam scriptura sane 
+      intel<lb ed="#L" n="11" break="no"/>lecta exigit: excipiemus semper, ecclesiam in eo falli, que 
+      <lb ed="#L" n="12"/>falso scripturam intelligit. Ecquis vero iudex erit, an 
+      ec<lb ed="#L" n="13" break="no"/>clesia scripturam rite an secus interpretetur? Nihil 
+      igi<lb ed="#L" n="14" break="no"/>tur afferunt, qui ecclesiae auctoritatem non absolutem, sed 
+      <lb ed="#L" n="15"/>ex conditione ponunt. Si namque ad eum modum res habet, 
+      <lb ed="#L" n="16"/>&amp; mihi quoque fides habenda est, quando 
+      pronuntiaue<lb ed="#L" n="17" break="no"/>ro secundum scripturas recte intellectas. Id enim est non  
+      <lb ed="#L" n="18"/>mihi, sed scripturae credere. At, absolute, non ex 
+      condi<lb ed="#L" n="19" break="no"/>tione populus Domino credidit &amp; Moysi seruo eius. Ab  
+      <lb ed="#L" n="20"/>solute etiam Prophetis &amp; Apostolis populi crediderunt. 
+      <lb ed="#L" n="21"/>Quale vero esset Prophetis Apostolisque loquentibus 
+      <lb ed="#L" n="22"/>fidem ea exceptione detrahere, quod perperam Dei 
+      ver<lb ed="#L" n="23" break="no"/>ba intellexissent? Quale item esset, si illa quoque 
+      exce<lb ed="#L" n="24" break="no"/>ptio adderetur: Mendacium tu loqueris, non misit te 
+      do<lb ed="#L" n="25" break="no"/>minus Deus noster: Ac valde mirum est, tam nihil esse 
+      <lb ed="#L" n="26"/>frontis istis nebulonibus. Quid enim tandem 
+      auctorita<lb ed="#L" n="27" break="no"/>tis in ecclesia erit, si in omni dogmate, lege, definitione, 
+      <lb ed="#L" n="28"/>dupliciter eludi potest: quod aut sermonem ipsa suum 
+      <lb ed="#L" n="29"/>efferat, aut, si sermo Domini sit, non sane intellectum? Sed 
+      <lb ed="#L" n="30"/>redeo ad caluinum, qui cum sibi vulgatum illud Domini 
+      <lb ed="#L" n="31"/>testimonium obiecisset, si ecclesiam non audierit, sit tibi 
+      <lb ed="#L" n="32"/>sicut ethnicus &amp; publicanus, fatetur demum ecclesiam au s 
+      <lb ed="#L" n="33"/>diendam esse: vt quae nunquam nisi in veritatem Dei 
+      con<lb ed="#L" n="34" break="no"/>sentiat, nihil nisi ex verbo Domini pronuntiet. In hoc se 
+      <lb ed="#L" n="35"/>insistere, non licere ecclesiae nouam doctrinam condere, 
+      <lb ed="#L" n="36"/>&amp; plus pro oraculo tradere, quam quod Dominus verbo 
+      <lb ed="#L" n="37"/>suo reuelauit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e778">
+               <lb ed="#L" n="38"/>Verum enimuero inter suos hic mirifice garrit, &amp; vel 
+      <lb ed="#L" n="39"/>stulte ignorat, vel maliciose mentitur, cum dicit, nos id 
+      <!--253.xml-->
+      <pb ed="#L" n="242"/>
+               <lb ed="#L" n="1"/>pro oraculo fidei habere, quod homines sine Dei reuel 
+      <lb ed="#L" n="2"/>tione censuerint. Nos sane fidem nostram indiuidi 
+      <lb ed="#L" n="3"/>nexum cum Verbo Dei coniunctam esse volumus, nec 
+      <lb ed="#L" n="4"/>lum ecclesiae assensum fidenter firmeque sustinemus,  
+      <lb ed="#L" n="5"/>quem a Deo extitisse habemus cognitum, &amp; firmo 
+      co<lb ed="#L" n="6" break="no"/>ptum animo. Sed illud quoqe certo nobis persuasum 
+      <lb ed="#L" n="7"/>Dominum ecclesiae suae perpetuo ac continenter ade 
+      <lb ed="#L" n="8"/>&amp; eam spiritu suo regere, ne quicquam pro fidei docti 
+      <lb ed="#L" n="9"/>tradat, quod non idem fuerit Apostolis a Deo traditi 
+      <lb ed="#L" n="10"/>Ita omnes prophanas nouationes execramur, omneque 
+      <lb ed="#L" n="11"/>lud in fidei iudicio respuimus, quod non Apostoli 
+      ecc<lb ed="#L" n="12" break="no"/>siae tradiderint. Non ergo in hoc, sed in eo potissimi 
+      <lb ed="#L" n="13"/>cardine quaestio versatur, quod Lutherani negant 
+      ec<lb ed="#L" n="14" break="no"/>siam quicquam sine scripto ab Apostolis accepisse: n 
+      <lb ed="#L" n="15"/>contra plura esse accepta asseueramus. Qua de re &amp; mul 
+      <lb ed="#L" n="16"/>ta alias saepe diximus, &amp; dicemus multa posterius. Quan 
+      <lb ed="#L" n="17"/>quam in superiore libro adeo plene ac copiose quaesti 
+      <lb ed="#L" n="18"/>haec explanata est, vt nihil praeterea desiderandum esse? 
+      <lb ed="#L" n="19"/>deatur. Ipsa mihi veritas manum iniecit, &amp; paulisper 
+      <lb ed="#L" n="20"/>consistere &amp; commorari coegit: dum priores 
+      conclu<lb ed="#L" n="21" break="no"/>siones explico. Celerius proinde in posteriores 
+      incur<lb ed="#L" n="22" break="no"/>rendum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e837">
+               <lb ed="#L" n="23"/>Sit igitur tertia conclusio. Non solum ecclesia antiqua 
+      <lb ed="#L" n="24"/>in fide errare non potuit, sed ne ecclesia quidem, quae 
+      <lb ed="#L" n="25"/>nunc est, quaeue futura est vsque ad consummationem 
+      <lb ed="#L" n="26"/>seculi, errare in fide aut potest, aut poterit. Haec 
+      con<lb ed="#L" n="27" break="no"/>clusio partim ostensa est in libri secundi capite septimo:  
+      <lb ed="#L" n="28"/>partim ex his, quae dudum diximus comprobatur. Nam  
+      <lb ed="#L" n="29"/>pollicitationes Christi de praesentia sua, de spiritu 
+      ve<lb ed="#L" n="30" break="no"/>ritatis, de regno ipsius sempiterno, de corpore cuius 
+      <lb ed="#L" n="31"/>ipse erat futurus caput, non ad ecclesiam modo, quae fuit 
+      <lb ed="#L" n="32"/>tempore Aposolorum, verum etiam ad Ecclesiam catho 
+      <lb ed="#L" n="33"/>licam, quae futura erat in seculi finem, pertinere 
+      neces<lb ed="#L" n="34" break="no"/>sum est. Id quoniam ex argumentis, quae prioribus 
+      con<lb ed="#L" n="35" break="no"/>clusionibus confirmandis posita sunt, manifeste 
+      colli<lb ed="#L" n="36" break="no"/>gitur: vanum profecto erit, aut acta agere, si eadem 
+      ar<lb ed="#L" n="37" break="no"/>gumenta repetimus, aut si noua ponimus, vti in re 
+      <lb ed="#L" n="38"/>non dubia, rationibus minime necessarijs. Certe qui 
+      <lb ed="#L" n="39"/>ecclesiae praesenti spiritum veritatis negare praetenderit, 
+      <!--254.xml-->
+      <pb ed="#L" n="243"/>
+               <lb ed="#L" n="1"/>is negabit eidem panistatum 
+      lita<lb ed="#L" n="2" break="no"/>gabit sacrameun&amp; suertmtium, 
+      on<lb ed="#L" n="3" break="no"/>sancti charisma. Ia nunc orelenas? 
+      <lb ed="#L" n="4"/>men contraherut, enitim: sine re nonitui 
+      <lb ed="#L" n="5"/>Verum de teria cunciusiune hacterua. 
+      <lb ed="#L" n="6"/>Quarta concliso. Nun suium aeriuis 
+      <lb ed="#L" n="7"/>est, collenio, omnium fiielium aum 
+      teri<lb ed="#L" n="8" break="no"/>piternum habee: sed cundum inueitemam 
+      <lb ed="#L" n="9"/>pes ac pasiores. Duimus eniam aiessa. 
+      <lb ed="#L" n="10"/>pulo fideli &amp; pro ecclesiae pastarinus  
+      <lb ed="#L" n="11"/>itaque condiusiones ilius aftruthis, quim 
+      <lb ed="#L" n="12"/>est, oimfidelii concio tereret, d teri eie, sm 
+      ui<lb ed="#L" n="13" break="no"/>affirmat, pastores ecclesiae &amp; doqurumummum 
+      <lb ed="#L" n="14"/>posse: sed quicquid fidelem populum docemt, nunum? 
+      <lb ed="#L" n="15"/>sti fidem attineat, esse rerissimum. Hinc candisun 
+      <lb ed="#L" n="16"/>ostendam, si prius admonuero: pasions inia 
+      Eiar<lb ed="#L" n="17" break="no"/>item errore pastorum omnium, fidei non derogat? 
+      <lb ed="#L" n="18"/>ne paucorum quidem fidelium error fidei derogurr 
+      <lb ed="#L" n="19"/>E Christiani. Pastores igitur ac doctores omntra 
+      f<lb ed="#L" n="20" break="no"/>aunquam posse aberrare contendimus. Sic est sir¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e437-d1e924">
+               <lb ed="#L" n="21"/>Id primum, mea sententia quidem, manifeste 
+      dononii<lb ed="#L" n="22" break="no"/>illud Apostoli testimonium. Et ijse dedit quosdam i. 
+      <lb ed="#L" n="23"/>stolos, quosdam autem prophetas, alios rero 
+      euangelili<lb ed="#L" n="24" break="no"/>alios autem pastores &amp; doctores ad consurmationum si¬¬ 
+      <lb ed="#L" n="25"/>ctorum in opus ministerij in agdificationem corpori 
+      Chri<lb ed="#L" n="26" break="no"/>st: donec occurramus omnes in ruitate fide, &amp; 
+      agui<lb ed="#L" n="27" break="no"/>nis fli Dei in virum perfectum: rtiam non sinus 
+      <lb ed="#L" n="28"/>fluctuante, &amp; circumferamur omni vento dodtinae in 
+      e<lb ed="#L" n="29" break="no"/>quitia hominum, in astutia ad circunuentionem 
+      erre<lb ed="#L" n="30" break="no"/>s pastoresat doctores hucatque illuc erarent. are 
+      <lb ed="#L" n="31"/>adei ranite discederent, oues proseuo iplae enam 
+      <lb ed="#L" n="32"/>nec aliter quam sine pastore disperse ragarentur. 
+      <lb ed="#L" n="33"/>stor enm perabrupta graditur, neesse est, qua? 
+      <lb ed="#L" n="34"/>gonus ait, vt per praecipitum grer 
+      segua<lb ed="#L" n="35" break="no"/>potest, nsi vtmembra reliqua to duierum 
+      <lb ed="#L" n="36"/>oculi sum rimatque aciem 
+      imentum<lb ed="#L" n="37" break="no"/>inclinauert atque deflexerit. Bere miaen E 
+      <lb ed="#L" n="38"/>plis ni amae terae 
+      o<lb ed="#L" n="39" break="no"/>precintionis ese auruis, dulomu  
+      <!--255.xml-->
+      <pb ed="#L" n="244"/>
+               <lb ed="#L" n="1"/>dare: quorum videlicet auctoritate, plebs sua natura 
+      <lb ed="#L" n="2"/>concitata atque mutabilis, in fidei constantia superno 
+      mu<lb ed="#L" n="3" break="no"/>nere contineatur. Quod si nullum ecclesiae suae pastore 
+      <lb ed="#L" n="4"/>daret Christus, iam sine dubio ouile suum pastor bonus 
+      <lb ed="#L" n="5"/>ille desereret. Atqui multo melius ecclesiae est nullos 
+      ha<lb ed="#L" n="6" break="no"/>bere, quam errantes habere. Si igitur pastores ad vnum  
+      <lb ed="#L" n="7"/>omnes a veritate discederent, oues suas Christus, vel 
+      ma<lb ed="#L" n="8" break="no"/>xime destituisset. Praeterea, si pastores omnes in errore 
+      <lb ed="#L" n="9"/>aliquo versarentur, sidem omnino populum aut de statu 
+      <lb ed="#L" n="10"/>suo, &amp; sede mouerent, aut certe nutare facerent, 
+      vacilla<lb ed="#L" n="11" break="no"/>re, fluctuare. Ita domus Christi non esset columna &amp; 
+      fir<lb ed="#L" n="12" break="no"/>mamentum veritatis. Faciamus insuper omnes simul 
+      epi<lb ed="#L" n="13" break="no"/>scopos in eandem sententiam conuenire, hancque 
+      populo<lb ed="#L" n="14" break="no"/>rudi credendam proponere: tunc rogo, an populus hos 
+      <lb ed="#L" n="15"/>sequi debeat, an non?Si debet, cum errantibus ergo 
+      sa<lb ed="#L" n="16" break="no"/>cerdotibus &amp; episcopis plebs quoque erret necesse est.  
+      <lb ed="#L" n="17"/>Quare sacerdotum omnium error totius erit error 
+      eccle<lb ed="#L" n="18" break="no"/>siae. Sin autem populo omnium pastorum doctrinam leuem 
+      <lb ed="#L" n="19"/>existimare licet, vide quaeso, an hac sententia absurdior 
+      <lb ed="#L" n="20"/>alia dici, aut existimari possit. Si enim hinc pastores, inde 
+      <lb ed="#L" n="21"/>oues in contrarias partes separentur : corporis compacti 
+      <lb ed="#L" n="22"/>ac per omnem iuncturam connexi disiunctio omnem 
+      ec<lb ed="#L" n="23" break="no"/>elesiae distrahet vnitatem, &amp; non solum inter optimates 
+      <lb ed="#L" n="24"/>&amp; populum constitutam a Christo societatem euertet, 
+      <lb ed="#L" n="25"/>sed communem etiam inter se fidelium consociationem 
+      <lb ed="#L" n="26"/>dirimet, cuius consociationis arctissimum vinculum 
+      fi<lb ed="#L" n="27" break="no"/>dei est, conspiratio eadem &amp; consensus partium non 
+      di<lb ed="#L" n="28" break="no"/>uulsus. Diuulsus autem omnium erit, si populorum 
+      mem<lb ed="#L" n="29" break="no"/>bra a suis capitibus diuellantur. Atqe vbi semel plebs 
+      ru<lb ed="#L" n="30" break="no"/>dis a doctorum suorum communi sententia declinauerit, 
+      <lb ed="#L" n="31"/>quorum doctrinam postea secutura est? Si salem 
+      abiece<lb ed="#L" n="32" break="no"/>rit, in quo salietur Si a luce mentis aciem abduxerit, quid 
+      <lb ed="#L" n="33"/>nisi tenebras intuebitur Si oculus est malus, nonne &amp; 
+      cor<lb ed="#L" n="34" break="no"/>pus tenebrosum erit? Vbi vero illud, Super cathedram 
+      <lb ed="#L" n="35"/>Moysi sederunt scribae &amp; Pharisaei, quodcunque dixerint 
+      <lb ed="#L" n="36"/>vobis facites An ne meliore statu &amp; conditione scribae &amp;  
+      <lb ed="#L" n="37"/>Pharisaei erunt, quam ecclesiae Christi pastores ac 
+      docto<lb ed="#L" n="38" break="no"/>res? Certe, si praesentibus solum &amp; non item futuris 
+      do<lb ed="#L" n="39" break="no"/>minus loqueretur, vt auctor imperfecti argumentatur,  
+      <!--256.xml-->
+      <pb ed="#L" n="245"/>
+               <lb ed="#L" n="1"/>dicta illa fuissent, non scripta. Dicta sunt autem propter 
+      <lb ed="#L" n="2"/>illos, scripta propter istos. Ad haec, Veritas videi in 
+      ca<lb ed="#L" n="3" break="no"/>tholicorum controuersiis, quemadmodum in secundo 
+      li<lb ed="#L" n="4" break="no"/>bro constituimus, librisque etiam quinto &amp; septimo 
+      con<lb ed="#L" n="5" break="no"/>firmandum est, non est a populo quaerenda. Tum 
+      quoni<lb ed="#L" n="6" break="no"/>am id esset operis infiniti, vt ad quaestionem vnam 
+      quam<lb ed="#L" n="7" break="no"/>libet decernendam, omnium sententia fidelium 
+      rogare<lb ed="#L" n="8" break="no"/>tur: tum etiam quoniam, vt fieri id commodissime 
+      pos<lb ed="#L" n="9" break="no"/>let, non deceret tamen, aut cerdonum, aut muliercularum 
+      <lb ed="#L" n="10"/>singillatim inquirere &amp; expectare iudicium. Siue enim 
+      <lb ed="#L" n="11"/>vnumquenque seorsum interroges de quaestione, quae in 
+      <lb ed="#L" n="12"/>dubium venit, seu vniuersos vens in concilium cogere, 
+      <lb ed="#L" n="13"/>ridicula sane futura sit huius generis inquisito. Ita per 
+      <lb ed="#L" n="14"/>ecclesiae auctoritatem nulla penitus controuersia 
+      finire<lb ed="#L" n="15" break="no"/>tur. si ad eam finiendam totius consensum plebis 
+      requi<lb ed="#L" n="16" break="no"/>rere deberemus. Addendum eodem est, quod iam pridem 
+      <lb ed="#L" n="17"/>diximus, quaedam ad doctrinam fidemque ecclesiae 
+      perti<lb ed="#L" n="18" break="no"/>nere, quae populares prorsus ignorant. Vt patrem &amp; 
+      fi<lb ed="#L" n="19" break="no"/>lium esse vnum principium Spiritus sancti, animam 
+      intel<lb ed="#L" n="20" break="no"/>lectualem esse formam substantialem humani corporis,  
+      <lb ed="#L" n="21"/>Librum Esther esse canonicum, aliaque similia. In quibus 
+      <lb ed="#L" n="22"/>sententiam populi requirere tam est absurdum, vt non in 
+      <lb ed="#L" n="23"/>sapientium modo animos, sed ne in stultorum casurum sit. 
+      <lb ed="#L" n="24"/>Nec enim placere cuipiam potest, tantas res imperiti 
+      vul<lb ed="#L" n="25" break="no"/>gi calculis iudicari. Praeterea in epistola Ephesini 
+      conci<lb ed="#L" n="26" break="no"/>ij ad Nestorium id a Nestorio, si facere satis ecclesiae 
+      ve<lb ed="#L" n="27" break="no"/>lit, exigitur: vt iureiurando fateatur, sentire se &amp; docere, 
+      <lb ed="#L" n="28"/>quae vniuersi per orientem &amp; occidentem episcopi 
+      praesi<lb ed="#L" n="29" break="no"/>desque populorum crederent ac docerent. Quae eadem  
+      <lb ed="#L" n="30"/>epistola conprobata etiam est a sexta synodo. actio. 11. In 
+      <lb ed="#L" n="31"/>concilio item Triden. sessio. 3. definituim est, ecclesiae esse 
+      <lb ed="#L" n="32"/>iudicare de vero sensu &amp; interpretatione scripturarum.  
+      <lb ed="#L" n="33"/>At totam fidelium congregationem de re eiusmodi 
+      velle<lb ed="#L" n="34" break="no"/>iudicium ferre, insanum esset. Pastores igitur ecclesiae ac 
+      <lb ed="#L" n="35"/>doctores illi sunt, ad quos id genus iudicia pertinent. 
+      <lb ed="#L" n="36"/>Atque Egesippi diligentissima fidei inquisitio Eusebii 
+      <lb ed="#L" n="37"/>Laesarien. literis celebrata est, qui, cum Romam pergeret, 
+      <lb ed="#L" n="38"/>non popularium sententiam de fide requifiuit, sed satis 
+      <lb ed="#L" n="39"/>sibi fecisse ad fidei suae confirmationem visus est, si epi¬ 
+      <!--257.xml-->
+      <pb ed="#L" n="246"/>
+               <lb ed="#L" n="1"/>scopis per loca singula in sermone congressus omnes 
+      eius<lb ed="#L" n="2" break="no"/>dem fidei praedicatores doctoresque repererit. Irenaeus 
+      <lb ed="#L" n="3"/>rursum cum ecclesiae auctoritatem haereticis obiicit, 
+      epis<lb ed="#L" n="4" break="no"/>coporum tantum sententiam obiicit, secundum seriem 
+      <lb ed="#L" n="5"/>ab apostolis succedentium, horumque sensum &amp; fidem,  
+      <lb ed="#L" n="6"/>ecclesiae sensum &amp; fidem existimat: &amp; illis qui refragetur, 
+      <lb ed="#L" n="7"/>eum ecclesiae refragari. Cyprianus item in libro de 
+      sim<lb ed="#L" n="8" break="no"/>pli. praela. An esse sibi, inquit, cum Christo videtur, qui 
+      <lb ed="#L" n="9"/>aduersus sacerdotes Christi facit? qui se a cleri societate 
+      <lb ed="#L" n="10"/>secernit. Arma ille contra ecclesiam portat, contra Dei 
+      <lb ed="#L" n="11"/>dispositionem repugnat, &amp;c. qui contemptis episcopis &amp; 
+      <lb ed="#L" n="12"/>Dei sacerdotibus derelictis audet, &amp;c. Et in epistola ad 
+      <lb ed="#L" n="13"/>Pupianum, Christus dicit ad Apostolos, ait, ac per hoc ad 
+      <lb ed="#L" n="14"/>pnes praepositos, qui Apostolis vicaria ordinatione 
+      suc<lb ed="#L" n="15" break="no"/>cedunt, Qui vos audit, me audit: &amp; qui vos reiicit, me 
+      re<lb ed="#L" n="16" break="no"/>iicit. Et posterius asserit, ecclesiam non esse multitudinem 
+      <lb ed="#L" n="17"/>contumacium, sed plebem sacerdoti adunatam, &amp; gregem 
+      <lb ed="#L" n="18"/>suo pastori adherentem. Vnde qui cum episcopis non sint,  
+      <lb ed="#L" n="19"/>eos in ecclesia non esse: frustraque sibi eos blandiri, qui 
+      <lb ed="#L" n="20"/>pacom cum sacerdotibus non habuerint. Cum ecclesia, 
+      <lb ed="#L" n="21"/>quae catholica vna est, scissa non sit, sed connexa, &amp; 
+      co<lb ed="#L" n="22" break="no"/>haerentium sibi inuicem sacerdotum glutino copulata, &amp;c. 
+      <lb ed="#L" n="23"/>Augustinus demum, quoniam longum est omnes 
+      com<lb ed="#L" n="24" break="no"/>memorare, cum aduersum haereticos ecclesiae 
+      auctorita<lb ed="#L" n="25" break="no"/>tenititur, episcopos apostolis ad sua vsque tempora 
+      suc<lb ed="#L" n="26" break="no"/>cedentes plane intelligit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="363"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e554"><!-- Z4Yt34-l6c1 -->
+            <head xml:id="Z4Yt34-d1e554-Hd1e106">Caput 1</head>
+            <p xml:id="Z4Yt34-d1e554-d1e109">
+      <!--374.xml-->
+               <pb ed="#L" n="363"/>
+               <lb ed="#L" n="1"/>DE ECCLESIAE 
+      <lb ed="#L" n="2"/>ROMAMAE AVCTORIS 
+      <lb ed="#L" n="3"/>TTTE GAE GVIBTOLOC0 
+      <lb ed="#L" n="4"/>continetur, Liber Sextus.
+    </p>
+            <p xml:id="Z4Yt34-d1e554-d1e125">
+               <lb ed="#L" n="5"/>caput Primum, Vbi ponuntur argumenta, quibus buius 
+      <lb ed="#L" n="6"/>loci auctoritas impugnatur.
+    </p>
+            <p xml:id="Z4Yt34-d1e554-d1e132">
+               <lb ed="#L" n="7"/>IN eum locum incidimus, quem longe 
+      <lb ed="#L" n="8"/>lateque patentem Theologi, praesertim 
+      <lb ed="#L" n="9"/>iuniores, copiose tractare 
+      solent<lb ed="#L" n="10" break="no"/>propterea quod sedis Apostolicae 
+      <lb ed="#L" n="11"/>non auctoritas modo &amp; grauitas,  
+      <lb ed="#L" n="12"/>verum etiam omnis omnino vis &amp;  
+      <lb ed="#L" n="13"/>facultas, cum semper ab haereticis 
+      <lb ed="#L" n="14"/>impugnata est, tun multo magis hoc 
+      <lb ed="#L" n="15"/>tempore a Lutheranis impetitur, quorum in Romanam  
+      <lb ed="#L" n="16"/>ecclesiam contentio pertinax &amp; odium aeternum est. Sed 
+      <lb ed="#L" n="17"/>non ego persequar quaestiones infinitas de Romani 
+      pon<lb ed="#L" n="18" break="no"/>tificis potestate, tantum de auctoritate dogmatum 
+      vide<lb ed="#L" n="19" break="no"/>amus. Nolo autem agere confuse, vt id explicemus hac 
+      <lb ed="#L" n="20"/>disputatione quod queritur. Itaque eorum imprimis 
+      ar<lb ed="#L" n="21" break="no"/>gumentationes exponemus, qui locum impugnant. 
+      De<lb ed="#L" n="22" break="no"/>inde loci nos vim &amp; auctoritatem cum catholica ecclesia 
+      <lb ed="#L" n="23"/>conseruabimus. Posthaec aduersariorum argumenta 
+      di<lb ed="#L" n="24" break="no"/>luemus. Quae si longior fuerit oratio, cum magnitudine 
+      <lb ed="#L" n="25"/>vtllitatis comparata, fortassis etiam breuior videbitur. 
+      <lb ed="#L" n="26"/>Qui igitur, locum hunc infirmare pergunt, his 
+      argumen<lb ed="#L" n="27" break="no"/>tis, vt sibi videntur, efficiunt.  
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e180">
+               <lb ed="#L" n="28"/>Primo Ioannes 22. publice docuit, iustorum animas 
+      <lb ed="#L" n="29"/>non videre Deum vsque ad iudicii diem : cauitque ne 
+      Pa<lb ed="#L" n="30" break="no"/>risiis Theologiae gradum quisquam consequeretur, nisi 
+      <lb ed="#L" n="31"/>prius in hanc sententiam iurauisset. Errare igitur summus 
+      <lb ed="#L" n="32"/>Pontifex atque adeo sedes apostolica in fide potest. 
+      <lb ed="#L" n="33"/>Secundo, Celestinus. 3. definiuit, quod cum alter 
+      communiu<lb ed="#L" n="34" break="no"/>gum labitur in haeresim, dissoluitur matrimonium, vt patet dem 
+      <!--375.xml-->
+      <pb ed="#L" n="364"/>
+               <lb ed="#L" n="1"/>diuortiis. c. quanto. Super quo affirmat Hostiensis, 
+      Cele<lb ed="#L" n="2" break="no"/>stini epistolam decretalem habitam olim in corpore 
+      iu<lb ed="#L" n="3" break="no"/>ris. Errauit igitur in fide Celestinus. Nam definitio illa 
+      <lb ed="#L" n="4"/>Euangelio contraria est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e212">
+               <lb ed="#L" n="5"/>Tertio, Alexander 3. de sponsa duorum, capite, licet. 
+      <lb ed="#L" n="6"/>asserit, quosdam suos praedecessores iudicasse: quod si 
+      <lb ed="#L" n="7"/>post matrimonium contractum per verba de praesenti, 
+      <lb ed="#L" n="8"/>non consummatum tamen, aliud nouum matrimonium 
+      <lb ed="#L" n="9"/>consummetur, primum dirimitur, secundum est validum. Hic 
+      <lb ed="#L" n="10"/>aunem error est sine dubio in fide &amp; moribus manifestus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e228">
+               <lb ed="#L" n="11"/>Quarto, idem Alexander3. c. cum esses. de testam. 
+      de<lb ed="#L" n="12" break="no"/>finit, alienum esse &amp; a generali ecclesiae consuetudine, &amp; a 
+      <lb ed="#L" n="13"/>diuina lege, &amp; sanctorum patrum institutis, vt testameta, 
+      <lb ed="#L" n="14"/>nisi quinqe vel septem testium fuerint subscriptione 
+      fir<lb ed="#L" n="15" break="no"/>mata, penitus rescindantur. Constat autem ciuilem legem, 
+      <lb ed="#L" n="16"/>quae eiusmodi testamenta minus solennia irritat, a viris 
+      <lb ed="#L" n="17"/>hodie ecclesiasticis comprobari. Falsus est igitur in fide 
+      <lb ed="#L" n="18"/>Alexander, vt qui pronunciet legem aliquam esse diuinae 
+      <lb ed="#L" n="19"/>contrariam, quae re vera contraria non est.  
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e250">
+               <lb ed="#L" n="20"/>Quinto, Innocentius Primus in epistola ad Rufum &amp; 
+      <lb ed="#L" n="21"/>Eusebium. c. 1. qui viduas, inquit, acceperunt vxores, ad 
+      <lb ed="#L" n="22"/>summum Sacerdotium agnoscimus peruenisse. Quod 
+      <lb ed="#L" n="23"/>contra legis esse praecepta, nullus ignorat : cum 
+      Moy<lb ed="#L" n="24" break="no"/>ses clamitet, vxorem virginem sacerdos accipiat, 
+      con<lb ed="#L" n="25" break="no"/>tra quod praeceptum diuina auctoritate subnixum, nulla 
+      <lb ed="#L" n="26"/>defensio opponitur, nisi consuetudo vestra, quae ex 
+      ig<lb ed="#L" n="27" break="no"/>norantia profecta est. Et Innocentius tertius. cap. per 
+      ve<lb ed="#L" n="28" break="no"/>nerabilem, qui filii sint legitimi, cum quandam lege 
+      Deu<lb ed="#L" n="29" break="no"/>teronomii retulisset, sane, ait, cum Deuteronomium 
+      se<lb ed="#L" n="30" break="no"/>cunda lex interpretetur, ex vi vocabuli comprobatur, vt 
+      <lb ed="#L" n="31"/>quod ibi decernitur, in nouo testamento debeat 
+      obser<lb ed="#L" n="32" break="no"/>uari. At decreta veteris legis debere a nobis obseruari, 
+      <lb ed="#L" n="33"/>sacris etiam literis, non modo concilio Florentino aduersatur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e283">
+               <lb ed="#L" n="34"/>Sexto, Nicolaus tertius in extrauaganti. exiit qui 
+      semi<lb ed="#L" n="35" break="no"/>nat. de verborum significatione. decernit, abdicationem 
+      <lb ed="#L" n="36"/>proprietatis, omnium rerum tam in speciali quam in 
+      com<lb ed="#L" n="37" break="no"/>muni Christum dominum &amp; verbo &amp; exemplo docuisse, 
+      <lb ed="#L" n="38"/>Quod erroneum esse Ioannes 22. docet in extrauaganti. 
+      <lb ed="#L" n="39"/>cum inter nonnullos. 
+      <!--376.xml-->
+      <pb ed="#L" n="365"/>
+               <lb ed="#L" n="1"/>Septimo. Nicolaus ad consulta Bulgarorum, referturque 
+      <lb ed="#L" n="2"/>de conse. d. 4. c. a quodam Iudaeo. definit, quod si in 
+      no<lb ed="#L" n="3" break="no"/>mine Christi aliquis baptizetur, rebaptizari non debet. 
+      <lb ed="#L" n="4"/>Cuius oppositum Pelagius papa determinat, in epistola 
+      <lb ed="#L" n="5"/>ad Gaudentium episcopum, referturque eadem dist. cap.  
+      <lb ed="#L" n="6"/>multi. &amp; c. si re vera. quae ambo capitula ex eadem epistola 
+      <lb ed="#L" n="7"/>sunt deprompta. Consentit &amp; cum Pelagio Tacharias 
+      pa<lb ed="#L" n="8" break="no"/>pa. c. in synodo. eadem dist. Aut Nicoiaus igitur, aut 
+      Pe<lb ed="#L" n="9" break="no"/>lagius falso de fidei quaestione decreuit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e322">
+               <lb ed="#L" n="10"/>Octauo, Diuus Gregorius in epistola quadam ad 
+      Au<lb ed="#L" n="11" break="no"/>gustinum Canthuariensem archiepiscopum, Gregorius 
+      <lb ed="#L" n="12"/>quoque tertius in epistola ad Fonifacium episcopum, ex 
+      <lb ed="#L" n="13"/>apostolicae Romanaeque ecclesiae auctoritate 
+      pronuncia<lb ed="#L" n="14" break="no"/>runt, quod si mulier infirmitate aliqua fuerit correpta, nec 
+      <lb ed="#L" n="15"/>valuerit debitum marito suo reddere, maritus quidem aliam  
+      <lb ed="#L" n="16"/>vxorem ducere potest, ea lege tamen, vt subsidii opem 
+      <lb ed="#L" n="17"/>coniugi priori non subtrahat. Quod autem vir ab vxore, 
+      <lb ed="#L" n="18"/>quae per infirmitatem debitum reddere non valet, 
+      disce<lb ed="#L" n="19" break="no"/>dere possit, atque ad secundas nuptias transire, doctrine 
+      euam<lb ed="#L" n="20" break="no"/>gelicae apostolicaeque aduersum est, vt Gratia. 32. 4. 7. dixit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e348">
+               <lb ed="#L" n="21"/>Nono, Gelasius contra Eutychen &amp; Nestorium 
+      defi<lb ed="#L" n="22" break="no"/>nit, in altaris sacramento, facta etiam consecratione, panis vi 
+      <lb ed="#L" n="23"/>nique substatiam manere. Id quod a fide catholica alienum est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e358">
+               <lb ed="#L" n="24"/>Decimo, Romani Pontifices literas saepe sacras falso 
+      <lb ed="#L" n="25"/>exposuerunt. Nam vt ea loca praetermittam, quae 
+      Caieta<lb ed="#L" n="26" break="no"/>nus refert in opusculo. 27. quaestionum. q. vltima. certe 
+      <lb ed="#L" n="27"/>Gelasius papa cum concilio septuaginta episcoporum, &amp;  
+      <lb ed="#L" n="28"/>refertur sub nomine Pelagii. 21. dist. cap. quanuis. atque 
+      <lb ed="#L" n="29"/>Anacletus. 22. distin. cap. sacrosancta. probant, 
+      Roma<lb ed="#L" n="30" break="no"/>nam ecclesiam caeteris esse praelatam, illa Euangelica 
+      vo<lb ed="#L" n="31" break="no"/>ce Domini saluatoris. Tu es Petrus &amp; super hanc petram 
+      <lb ed="#L" n="32"/>aedificabo ecclesiam meam. Quod idem plures etiam alios 
+      <lb ed="#L" n="33"/>pontifices sensisse constat. Ridiculum autem videtur esse, 
+      Euan<lb ed="#L" n="34" break="no"/>gelicum testimonium in eum sensum velle flectere. Ad eundem 
+      <lb ed="#L" n="35"/>quoque modum plerique summi Pontifices ad probandum 
+      ma<lb ed="#L" n="36" break="no"/>tores ecclesiae causas ad sedem Romanam esse referendas,  
+      <lb ed="#L" n="37"/>inducunt illud ex Luca, ego rogaui pro te Petre ne 
+      defi<lb ed="#L" n="38" break="no"/>ciat fides tua. Quod quam ineptum sit, vel ex eo liquere 
+      <lb ed="#L" n="39"/>aiunt, quod ibi Dominus Petro solum, non item posteris 
+      <!--377.xml-->
+      <pb ed="#L" n="366"/>
+               <lb ed="#L" n="1"/>loquebatur. Subdit enim, &amp; tu aliquando conuersus, 
+      con<lb ed="#L" n="2" break="no"/>firma fratres tuos. Quae verba si ad posteros referantur, 
+      <lb ed="#L" n="3"/>nimirum Romanos pontifices, prius auersos fuisse 
+      opor<lb ed="#L" n="4" break="no"/>teret, vt aliquando conuersi confirmarent fratres suos. 
+      <lb ed="#L" n="5"/>Lum itamque Romani episcopi sacras literas falso 
+      interpre<lb ed="#L" n="6" break="no"/>tentur, falli &amp; fallere in fidei dogmate possunt. Nam ex 
+      <lb ed="#L" n="7"/>sacrarum literarum recta intelligentia vera dogmata, ex 
+      <lb ed="#L" n="8"/>obliqua vero falsa trahuntur,  
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e417">
+               <lb ed="#L" n="9"/>Vndecimo, si Apostolica sedes in fide errare non 
+      pos<lb ed="#L" n="10" break="no"/>set, id maxime ex priuilegio Petri, Luc. 22. Ego rogaui 
+      <lb ed="#L" n="11"/>pro te, Petre, vt non deficiat fides tua. At, Petri fides, 
+      de<lb ed="#L" n="12" break="no"/>fecit, iuxta id quod Ambrosius ait, fidelior factus est 
+      Pe<lb ed="#L" n="13" break="no"/>trus, postquam fidem se perdidisse defenit. Multo ergo 
+      <lb ed="#L" n="14"/>magis caeteri successores errare in fide potuerunt. Vt 
+      er<lb ed="#L" n="15" break="no"/>rauit certe Anastasius 19. di. c. Anastasius. Errauit quoque 
+      <lb ed="#L" n="16"/>Honorius, vt in conc. 6. Constam. actio. 13. &amp; 18. definitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e554-d1e437">
+               <lb ed="#L" n="17"/>Postremo, Hieronymus in epist. ad Euagrium, cum illi 
+      <lb ed="#L" n="18"/>obijceretur Romanae ecclesiae consuetudo, si auctoritas,  
+      <lb ed="#L" n="19"/>inquit, quaeritur: orbis maior est vibe. Vbicunque fuerit 
+      <lb ed="#L" n="20"/>episcopus, siue Romae, siue Constantinopoli, siue 
+      Alexan<lb ed="#L" n="21" break="no"/>driae, eiusdem meriti, eiusdem est &amp; sacerdotij. 
+      Poten<lb ed="#L" n="22" break="no"/>tia diuitiarum &amp; paupertatis humilitas, vel sublimiorem, 
+      <lb ed="#L" n="23"/>vel inferiorem episcopum non facit. Caeterum, omnes 
+      <lb ed="#L" n="24"/>Apostolorum successores sunt. Quid ergo mihi profers 
+      <lb ed="#L" n="25"/>vnius vrbis consuetudinem? quid paucitatem, de qua 
+      or<lb ed="#L" n="26" break="no"/>tum est supercilium, in leges ecclesiae vindicas? 
+      Hacte<lb ed="#L" n="27" break="no"/>nus Hieronymus. Et Ambrosius lib. 3. de Sacram. capite 
+      <lb ed="#L" n="28"/>primo, cum Romanam consuetudinem sibi opponeret,  
+      <lb ed="#L" n="29"/>in omnibus, ait, cupio sequi ecclesiam Romanam: sed 
+      ta<lb ed="#L" n="30" break="no"/>men &amp; nos homines sensum habemus: ideo quod alibi 
+      <lb ed="#L" n="31"/>rectius seruatur, &amp; nos recte custodimus. Ipsum sequimur 
+      <lb ed="#L" n="32"/>Apostolum Petrum : ad hoc ecclesia Romana quid 
+      re<lb ed="#L" n="33" break="no"/>spondet: Vtique ipse auctor est nobis huius assertionis 
+      <lb ed="#L" n="34"/>Petrus Apostolus, qui sacerdos fuit ecclesiae Romanae. 
+      <lb ed="#L" n="35"/>Quod si Hieronymus &amp; Ambrosius ecclesiae Romanae in 
+      <lb ed="#L" n="36"/>stituta facile reijciunt, certe non est cur Apostolicae 
+      se<lb ed="#L" n="37" break="no"/>dis praescriptam in moribus regulam sequi debeamus. 
+      <lb ed="#L" n="38"/>Eo vel maxime, quod Trullana synodus, canone 55. 
+      asse<lb ed="#L" n="39" break="no"/>rit, Romanam Ecclesiam praeter ecclesiasticam traditam  
+      <!--378.xml-->
+      <pb ed="#L" n="367"/>
+               <lb ed="#L" n="1"/>consuetudinem Sabbatis quadragesimae ieiunare: 
+      corri<lb ed="#L" n="2" break="no"/>gitque hunc ecclesiae Romanae morem, qui contra Aposto 
+      <lb ed="#L" n="3"/>lorum canonem. 65. inoleuerit. His potissimum 
+      argumen<lb ed="#L" n="4" break="no"/>tis hunc locum quidam infirmum esse contendunt. 
+      Cre<lb ed="#L" n="5" break="no"/>dunt enim sedem Apostolicam errare posse, etiam cum de 
+      <lb ed="#L" n="6"/>fidei quaestione iudicat. Inter Parisienses Gerson &amp; 
+      Almain<lb ed="#L" n="7" break="no"/>huius sententiae praecipui auctores habentur. Eandem 
+      se<lb ed="#L" n="8" break="no"/>quitur Adrianus in 4. senten. de confir. quaest. vltima. Ac 
+      <lb ed="#L" n="9"/>Thomas quidem Vual. lib. 2. doctri. fid. Anti. cap. 19. 
+      ean<lb ed="#L" n="10" break="no"/>dem videtur sequi, tametsi in lib. de sacramentalibus 
+      do<lb ed="#L" n="11" break="no"/>ctrina. 10. longe aliter sentit. Gratianus. 19. distinct. 5. hoc 
+      <lb ed="#L" n="12"/>autem intelligendum est. eidem opinioni videtur etiam 
+      assen<lb ed="#L" n="13" break="no"/>tiri. Nec ab hac, vt apparet, alienus est Cardinalis 
+      Turre<lb ed="#L" n="14" break="no"/>ere. lib. 4. par. 2. cap. 16. Quamuis in lib. 2. cap. 109. 110. 
+      <lb ed="#L" n="15"/>contrariam sentetiam &amp; tenuerit &amp; ostenderit. Hanc 
+      Era<lb ed="#L" n="16" break="no"/>smus libenter amplectitur super epistolam Hieronymi ad 
+      <lb ed="#L" n="17"/>Damasum de nomine hypostasis. Quin in libro de 
+      ratio<lb ed="#L" n="18" break="no"/>ne verae theologiae fenestram dicit aperire ad perniciem 
+      <lb ed="#L" n="19"/>verae pietatis eos, qui doceant, Romanum Pontificem 
+      erra<lb ed="#L" n="20" break="no"/>re non posse, quoties de moribus aut fide pronuntiat. Huic 
+      <lb ed="#L" n="21"/>Lutherus subscribit, huic Vuiclefistae, atque adeo omnes 
+      <lb ed="#L" n="22"/>haeretici subscribunt libentissime.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

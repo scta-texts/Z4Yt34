@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="530"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e893"><!-- Z4Yt34-l10c2 -->
+            <head xml:id="Z4Yt34-d1e893-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e893-d1e109">
+               <lb ed="#L" n="32"/>Caput secundum. 
+    </p>
+            <p xml:id="Z4Yt34-d1e893-d1e114">
+               <lb ed="#L" n="33"/>Visse olim in Ecclesia nonnullos, qui Philofophorum 
+      <lb ed="#L" n="34"/>auctoritatem ab schola Christiana reiecerint, 
+      Cle<lb ed="#L" n="35" break="no"/>mens Alexand. perhibet, grauis in primis auctor. Tradit 
+      <lb ed="#L" n="36"/>etiam hanc illos persuasionem induisse, quo nominus apud 
+      <lb ed="#L" n="37"/>Ioannem dixerit, omnes quotquot ante se: venissent, 
+      fu<lb ed="#L" n="38" break="no"/>res fuisse &amp; latrones: nec audijsse eos ques. Fures autem 
+      <!--542.xml-->
+      <pb ed="#L" n="531"/>
+               <lb ed="#L" n="1"/>vocatos aiunt, quod fuerint sophistae fallaces. Nam 
+      so<lb ed="#L" n="2" break="no"/>phisticen, quandam furandi artem ipse quoque 
+      Aristote<lb ed="#L" n="3" break="no"/>les dixit. Et Iustinus, cum docuisset Philosophos similes 
+      <lb ed="#L" n="4"/>esse latronibus, &amp; tanquam deceptores redarguisset, per 
+      <lb ed="#L" n="5"/>infidias Crescentis philosophi interemptus est, vt Euse. 
+      <lb ed="#L" n="6"/>scribit li. 4. Eccl. hist. c. 16. Non sunt igitur philosophi au 
+      <lb ed="#L" n="7"/>diendi, presertim cum nostrae semper doctrinae repugnarint.  
+      <lb ed="#L" n="8"/>Nam vt Ruffinus li. 1. Eccl. hist. c. 2. refert, Ario fauebant 
+      <lb ed="#L" n="9"/>viri in quaestionibus callidi, &amp; ob id simplicitati fidei 
+      ad<lb ed="#L" n="10" break="no"/>uersb Atque Epiphanius lib. 2. aduersum haereses. ca. 69. eo 
+      <lb ed="#L" n="11"/>nomine taxat Arianos, quod fuerint noui Aristotelici, &amp;  
+      <lb ed="#L" n="12"/>ab hoc Philosopho veneni iaculationes sibi ipsis affricue 
+      <lb ed="#L" n="13"/>rint, relictaque domini mansuetudine Aristotelem 
+      indue<lb ed="#L" n="14" break="no"/>rint, Ita nec spiritus donum in se habere digni facti sunt. 
+      <lb ed="#L" n="15"/>Et Hiero. aduersum Lucise. Arianam dicit haeresim 
+      argu<lb ed="#L" n="16" break="no"/>mentationum riuos de Aristotelis fonte mutuari. 
+      </p>
+            <p xml:id="Z4Yt34-d1e893-d1e169">
+               <lb ed="#L" n="17"/>Paulus denique ait philosophos, dicentes se esse sapientes, 
+      <lb ed="#L" n="18"/>stultos factos esse, traditosque in reprobum sensum. 
+      Eo<lb ed="#L" n="19" break="no"/>rum igitur auctoritas nullius apud nos momenti esse 
+      de<lb ed="#L" n="20" break="no"/>bebit. His &amp; similibus argumentis vetustus error ille 
+      ni<lb ed="#L" n="21" break="no"/>tebatur. Quem tamen iam diu sepultum sine vllo etiam 
+      ar<lb ed="#L" n="22" break="no"/>gumento Lutherus suscitare conatus est, damnareque 
+      sub<lb ed="#L" n="23" break="no"/>inde cum scholasticos caeteros, tum magis. D. Tho. quasi 
+      <lb ed="#L" n="24"/>auctor fuerit regnantis Aristotelis vastatoris piae 
+      doctri<lb ed="#L" n="25" break="no"/>nae, sic enim loquitur contra Latomum. Videlicet 
+      Domi<lb ed="#L" n="26" break="no"/>tiani exemplo, philosophos non vrbe solum, sed orbe 
+      <lb ed="#L" n="27"/>pellendos esse credit. Nos autem quid fides Catholica 
+      <lb ed="#L" n="28"/>ratioque sana teneat, breuiter &amp; sine disceptatione 
+      doco<lb ed="#L" n="29" break="no"/>bimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

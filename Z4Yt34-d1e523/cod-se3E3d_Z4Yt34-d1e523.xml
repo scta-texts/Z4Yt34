@@ -1,0 +1,1488 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="308"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e523"><!-- Z4Yt34-l5c5 -->
+            <head xml:id="Z4Yt34-d1e523-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e523-d1e109">
+               <lb ed="#L" n="25"/>caput quintum, Vbi nodi quidam soluuntur, quibus 
+      inter<lb ed="#L" n="26" break="no"/>dum homines etiam docti illigari solent.
+    </p>
+            <p xml:id="Z4Yt34-d1e523-d1e116">
+               <lb ed="#L" n="27"/>QVibus rebus exposits, nihil aliud superesse 
+      videba<lb ed="#L" n="28" break="no"/>cae, tur, nisi vt argumenta refelleremus, quae a principio 
+      <lb ed="#L" n="29"/>sunt posita. Sed paranti mihi eas obiectiones 
+      repel<lb ed="#L" n="30" break="no"/>lere, obiecerunt se scrupuli aliquot, quos prius conueuit 
+      <lb ed="#L" n="31"/>excutere, quam ad alia pergamus, ne in via, quam 
+      superio<lb ed="#L" n="32" break="no"/>re capite aperuimus, sint Theologis impedimento. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e132">
+               <lb ed="#L" n="33"/>Primum igitur dubium illud excutiendum est, an 
+      con<lb ed="#L" n="34" break="no"/>cilium per legatos summi Pontificis celebratum, firmam  
+      <lb ed="#L" n="35"/>certamque habeat auctoritatem: an potius episcopi 
+      Ro<lb ed="#L" n="36" break="no"/>mani confirmatio exspectanda sit, vt certa habeantur 
+      de<lb ed="#L" n="37" break="no"/>creta concilij. Ac Caietanus quidem, qui sine 
+      controuer<lb ed="#L" n="38" break="no"/>sia de auctoritate Papae &amp; concilij accuratissme disputa¬ 
+      <!--320.xml-->
+      <pb ed="#L" n="309"/>
+               <lb ed="#L" n="1"/>uit, quemque nos correctione quadam adhibita 
+      potissi<lb ed="#L" n="2" break="no"/>mum secutisumus, multa hic diserte dicit, quae a praesenti 
+      <lb ed="#L" n="3"/>instituto videntur esse aliena: sed affirmat denique, id 
+      <lb ed="#L" n="4"/>quod ad praesentem locum &amp; quaestionem attinet, 
+      con<lb ed="#L" n="5" break="no"/>cilium per legatos Pontificis actum errare in fide posse. 
+      <lb ed="#L" n="6"/>Superest enim adhuc ille, pro cuius fide rogauit Christus, 
+      <lb ed="#L" n="7"/>ille inquam, ad quem fidei summa tandem referenda est. 
+      <lb ed="#L" n="8"/>Quare nisi definitiones conciliorum per summos 
+      Pontifi<lb ed="#L" n="9" break="no"/>ces &amp; probentur &amp; confirmentur, certas firmasque esse 
+      <lb ed="#L" n="10"/>non oportet. Idem etiam Cardinalis Turrecremata sensit 
+      <lb ed="#L" n="11"/>libro tertio. cap. sexto, octauo, &amp; trigesimooctauo. 
+      qui<lb ed="#L" n="12" break="no"/>bus locis fusissime ostendit, omnia retro antiqua concilia 
+      <lb ed="#L" n="13"/>a summis Pontificibus confirmationem dogmatum 
+      pe<lb ed="#L" n="14" break="no"/>tijsse: non id profecto actura, nisi existimassent 
+      necessa<lb ed="#L" n="15" break="no"/>rium. Nam quod confirmatio pontificis ad fidei quoque 
+      <lb ed="#L" n="16"/>dogmata referatur, liquet ex epistola Nicaenae synodi ad 
+      <lb ed="#L" n="17"/>Syluestrum Papam. Quicquid, aiunt, constituimus 
+      pre<lb ed="#L" n="18" break="no"/>camur, vt vestri oris consortio confirmetur. Et Syluester 
+      <lb ed="#L" n="19"/>eidem synodo rescribens, Confirmo, inquit, figoque ad 
+      <lb ed="#L" n="20"/>doctrinam vestram reclamantes de vnitate Trinitatis. 
+      <lb ed="#L" n="21"/>Et paulo post, probo, ait, vera fuisse quae in vestrum 
+      no<lb ed="#L" n="22" break="no"/>strumque manauere mysterium, &amp; caet. Et patres 
+      conci<lb ed="#L" n="23" break="no"/>lij Chalcedonen: in epistola ad Leonem, Omnem inquiunt, 
+      <lb ed="#L" n="24"/>vobis gestorum vim insinuauimus, ad comprobationem 
+      <lb ed="#L" n="25"/>nostrae synceritatis, &amp; ad eorum, quae a nobis gesta sunt 
+      <lb ed="#L" n="26"/>firmitatem &amp; consonantiam. Et Leo papa in epistola ad 
+      <lb ed="#L" n="27"/>concilium Chalcedonen, quae est in ordine. 59. ne ergo,  
+      <lb ed="#L" n="28"/>ait, dubitabile videatur, vtrum quae per vnanimitatem 
+      <lb ed="#L" n="29"/>vestram de fide statuta sunt, approbem, &amp; caet. &amp; postea 
+      <lb ed="#L" n="30"/>dicit se approbationem gestorum synodalium in sola 
+      cau<lb ed="#L" n="31" break="no"/>sa fidei mittere, propter quam scilicet concilium 
+      congre<lb ed="#L" n="32" break="no"/>gatum est. Idem patet ex epistola Leonis huius nominis 
+      <lb ed="#L" n="33"/>tertij, qua confirmat sextam synodum generalem. Adde 
+      <lb ed="#L" n="34"/>huc, quod ecclesia ante ipsius Pontificis confirmationem. 
+      <lb ed="#L" n="35"/>nunquam firmum habuit &amp; ratum, quod a legatis concilio 
+      <lb ed="#L" n="36"/>praesidentibus definitum est. Hinc enim Martianus 
+      Au<lb ed="#L" n="37" break="no"/>gustus a Leone contendit, vt concilij Chalcedonensis de 
+      <lb ed="#L" n="38"/>fide iudicium approbaret. Et Leo ob hanc quoque 
+      cau<lb ed="#L" n="39" break="no"/>sam Martiano commendauit, vt confirmatio approba¬ 
+      <!--321.xml-->
+      <pb ed="#L" n="310"/>
+               <lb ed="#L" n="1"/>tioque concilij ad omnes ecclesias perferretur, 
+      quemad<lb ed="#L" n="2" break="no"/>modum epistola. 57. ad eundem Martianum scribitur. 
+      <lb ed="#L" n="3"/>Praeterea concilium sine legatis errare potest, at summus 
+      <lb ed="#L" n="4"/>Pontifex non transfert in iegatos suae fidei soliditatem, 
+      <lb ed="#L" n="5"/>quam scilicet sibi soli priuatim vendicat, eo quod 
+      Chri<lb ed="#L" n="6" break="no"/>sti vicarius est, pastor ecclesiae vniuersalis, &amp; petra, supra 
+      <lb ed="#L" n="7"/>quam Christus suam fundauit ecclesiam. Legati ergo 
+      si<lb ed="#L" n="8" break="no"/>mul cum concilio errare poterunt. Non enim pro legatis 
+      <lb ed="#L" n="9"/>Petri, sed pro Petro rogauit Christus, &amp;c. Adhaec, 
+      conci<lb ed="#L" n="10" break="no"/>lium prouinciale, cui legati summi Pontificis adsint, 
+      erra<lb ed="#L" n="11" break="no"/>re in fide potest: non autem si a summo Pontifice 
+      confir<lb ed="#L" n="12" break="no"/>matum est. Non igitur Legati eam habent in fidei dogma 
+      <lb ed="#L" n="13"/>tis auctoritatem, quam summus ipse Pontifex habet. 
+      Quo<lb ed="#L" n="14" break="no"/>circa, infirma adhuc erunt decreta concilij, quamuis per 
+      <lb ed="#L" n="15"/>legatorum iudicium confirmata. Praeterea concilium 
+      <lb ed="#L" n="16"/>Ephesinum secundum errauit cum Dioscoro, &amp; tamen 
+      le<lb ed="#L" n="17" break="no"/>gitime auctore Leone congregatum est: non ergo firmum  
+      <lb ed="#L" n="18"/>&amp; ratum est concilij decretum, nisi sit a summo Pontifice 
+      <lb ed="#L" n="19"/>confirmatum. Nec valet dicere, legatos pontificis &amp; 
+      pau<lb ed="#L" n="20" break="no"/>cos quosdam alios repugnasse. Non enim oportet omnes 
+      <lb ed="#L" n="21"/>patres synodali sententiae subscribere, vt genarale 
+      con<lb ed="#L" n="22" break="no"/>cilij iudicium habeatur. Quoniam ne omnes quidem 
+      <lb ed="#L" n="23"/>episcopi iudicio Nicaenae synodi subscripserunt. Ac si 
+      <lb ed="#L" n="24"/>legati ipsi, vt docti omnes cosentiunt, errare possunt, nihil 
+      <lb ed="#L" n="25"/>obstaret, quo minus alijs episcopis errantibus 
+      consensis<lb ed="#L" n="26" break="no"/>sent. Legatus demum Pontificis aderat, cum in secunda 
+      <lb ed="#L" n="27"/>&amp; tertia sessione concilij Basiliensis vehementer erratum 
+      <lb ed="#L" n="28"/>est, errori quoque caeterorum Legatus ipse subscripsit, non 
+      <lb ed="#L" n="29"/>ergo satis est concilium esse coactum Pontificis 
+      auctori<lb ed="#L" n="30" break="no"/>tate, &amp; legatos concilij sententiam approbasse, vt firma 
+      <lb ed="#L" n="31"/>&amp; certa esse in ecclesia existimetur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e308">
+               <lb ed="#L" n="32"/>At contra viri quidam doctissimi sentiunt, concilium 
+      <lb ed="#L" n="33"/>generale legitime congregatum etiam absente papa, 
+      soli<lb ed="#L" n="34" break="no"/>dam certamque habere auctoritatem priusquam a summo 
+      <lb ed="#L" n="35"/>Pontifice confirmetur. Cuius sententiae duas potissimum  
+      <lb ed="#L" n="36"/>causas reddere possunt. Vnam, quod eiusmodi concilium 
+      <lb ed="#L" n="37"/>per legatos episcopi Romani celebratum, ecclesiam 
+      vni<lb ed="#L" n="38" break="no"/>uersalem representat, quoniam est concilium ecclesiae ge 
+      <lb ed="#L" n="39"/>nerale, non ergo errare in fide potest, sicut ne ecclesia qui¬ 
+      <!--322.xml-->
+      <pb ed="#L" n="311"/>
+               <lb ed="#L" n="1"/>dem vaiuersalis. Quod autem omne concilium generale 
+      <lb ed="#L" n="2"/>aecclesiam vniuersalem representet, definitum est a Martino 
+      <lb ed="#L" n="3"/>quinto in fine concilij Constantien. Altera. causa est, quod 
+      <lb ed="#L" n="4"/>concilium generale legitime congregatum, in Spiritu 
+      san<lb ed="#L" n="5" break="no"/>cto congregatum est, quare habet spiritum assistentem, 
+      cu<lb ed="#L" n="6" break="no"/>ius praesentia freti, possunt vtique patres, cum aliquid 
+      de<lb ed="#L" n="7" break="no"/>finiunt, dicere: visum est Spirituisancto &amp; nobis. 
+      Confir<lb ed="#L" n="8" break="no"/>mat autem hoc vel maxime testimonium Iulij ad Orientales 
+      <lb ed="#L" n="9"/>episcopos inquientis, Regula vestra nullas habet vires,  
+      <lb ed="#L" n="10"/>quoniam Romanae ecclesiae legatus non interfuit, 
+      canoni<lb ed="#L" n="11" break="no"/>bus praecipientibus, sine eius auctoritate concilia fieri non 
+      <lb ed="#L" n="12"/>debere: necullum ratum est concilium, quod eius non fuerit 
+      <lb ed="#L" n="13"/>fulcitum auctoritate. Hactenus Iulius. Sentit ergo sine 
+      du<lb ed="#L" n="14" break="no"/>bio, concilium habere vires, ratum esse, Romanae ecclesiae 
+      <lb ed="#L" n="15"/>niti auctoritate, si Romanae ecclesiae legatus interfuit. Hac 
+      <lb ed="#L" n="16"/>difficili questione explicanda illud ponimus, quod rerum 
+      <lb ed="#L" n="17"/>gestarum experimento constat, summi pontificis legatos 
+      <lb ed="#L" n="18"/>non solere ad concilium accedere, vbi quaestio de fide 
+      agi<lb ed="#L" n="19" break="no"/>tanda est, nisi instructos prius &amp; monitos de ecclesiae Ro 
+      <lb ed="#L" n="20"/>manae fide circa ea, quae sunt in concilio finienda. Solere, 
+      <lb ed="#L" n="21"/>inquam, non item oportere. Nam legati in concilium 
+      Tri<lb ed="#L" n="22" break="no"/>dentinum non potuere commodem de quaestionibus 
+      disse<lb ed="#L" n="23" break="no"/>rendis ante instrui, quoniam erant propemodum infinitae. 
+      <lb ed="#L" n="24"/>Sed caetera fere concilia ad vnam aut alteram fidei 
+      tra<lb ed="#L" n="25" break="no"/>ctandam causa coacta sunt, ideoque legati de Apostolicae 
+      <lb ed="#L" n="26"/>ecclesiae fide prius instructi accesserunt. Principio igitur 
+      <lb ed="#L" n="27"/>illud statuo, posse concilium legatorum doctrinae &amp; 
+      in<lb ed="#L" n="28" break="no"/>structioni repugnare, atque e contrario legatos posse 
+      re<lb ed="#L" n="29" break="no"/>pugnare concino, quo casu decreta concilij non solum 
+      <lb ed="#L" n="30"/>non fulcita Apostolica auctoritate, sed erunt potius 
+      refu<lb ed="#L" n="31" break="no"/>tata. Sicut enim congregatio concilij, reclamante vero 
+      <lb ed="#L" n="32"/>certoque ecclesiae Pontifice, vana est &amp; irrita, sic 
+      doctri<lb ed="#L" n="33" break="no"/>na, culvel praesens Pontifex per se, vel absens per 
+      lega<lb ed="#L" n="34" break="no"/>tos suos contradicit, incerta est &amp; imbecilla: idque eodem  
+      <lb ed="#L" n="35"/>prorsus argumento, quoniam vtrique auctoritas episcopi 
+      <lb ed="#L" n="36"/>Romani deest, sine qua nec concilium, nec concilij decreta 
+      <lb ed="#L" n="37"/>rata sunt. Quod si qui existiment, concilium semel rite 
+      ac<lb ed="#L" n="38" break="no"/>legitime congregatum errare tum etiam non posse, cum legati 
+      <lb ed="#L" n="39"/>Pontificis repugnant, respondeant illi argumento velim,  
+      <!--323.xml-->
+      <pb ed="#L" n="312"/>
+               <lb ed="#L" n="1"/>uo secundam conclusionem cap. 4. probabamus, 
+      conci<lb ed="#L" n="2" break="no"/>lij Ephesini secundi exemplum proferentes, vbi 
+      abiomni<lb ed="#L" n="3" break="no"/>bus pene episcopis erratum est. Non fuit liberum 
+      conci<lb ed="#L" n="4" break="no"/>lium, inquiunt, sed sentetia a Dioscoro, arte, minis &amp; 
+      ter<lb ed="#L" n="5" break="no"/>roribus extorta est. Video. Sed si secundum hominem 
+      <lb ed="#L" n="6"/>loquimur, qui metu frangitur, is cupiditate etiam 
+      fran<lb ed="#L" n="7" break="no"/>patur necesse est. Quocirca, si per metum vera &amp; legitima 
+      <lb ed="#L" n="8"/>synodus errat, causabuntur haeretici, reliquas etiam omneis,  
+      <lb ed="#L" n="9"/>pontificum &amp; imperatorum cupiditatibus inseruisse. Ita fiet. 
+      <lb ed="#L" n="10"/>vt nullius synodi explorata auctoritas habeatur. Quanto 
+      <lb ed="#L" n="11"/>grauius illud nos asserimus, concilium apostolica 
+      auctori<lb ed="#L" n="12" break="no"/>tate firmatumnullis humanis affectibusa vera posse fide 
+      di<lb ed="#L" n="13" break="no"/>scedere. Vt ne ecclesia quidem, quamuis descendat pluuia, 
+      <lb ed="#L" n="14"/>veniant flumina, irruant venti, cedere loco potest, 
+      fidei<lb ed="#L" n="15" break="no"/>que stationem deserere. Sed concilij reliqua pars 
+      quam<lb ed="#L" n="16" break="no"/>libet maxima, si pontifex &amp; legati pugnent, infirmari 
+      affe<lb ed="#L" n="17" break="no"/>ctu potest. Hunc enim illud pertinet. Tuo Petre confirma 
+      <lb ed="#L" n="18"/>fratres tuos. Sed ais. Quid si legatus doctrinam, quam  
+      <lb ed="#L" n="19"/>a Pontifice accepit, deserat, &amp; multitudinis sensum 
+      am<lb ed="#L" n="20" break="no"/>plectatur? Primum, nullum huiusmodi exemplum 
+      pro<lb ed="#L" n="21" break="no"/>feretur, nisi forte ex concilio sub Michacle 
+      Imperato<lb ed="#L" n="22" break="no"/>re, vbi Radoaldus &amp; Tacharias Michaeli &amp; Phocio, 
+      con<lb ed="#L" n="23" break="no"/>senserunt aduersus Nicolai instructionem atque 
+      manda<lb ed="#L" n="24" break="no"/>ta: vt videre est in epistola Nicolai ad Patriarchas, 
+      me<lb ed="#L" n="25" break="no"/>tropolitas, ac reliquos episcopos. Deinde, si legatus 
+      con<lb ed="#L" n="26" break="no"/>tra instructionem agit, non censetur ex potestate delegata 
+      <lb ed="#L" n="27"/>agere, atque adeo non est cur eo modo acta superioris 
+      au<lb ed="#L" n="28" break="no"/>ctoritate probata esse credantur. Inde enim Agatho 
+      pa<lb ed="#L" n="29" break="no"/>pa, vt patet actione. 4. sextae synodi, auctoritatem, inquit,  
+      <lb ed="#L" n="30"/>eis, hoc est, legatis dedimus, in quantum eis duntaxat 
+      inium<lb ed="#L" n="31" break="no"/>ctum est, vt nihil praesumant augere, minuere, vel mutare, 
+      <lb ed="#L" n="32"/>sed traditionem huius apostolicae sedis synceriter 
+      enar<lb ed="#L" n="33" break="no"/>rare. Et Leo epist. 43. ad Pulcheriam Augustam, 
+      Lucen<lb ed="#L" n="34" break="no"/>tium, inquit, episcopum &amp; Basilium presbyterum dirigere 
+      <lb ed="#L" n="35"/>praeparaui, qui dispositiones meas secundum eas, quas 
+      ac<lb ed="#L" n="36" break="no"/>ceperunt regulas, exequantur. Decreta igitur, si quae a 
+      le<lb ed="#L" n="37" break="no"/>gato contra sedis apostolicae traditionem approbentur, 
+      <lb ed="#L" n="38"/>non habent Romanae ecclesiae auctoritatem: nec aliter se 
+      <lb ed="#L" n="39"/>habent, quam si a concilio sine legatis prodijssent. Quid 
+      <!--324.xml-->
+      <pb ed="#L" n="313"/>
+               <lb ed="#L" n="1"/>vero, si legati sine apostolicae sedis instructione ad 
+      syno<lb ed="#L" n="2" break="no"/>dum accessere: Num synodi iudicium firmum erit &amp; certum, 
+      <lb ed="#L" n="3"/>prius quam a summo Pontifice conprobetur? Certe in his, 
+      <lb ed="#L" n="4"/>quae ad fidem non attinent, sed ad ecclesiasticam 
+      guberna<lb ed="#L" n="5" break="no"/>tionem, eiusmodi synodorum decreta non oportet a 
+      Spi<lb ed="#L" n="6" break="no"/>ritu sancto proficisci. Quare non sunt omnino valida, nisi 
+      <lb ed="#L" n="7"/>Romani episcopi consensione firmentur. vt videre est 
+      <lb ed="#L" n="8"/>imepistola. 51. Leonis ad Anatholium. 52. ad Martianum  
+      <lb ed="#L" n="9"/>53. ad Pulcheriam, &amp; 59. ad concilium Chalcedonen. Sed 
+      <lb ed="#L" n="10"/>ne in causis fidei quidem adeo exploratam auctoritatem  
+      <lb ed="#L" n="11"/>habent, vt qui ea in duliium vocet, haereticus sit. Tum,  
+      <lb ed="#L" n="12"/>quia auctores nobilissimi, quos ante diximus, Caietanus 
+      <lb ed="#L" n="13"/>&amp; Turrecremata, non solum citra haereseos crimen, sed 
+      <lb ed="#L" n="14"/>probabiliter etiam consentiunt, nihil firmi dogmatis ab  
+      <lb ed="#L" n="15"/>eiusmodi synodis proficisci, quousque per Christi 
+      vica<lb ed="#L" n="16" break="no"/>rium approbentur. Tum, quia, vt ante dictum est, solidam 
+      <lb ed="#L" n="17"/>auctoritatem, quam in confirmandis &amp; fratribus &amp; 
+      do<lb ed="#L" n="18" break="no"/>gmatis Petrus habet, in legatos transferre non potest. 
+      <lb ed="#L" n="19"/>Tum, quia si legati, qui instructionem ab apostolica sede 
+      <lb ed="#L" n="20"/>acceperunt, discedere ab illa possunt, illi etiam, qui ad 
+      <lb ed="#L" n="21"/>concilium sine instructione accedunt, poterunt cum 
+      se<lb ed="#L" n="22" break="no"/>dis apostolicae doctrina pugnare. Quare eorum 
+      confirma<lb ed="#L" n="23" break="no"/>tio infirma est. Quid, quod legatus Iulianus concilij 
+      Basi<lb ed="#L" n="24" break="no"/>liensis doctrinae consensit, quam nullus Theologus ita 
+      so<lb ed="#L" n="25" break="no"/>lidam &amp; certam existimat, vt haereticos credat qui ab ea 
+      <lb ed="#L" n="26"/>doctrina dissentiunt? Nec contraria argumenta quicquam 
+      <lb ed="#L" n="27"/>efficiunt. Nam primum sic refellitur. Fateor equidem, 
+      quod<lb ed="#L" n="28" break="no"/>cunque concilium generale vniuersalem ecclesiam 
+      re<lb ed="#L" n="29" break="no"/>presentare, sicut omnes proceres &amp; procuratores 
+      ciuita<lb ed="#L" n="30" break="no"/>tum, cum de rebus publicis tractaturi conueniunt, regnum 
+      <lb ed="#L" n="31"/>totum representant. Sed dum vrges, ecclesiam errare non  
+      <lb ed="#L" n="32"/>posse: Verum est id in eo sensu, qui a fidelibus accipitur, 
+      <lb ed="#L" n="33"/>intelligimus enim totam simul ecclesiam, hoc est, fideles 
+      <lb ed="#L" n="34"/>omnes non errare. At nihil obstat, cur maior ecclesiae 
+      <lb ed="#L" n="35"/>pars non erret. Sic igitur non ego admitto, vt totum  
+      <lb ed="#L" n="36"/>concilium cum legatis errare possit. At errare poterit 
+      <lb ed="#L" n="37"/>maior pars concilij, &amp; erranti illi poterant legati 
+      subscri<lb ed="#L" n="38" break="no"/>bere. Atque id est, quod nos in praesentia dicimus, 
+      iudi<lb ed="#L" n="39" break="no"/>cium maioris partis, etiam si legati sequantur, non esse cer¬ 
+      <!--325.xml-->
+      <pb ed="#L" n="314"/>
+               <lb ed="#L" n="1"/>tum autem esset, si a summo Pontifice confirmaretur. 
+      <lb ed="#L" n="2"/>Nec enim opus est, quemadmodum paulo ante docuimus 
+      <lb ed="#L" n="3"/>sententiam concilij omnes simul patres approbare. 
+      Se<lb ed="#L" n="4" break="no"/>cundo vero argumento hoc habeto responsum. 
+      Conci<lb ed="#L" n="5" break="no"/>lium vtique generale, cui legati praesunt, in spiritu sancto 
+      <lb ed="#L" n="6"/>congregatum esse, quoniam auctore Christi vicario 
+      eo<lb ed="#L" n="7" break="no"/>demque legitimo ecclesiae principe coactum est. Sed 
+      ec<lb ed="#L" n="8" break="no"/>clesia quoque vnum corpus est, cuius spiritus Deus est, qui 
+      <lb ed="#L" n="9"/>ecclesiae semper assistit. Quemadmodum ergo, quod toti 
+      <lb ed="#L" n="10"/>pariter ecclesiae visum est, id Spiritui sancto etiam visum 
+      <lb ed="#L" n="11"/>est: sed non continuo quod maior ecclesiae pars iudicarit, 
+      <lb ed="#L" n="12"/>hoc Spiritus sancti iudicium est. Ita, si quid omnibus 
+      qui<lb ed="#L" n="13" break="no"/>idem episcopis iudicatum fuerit, a spiritu profecto Dei 
+      <lb ed="#L" n="14"/>iudicatum est: at non statim, si plures concilij patres in 
+      <lb ed="#L" n="15"/>vnam sententiam conuenerint, Spiritus sancti ea sentetia 
+      <lb ed="#L" n="16"/>credenda erit, nisi per summum Pontificem confirmetur. 
+      <lb ed="#L" n="17"/>Ad quem nimirum spectat patrum lites dissidiaque 
+      com<lb ed="#L" n="18" break="no"/>ponere. Iam Iulij testimonium explicatu facillimum est. 
+      <lb ed="#L" n="19"/>Tacet enim, quod manifestum erat concilium illud summi 
+      <lb ed="#L" n="20"/>Pontificis praesentia caruisse, ponit autem ne legatos 
+      qui<lb ed="#L" n="21" break="no"/>dem ecclesiae Romanae affuisse. E quibus diiobus altero 
+      <lb ed="#L" n="22"/>tacito altero expresso, colligit nullam prorsus ecclesiae 
+      <lb ed="#L" n="23"/>Romanae auctoritatem in eo concilio intercessisse. 
+      Qua<lb ed="#L" n="24" break="no"/>re irtitum &amp; vanum esse. Alioqui, si quis rustice sane eo 
+      <lb ed="#L" n="25"/>nos testimonio vrgeat, is nullo negotio exploditur. 
+      Ni<lb ed="#L" n="26" break="no"/>hilenim valet illa collectio, si concilium legatos non 
+      ha<lb ed="#L" n="27" break="no"/>buit, infirmum eius iudicium fuit, ergo si habuit fuit 
+      fir<lb ed="#L" n="28" break="no"/>mum. Sed de prima quaestione dictum est satis.  
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e660">
+               <lb ed="#L" n="29"/>Sequitur altera, anpatres concilij vere iudices sint an 
+      <lb ed="#L" n="30"/>potius consiliarij?Sunt enim auctores non omnino 
+      pessi<lb ed="#L" n="31" break="no"/>mili, qui conciliorum auctoritatem non in iudicanda, &amp;  
+      <lb ed="#L" n="32"/>finienda causa fidei, sed in quaerenda &amp; inuestiganda 
+      ve<lb ed="#L" n="33" break="no"/>ritate sitam esse velint. Omnem quippe iudicij vim ad 
+      <lb ed="#L" n="34"/>vnum ecclesiae principem eundemque, Christi vicarium 
+      re<lb ed="#L" n="35" break="no"/>uocant, qui fidei causa decernenda eo vel plures, vel 
+      pau<lb ed="#L" n="36" break="no"/>ciores in consilium adhibet, quo causa, vel grauior, vel 
+      <lb ed="#L" n="37"/>facilior est. Huius vero rei primum argumentum promitur,  
+      <lb ed="#L" n="38"/>quod in sex libris Decretalium &amp; Clementinis, non 
+      pa<lb ed="#L" n="39" break="no"/>tribus, sed summo pontifici sententia tribuitur, sacro ta¬ 
+      <!--326.xml-->
+      <pb ed="#L" n="315"/>
+               <lb ed="#L" n="1"/>men approbante concilio. Vnde Clemens 5. concilio 
+      Vien<lb ed="#L" n="2" break="no"/>nen. praesidens, nos, inquit, ad tam praeclarum testimonium ac 
+      <lb ed="#L" n="3"/>sanctorum patrum communem sententiam, apostolicae 
+      con<lb ed="#L" n="4" break="no"/>siderationis Cad quam duntaxat haec declarare pertinet, 
+      <lb ed="#L" n="5"/>aciem conuertentes, sacro approbante concilio 
+      declara<lb ed="#L" n="6" break="no"/>mus, &amp;c. Solum, ergo ad sedem apostolicam iudicium 
+      per<lb ed="#L" n="7" break="no"/>tinet, patrum vero non iudicium, sed consilium est. 
+      Prae<lb ed="#L" n="8" break="no"/>terea, cum Pontifex ecclesiae Romanae presbyteros in 
+      con<lb ed="#L" n="9" break="no"/>uentum cogit, vt causa aliqua fidei iudicetur, de fratrum, 
+      <lb ed="#L" n="10"/>inquit, nostrorum concilio, &amp;c. Consulunt ergo non 
+      iu<lb ed="#L" n="11" break="no"/>dicant. Adhaec. Deut. 16. si difficiie &amp; ambiguum, &amp;c. venies,  
+      <lb ed="#L" n="12"/>ait, ad sacerdotes Leuitici generis, &amp; ad iudicem qui fuerit 
+      <lb ed="#L" n="13"/>illo tempore, &amp;c. Et post, qui autem superbierit, inquit, 
+      no<lb ed="#L" n="14" break="no"/>lens obedire sacerdotis imperio, qui eo tempore ministrat 
+      <lb ed="#L" n="15"/>domino deo tuo, ex decreto iudicis morietur homo ille. 
+      <lb ed="#L" n="16"/>Ecce imperium non omnibus, sed summo sacerdoti 
+      assi<lb ed="#L" n="17" break="no"/>gnatur, &amp; decretum non iudicum sed iudicis esse dicitur.  
+      <lb ed="#L" n="18"/>A consilijs ergo sunt reliqui sacerdotes, non sunt iudices. 
+      <lb ed="#L" n="19"/>A contraria vero parte facit, quod in concilio illo primo  
+      <lb ed="#L" n="20"/>Hierosolimitano non solum Petrus, sed reliqui etiam Apo 
+      <lb ed="#L" n="21"/>stoli &amp; seniores iudices esse dicuntur. Propter quod ego 
+      <lb ed="#L" n="22"/>iudico, Iacobus ait, non inquietari, &amp;c. Acto. 15. Et 
+      poste<lb ed="#L" n="23" break="no"/>rius capite eodem, praecepta concilij Vocat Paulus 
+      praece<lb ed="#L" n="24" break="no"/>pta Apostolorum. Et ca. 16. dicit, ea dogmata esse 
+      decre<lb ed="#L" n="25" break="no"/>ta ab apostolis &amp; senioribus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e745">
+               <lb ed="#L" n="26"/>Ad hanc questionem perfacilis est &amp; expedita 
+      respon<lb ed="#L" n="27" break="no"/>sio. Episcopos concilij in fidei, causa non modo 
+      consilia<lb ed="#L" n="28" break="no"/>rios esse, verum etiam iudices. Alioqui non solum episcopi 
+      <lb ed="#L" n="29"/>ad ferendam sententiam synodalem adhiberentur, sed 
+      <lb ed="#L" n="30"/>etiam docti Theologi &amp; viri in ecclesia prudentes. Quod 
+      <lb ed="#L" n="31"/>inauditum est contraque formam Actorum 15. 
+      praescri<lb ed="#L" n="32" break="no"/>ptam, vbi Apostoli tantum cum presbyteris de fidei 
+      quae<lb ed="#L" n="33" break="no"/>stione iudicarunt. Cum igitur ecclesiae perpetuo vsu 
+      so<lb ed="#L" n="34" break="no"/>li pastores in concilio sedeant, consequens sit, censores 
+      <lb ed="#L" n="35"/>eos esse, non modo consultores. Nam si, vt consulerent, 
+      <lb ed="#L" n="36"/>aduocarentur: ijs episcopis, qui Theologiae rudes &amp; 
+      im<lb ed="#L" n="37" break="no"/>periti essent, nullus esset omnino in concilio locus, 
+      quan<lb ed="#L" n="38" break="no"/>do Theologiae, quaestio veniret in dubium. Praeterea 
+      <lb ed="#L" n="39"/>non Romanus episcopus modo, verum reliqui etiam  
+      <!--327.xml-->
+      <pb ed="#L" n="316"/>
+               <lb ed="#L" n="1"/>episcopi claues regni caelestis habent, ergo in c 
+      <lb ed="#L" n="2"/>ligandi quoque ac soluendi potestatem. V 
+      <lb ed="#L" n="3"/>quiunt, Spiritui sancto&amp; nobis, nihil vltra vol 
+      <lb ed="#L" n="4"/>re oneris quam haec necessaria, &amp;c. Omnes ergo 
+      ep<lb ed="#L" n="5" break="no"/>onus praeceptumque imponunt, omnesque simul 
+      <lb ed="#L" n="6"/>synodalis auctores sunt. Atque consiliarij, qui n 
+      <lb ed="#L" n="7"/>mul iudices, non solet iudicio sententiaeque subscril 
+      <lb ed="#L" n="8"/>in synodali sententia non pontificis solum, sed ca 
+      <lb ed="#L" n="9"/>episcoporum subscriptiones adponuntur. Sut 
+      <lb ed="#L" n="10"/>sine dubio iudices. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e804">
+               <lb ed="#L" n="11"/>Verum scrupulus hic existit, qui male quosdam H 
+      <lb ed="#L" n="12"/>Nam si omnes episcopi sunt iudices, summusr 
+      <lb ed="#L" n="13"/>pontifex tenebitur in ferenda sententia maiorem 
+      <lb ed="#L" n="14"/>dicum sequi, eorumque doctrinam approbare. In om 
+      <lb ed="#L" n="15"/>enim recto &amp; bene instituto tribunali is, qui praesidet, 7 
+      <lb ed="#L" n="16"/>rium iudicium confirmare debet, paucorum neglis 
+      <lb ed="#L" n="17"/>Hac soluenda quaestione Cardinalis Tuirecremata lib. a 
+      <lb ed="#L" n="18"/>summae Ecclesiae, capite64. &amp; 65. iurisperitos ipse seques 
+      <lb ed="#L" n="19"/>multa dicit, quae mihi non probantur omnia. Nec est 
+      <lb ed="#L" n="20"/>animus tamen singula persequi, &amp; cuiusque opiniones 
+      <lb ed="#L" n="21"/>refutare. Acute enim disputantis, vt Cicero tradit, illud 
+      <lb ed="#L" n="22"/>est, non quid quisque dicat, sed quid cuique dicendum 
+      <lb ed="#L" n="23"/>sit videre. Quod igitur assumptum est, patres concilij 
+      <lb ed="#L" n="24"/>non modo consiliarios esse, verum etiam iudices, id 
+      infi<lb ed="#L" n="25" break="no"/>cias ire nec possumus nec debemus. Nam patres 
+      Nicae<lb ed="#L" n="26" break="no"/>nae synodi a Syluestro contendunt, vt quicquid 
+      consti<lb ed="#L" n="27" break="no"/>tuerunt confirmet. Et Leo quae a concilio Chalcedonen. 
+      <lb ed="#L" n="28"/>de fide statuta sunt, ea dicit se probare. Et concilium 
+      ip<lb ed="#L" n="29" break="no"/>sum ad Leonem, decretis, inquit, tuis nostrum honora 
+      iu<lb ed="#L" n="30" break="no"/>dicium. Et 6. Synodus actione 1i8. Anathematixamus 
+      in<lb ed="#L" n="31" break="no"/>quit Theodorum, Sergium, Cyrum, &amp; cae. &amp; paulo post,  
+      <lb ed="#L" n="32"/>His omnibus, ait, a sancto hoc concilio constitutis, &amp; per 
+      <lb ed="#L" n="33"/>subscriptionem nostrae fortitudinis confirmatis, sancimus,  
+      <lb ed="#L" n="34"/>vt nullus aliud quicquam de fide satagat, &amp;c. Num verba 
+      <lb ed="#L" n="35"/>haec consulentis sunt? An potius iudicantis? Atque in 
+      cae<lb ed="#L" n="36" break="no"/>teris patres non vt consiliarij, sed vt iudices loquuntur.  
+      <lb ed="#L" n="37"/>Caput enim tertium Nicaene synodi sic habet. Interdixit 
+      <lb ed="#L" n="38"/>per omnia magna synodus, &amp;c. Scrupulum vero, qui nunc 
+      <lb ed="#L" n="39"/>opponitur, facile eximo. Nego enim, cum de fide agitur, 
+      <!--328.xml-->
+      <pb ed="#L" n="317"/>
+               <lb ed="#L" n="1"/>sequi plurimorum iudicium oportere. Nec hic, vt in 
+      hu<lb ed="#L" n="2" break="no"/>manis vel electionibus vel iudicijs, ex numero 
+      suffragio<lb ed="#L" n="3" break="no"/>rum sententiam metimur. Scimus frequenter vsum venire, 
+      <lb ed="#L" n="4"/>vt maior pars vincat meliorem, scimus non ea semper esse 
+      <lb ed="#L" n="5"/>optima, quae placet pluribus, scimus in rebus, quae ad 
+      do<lb ed="#L" n="6" break="no"/>ctrinam pertinent, sapientium sensum esse praeferendum. 
+      <lb ed="#L" n="7"/>Et sapientes paucissimi sunt, cum stultorum infinitus sit 
+      <lb ed="#L" n="8"/>numerus. Quadringenti Prophetae Achab mentiti sunt: 
+      <lb ed="#L" n="9"/>ex ore vero Michaeae solius quidem &amp; contemptibilis 
+      ve<lb ed="#L" n="10" break="no"/>ritas egressa est. Non sunt igitur diuina iudicia humanis 
+      <lb ed="#L" n="11"/>rationibus moderanda. In paucis aliquando citius quam  
+      <lb ed="#L" n="12"/>in multis saluat Dominus. Maior quippe pars Ephesini 
+      <lb ed="#L" n="13"/>concilij secundi in Dioscori sententiam venit, nec legati 
+      <lb ed="#L" n="14"/>tamen plurium iudicio subscripsere. Quocirca summus 
+      <lb ed="#L" n="15"/>pontifex maioris partis sententiam non tenetur amplecti. 
+      <lb ed="#L" n="16"/>Imo siue pauci siue plures ad errorem deflexerint, munus 
+      <lb ed="#L" n="17"/>est apostolici antistitis ad veram eos fidem reuocare: iuxta 
+      <lb ed="#L" n="18"/>illud quod Petro dixit Christus. Ego rogaui pro te ne 
+      <lb ed="#L" n="19"/>deficiat fides tua, &amp; tu non vnum &amp; item alterum, sed siue 
+      <lb ed="#L" n="20"/>paucos seu multos, confirma fratres tuos. Ita Damasus 
+      scri<lb ed="#L" n="21" break="no"/>bens ad episcopos per Illiricum constitutos, numerum 
+      con<lb ed="#L" n="22" break="no"/>cilij Ariminensis magna libertate contempsit, illique tantae 
+      <lb ed="#L" n="23"/>multitudini vnum Vincentium &amp; alios paucos opposuit, 
+      <lb ed="#L" n="24"/>qui contra illius concilij sententiam dixerunt. Et Leo, cum 
+      <lb ed="#L" n="25"/>Anatholius decretum Chalcedonen. Synodi de ecclesiae 
+      <lb ed="#L" n="26"/>Constantinopolitanae primatu, sexcentorum triginta 
+      pa<lb ed="#L" n="27" break="no"/>trum consensione praeferret, quasi, inquit, rufutari nequeat 
+      <lb ed="#L" n="28"/>quod illicite voluerit multitudo. Nullasibimet de 
+      multi<lb ed="#L" n="29" break="no"/>plicatione congregationis concilia blandiantur: nec 
+      tre<lb ed="#L" n="30" break="no"/>centis illis dece atque octo copiosior numerus 
+      sacerdo<lb ed="#L" n="31" break="no"/>tum comparare se audeat, vel praeferre, cum tanto 
+      diuini<lb ed="#L" n="32" break="no"/>tus priuilegio Nicaena sit synodus consecrata, vt siue per 
+      <lb ed="#L" n="33"/>pauciores, siue per plures ecclesiastica iudicia 
+      celebren<lb ed="#L" n="34" break="no"/>tur, omni penitus auctoritate sit vacuum, quicquid ab 
+      il<lb ed="#L" n="35" break="no"/>lorum fuerit constitutione diuersum. Hactenus Leo. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e949">
+               <lb ed="#L" n="36"/>Non itaque, quod in humanis concessibus sit, plurium 
+      <lb ed="#L" n="37"/>apud nos sententia praeualet. Quod si semel fidei causam  
+      <lb ed="#L" n="38"/>ad humanas coniecturas prudentiamque deducimus, 
+      ve<lb ed="#L" n="39" break="no"/>rendum est sane, ne ecclesiae negotium ex diuino huma¬ 
+      <!--329.xml-->
+      <pb ed="#L" n="318"/>
+               <lb ed="#L" n="1"/>num faciamus. Quinetiam certum est, qui probabili 
+      mul<lb ed="#L" n="2" break="no"/>torum iudicio nituntur, eos fidei nostrae firmitudinem  
+      <lb ed="#L" n="3"/>labefactare. Secundum quippe concilium generale 
+      cen<lb ed="#L" n="4" break="no"/>tum quinquaginta patrum numero constitit, quartum 
+      <lb ed="#L" n="5"/>vero patres habuit sexcentos triginta: vtrunque tamen, 
+      <lb ed="#L" n="6"/>pari veneratione suscepit ecclesia. Non enim numero 
+      <lb ed="#L" n="7"/>haec iudicantur, sed pondere. Pondus autem concilijs 
+      <lb ed="#L" n="8"/>dat fummi Pontificis &amp; grauitas &amp; auctoritas: quae si 
+      ad<lb ed="#L" n="9" break="no"/>sit, centum patres satis sunt, sin desit, nulli sunt satis, 
+      <lb ed="#L" n="10"/>sint quamlibet plurimi. Nec si maior pars patrum vere 
+      <lb ed="#L" n="11"/>sentiat, summus ecclesiae Pontifex repugnabit. Id enim 
+      <lb ed="#L" n="12"/>ad peculiarem Christi procurationem pertinet 
+      semper<lb ed="#L" n="13" break="no"/>que pertinuit, ne ecclesia in factiones duas diuidatur. 
+      <lb ed="#L" n="14"/>Nec Romanus vnquam episcopus, si exemplum 
+      quaeri<lb ed="#L" n="15" break="no"/>tui, contra patres concilij vere sentientes dixit. Ad 
+      se<lb ed="#L" n="16" break="no"/>cundam autem quaestionem nihil est, quod addere 
+      debea<lb ed="#L" n="17" break="no"/>mus, nam argumenta ex aduerso posita ex his, quae 
+      dixi<lb ed="#L" n="18" break="no"/>mus, facile diluuntur.   
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1004">
+               <lb ed="#L" n="19"/>Alia quaestio etiam existit, quae non est ad exponendum 
+      <lb ed="#L" n="20"/>facilis. Si enim concilium summi Pontificis auctoritate 
+      <lb ed="#L" n="21"/>firmatum, Spiritu sancto regitur fidei causis iudicandis,  
+      <lb ed="#L" n="22"/>eius ergo definitiones ad sacram scripturam pertinebunt. 
+      <lb ed="#L" n="23"/>Nam scriptura sacra vocatur, quae spiritu sancto afflante 
+      <lb ed="#L" n="24"/>scripta est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1020">
+               <lb ed="#L" n="25"/>Huius vero argumenti conclusionem vir apprime 
+      do<lb ed="#L" n="26" break="no"/>ctus, &amp; qui tantos habebat in Theologia progressus, vt 
+      <lb ed="#L" n="27"/>cum excellentibus Theologis compararetur, non est 
+      ve<lb ed="#L" n="28" break="no"/>ritus me praesente concedere. Atque in hanc opinionem 
+      <lb ed="#L" n="29"/>Gratianus quoque videtur descendisse. Diui Augustini 
+      <lb ed="#L" n="30"/>testimonio confirmatus 19. distin. cap. in Canonicis, vbi 
+      <lb ed="#L" n="31"/>summorum Pontificum epistolas decretales canonicas scri 
+      <lb ed="#L" n="32"/>pturas esse dicit: eadem igitur ratione concilij decreta in 
+      <lb ed="#L" n="33"/>Canonicis scripturis habebuntur. Sed &amp; Innocentius de 
+      <lb ed="#L" n="34"/>celebra. miss. cap. Cum Marthae. eandem sententiam vide 
+      <lb ed="#L" n="35"/>tur amplecti. Ait enim scriptura sacram asserere, quod 
+      in<lb ed="#L" n="36" break="no"/>iuriam, facit martyri, qui orat pro martyre. Hoc autem 
+      te<lb ed="#L" n="37" break="no"/>stimonium alicuius nimirum vel Pontificis vel concilij 
+      <lb ed="#L" n="38"/>est. Ratio item his testimonijs consentit. Fides enim 
+      ca<lb ed="#L" n="39" break="no"/>tholica nihil credit, nisi quod est a Deo reuelatum, quod si 
+      <!--330.xml-->
+      <pb ed="#L" n="319"/>
+               <lb ed="#L" n="1"/>concilii decreta tenemur certa secundum fidem habere: 
+      <lb ed="#L" n="2"/>ea sunt certe a Deo reuelata, atque ex consequenti 
+      scri<lb ed="#L" n="3" break="no"/>ptura canonica. 
+      <lb ed="#L" n="4"/>Ad haec opinatio quam sit inconsiderata, lector, vel 
+      <lb ed="#L" n="5"/>me non docente, intellecturus est. Nam si symbolum 
+      <lb ed="#L" n="6"/>Athanasii conciliiue Nicaeni inter sacras literas 
+      refer<lb ed="#L" n="7" break="no"/>tur, cur nec in Codicem sacrorum bibliorum redigitur, 
+      <lb ed="#L" n="8"/>nec cum libris canonicis annumeratur? Iam libros, qui 
+      <lb ed="#L" n="9"/>decretales Pontificum epistolas, synodorumque iudicia 
+      comn<lb ed="#L" n="10" break="no"/>tinent, in sacris &amp; canonicis habere absurdum est. 
+      Du<lb ed="#L" n="11" break="no"/>plex enim discrimen inter sacros auctores, &amp; summum  
+      <lb ed="#L" n="12"/>Pontificem patresque concilii reperitur. Vnum, quod 
+      au<lb ed="#L" n="13" break="no"/>ctores sacri exproxima Dei, vel reuelatione, vel 
+      inspira<lb ed="#L" n="14" break="no"/>tione, scribunt catholica dogmata. Nec enim eget 
+      exte<lb ed="#L" n="15" break="no"/>ris ad scribendum incitamentis, aut humana ratiocinatione 
+      <lb ed="#L" n="16"/>e scripturis aliis argumentantur, disquirunt, colligunt. At 
+      <lb ed="#L" n="17"/>concilium &amp; pontifex humana via incedunt, rationemque, 
+      <lb ed="#L" n="18"/>sequuntur : atque argumentando verum a falso discernunt. 
+      <lb ed="#L" n="19"/>Non enim existimandus est summus Potifex eam habere 
+      fa<lb ed="#L" n="20" break="no"/>cultatem, quae in Apostolis, Prophetis, &amp; Euangelistis inerat,  
+      <lb ed="#L" n="21"/>vt proposita vnaqualibet de fide quaestione protinus 
+      di<lb ed="#L" n="22" break="no"/>gnoscere possit, vtra quaestionis pars vera falsaye sit. Sed 
+      <lb ed="#L" n="23"/>adhibere prius consilium necesse est, &amp; expendere vtriusque 
+      <lb ed="#L" n="24"/>partis argumenta: tun deinde sequetur auxilium Dei, quod 
+      vi<lb ed="#L" n="25" break="no"/>delicet opus est, vt summus Potifex in recta fide 
+      continea<lb ed="#L" n="26" break="no"/>tur. In conciliis itidem non habent patres, moxquasi ex 
+      au<lb ed="#L" n="27" break="no"/>ctoritate sententiam absque alia discussione dicere. Sed 
+      <lb ed="#L" n="28"/>collationibus &amp; disputationibus re ante tractata, 
+      praeci<lb ed="#L" n="29" break="no"/>busque primum ad Deum fusis, tum vero quaestio a 
+      con<lb ed="#L" n="30" break="no"/>cilio sine errore finietur. Dei videlicet auxilio atque 
+      fa<lb ed="#L" n="31" break="no"/>uore, hominumque diligentia &amp; studio confluentibus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1128">
+               <lb ed="#L" n="32"/>Nam &amp; Apostolis &amp; presbyteris in synodum 
+      Hie<lb ed="#L" n="33" break="no"/>rosolymitanam congregatis, non statim reuelatum est,  
+      <lb ed="#L" n="34"/>quid esset in fidei causa decernendum: sed facta est 
+      <lb ed="#L" n="35"/>prius, vt Lucas ait, magna conquisitio. Et in Nicaena 
+      <lb ed="#L" n="36"/>synodo, vt Rufinus tradit, per singulos dies 
+      agitaba<lb ed="#L" n="37" break="no"/>iur conuentus: nec facile aut temere de re tanta 
+      sta<lb ed="#L" n="38" break="no"/>tuere audebant patres. Euocabatur frequenter Arius in 
+      <lb ed="#L" n="39"/>concilium, &amp; assiduo tractatu assertiones eius discu¬ 
+      <!--331.xml-->
+      <pb ed="#L" n="320"/>
+               <lb ed="#L" n="1"/>tiebantur, &amp; quid aduersum haec teneri deberet, aut 
+      sta<lb ed="#L" n="2" break="no"/>tui, summa cum libratione quaerebatur. Ita post 
+      diu<lb ed="#L" n="3" break="no"/>tinum multumque tractatum firmissima omnium 
+      senten<lb ed="#L" n="4" break="no"/>tia Arius condemnatus est. Ex quo perspicuum est, non 
+      <lb ed="#L" n="5"/>dormientibus &amp; oscitantibus patribus Spiritum sanctum 
+      <lb ed="#L" n="6"/>assistere, sed diligenter humana via &amp; ratione 
+      quaerenti<lb ed="#L" n="7" break="no"/>bus rei, de qua disseritur, veritatem. Alterum autem 
+      dis<lb ed="#L" n="8" break="no"/>crimen est, quod scriptoribus sacris, quemadmodum 
+      pri<lb ed="#L" n="9" break="no"/>mo loco fusius explicuimus. Dei spiritus adest in 
+      singu<lb ed="#L" n="10" break="no"/>lis. Etiam ne in minimis rebus? Etiam. At patribus 
+      syno<lb ed="#L" n="11" break="no"/>di spiritus veritatis non est praesens in omnibus, sed in 
+      <lb ed="#L" n="12"/>rebus solum ad salutem necessariis. Quod enim in 
+      sym<lb ed="#L" n="13" break="no"/>bolo Athanasii dicitur, carnem &amp; animam vnum esse 
+      ho<lb ed="#L" n="14" break="no"/>minem, id non oportet verum esse, quanuis cum 
+      Atha<lb ed="#L" n="15" break="no"/>nasio concilium Nicaenum consensisset. Nam vtrum  
+      <lb ed="#L" n="16"/>homo partes illae complexae sint an non sint, ad 
+      Philoso<lb ed="#L" n="17" break="no"/>phiae rationem pertinet, non fidei: quare 
+      Philosopho<lb ed="#L" n="18" break="no"/>rum quaestio est, non fidelium. Synodus autem 
+      prouin<lb ed="#L" n="19" break="no"/>cialis sub Srephano huius nominis septimo, per errorem, 
+      <lb ed="#L" n="20"/>omnes ordinationes factas a Bonoso irritas esse 
+      decre<lb ed="#L" n="21" break="no"/>uit, quod in synodo Romana sub Ioanne nono iure 
+      re<lb ed="#L" n="22" break="no"/>probatum est. Sed iudicium rerum gestarum erat, non 
+      <lb ed="#L" n="23"/>religionis fideique decretum. Huiusmodi sunt ea, quae 
+      <lb ed="#L" n="24"/>in Clement. Pastoralis. de sent. &amp; re. iudi. 
+      transigun<lb ed="#L" n="25" break="no"/>tur. Non enim ad fidem &amp; religionem attinent. 
+      Quo<lb ed="#L" n="26" break="no"/>circa, licet errasset Clemens, quod Bucerus contendit, 
+      <lb ed="#L" n="27"/>nihil inde concilii auctoritas labefactaretur. Tametsi 
+      <lb ed="#L" n="28"/>Clementina illa Clementis est, non concilii. Verum  
+      <lb ed="#L" n="29"/>Pontificum &amp; conciliorum eadem causa est. Sixtus 
+      quar<lb ed="#L" n="30" break="no"/>tus docuit. Diuam Catherinam Senensem stigmata non  
+      <lb ed="#L" n="31"/>habuisse, non defuit, qui contra iudicarit. Neutrius 
+      Po<lb ed="#L" n="32" break="no"/>tificis iudicium ad Christi ecclesiam spectat, vtrunque aut  
+      <lb ed="#L" n="33"/>probare aut improbare sine fidei discrimine possumus. 
+      <lb ed="#L" n="34"/>Sed valeant stulti, qui de rebus nihili digladiantur. Nos 
+      <lb ed="#L" n="35"/>enim hic exempla ponimus, vt lector intelligat, aliter 
+      au<lb ed="#L" n="36" break="no"/>ctores sacros esse habendos, aliter conciliorum patres. 
+      <lb ed="#L" n="37"/>Illos vbique vera dicere: hos posse in paruis errare. Ita, 
+      <lb ed="#L" n="38"/>quod Christus ecclesiae suae pollicitus est, spiritum eam  
+      <lb ed="#L" n="39"/>docturum omnem veritatem, hoc ad fidei veritatem referendum 
+      <!--332.xml-->
+      <pb ed="#L" n="321"/>
+               <lb ed="#L" n="1"/>est, vt diserte Augustinus docet, &amp; in commentariis super 
+      <lb ed="#L" n="2"/>Ioannem, &amp; in actis contra Foelicem libro secundo. Nec 
+      <lb ed="#L" n="3"/>enim rogauit Christus ne deficeret Petro aut 
+      Philoso<lb ed="#L" n="4" break="no"/>phiae, aut rerum gestarum cognitio &amp; veritas, sed ne 
+      de<lb ed="#L" n="5" break="no"/>ficeret ei fides. 
+      <lb ed="#L" n="6"/>Forsitan quispiam dixerit, nonne igitur concilii 
+      Hie<lb ed="#L" n="7" break="no"/>rosolymitani decreta sacra scriptura sunt? Facta est enim 
+      <lb ed="#L" n="8"/>magna conquisitio: dictum est autem scripturae sacrae 
+      <lb ed="#L" n="9"/>auctoribus minime conuenire, vt disquirant &amp; 
+      humani<lb ed="#L" n="10" break="no"/>tus ratiocinentur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1263">
+               <lb ed="#L" n="11"/>Item, nam &amp; hoc dicet aliquis, si summus Pontifex &amp;  
+      <lb ed="#L" n="12"/>concilia, nisi diligentiam adhibeant, errare possunt : cum 
+      <lb ed="#L" n="13"/>nobis non constet, an summus Pontifex patresque 
+      con<lb ed="#L" n="14" break="no"/>cili praestiterint se diligentes, &amp; industrios, vt via &amp; 
+      ra<lb ed="#L" n="15" break="no"/>tione procederet inquisitio, ne constabit quidem an 
+      er<lb ed="#L" n="16" break="no"/>rauerint. Ita quaecunque definierint, erunt incerta. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1279">
+               <lb ed="#L" n="17"/>Ac primus quidem scrupulus facilius eximitur. 
+      Quem<lb ed="#L" n="18" break="no"/>admodum enim verba Pilati ad canonem pertinent, non 
+      <lb ed="#L" n="19"/>qua Pilatus dixit, sed quam scripsit Euangelista: sic &amp; 
+      con<lb ed="#L" n="20" break="no"/>cilii Hierosolymitani definitio sacra scriptura est, quod 
+      <lb ed="#L" n="21"/>Lucas eam reliquis historiaes suae partibus contexuerit. vt 
+      <lb ed="#L" n="22"/>econtrario verba Petri, quae refert Clemens, non sunt de 
+      <lb ed="#L" n="23"/>canone, quoniam Clemens scriptor sacer non fuit. Quae 
+      <lb ed="#L" n="24"/>causa idonea est, vt canones Apostolorum, quos idem 
+      Cle<lb ed="#L" n="25" break="no"/>mens scripsisse fertur, in libris canonicis non habeantur: 
+      <lb ed="#L" n="26"/>tamet si Damascenus li. 4. ca. 18. in catalogum, vt videtur,  
+      <lb ed="#L" n="27"/>sacrorum librorum referat, &amp; Epiphanius haeresi 
+      postre<lb ed="#L" n="28" break="no"/>ma refellenda, Apostolorum constitutiones diuinam 
+      scri<lb ed="#L" n="29" break="no"/>pturam vocet. Loquitur autem sine dubio de his 
+      consti<lb ed="#L" n="30" break="no"/>eutionibus quae in sacris Bibliis scriptae non sunt. Sed alia 
+      <lb ed="#L" n="31"/>est illa, cum Veritas ipsa limatur in disputatione, 
+      subtili<lb ed="#L" n="32" break="no"/>tas: alia cum obiter &amp; in transcursu ad vulgarem quandam  
+      <lb ed="#L" n="33"/>opinionem accommodatur oratio. Quamobrem vt 
+      sapi<lb ed="#L" n="34" break="no"/>entes, ita nos hoc loco verbis ecclesiasticis vtimur, vt 
+      <lb ed="#L" n="35"/>eos solum, qui spiritu dictante scripti sunt libri, sacros 
+      <lb ed="#L" n="36"/>&amp; canonicos appellemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1325">
+               <lb ed="#L" n="37"/>Alter vero scrupulus ita Syluestri animo, resedit, vt vix 
+      <lb ed="#L" n="38"/>eum inde pellere potuerit. Meliusque fuisset occulere, quam  
+      <lb ed="#L" n="39"/>stimulare caeteros, quo ipse scrupulo pungebatur. Ac sunt 
+      <!--333.xml-->
+      <pb ed="#L" n="322"/>
+               <lb ed="#L" n="1"/>etiam, qui non obscure dicant, quod si quando Romanus 
+      <lb ed="#L" n="2"/>Potifex in definitione fidei errauit, inde euenire potuit 
+      <lb ed="#L" n="3"/>quod non tantam quantam debebat adhibuit diligentiam, 
+      <lb ed="#L" n="4"/>anteque sententiam proferret. Quoniam vel re non plene 
+      exami<lb ed="#L" n="5" break="no"/>nauit, vel non eos, quos oportebat, consuluit. Quibus si 
+      ob<lb ed="#L" n="6" break="no"/>ficias, apostolicam sedem errare in fide non posse: fatentur 
+      <lb ed="#L" n="7"/>id quidem, sed aiunt, sedis apostolicae nomen, non solum sum 
+      <lb ed="#L" n="8"/>mum Pontificem significare, sed ipsum, vt facit ea quae ad 
+      <lb ed="#L" n="9"/>cathedram spectant, hoc est, quatenus non ex suo sed ex 
+      <lb ed="#L" n="10"/>consilio bonorum virorum &amp; doctorum procedit. Ita sedis 
+      <lb ed="#L" n="11"/>apostolicae iudicia intelligi, non quae occulte, malitiose, 
+      <lb ed="#L" n="12"/>inconsulte, per solum Romanum episcopum, aut etiam  
+      <lb ed="#L" n="13"/>cum paucis sibi fauentibus proferuntur: sed quae ab eo ex 
+      <lb ed="#L" n="14"/>consilio plurimorum virorum sapientum plene prius re 
+      <lb ed="#L" n="15"/>examinata prodeunt. Quae res vt de conciliis quoque 
+      di<lb ed="#L" n="16" break="no"/>catur, subsunt omnino causae eaedem, quas dixi paulo 
+      <lb ed="#L" n="17"/>ante. Non enim existimare debemus, summum solum 
+      pon<lb ed="#L" n="18" break="no"/>tificem, cum dormierit, errare: cum non dormierit 
+      ve<lb ed="#L" n="19" break="no"/>rum dicere: patres autem, siue dormiant, siue vigilent, 
+      <lb ed="#L" n="20"/>semper recta ingredi, &amp; clausis, quod aiunt, oculis vel in 
+      <lb ed="#L" n="21"/>tenebris obscura cernere. Commune est, crede mihi, 
+      <lb ed="#L" n="22"/>omnibus ecclesiae iudicibus: vt, si decreta ediderint 
+      te<lb ed="#L" n="23" break="no"/>meritate quadam sine iudicio, repentino quasi vento 
+      in<lb ed="#L" n="24" break="no"/>citati, nihil omnino conficiant, quod solidum, quod 
+      <lb ed="#L" n="25"/>graue, quod certum habeatur. Ea par est &amp; grauia &amp; 
+      cer<lb ed="#L" n="26" break="no"/>ta in ecclesia haberi, quae iudicio, considerate, 
+      constan<lb ed="#L" n="27" break="no"/>terque edita sint. Quamobrem qui siue pontificum seu 
+      <lb ed="#L" n="28"/>conciliorum diligentiam fidei causa finienda in dubium 
+      <lb ed="#L" n="29"/>vocant, eos necesse est omnia pontificum iudicia ac 
+      con<lb ed="#L" n="30" break="no"/>ciliorum infirmare. Nos igitur scrupulum illum 
+      poste<lb ed="#L" n="31" break="no"/>riorem, si cui infixus est, aliter ex animo euellemus. Nam 
+      <lb ed="#L" n="32"/>Deus suauiter disponit omnia: simulque prospicit &amp; 
+      <lb ed="#L" n="33"/>finem &amp; media ad finem necessaria. Si enim 
+      promitte<lb ed="#L" n="34" break="no"/>ret cuiquam aeternam vitam, mox conferret etiam illi bo 
+      <lb ed="#L" n="35"/>narum gratiam actionum, quibus eam vitam 
+      conseque<lb ed="#L" n="36" break="no"/>retur. Videlicet quos glorificauit, eosdem &amp; 
+      iustifica<lb ed="#L" n="37" break="no"/>uit &amp; vocauit, vt ad Romanos 8. capite dicitur. Sic 
+      om<lb ed="#L" n="38" break="no"/>nino, cum ecclesiae fidei firmitatem fuerit pollicitus: deesse 
+      <lb ed="#L" n="39"/>non potest, quo minus tribuat ecclesiae praeces caeteraque 
+      <!--334.xml-->
+      <pb ed="#L" n="323"/>
+               <lb ed="#L" n="1"/>pPraesidia, quibus haec firmitas conseruatur. Nec vero 
+      <lb ed="#L" n="2"/>dubitari potest, quod in rebus naturalibus contingit, 
+      <lb ed="#L" n="3"/>idem in superuaturalibus quoque vsu venire: vt qui dat 
+      <lb ed="#L" n="4"/>finem, det consequentia ad finem. Quod quoniam 
+      Phi<lb ed="#L" n="5" break="no"/>losophorum pronunciatum est, &amp; Theologorum etiam  
+      <lb ed="#L" n="6"/>ore teritur, permittant mihi obsecro Latiniores, 
+      inter<lb ed="#L" n="7" break="no"/>dum cum nostris nostra loqui. Nam etsi ornatius, quam  
+      <lb ed="#L" n="8"/>hi solent, nos plerunque disserimus, sed nonnunquam  
+      <lb ed="#L" n="9"/>quas sententias a scholasticis accepimus, eisdem 
+      ver<lb ed="#L" n="10" break="no"/>bis efferre volumus: ne dicendi forma penitus 
+      immu<lb ed="#L" n="11" break="no"/>tata, discessisse a schola videamur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1451">
+               <lb ed="#L" n="12"/>Itaque praestat semper Pontifex quod in se est, 
+      prae<lb ed="#L" n="13" break="no"/>statque Concilium, cum de fide pronunciant: caditque 
+      <lb ed="#L" n="14"/>causa, si quis e nostris aliter existimat. Quemadmodum 
+      <lb ed="#L" n="15"/>enim, si Christus Petro diceret: Ego rogaui pro te ne de 
+      <lb ed="#L" n="16"/>ficiat charitas tua : certocertius intelligeretur, 
+      diligenti<lb ed="#L" n="17" break="no"/>am, curam, vigilias, praeces, caeteraque auxilia opportuna 
+      <lb ed="#L" n="18"/>illi impetrasse, quae sunt ad charitatis conseruationem ne 
+      <lb ed="#L" n="19"/>cessaria: ita cum dixit: ego rogaui pro te, ne deficiat 
+      fi<lb ed="#L" n="20" break="no"/>des tua, procul dubio intelligimus, id a patre suo 
+      conse<lb ed="#L" n="21" break="no"/>cutum, vt quae ad rectum de fidei quaestione iudicium 
+      opor<lb ed="#L" n="22" break="no"/>terent, ea adessent Petro omnia, siue a Deo, siue ab 
+      ho<lb ed="#L" n="23" break="no"/>mine expectarentur. Quod si Deus in sequentemannum 
+      <lb ed="#L" n="24"/>frunum abandantiam polliceretur, ecquid stultius esse 
+      <lb ed="#L" n="25"/>posset, quam dubitare. an ne homines semina terrae 
+      man<lb ed="#L" n="26" break="no"/>daturi sint : Certe si seruerint metent: si non seruerint,  
+      <lb ed="#L" n="27"/>non metent. Sed ex Dei pollicitatione colligimus, non 
+      <lb ed="#L" n="28"/>solum proprias coeli conuersiones, quibus omnia, quae 
+      <lb ed="#L" n="29"/>terra gignit, vberiora proueniunt, sed agricolarum etiam  
+      <lb ed="#L" n="30"/>curas, operas, diligentiam. Non enim frugum 
+      abundan<lb ed="#L" n="31" break="no"/>tia illa promissa nisi arantibus, seminantibus, 
+      laboranti<lb ed="#L" n="32" break="no"/>busque continget. Quibus ex rebus facile 
+      comprehen<lb ed="#L" n="33" break="no"/>ditur, cum spiritum veritatis Christus Apostolis, 
+      eo<lb ed="#L" n="34" break="no"/>rumque successoribus in fidei iudicio promiserit, nihil 
+      <lb ed="#L" n="35"/>omnino illis defuturum, quod fidei controuersijs 
+      fini<lb ed="#L" n="36" break="no"/>endis fuerit necessarium. Ac si semel haereticis hanc 
+      li<lb ed="#L" n="37" break="no"/>centiam permittimus, vt in quaestionem vocent, num 
+      eccle<lb ed="#L" n="38" break="no"/>siae iudices eam diligentiam &amp; curam exhibuerint, quae opus 
+      <lb ed="#L" n="39"/>erat, vt questio via &amp; ratione finiret: ecquis adeo caecus est,  
+      <!--335.xml-->
+      <pb ed="#L" n="324"/>
+               <lb ed="#L" n="1"/>qui non videat, omnia mox Pontificum conciliorume 
+      <lb ed="#L" n="2"/>iudicia labefactari? Porro si illud in quaestionem ve 
+      <lb ed="#L" n="3"/>nec certis argumentis confirmari possit: at haec res 
+      <lb ed="#L" n="4"/>men Theologis constituta sit ac definita, concilia, 
+      <lb ed="#L" n="5"/>quo modo se habeant, si a summo Pontifice confirman 
+      <lb ed="#L" n="6"/>sunt, errare in fide non posse. Quanquam me quidem iu 
+      <lb ed="#L" n="7"/>dice absurdum est, ad finem aliquem nisi per consentat 
+      <lb ed="#L" n="8"/>media perueniri. Ita nunquam ego admittam, aut Ponti 
+      <lb ed="#L" n="9"/>ficem aut concilium diligentiam aliquam necessariam quae 
+      <lb ed="#L" n="10"/>stionibus fidei decernendis omisisse. Id quod prius 
+      <lb ed="#L" n="11"/>cuicunque alteri homini accidere potest, vt nec diliger 
+      <lb ed="#L" n="12"/>tem nauet operam ad disquirendam veritatem, &amp; vt na 
+      <lb ed="#L" n="13"/>uauerit, integrumque sese in ea re praestiterit, erret ac 
+      <lb ed="#L" n="14"/>huc tamen, quamuis error sine culpa sit. Error autem, Ve 
+      <lb ed="#L" n="15"/>inculpatus, ab ecclesia Dei longissime abest, quemadmo 
+      <lb ed="#L" n="16"/>dum libro superiore constituimus. Quae res abundem ma 
+      <lb ed="#L" n="17"/>gno argumento est, vt nec Pontifex nec concilia neces 
+      <lb ed="#L" n="18"/>sarium quicquam in deliberando praetermiserint. Fac e 
+      <lb ed="#L" n="19"/>nim quidpiam ex necessarijs omissum esse. Tum rogo, 
+      an<lb ed="#L" n="20" break="no"/>fideles his, qui de fidei quaestione iudicarunt, tantispes 
+      <lb ed="#L" n="21"/>parere debeant, dum illorum negligentia innotescit ec 
+      <lb ed="#L" n="22"/>clesiae. Parere debent, aiunt. Iam igitur eo tempore 
+      erram<lb ed="#L" n="23" break="no"/>tibus iudicibus errabit ecclesia. Sine vitio suo, inquis, 
+      ec<lb ed="#L" n="24" break="no"/>clesia tunc errabit. Agnosco. Sed, vt dictum est, ne hunc qui 
+      <lb ed="#L" n="25"/>dem errorem admittere in Dei ecclesia debemus. Quid, 
+      <lb ed="#L" n="26"/>qo si semel de diligentia iudicum dubitamus, nouum 
+      exa<lb ed="#L" n="27" break="no"/>men iudiciumque semper recens postulabitur, vt de 
+      di<lb ed="#L" n="28" break="no"/>ligentia adhibita, vel non adhibita censeatur ? 
+      Conceda<lb ed="#L" n="29" break="no"/>mus ergo iudicibus a Deo in ecclesia constitutis nihil 
+      <lb ed="#L" n="30"/>eorum deesse posse, quae ad rectum verumque iudicium 
+      <lb ed="#L" n="31"/>sunt necessaria. Quibus explicatis facile intelligitur, vt 
+      <lb ed="#L" n="32"/>ad tertiae huius quaestionis caput recurramus, nec 
+      Ponti<lb ed="#L" n="33" break="no"/>ficum, nec conciliorum decreta, sacrae scripturae partes 
+      <lb ed="#L" n="34"/>isse: id quod in primo argumento obijciebatur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1592">
+               <lb ed="#L" n="35"/>Dicamus igitur ad ea, quae in secundo argumento sunt 
+      <lb ed="#L" n="36"/>licta. Vbi Gratianus Augustini sententiam non est 
+      asse<lb ed="#L" n="37" break="no"/>cutus. Cui errori causam fortasse praebuit codex 
+      quis<lb ed="#L" n="38" break="no"/>piam deprauatus. Augustini enim vera lectio sic habet. In 
+      <lb ed="#L" n="39"/>canonicis scripturis ecclesiarum catholicarum quamplu¬ 
+      <!--336.xml-->
+      <pb ed="#L" n="325"/>
+               <lb ed="#L" n="1"/>rimum auctoritatem sequatur. Inter quas, scilicet 
+      eccle<lb ed="#L" n="2" break="no"/>sias, sane illae sunt, quae Apostolicas sedes habere aut 
+      epi<lb ed="#L" n="3" break="no"/>stolas accipere meruerunt. Est autem sensus huiusmodi, 
+      <lb ed="#L" n="4"/>in iudicio librorum canonicorum primum videndum esse, 
+      <lb ed="#L" n="5"/>quid ecclesiae catholicae sentiant. Sed inter Catholicas 
+      <lb ed="#L" n="6"/>ecclesias illarum esse testimonium praeferendum, quae vel 
+      <lb ed="#L" n="7"/>fuere sedes Apostolorum, vt Hierosolymitana, vel ab  
+      <lb ed="#L" n="8"/>Apostolis aliquam epistolam acceperunt, vt Corinthia, 
+      <lb ed="#L" n="9"/>Galatia. Non itaque Augustinus loquebatur de epistolis 
+      <lb ed="#L" n="10"/>Pontificum Decretalibus, vt Gratianus falso existimauit. 
+      <lb ed="#L" n="11"/>Id quod ante nos quidam etiam alij viri diligentissimi 
+      <lb ed="#L" n="12"/>deprehenderunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1637">
+               <lb ed="#L" n="13"/>Tertio vero argumento occurri potest, in hunc 
+      mo<lb ed="#L" n="14" break="no"/>dum. Leges pontificias quandoque sacras appellari, vt a 
+      <lb ed="#L" n="15"/>legibus principum discriminentur. Atque hoc sensu 
+      sa<lb ed="#L" n="16" break="no"/>cram scripturam vocauit Innocentius. Sic forsitan 
+      diui<lb ed="#L" n="17" break="no"/>na lex vocatur Canonica, humana vero ciuilis. de iuram. 
+      <lb ed="#L" n="18"/>calum. cap. 1. vt Hostien. Andreas, Siculus, Cardinalis,  
+      <lb ed="#L" n="19"/>Barba. &amp; alij iurisperiti notauerunt. &amp; Glossa. c. Ex 
+      dili<lb ed="#L" n="20" break="no"/>genti de Simonia. Atque adeo Innocentius 4. c. cum de 
+      <lb ed="#L" n="21"/>diuersis. de priuil. in. 6. non obscure ius Canonicum diui 
+      <lb ed="#L" n="22"/>num Vocat, ciuile autem humanum. Et legem Canonicam  
+      <lb ed="#L" n="23"/>sacram ac diuinam appellat Iustinianus in Authen. vt 
+      cle<lb ed="#L" n="24" break="no"/>rici apud proprios episcopos. 5. si vero. Quam rem 
+      scio<lb ed="#L" n="25" break="no"/>lus fortasse quispiam ignorans 20. d. c. de quibus. vbi 
+      le<lb ed="#L" n="26" break="no"/>ctio vera habebat, ad diuina recurrite scripta canonica, 
+      <lb ed="#L" n="27"/>loco huius postremae vocis substituit Graeca. Nihil enim 
+      <lb ed="#L" n="28"/>minus Innocentius eo capite agebat, quam in 
+      ecclesiasti<lb ed="#L" n="29" break="no"/>cis causis cudicandis, ad Graeca Bibliorum exemplaria iu 
+      <lb ed="#L" n="30"/>dices mittere. Alioqui cur non etiam ad Hebraea? Nec 
+      <lb ed="#L" n="31"/>verisimile est, in causis ecclesiae decernendis scripta 
+      ca<lb ed="#L" n="32" break="no"/>nonica esse ab Innocentio praetermissa. Quin post 
+      diui<lb ed="#L" n="33" break="no"/>nam scripturam secundo ea loco posuit, etiam ante 
+      san<lb ed="#L" n="34" break="no"/>ctorum scripturas. Et hoc erat Gratiani in ea distin. 
+      pro<lb ed="#L" n="35" break="no"/>prium institutum. Nihil igitur nobis mirum est, si sciiptu 
+      <lb ed="#L" n="36"/>ra canonum, sacra &amp; diuina quandoque nuncupetur. Sed 
+      <lb ed="#L" n="37"/>nos alio sensu de scriptura sacra loquimur. Quanquam  
+      <lb ed="#L" n="38"/>ab Innocentio testimonium citatum quidem 
+      Auousti<lb ed="#L" n="39" break="no"/>mi est, de verbis Apostoli inquientis: Iniuriae est pro 
+      <!--337.xml-->
+      <pb ed="#L" n="326"/>
+               <lb ed="#L" n="1"/>martyre orare, cuius debemus praecibus commendari, 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e1705">
+               <lb ed="#L" n="2"/>At postremum argumentum sic facillime refutatur. 
+      <lb ed="#L" n="3"/>Duplex conclusionum genus, posse in concilio defini 
+      <lb ed="#L" n="4"/>Vnum earum, quae sunt propriae Theologicae facultatis 
+      <lb ed="#L" n="5"/>quoniam vel ex duobus principijs per fidem creditis, vel 
+      <lb ed="#L" n="6"/>alio credito, alio lumine naturae cognito colliguntur,  
+      <lb ed="#L" n="7"/>Alterum autem genus est earum, quas Spiritus sanctus ipse 
+      <lb ed="#L" n="8"/>reuelauit quidem Apostolis, Euangelistis, aut Prophetis,  
+      <lb ed="#L" n="9"/>sed quoniam non erat id perinde manifestum, a synode 
+      <lb ed="#L" n="10"/>deciaratur. Quae sunt prioris generis, ad fidem spectant 
+      <lb ed="#L" n="11"/>secundario, &amp;, vt ita dicam, mediate. Quare, quod suo 
+      <lb ed="#L" n="12"/>postea loco fuse sumus explicaturi, qui eas negauerit 
+      <lb ed="#L" n="13"/>hoc haereticus erit, quod ex consequenti negat 
+      princi<lb ed="#L" n="14" break="no"/>pium, vnde illae conficiuntur. Quae vero sunt 
+      posterio<lb ed="#L" n="15" break="no"/>ris generis, proprie &amp; per se ad fidem pertinent: nec 
+      <lb ed="#L" n="16"/>has a Pontificibus aut concilijs nouas expectare 
+      debe<lb ed="#L" n="17" break="no"/>mus. Id enim etiam atque etiam asserimus, nullas alias 
+      <lb ed="#L" n="18"/>scripturas sacras ecclesiam aut habere nunc aut deinceps 
+      <lb ed="#L" n="19"/>nabituram, praeter scriptutas populorum, &amp; principum 
+      <lb ed="#L" n="20"/>horum, qui fuerunt in ea. Non sunt, inquam, aut erunt, 
+      <lb ed="#L" n="21"/>sed fuerunt. Omnia siquidem, quae pater filio suo 
+      vni<lb ed="#L" n="22" break="no"/>genito ecclesiae declaranda: commisit, primum ipse filius 
+      <lb ed="#L" n="23"/>Apostolis reuelauit, deinde eadem vt inuulgarent, 
+      ius<lb ed="#L" n="24" break="no"/>sit. Vos, inquit, dixi amicos, quia omnia, quae audiui a 
+      <lb ed="#L" n="25"/>patre meo, nota feci vobis, Ioannis is. Et rursum, ille vos 
+      <lb ed="#L" n="26"/>docebit omnia, &amp; suggeret vobis omnia quaecunque 
+      di<lb ed="#L" n="27" break="no"/>xero vobis, Ioann. 14. Et iterum, cum venerit spiritus 
+      <lb ed="#L" n="28"/>veritatis, docebit vos omnem veritatem, Ioannis 16. Hi 
+      <lb ed="#L" n="29"/>enim fuere noui Testamenti ministri, qui reuelata facie 
+      <lb ed="#L" n="30"/>gloriam Domini speculati sunt. 2. ad Corinthios 3. Hi 
+      <lb ed="#L" n="31"/>fuere ministri sermonis, vt Lucas capite Euangelij 
+      pri<lb ed="#L" n="32" break="no"/>mo testatur. His quoque dictum est, docete omnes 
+      gen<lb ed="#L" n="33" break="no"/>tes ea seruare quaecunque praecepi vobis, Matthaei vltimo.  
+      <lb ed="#L" n="34"/>Omnem ergo fidei veritatem vel a Christodum in terra 
+      <lb ed="#L" n="35"/>degeret, vel ab Spiritu sancto Apostoli postea 
+      accepe<lb ed="#L" n="36" break="no"/>runt, eamque iuxta praescriptam legem, aut scripto aut  
+      <lb ed="#L" n="37"/>verbo ecclesiae tradiderunt. Hinc enim est, quod Irenaeus, 
+      <lb ed="#L" n="38"/>Hieronymus, Augustinus, aduersum haereticos 
+      semper<lb ed="#L" n="39" break="no"/>id agunt, vt videant an illorum, noua dogmasa cogruant 
+      <!--338.xml-->
+      <pb ed="#L" n="327"/>
+               <lb ed="#L" n="1"/>eum antiqua traditione &amp; fide. Et si quas scripturas 
+      no<lb ed="#L" n="2" break="no"/>uas haeretici proferant, si se Apostolos aut Prophetas con 
+      <lb ed="#L" n="3"/>fingant, statim nouitatis odio exploduntur. Itaque post 
+      <lb ed="#L" n="4"/>Apostolos &amp; eos, qui ab Apostolis probati sunt, nullos 
+      <lb ed="#L" n="5"/>auctores sacros expectamus. Sed siue summus Pontifex 
+      <lb ed="#L" n="6"/>seu concilia, primum de vero sensu &amp; interpretatione 
+      <lb ed="#L" n="7"/>scripturarum iudicant, vt in concilio Tridentino, 
+      sessio<lb ed="#L" n="8" break="no"/>tertia definitur. Et absurdum est sane, vt ecclesia 
+      auctori<lb ed="#L" n="9" break="no"/>tatem habeat discernendi verba Dei a verbis hominum, 
+      <lb ed="#L" n="10"/>sensum Dei ab humano sensu non habeat. Id igitur ante 
+      <lb ed="#L" n="11"/>omnia concilijs tribuamus. Deinde &amp; illud, quod veras 
+      <lb ed="#L" n="12"/>&amp; legitimas Christi &amp; Apostolorum traditiones via &amp; 
+      ra<lb ed="#L" n="13" break="no"/>tione inuestigant. Rursum, quaenam conclusiones his 
+      <lb ed="#L" n="14"/>cohaereant, quae contra dissideant, certa complexione &amp;  
+      <lb ed="#L" n="15"/>connexione conficiunt. Consulunt autem in huiusmodi 
+      <lb ed="#L" n="16"/>rebus finiendis non sacras literas modo, verum etiam  
+      <lb ed="#L" n="17"/>Apostolorum instituta, priora concilia, summorum  
+      <lb ed="#L" n="18"/>Pontificum decreta, Sanctorum veterum scripta, 
+      scho<lb ed="#L" n="19" break="no"/>lasticorum Theologorum dogmata, rectam 
+      Philoso<lb ed="#L" n="20" break="no"/>phiae rationem. Breuiter, causam de qua disseritur, in 
+      <lb ed="#L" n="21"/>eos locos conijciunt, de quibus liber hic noster 
+      insti<lb ed="#L" n="22" break="no"/>tuitur. Nec enim ex alijs fontibus argumenta deriuare 
+      <lb ed="#L" n="23"/>possunt ad fidei Theologiaeue soluendas quaestiones. 
+      <lb ed="#L" n="24"/>Nouas autem reuelationes &amp; scripturas sacras 
+      quaere<lb ed="#L" n="25" break="no"/>re, Iudaeorum est, qui recentes etiam num Prophetas 
+      <lb ed="#L" n="26"/>praestolantur. 
+      <lb ed="#L" n="27"/>Alia etiam quaestio valde difficilis ex his, quae diximus,  
+      <lb ed="#L" n="28"/>oritur. Si non omnia in concilijs certa sunt, nec enim in 
+      <lb ed="#L" n="29"/>singulis Spiritus sanctus concilijs assistit, ecqua via &amp; ra 
+      <lb ed="#L" n="30"/>tione vestigabimus conciliorum certa in fide decreta. 
+      <lb ed="#L" n="31"/>Principio nanque in Clemen, vnica de summa Trinitate 
+      <lb ed="#L" n="32"/>&amp; fide cath, ea opinio tanquam probabilior eligitur, quae 
+      <lb ed="#L" n="33"/>habet, in baptismo gratiam &amp; virtutes infundi. Pari ergo 
+      <lb ed="#L" n="34"/>causa &amp; in alijs conciliorum Decretis dicere possumus 
+      <lb ed="#L" n="35"/>probabiles opiniones eligi, non res exploratas definiti. 
+      <lb ed="#L" n="36"/>Deinde in capit. Firmiter. de summa Trinitate &amp; fide 
+      ca<lb ed="#L" n="37" break="no"/>tho. patres concilij Lateranensis firmiter, inquiunt, 
+      cre<lb ed="#L" n="38" break="no"/>dimus &amp; simpliciter confitemur, quod vnus est solus 
+      ve<lb ed="#L" n="39" break="no"/>rus Deus, creator omnium, visibilium &amp; inuisibilium, 
+      <!--339.xml-->
+      <pb ed="#L" n="328"/>
+               <lb ed="#L" n="1"/>spiritualium &amp; corporalium, qui simul ab initio tempori 
+      <lb ed="#L" n="2"/>vtranque de nihilo condidit creaturam spirituale &amp; 
+      cor<lb ed="#L" n="3" break="no"/>poralem, angelicam videlicet &amp; mundanam. At non est 
+      <lb ed="#L" n="4"/>fidei aduersum, Angelos ante mundum corporeum 
+      crea<lb ed="#L" n="5" break="no"/>tos. Id enim asserunt Gregorius Nazanzenus in prima 
+      <lb ed="#L" n="6"/>oratione de natali Domini, Basilius in examin. 
+      congres<lb ed="#L" n="7" break="no"/>sione prima. Damascenus 2. libr. c. 3. Ambrosius in exam.  
+      <lb ed="#L" n="8"/>lib. 1. cap. 5. Hieronymus in comment, super 1. caput 
+      epi<lb ed="#L" n="9" break="no"/>stolae ad Titum. Cassianus collatione 8. cap. 7. Vnde, nec 
+      <lb ed="#L" n="10"/>Augustinus libro de ciuit. Dei 11. cap. 32. nec D. Thomas 
+      <lb ed="#L" n="11"/>1. p. 4. 61. art. 3. hanc opinionem fidei esse contrariam pi 
+      <lb ed="#L" n="12"/>tauerunt. Ac concilium illud Laterane. Thomas viderat, 
+      <lb ed="#L" n="13"/>imo in illud ipsum caput ediderat commentaria: non ergo 
+      <lb ed="#L" n="14"/>conciliorum aut definitiones aut fidei confessiones 
+      cer<lb ed="#L" n="15" break="no"/>tae sunt, sed patres, etiam cum asserunt se firmiter quicqum 
+      <lb ed="#L" n="16"/>&amp; profiteri &amp; credere, nihil omnino definiunt, quod 
+      fi<lb ed="#L" n="17" break="no"/>deles sequi teneamur. 
+      <lb ed="#L" n="18"/>Huic quaestioni illud primum dandum est, non sat esse, 
+      <lb ed="#L" n="19"/>vt conciliorum &amp; Pontificum iudicia firma esse 
+      credan<lb ed="#L" n="20" break="no"/>tur, in diuino officio publice a tota etiam ecclesia 
+      celebra<lb ed="#L" n="21" break="no"/>ri. Nec enim historiae, quibus martyrum &amp; confessorum 
+      <lb ed="#L" n="22"/>gesta narrantur, quamuis per summum Pontificem aut con 
+      <lb ed="#L" n="23"/>cilium approbatae sint, fidei decreta sunt : sicut ne opuscu 
+      <lb ed="#L" n="24"/>la quidem doctorum ecclesiasticorum, quae probantur a 
+      <lb ed="#L" n="25"/>synodo Gelasij Papae decimaquinta distinctione c. 
+      San<lb ed="#L" n="26" break="no"/>cta Romana.  
+      <lb ed="#L" n="27"/>Illud item damus, ac libenter quidem, non statim si 
+      <lb ed="#L" n="28"/>quicquam iuris Canonici volumine continetur, fidei do 
+      <lb ed="#L" n="29"/>gma esse credendum. Nam vt libro huic proximo 
+      aper<lb ed="#L" n="30" break="no"/>tius ostendemus, nonnulla habentur in epistolis 
+      decreta<lb ed="#L" n="31" break="no"/>libus, quae fidei Catholicae decreta non sunt. Idque ipsum 
+      <lb ed="#L" n="32"/>nunc ex Clementina vnica de summa Trinitate diserte 
+      <lb ed="#L" n="33"/>ostendebamus. Quod non in hac solum Clementina 
+      exi<lb ed="#L" n="34" break="no"/>stimandum est interuenisse, sed idcirco hic admoneri nos,  
+      <lb ed="#L" n="35"/>vt in alijs quoque locis simile quippiam eredamus posse 
+      <lb ed="#L" n="36"/>contingere. Id vero tum maxime, cum aut verbis 
+      opinan<lb ed="#L" n="37" break="no"/>di vtuntur iudices, aut responsa non ad totam 
+      vniuersa<lb ed="#L" n="38" break="no"/>lem ecclesiam, sed ad priuatas ecclesias &amp; episcopos 
+      refe<lb ed="#L" n="39" break="no"/>runtur. Intelligendi sunt enim eo tantum casu de fide 
+      <!--340.xml-->
+      <pb ed="#L" n="329"/>
+               <lb ed="#L" n="1"/>pronunciare, vbi iudicium in omnes Christi fideles 
+      spe<lb ed="#L" n="2" break="no"/>ctat, omnes ligat. Certitudo quippe fidei iudicibus a Deo 
+      <lb ed="#L" n="3"/>constitutis, non propter ecclesias priuatas promissa &amp;  
+      <lb ed="#L" n="4"/>concessa est, quae singulae errare possunt, sed propter 
+      ec<lb ed="#L" n="5" break="no"/>clesiam vniuersalem quae errare non potest. Itaque 
+      sum<lb ed="#L" n="6" break="no"/>morum pontificum conciliorumque doctrina, si toti 
+      ec<lb ed="#L" n="7" break="no"/>clesiae proponatur, si cum obligatione etiam credendi 
+      <lb ed="#L" n="8"/>proponatur, tum vero de fidei causa iudicium est. Sed 
+      <lb ed="#L" n="9"/>animaduertendum est diligentius, &amp; quae natura rerum 
+      <lb ed="#L" n="10"/>sit, de quibus iudicium est, &amp; quae verborum proprietas 
+      <lb ed="#L" n="11"/>&amp; pondus. Nimirum enim ecclesiasticae doctrinae, quam  
+      <lb ed="#L" n="12"/>amplecti etiam tenemur, non idem est gradus, nec omnia 
+      <lb ed="#L" n="13"/>iudiciorum decreta eodem loco habenda sunt. Dequa re 
+      <lb ed="#L" n="14"/>quoniam in duo decimo libro sumus longe lateque 
+      dispu<lb ed="#L" n="15" break="no"/>taturi, nunc dicere non est operaepretium. Id dicimus,  
+      <lb ed="#L" n="16"/>nec omnia quae aut iuris aut conciliorum volumina 
+      con<lb ed="#L" n="17" break="no"/>tinent, doctrinae Christianae esse iudicia, nec omnia 
+      rur<lb ed="#L" n="18" break="no"/>sum doctrinae iudicia, fidei censuras esse. Multa siquidem 
+      <lb ed="#L" n="19"/>ad sanam ecclesiae disciplinam attinent, quae fidei decreta 
+      <lb ed="#L" n="20"/>non sunt. 
+      <lb ed="#L" n="21"/>Nonne igitur, dixerit quis, erit aliqua nota, qua 
+      comn<lb ed="#L" n="22" break="no"/>ciliorum de fide iudicia internosci queant: Erit plane. 
+      <lb ed="#L" n="23"/>Prima, &amp; ea quidem manifesta, si contrarium 
+      asseren<lb ed="#L" n="24" break="no"/>tes pro haereticis iudicentur. Cuius rei exempla habes. 
+      <lb ed="#L" n="25"/>cap. Damnamus, de summa Trinitate. &amp; cap. Vnico de 
+      <lb ed="#L" n="26"/>summa Trinitate, in 6. &amp; Clement. vni. de summa 
+      Tri<lb ed="#L" n="27" break="no"/>nitate. 5. 2. Altera nota est, cum in hanc formam 
+      syno<lb ed="#L" n="28" break="no"/>dus decreta praescribit, si quis hoc aut illud senserit, 
+      A<lb ed="#L" n="29" break="no"/>nathema sit: qualia permulta sunt in concilio Toletano 
+      <lb ed="#L" n="30"/>primo. &amp; in syno. Triden. Tertia est, si in eos qui contra 
+      <lb ed="#L" n="31"/>dixerint excommunicationis sententia ipso iure feratur. 
+      <lb ed="#L" n="32"/>Exemplum est, de haereticis. cap. Cum Christus, &amp; c. ad 
+      <lb ed="#L" n="33"/>abolendam. In concilio tamen Trident. sess: habita 
+      i1<lb ed="#L" n="34" break="no"/>Octobris. Anni i55I. de Eucharistiae siacramento 
+      defi<lb ed="#L" n="35" break="no"/>nitum est, confessionem Sacramentalem Eucharistie 
+      prae<lb ed="#L" n="36" break="no"/>mittendam esse, si conscientia peccati mortalis grauat. Et 
+      <lb ed="#L" n="37"/>protinus, si quis, ait synodus, contrarium docere, praedicare, 
+      <lb ed="#L" n="38"/>vel pertinaciter asserere, seu etiam publice disputando 
+      de<lb ed="#L" n="39" break="no"/>fendere praesumpserit, eo ipso excommunicatus existat. 
+      <!--341.xml-->
+      <pb ed="#L" n="330"/>
+               <lb ed="#L" n="1"/>Sed hoc propter periculum cautum est: erat enim 
+      opi<lb ed="#L" n="2" break="no"/>nio contraria perniciosa. Ideoque excommunicatio illa 
+      <lb ed="#L" n="3"/>ad publicam doctrinam vel maxime refertur. Nam, quos 
+      <lb ed="#L" n="4"/>sententia Caietani non fuerit pro haeretica condemnata,  
+      <lb ed="#L" n="5"/>&amp; nos testes sumus, qui concilio interfuimus, &amp; 
+      conter<lb ed="#L" n="6" break="no"/>tus ipse demonstrat. Habet enim Canon. 11. idemque 
+      po<lb ed="#L" n="7" break="no"/>stremus in hunc modum. Si quis dixerit, solam fidem  
+      <lb ed="#L" n="8"/>esse sufficientem praeparationem ad sumendum 
+      sanctis<lb ed="#L" n="9" break="no"/>simae Eucharistiae Sacramentum, Anathema sit. 
+      Eue<lb ed="#L" n="10" break="no"/>stigio autem adduntur mutata dicendi forma haec verba, 
+      <lb ed="#L" n="11"/>&amp; ne tantum sacramentum, &amp;c. Vbi vides Caietani 
+      sen<lb ed="#L" n="12" break="no"/>tentiae Anathema non dici, sed quoniam non solum 
+      fal<lb ed="#L" n="13" break="no"/>sa, sed noxia etiam erat, reprobari: &amp; propter periculum, 
+      <lb ed="#L" n="14"/>publicam praesertim praedicationem &amp; disputationem 
+      <lb ed="#L" n="15"/>interdici. Quarta, si quicquam expresse &amp; proprie a 
+      <lb ed="#L" n="16"/>fidelibus firmiter credendum, aut tanquam dogma 
+      fi<lb ed="#L" n="17" break="no"/>dei catholicae accipiendum dicatur, vel aliis similibus 
+      <lb ed="#L" n="18"/>verbis aliquid esse Euangelio doctrinae ve 
+      Apostolo<lb ed="#L" n="19" break="no"/>rum contrarium. Dicatur, inquam, non ex opinione, 
+      <lb ed="#L" n="20"/>sed certo &amp; firmo decreto. Licet enim opinio. Durandi 
+      <lb ed="#L" n="21"/>reprobetur. c. gaudemus. de diuortiis. Sed qui dixit,  
+      <lb ed="#L" n="22"/>verum absonum hoc videtur &amp; inimicuin fidei 
+      Christi<lb ed="#L" n="23" break="no"/>anae, is noluit hareseos illum condemnare. Verbum enim, 
+      <lb ed="#L" n="24"/>videtur, iudiciorum infirmat certitudinem. Porro 
+      au<lb ed="#L" n="25" break="no"/>tem, quae in conciliorum vel pontificum decretis, vel 
+      <lb ed="#L" n="26"/>explicandi gratia inducuntur, vel vt obiectioni 
+      respon<lb ed="#L" n="27" break="no"/>deatur, vel etiam obiter &amp; in transcursu praeter 
+      insti<lb ed="#L" n="28" break="no"/>tutum praecipuum, de quo erat potissimum 
+      controuer<lb ed="#L" n="29" break="no"/>sia, ea non pertinent ad fidem, hoc est, non sunt 
+      catho<lb ed="#L" n="30" break="no"/>licae fidei iudicia. Exempli causa ponamus aliquid, quod 
+      <lb ed="#L" n="31"/>positum in vna re, transferri per multas possit. Quod 
+      <lb ed="#L" n="32"/>in capit. Firmiter. de summa Trinitate dicitur, angelos 
+      <lb ed="#L" n="33"/>esse incorporeos, id non fidei decretum est, cum post 
+      <lb ed="#L" n="34"/>decretalem illam nonnulli &amp; philosophi &amp; Theologi falso 
+      <lb ed="#L" n="35"/>quidem, sed citra haeresis notam contrarium asseruerint.  
+      <lb ed="#L" n="36"/>At enim, vt explicaret synodus, id quod fides, catholica 
+      <lb ed="#L" n="37"/>tenet, deum esse creatorem omnium visibilium &amp; 
+      inuisi<lb ed="#L" n="38" break="no"/>bilium, adiecit, corporalium &amp; incorporalium. Quas 
+      <lb ed="#L" n="39"/>particulas exponendi non definiendi gratia adiectas esse 
+      <!--342.xml-->
+      <pb ed="#L" n="331"/>
+               <lb ed="#L" n="1"/>constat. Ac quemadinodum concilium sumpsit, id quod 
+      <lb ed="#L" n="2"/>&amp; verum &amp; longe longeque plurimum probabile erat,  
+      <lb ed="#L" n="3"/>angelos vt inuilibiles, ita quoque incorporeos esse: sic 
+      <lb ed="#L" n="4"/>forte &amp; illud accepit, Angelos &amp; mundum simul esse 
+      <lb ed="#L" n="5"/>congenitos. Non enim eo temporis hoc agebatur, vt 
+      <lb ed="#L" n="6"/>Gregorii Nazanze. &amp; aliorum hunc sequentium opinio 
+      <lb ed="#L" n="7"/>damnaretur. Nec ego tamen is sum, qui opinationem 
+      <lb ed="#L" n="8"/>hanc tueri in praesentia velim. Non enim dubito, eam  
+      <lb ed="#L" n="9"/>hoc sane tempore temere &amp; inconsiderate, ne quid 
+      prae<lb ed="#L" n="10" break="no"/>terea dicam, defendi. Sed id ago, qua in re operaepretium 
+      <lb ed="#L" n="11"/>me Theologis facturum existimo, non omnia, quae etiam  
+      <lb ed="#L" n="12"/>absolute &amp; simpliciter in conciliis affirmantur, fidei 
+      de<lb ed="#L" n="13" break="no"/>creta esse. Cuius rei exempla, si opus esset, permulta 
+      faci<lb ed="#L" n="14" break="no"/>le promerem, sed nolo esse, longus in singulis 
+      explican<lb ed="#L" n="15" break="no"/>dis. Nam de quarta quaestione satis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2182">
+               <lb ed="#L" n="16"/>Postrema vero quaestio animum pulsat, an concilia 
+      <lb ed="#L" n="17"/>in moribus errare possint. Nam, si quis ait, habet 
+      im<lb ed="#L" n="18" break="no"/>primis argumentum illud, quod Dominus solum 
+      roga<lb ed="#L" n="19" break="no"/>uit pro Petro ne deficeret fides eius, in aliis ergo, quae 
+      <lb ed="#L" n="20"/>non ad fidem, sed ad mores attinent, errare ecclesia 
+      <lb ed="#L" n="21"/>poterit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2198">
+               <lb ed="#L" n="22"/>Deinde nihil a Catholicis certa fide creditur, quod 
+      <lb ed="#L" n="23"/>non sit idem diuinitus ecclesiae reuelatum, quicquid ergo 
+      <lb ed="#L" n="24"/>definiat synodus, si non ad fidem, sed ad mores attinet, non 
+      <lb ed="#L" n="25"/>oportet certa fide credi. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2209">
+               <lb ed="#L" n="26"/>Praeterea in canonixationo sanctorum, sic enim nostti 
+      <lb ed="#L" n="27"/>vocant, fidem ecclesiae detrahere sine fidei discrimine 
+      <lb ed="#L" n="28"/>possumus. Compertum est autem, eam rem ad mores 
+      <lb ed="#L" n="29"/>ipectare: errare igitur ecclesia iu morum iudicio potest. 
+      <lb ed="#L" n="30"/>Illud vero Thomae &amp; Antonini testimonio 
+      comproba<lb ed="#L" n="31" break="no"/>tur, qui non aiunt certo &amp; firmiter, sed pie credendum 
+      <lb ed="#L" n="32"/>esse, ecclesiam in re huiusmodi non errare. Nam, quod 
+      <lb ed="#L" n="33"/>absolute possit, illa ratio confirmat, quod in id genus 
+      <lb ed="#L" n="34"/>iudiciis ecclesia, hominum eorum testimoniis innititur,  
+      <lb ed="#L" n="35"/>qui &amp; fallere &amp; falli possunt. Iam si concilium, cum de 
+      <lb ed="#L" n="36"/>Theologiae dogmate censet, non certis &amp; exploratis 
+      <lb ed="#L" n="37"/>argumentis, sed probabilibus niteretur, fidem certe 
+      dogma<lb ed="#L" n="38" break="no"/>tis illius indubitatam non faceret. Fides ergo ambigua sum 
+      <lb ed="#L" n="39"/>mo pontifici habebitur, vt qui cum hominem quemuis in 
+      <!--343.xml-->
+      <pb ed="#L" n="332"/>
+               <lb ed="#L" n="1"/>diuorum numerum refert, incertis mediis &amp; argumentis 
+      <lb ed="#L" n="2"/>nititur. Ordinum approbatio tandem, in quibus sub 
+      di<lb ed="#L" n="3" break="no"/>uersis institutis &amp; regulis varia hominum genera Christo 
+      <lb ed="#L" n="4"/>militare dicuntur, ad mores haud dubie pertinet. At 
+      du<lb ed="#L" n="5" break="no"/>bium non est, aliquos ordines non modo inutiliter, verum 
+      <lb ed="#L" n="6"/>noxie etiam approbatos. Etenim in tam multis &amp; 
+      ordi<lb ed="#L" n="7" break="no"/>nibus &amp; institutis, vsque adeo religioni 
+      incommoda<lb ed="#L" n="8" break="no"/>tum est, vt inter reliqua malorum remedia, hoc etiam a 
+      <lb ed="#L" n="9"/>synodo generali iure ac merito expectarent viri pii, vt 
+      <lb ed="#L" n="10"/>paucis quibusdam selectissimis retentis ordinibus, caeteri 
+      <lb ed="#L" n="11"/>omnes exploderentur. Falsum est ergo aliquando &amp; 
+      impru<lb ed="#L" n="12" break="no"/>dens de moribus ecclesiae iudicium. Siquidem id 
+      quan<lb ed="#L" n="13" break="no"/>doque approbat, quod non approbasse oportuisset. His 
+      <lb ed="#L" n="14"/>argumentis quidam auctoritatem ecclesiasticam 
+      infirma<lb ed="#L" n="15" break="no"/>re pergunt, tantum in iudicio morum, nam in fidei 
+      de<lb ed="#L" n="16" break="no"/>cretis firmam esse nobiscum etiam consentiunt. Sed 
+      <lb ed="#L" n="17"/>quoniam quaedam ecclesiae de moribus iudicia sine 
+      du<lb ed="#L" n="18" break="no"/>pio certa sunt, quae sunt illa, repetendum altius videtur.  
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2285">
+               <lb ed="#L" n="19"/>Omnis de rebus Theologicis duplex est quaestio. 
+      <lb ed="#L" n="20"/>Vnum genus est, quod ad contemplationem &amp; rerum 
+      <lb ed="#L" n="21"/>cognitionem pertinet. Alterum, quod positum est in 
+      mo<lb ed="#L" n="22" break="no"/>rum praeceptis, quibus in omnes partes vsus vitae 
+      con<lb ed="#L" n="23" break="no"/>firmari possit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2299">
+               <lb ed="#L" n="24"/>Atque etiam alia diuisio est Theologicae quaestionis. 
+      <lb ed="#L" n="25"/>Nam &amp; vna est, cuius cognitio &amp; explicatio ad salutem 
+      <lb ed="#L" n="26"/>est necessaria, est &amp; altera, cuius ignoratio sine 
+      pieta<lb ed="#L" n="27" break="no"/>tis salutisque iactura esse potest. Non enim in 
+      Theolo<lb ed="#L" n="28" break="no"/>gia semper de necessariis agitur, sed interdum etiam de his, 
+      <lb ed="#L" n="29"/>quae vtilia esse videantur, quauis non sint adeo necessaria. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2315">
+               <lb ed="#L" n="30"/>Multa sunt autem &amp; in superioribus libris &amp; in hoc 
+      <lb ed="#L" n="31"/>etiam aduersum eos disputata, qui de ecclesiae 
+      auctori<lb ed="#L" n="32" break="no"/>tate in fidei iudiciis parum recte sentirent: atque in 
+      se<lb ed="#L" n="33" break="no"/>quenti libro nonnulla quoque disputabuntur. Ecclesiae 
+      <lb ed="#L" n="34"/>vero auctoritatem eam nunc appello, quae synodorum  
+      <lb ed="#L" n="35"/>etiam generalium ac summi pontificis est. Haec enim est 
+      <lb ed="#L" n="36"/>vna res prorsus, vt non differat multum inter ecclesiae, 
+      <lb ed="#L" n="37"/>conciliorum, sedisque Apostolicae iudicia: propterea 
+      <lb ed="#L" n="38"/>quod connexa haec &amp; colligata sunt, quemadmodum 
+      <lb ed="#L" n="39"/>esse videmus humanum corpus &amp; caput. Itaque quae erant 
+      <!--344.xml-->
+      <pb ed="#L" n="333"/>
+               <lb ed="#L" n="1"/>ecclesiasticae auctoritatis in fidei decretis propria, loncis 
+      <lb ed="#L" n="2"/>suis aut dicentur aut dicta sunt. Quae autem pertinent ad 
+      <lb ed="#L" n="3"/>iudicium morum, de quibus iam diu loquimur, nunc 
+      di<lb ed="#L" n="4" break="no"/>cenda sunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2352">
+               <lb ed="#L" n="5"/>Sit igitur prima conclusio, Ecclesia in morum 
+      doctri<lb ed="#L" n="6" break="no"/>na, eorum qui ad salutem necessarii sunt, errare non 
+      po<lb ed="#L" n="7" break="no"/>test. Exempli causa ponatur aliquid, quod pateat latius. 
+      <lb ed="#L" n="8"/>An fideles laicos Eucharistiae sacramentum sub vtraque 
+      <lb ed="#L" n="9"/>specie accipere oporteat, an panis potius species sola 
+      sa<lb ed="#L" n="10" break="no"/>tis sit, quaestio est earum rerum, sine quibus salus esse non 
+      <lb ed="#L" n="11"/>potest. In hac ergo &amp; aliis id genus controuersiis 
+      ec<lb ed="#L" n="12" break="no"/>clesiae decretum certum est. Itaque si quid necessario vel 
+      <lb ed="#L" n="13"/>agendum vel vitandum sirmo iudicio definit, in hoc 
+      er<lb ed="#L" n="14" break="no"/>rare nequit, sicut ne in fide quidem. Deus enim non 
+      de<lb ed="#L" n="15" break="no"/>ficit in necessariis, vt saepe ante dictum est, in doctrina 
+      <lb ed="#L" n="16"/>ergo morum eorum qui sunt ad salutem necessarii, 
+      iudi<lb ed="#L" n="17" break="no"/>ces &amp; doctores ecclesiae a Deo dati errare non queunt. 
+      <lb ed="#L" n="18"/>Confirmat autem illnd vel maxime, quod Dominus 
+      Pe<lb ed="#L" n="19" break="no"/>tro inquit. Pasce oues meas: &amp; Paulus dedisse deum 
+      pa<lb ed="#L" n="20" break="no"/>stores, &amp; doctores ait, ad consummationem sanctorum, 
+      <lb ed="#L" n="21"/>vt non circunferamur omni vento doctrinae. At si 
+      erra<lb ed="#L" n="22" break="no"/>rent in moribus eiusmodi, non pascerent salubriter oues. 
+      <lb ed="#L" n="23"/>Non enim moralis doctrina minus exigitur ad pastum 
+      <lb ed="#L" n="24"/>ouium Christi salutarem, quam fidei disciplina. In his 
+      igi<lb ed="#L" n="25" break="no"/>tur ecclesiae pastores errare non possunt. Adde, quod 
+      Do<lb ed="#L" n="26" break="no"/>minus apud Ioannem pollicitus est, spiritum docturum 
+      <lb ed="#L" n="27"/>ecclesiam omnem veritatem, scilicet, ad vitam aeternam 
+      <lb ed="#L" n="28"/>consequendam necessariam. At vtraque veritas 
+      necessa<lb ed="#L" n="29" break="no"/>ria est, &amp; quae ad contemplationem pertinet, &amp; quae ad 
+      <lb ed="#L" n="30"/>actionem, in vtraqe ergo. definienda spiritus docet ecclesias. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2411">
+               <lb ed="#L" n="31"/>Praeterea, Apostolus in priore ad Timotheum epistola 
+      <lb ed="#L" n="32"/>capite 3. haec, inquit, scribo tibi, vt scias, quomodo 
+      opor<lb ed="#L" n="33" break="no"/>teat te in domo. Dei conuersari, quae est ecclesia Dei viui, 
+      <lb ed="#L" n="34"/>columna &amp; firmamentum veritatis. Ea autem, quae ibi 
+      scri<lb ed="#L" n="35" break="no"/>bebat Paulus ad morum veritatem magna ex parte 
+      spe<lb ed="#L" n="36" break="no"/>ctare perspicuum est. Est ergo ecclesia firmamentum non  
+      <lb ed="#L" n="37"/>eius Veritatis solum, quae in contemplatione cernitur, sed 
+      <lb ed="#L" n="38"/>illius etiam, quae aliquid molitur vt faciat. Nimirum, vt 
+      scia<lb ed="#L" n="39" break="no"/>mus, quomodo oporteat nos in domo Dei conuersari. 
+      <!--345.xml-->
+      <pb ed="#L" n="334"/>
+               <lb ed="#L" n="1"/>Praeterea si ecclesiae pastores, in concilium praesertim 
+      <lb ed="#L" n="2"/>congregati, leges &amp; praecepta vite sinistre 
+      interpretaren<lb ed="#L" n="3" break="no"/>tur, vt videlicet, quae essent ad salutem necessaria, ea non  
+      <lb ed="#L" n="4"/>necessaria dicerent, aut quae contra minime essent 
+      neces<lb ed="#L" n="5" break="no"/>saria, haec esse necessaria definirent : cum Christus 
+      dixe<lb ed="#L" n="6" break="no"/>rit, Super cathedram Moysi sederunt scriba &amp; Pharisaei, 
+      <lb ed="#L" n="7"/>quaecunque dixerint vobis facite: &amp; rursum, Qui vos 
+      <lb ed="#L" n="8"/>audit me audit: ecclesia certe pastores errantes sequens 
+      <lb ed="#L" n="9"/>iuxta quod illi praescriptum est, huius ertoris Christum 
+      <lb ed="#L" n="10"/>praecipuum haberet auctorem. Adhaec, si lex Euangelica 
+      <lb ed="#L" n="11"/>manca &amp; imminuta non fuit vt reuera non fuit, eos 
+      <lb ed="#L" n="12"/>omnino mores praefiniuit, qui essent ad salutem 
+      neces<lb ed="#L" n="13" break="no"/>sarii. Imperfectus enim legissator est, nisi ea praescribat, 
+      <lb ed="#L" n="14"/>sine quibus reip. finis constare non potest. At spiritus 
+      <lb ed="#L" n="15"/>veritatis Apostolis eorumque successoribus suggerit, 
+      <lb ed="#L" n="16"/>quaecunqe Christus dixit nobis: in praeceptis ergo vitae 
+      <lb ed="#L" n="17"/>necessariis errare illi non possunt. Item Matthaei 16. Tibi, 
+      <lb ed="#L" n="18"/>inquit Dominus Petro, dabo claues regni caelorum. 
+      Re<lb ed="#L" n="19" break="no"/>gnum autem caelorum vtraque ignoratione clauditur, &amp;  
+      <lb ed="#L" n="20"/>fidei &amp; morum, ecclesia ergo vtrasque quaestiones 
+      ape<lb ed="#L" n="21" break="no"/>rire Christo auctore potest, vtrosque nodos soluere, 
+      <lb ed="#L" n="22"/>siue ad fidem siue ad mores attineant. Huc enim illud 
+      ac<lb ed="#L" n="23" break="no"/>redere credendum est, quaecunque solueris super terra, erunt 
+      <lb ed="#L" n="24"/>soluta &amp; in caelis. At inquis, intelligitur claue non 
+      erran<lb ed="#L" n="25" break="no"/>te. Bene volo. Sed aliud est de priuatis pastorum iudiciis 
+      <lb ed="#L" n="26"/>disserere, quae negligere etiam aliquando possumus, 
+      ali<lb ed="#L" n="27" break="no"/>ud de ecclesiae communibus, quae perinde, vt ecclesiae 
+      de<lb ed="#L" n="28" break="no"/>creta habemus amplecti. Et quidem cum pontifex, quicumque ille 
+      <lb ed="#L" n="29"/>sit tandem, quicqum priuatim agit, soluitque aut ligat, errare 
+      <lb ed="#L" n="30"/>per ignorantiam, aut etiam malitiam potest, &amp; abuti 
+      cla<lb ed="#L" n="31" break="no"/>uium potestate. At cum publica sunttotius ecclesiae 
+      iudi<lb ed="#L" n="32" break="no"/>cia, eaque in rebus ad salutem necessariis, ecclesiae totius 
+      <lb ed="#L" n="33"/>communes iudices, quales sunt concilii patres, errare 
+      neque<lb ed="#L" n="34" break="no"/>unt, ne per huiusmodi errore Christiana tota plebs in 
+      ig<lb ed="#L" n="35" break="no"/>noratione veritatis ad vitam instituendam necessariae versetur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2513">
+               <lb ed="#L" n="36"/>Praeterea concilium Constantiense sess. 13. condemnat,  
+      <lb ed="#L" n="37"/>vt haereticos eos, qui dixerint, ecclesiam errare in 
+      con<lb ed="#L" n="38" break="no"/>suetudine administrandi populo Eucharistiam sub vna 
+      spe<lb ed="#L" n="39" break="no"/>cie tantum. Et Martinus quintus in literis, quibus concilium 
+      <!--346.xml-->
+      <pb ed="#L" n="335"/>
+               <lb ed="#L" n="1"/>approbauit, qui hoc ecclesiae institutum damnant, eos 
+      de<lb ed="#L" n="2" break="no"/>finit tanquam haereticos, vel sapientes haeresim, 
+      coercen<lb ed="#L" n="3" break="no"/>dos. Ecclesia igitur in morum huiusmodi iudicijs non  
+      <lb ed="#L" n="4"/>errat, atque ex consequenti ne concilia quidem summi 
+      <lb ed="#L" n="5"/>Pontificis auctoritate firmata. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2539">
+               <lb ed="#L" n="6"/>Huius vero conclusionis &amp; altera consectaria esse 
+      vi<lb ed="#L" n="7" break="no"/>detur, ecclesiam, cum in re graui quidem &amp; quae ad 
+      Chri<lb ed="#L" n="8" break="no"/>stianos mores formandos apprime conducat, leges toti 
+      <lb ed="#L" n="9"/>populo dicit, non posse iubere quicquam, quod aut 
+      Euan<lb ed="#L" n="10" break="no"/>gelio aut rationi naturae contrarium sit. Non ego hic 
+      <lb ed="#L" n="11"/>omnes ecclesiae leges approbo: non vniuersas poenas, 
+      cen<lb ed="#L" n="12" break="no"/>suras, excommunicationes, suspensiones, irregularitates,  
+      <lb ed="#L" n="13"/>interdicta, commendo. Scio nonnullas eiusmodi leges 
+      <lb ed="#L" n="14"/>esse, in quibus si non aliud praeterea quicquam, at pruden 
+      <lb ed="#L" n="15"/>tiam certe modumque desideres. Id ergo dico, 
+      summo<lb ed="#L" n="16" break="no"/>rum Pontificum conciliorumque praecepta, scita, 
+      sanctio<lb ed="#L" n="17" break="no"/>nes, omnibus nobis probatum iri, si moribus fidelium 
+      in<lb ed="#L" n="18" break="no"/>stituendis sint necessaria. Si enim ecclesiae consuetudo,  
+      <lb ed="#L" n="19"/>quod modo ex concilio Constantiensi afferebamus, 
+      E<lb ed="#L" n="20" break="no"/>uangelio aduersari non valet, ergo ne ecclesiae quidem lex 
+      <lb ed="#L" n="21"/>Euangelio aduersabitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2577">
+               <lb ed="#L" n="22"/>Deinde ecclesia non potest definire quippiam esse 
+      vi<lb ed="#L" n="23" break="no"/>tium, quod honestum est, aut contra honestum esse, quod 
+      <lb ed="#L" n="24"/>est turpe: ergo nec sua edita lege probare quicque, quod 
+      e<lb ed="#L" n="25" break="no"/>uanpelio rationiue inimicum sit. Si enim Ecclesia vel ex- 
+      <lb ed="#L" n="26"/>presso iudicio, Vel lege lata turpia probaret aut 
+      reproba<lb ed="#L" n="27" break="no"/>ret honesta, hic iam nimirum error non solum fidelibus, 
+      <lb ed="#L" n="28"/>pestem ac perniciem afferret, sed fidei etiam 
+      quodam<lb ed="#L" n="29" break="no"/>modo aduersaretur, quae omnem virtutem probat, 
+      vni<lb ed="#L" n="30" break="no"/>uersa vitia condemnat. Accedunt illa, quaecunque 
+      dixe<lb ed="#L" n="31" break="no"/>rint vobis, facite: &amp; qui vos audit, me audit. Quibus 
+      prae<lb ed="#L" n="32" break="no"/>cipimur ecclesiae legibus obtemperare. Ita si errat illa, 
+      <lb ed="#L" n="33"/>Christus nobis erroris auctor est. Quae qui videat, non 
+      <lb ed="#L" n="34"/>modo indocte, verum etiam impie faciat, si ecclesiam in 
+      <lb ed="#L" n="35"/>morum doctrina errare contendat, praesertim si mores 
+      <lb ed="#L" n="36"/>&amp; praecepta viuendi fint ad salutem necessaria. Quae 
+      au<lb ed="#L" n="37" break="no"/>tem ratio id de ecclesia conuincit, eadem conuincit de 
+      <lb ed="#L" n="38"/>Concilio, in quo vniuersalis Ecclesiae auctoritas 
+      re<lb ed="#L" n="39" break="no"/>sidet: Quare quemadmodum Concilium falsa plebi 
+      <!--347.xml-->
+      <pb ed="#L" n="336"/>
+               <lb ed="#L" n="1"/>credenda proponere nequit, sic nec mala pe 
+      <lb ed="#L" n="2"/>nere facienda. P 
+      <lb ed="#L" n="3"/>to, quo omnes &amp; ad credenc 
+      <lb ed="#L" n="4"/>terna poena oblig 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2632">
+               <lb ed="#L" n="5"/>Sed an sit haereticum 
+      <lb ed="#L" n="6"/>suetudinem eise malam, vel ali 
+      <lb ed="#L" n="7"/>non ausim definire. Nam licet concilium Co 
+      <lb ed="#L" n="8"/>sessi. 13. statuerit, eos pro haereticis 
+      con<lb ed="#L" n="9" break="no"/>affirmarint, ecclesiam errare in more 
+      com<lb ed="#L" n="10" break="no"/>bem sub vna specie tantum: at eo temp 
+      <lb ed="#L" n="11"/>sine capite erat. Contendit autem Caiet 
+      <lb ed="#L" n="12"/>auctoritate Pap. &amp; con. &amp; in Apolog. c. 
+      <lb ed="#L" n="13"/>cremata item 3. lib. cap. 32. &amp; 33. conci 
+      <lb ed="#L" n="14"/>capite in decretis fidei ferendis nu 
+      <lb ed="#L" n="15"/>sicut Deus non deficit in necesse 
+      <lb ed="#L" n="16"/>ctoritatem. Et quanquam id multis q 
+      <lb ed="#L" n="17"/>perfluis. Cum ergo sola auctor 
+      <lb ed="#L" n="18"/>suadere nituntur: sed apud me illude 
+      <lb ed="#L" n="19"/>cem haereticum, &amp; aut eligendi aut deci 
+      <lb ed="#L" n="20"/>cum sit ecclesiae necessaria, in casibi 
+      <lb ed="#L" n="21"/>cilium sine capite cogere iure suo poti 
+      <lb ed="#L" n="22"/>cur ampliorem potestatem concilio imi 
+      <lb ed="#L" n="23"/>mus. Reliqua siquidem per integrum concilium 
+      expe<lb ed="#L" n="24" break="no"/>diri possunt vel electo Pontifice Catholico, qui non 
+      e<lb ed="#L" n="25" break="no"/>rat, vel definito certo, cum inter multos quisnuam esset 
+      <lb ed="#L" n="26"/>verus Pontifex dubiuin erat. Adde quod, vt supra dictum 
+      <lb ed="#L" n="27"/>est, concilij dogmata non sunt firma, nisi a Romano Pon 
+      <lb ed="#L" n="28"/>tifice confirmentur. Quando ergo concilium sine capite 
+      <lb ed="#L" n="29"/>est, non habet dogmatum certitudinem. Praeterea Mar 
+      <lb ed="#L" n="30"/>tinus quintus in literis, quibus conciliu probat, non sim 
+      <lb ed="#L" n="31"/>pliciter probat illum articulum: sed solum definit eos qu 
+      <lb ed="#L" n="32"/>docuerint, ecclesiam in consuetudine eiusmodi errare 
+      <lb ed="#L" n="33"/>esse vel vt haereticos, vel vt sapientes haeresim condem  
+      <lb ed="#L" n="34"/>nandos. Quod ergo Martinus concilio praesidens non 
+      <lb ed="#L" n="35"/>est ausus nomine haereseos condemnare, id ego gr 
+      <lb ed="#L" n="36"/>censura accusare non audeo nec debeo. Quod si in more 
+      <lb ed="#L" n="37"/>ad salutem necessario, qualis ille videtur esse, de quo in 
+      <lb ed="#L" n="38"/>concilio Constantiensi erat controuersia, tanta fuit Mar 
+      <lb ed="#L" n="39"/>tini modestia, quanto nos modu 
+      <!--348.xml-->
+      <pb ed="#L" n="337"/>
+               <lb ed="#L" n="1"/>alijs erroribus condemnandis, qui consuetudini ecclesiae 
+      <lb ed="#L" n="2"/>minime ad salutem necessariae refragantur? Morem 
+      cir<lb ed="#L" n="3" break="no"/>cumgestandi solonni processione, per vias publicas, 
+      Eu<lb ed="#L" n="4" break="no"/>charistiae Sacramentum, Lutherani reprobant. Si originem 
+      <lb ed="#L" n="5"/>erroris &amp; principium spectes, haeresis tibi erit. Nam adeo 
+      <lb ed="#L" n="6"/>illi morem hunc circumferendi Sacramenti rident, quia 
+      <lb ed="#L" n="7"/>veram Christi praesentiam in Sacramento negant. Sed si 
+      <lb ed="#L" n="8"/>ipsum in se errorem contempleris, haeresim sapit, 
+      temeri<lb ed="#L" n="9" break="no"/>xas &amp; impudentia est: QQuamuis enim multis nominibus 
+      <lb ed="#L" n="10"/>hic error est notandus, non tamen est haeresis: cum 
+      eti<lb ed="#L" n="11" break="no"/>amsi in hac consuetudine erraret ecclesia, non proinde 
+      <lb ed="#L" n="12"/>in grauioribus rebus eius peridlitaretur auctoritas. Quae 
+      <lb ed="#L" n="13"/>causa concilio Tridentino fuit, vt Canonem sextum de 
+      <lb ed="#L" n="14"/>Eucharistiae Sacramento caute formarit in haec verba. Si 
+      <lb ed="#L" n="15"/>quis dixerit, in sancto. Eucharastiae Sacramento Christum 
+      <lb ed="#L" n="16"/>non esse cultu latriae etiam, externo. adorandum, atque ideo 
+      <lb ed="#L" n="17"/>nec festiua peculiari celebritate venerandum, nec in 
+      <lb ed="#L" n="18"/>protessionibus secundum laudahilem ecclesiae 
+      consue<lb ed="#L" n="19" break="no"/>tudimem solenniter. circumgestandum, Anathema: sit. 
+      <lb ed="#L" n="20"/>Non enim eos Anathemate simpliciter percellit, 
+      syno<lb ed="#L" n="21" break="no"/>dus, qui ritum illum ecclesiae reprehenderint, sed qui 
+      id<lb ed="#L" n="22" break="no"/>circo hoc faciunt, quia nec praesentiam corporale, 
+      Chri<lb ed="#L" n="23" break="no"/>sti in Eucharistia admittunt, atque adeo ne ipsius, 
+      qui<lb ed="#L" n="24" break="no"/>dem adorationem, &amp; cultum. IAtque haec eadem: 
+      for<lb ed="#L" n="25" break="no"/>tasse causa Martinum quintum impulit, vt 
+      quireprehen<lb ed="#L" n="26" break="no"/>derent ecclesiasticam illam consuetudinem, impartiendi 
+      <lb ed="#L" n="27"/>Eucharistam populos subyna specie, eos non vt, 
+      haereti<lb ed="#L" n="28" break="no"/>cos, sed vt sapientes haeresim, condemnarit. Cum enim 
+      <lb ed="#L" n="29"/>sub vtraque olim specie, plebs. Sacramentum 
+      Euchari<lb ed="#L" n="30" break="no"/>stiae acceperit, idque Apostolorum auctoritate, &amp; vsu 
+      <lb ed="#L" n="31"/>confirmata, non erat haereticum in dubium vertere, 
+      an<lb ed="#L" n="32" break="no"/>vetus: ille ecclesiae mos nouo esset piaeferendus. Sed 
+      <lb ed="#L" n="33"/>quoniam Vyicleffistae idcirco. asserebant ecclesiam 
+      er<lb ed="#L" n="34" break="no"/>rare, quia, existimabant necessarium, esse plebi ad 
+      salu<lb ed="#L" n="35" break="no"/>tem, vtranque Sacramenti speciem sumere, huc. 
+      detor<lb ed="#L" n="36" break="no"/>quentes illa Domini verba: Nisi manducaueritis, &amp;c. 
+      <lb ed="#L" n="37"/>prudentissime Martinus quintus vituperationem 
+      eccle<lb ed="#L" n="38" break="no"/>siastici noui moris, non dixit haeresim esse, sed haeresim 
+      <lb ed="#L" n="39"/>sapere. Est quoque illud argumentum graue, cur huius¬ 
+      <!--349.xml-->
+      <pb ed="#L" n="338"/>
+               <lb ed="#L" n="1"/>modi erroribus haereseos nota non inuratur: quod, vt 
+      <lb ed="#L" n="2"/>postea dicemus, non est haereticum credere ecclesiam 
+      ho<lb ed="#L" n="3" break="no"/>minibus in diuos referendis errare posse. At iubet 
+      ec<lb ed="#L" n="4" break="no"/>clesia interdum diuos, quos huiusmodi honore afficit, 
+      pe<lb ed="#L" n="5" break="no"/>culiari die festo, &amp; cultu colere : non est igitur haeresis 
+      <lb ed="#L" n="6"/>astruere, in hac de vno aut altero diuo colendo lege ac 
+      <lb ed="#L" n="7"/>consuetudine ecclesiam errare. Sed intelligendum est, 
+      ec<lb ed="#L" n="8" break="no"/>clesiae mores quosdam a Christo &amp; Apostolis ecclesiae 
+      <lb ed="#L" n="9"/>traditos, in quibus qui ecclesiam errare diceret, hic 
+      erro<lb ed="#L" n="10" break="no"/>ris eius Christum &amp; Apostolos auctores faceret. Quam  
+      <lb ed="#L" n="11"/>obrem haereticus censeretur : Vt Iconomachi, qui 
+      ecccle<lb ed="#L" n="12" break="no"/>siam in veneratione &amp; cultu imaginum errare asseruerunt. 
+      <lb ed="#L" n="13"/>Alii vero mores sunt post Apostolos inducti, in quibus 
+      <lb ed="#L" n="14"/>quamuis ecclesia erraret, non propterea fides 
+      periclitare<lb ed="#L" n="15" break="no"/>tur. Sine periculo igitur haereseos teneri potest, ecclesiam 
+      <lb ed="#L" n="16"/>in aliqua lege &amp; more posse errare. Sed de secunda 
+      con<lb ed="#L" n="17" break="no"/>clusione hactenus. Sit tertia conclusio. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2840">
+               <lb ed="#L" n="18"/>In moribus non toti ecclesiae communibus, sed qui ad 
+      <lb ed="#L" n="19"/>priuatos homines vel ecclesias referuntur, errare per 
+      igno<lb ed="#L" n="20" break="no"/>rantiam ecclesia potest: non in iudicio solum rerum, 
+      gesta<lb ed="#L" n="21" break="no"/>rum dico, sed in ipsis etiam priuatis praeceptis &amp; legibus. 
+      <lb ed="#L" n="22"/>Cum quis enim occulte, vna vxore habita, alteram ducit 
+      <lb ed="#L" n="23"/>publice, iubet illi ecclesia, vt priore relicta, posteriorem 
+      <lb ed="#L" n="24"/>accipiat. Qua in re sine dubio fallitur, &amp; id praecipit 
+      ho<lb ed="#L" n="25" break="no"/>mini, quod rationi Euangelioque aduersum est. Huius 
+      <lb ed="#L" n="26"/>vero conclusionis veram &amp; idoneam causam, 
+      Innocen<lb ed="#L" n="27" break="no"/>tius tertius reddidit in capit. A nobis. de sentent, ex eo. 
+      <lb ed="#L" n="28"/>in haec verba : Iudicium Dei, veritati quae non fallit nec 
+      <lb ed="#L" n="29"/>fallitur, semper innititur, iudicium autem ecclesiae 
+      non<lb ed="#L" n="30" break="no"/>nunquam opinionem sequitur, quam &amp; fallere saepe 
+      con<lb ed="#L" n="31" break="no"/>tingit &amp; falli : propter quod contingit interdum, vt qui 
+      <lb ed="#L" n="32"/>ligatus est apud Deum, apud ecclesiam sit solutus: &amp;  
+      <lb ed="#L" n="33"/>qui liber: est apud Deum, ecclesiastica sit sententia 
+      in<lb ed="#L" n="34" break="no"/>nodatus: Hactenus Innocentius. Haec autem, quae 
+      <lb ed="#L" n="35"/>perspicua esse videntur, breuiter &amp; sine disceptatione 
+      <lb ed="#L" n="36"/>dijudicanda sunt. Nec enim omnia nos, vt quaeramus, 
+      <lb ed="#L" n="37"/>exponimus : sed vt explicemus. Hoc itaque Iooo non 
+      <lb ed="#L" n="38"/>tam conclusio, quam conclusionis, causa 
+      consideran<lb ed="#L" n="39" break="no"/>da est. Nam inde liquet, id quod est animaduersione 
+      <!--350.xml-->
+      <pb ed="#L" n="339"/>
+               <lb ed="#L" n="1"/>dignsisimum, certa &amp; firma ecclesiae decreta esse non 
+      pos<lb ed="#L" n="2" break="no"/>se, quae non certis &amp; firmis principijs ac fundamentis 
+      in<lb ed="#L" n="3" break="no"/>nitantur. Quocirca, si vel vnum ex his, a quibus 
+      eccle<lb ed="#L" n="4" break="no"/>siae iudicium pendet, incertum est, certum ecclesiae 
+      de<lb ed="#L" n="5" break="no"/>cretum esse non potest: siue quaestiospeculatiua sit seu 
+      <lb ed="#L" n="6"/>practica, sic enim nostri loqui solent. Conclusio quippe, 
+      <lb ed="#L" n="7"/>vt in dialecticorum prouerbio est, debiliorem partem 
+      se<lb ed="#L" n="8" break="no"/>quitur, &amp; si vnum quodlibet principiorum claudicat,  
+      <lb ed="#L" n="9"/>eam quoque ex illa parte debilitari necesse est. Qua, 
+      <lb ed="#L" n="10"/>ex re facile intelligitur, ecclesiae iudicia, quae ab incer¬, 
+      <lb ed="#L" n="11"/>tis hominum testimonijs proficiscuntur, infirma esse ad i 
+      <lb ed="#L" n="12"/>certam &amp; exploratam faciendam fidem. Quale illud est, e 
+      <lb ed="#L" n="13"/>quo sanctum aliquem diuorum catalogo ascribendum I 
+      <lb ed="#L" n="14"/>censet. Nec tamen impune licet huiusmodi decreta in i 
+      <lb ed="#L" n="15"/>dubium reuocare. Quin temerarium &amp; irreligiosum i 
+      <lb ed="#L" n="16"/>est, in diuis consecrandis ecclesiae abrogare fidem. 
+      In<lb ed="#L" n="17" break="no"/>iuriam enim facit Martyri, qui orat pro Martyre, vt 
+      ca<lb ed="#L" n="18" break="no"/>pite. Cum Marthae. de cele. miss. Innocentius tradit: 
+      in<lb ed="#L" n="19" break="no"/>iurius eroo est, ac multo etiam magis, qui martyrum 
+      ca<lb ed="#L" n="20" break="no"/>talogo ascriptum e diuorum numero reijcit. Id quoniam  
+      <lb ed="#L" n="21"/>temere &amp; inconsiderate faciet, iure profecto ab ecclesia 
+      <lb ed="#L" n="22"/>punietur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e2942">
+               <lb ed="#L" n="23"/>Mox etiam, si vnum aliquod huius generis decretum 
+      <lb ed="#L" n="24"/>in quaestionem veniat, certe Hieronymi, Ambrosij, 
+      Au<lb ed="#L" n="25" break="no"/>gustini ac reliquorum sanctitatem, sine crimine in 
+      quae<lb ed="#L" n="26" break="no"/>stionem vocare poterimus,: atque adeo asserere illos 
+      <lb ed="#L" n="27"/>cum daemonibus condemnatos: Ita posses eos maledictis 
+      <lb ed="#L" n="28"/>concidere, ac vexare contumelijs, quae omnia aures: 
+      sa<lb ed="#L" n="29" break="no"/>ne fidelium perhorrescunt. Quod si: viris iustis in 
+      di<lb ed="#L" n="30" break="no"/>uorum catalogum reponendis ecclesia errat, nimirum  
+      <lb ed="#L" n="31"/>non esset valde absurdum, diuorum omnium cultum ab  
+      <lb ed="#L" n="32"/>ecclesia explodere, eorum qui post Clementem 
+      conse<lb ed="#L" n="33" break="no"/>crati sunt. Quo quid aut stultius aut impudentius dici 
+      <lb ed="#L" n="34"/>potest? Item multum refert ad communes ecclesiae mores 
+      <lb ed="#L" n="35"/>scire, quos debeas religione colere: quare, si in illis 
+      erra<lb ed="#L" n="36" break="no"/>ret ecclesia, in moribus quoque grauiter falleretur. Nec 
+      <lb ed="#L" n="37"/>differt diabolum colas, an hominem condemnatum. Atque 
+      <lb ed="#L" n="38"/>si ecclesia abstinentiae legem rogaret, quae vel rationi 
+      vel<lb ed="#L" n="39" break="no"/>Euangelio aduersa esset, turpiter ab illa profecto erraretur 
+      <!--351.xml-->
+      <pb ed="#L" n="340"/>
+               <lb ed="#L" n="1"/>turpiter ergo etiam errabit in doctrina morum, si rgem 
+      <lb ed="#L" n="2"/>ferat de colendo diuo, quem colere, si diuus non est, &amp; 
+      <lb ed="#L" n="3"/>cum ratione &amp; cum Euangelio, pugnat. Ne igitur tantus 
+      <lb ed="#L" n="4"/>error in ecclesia sit, Deus peculiariter prouidere 
+      creden<lb ed="#L" n="5" break="no"/>dus est, ne ecclesia, quamlibet hominum testimonia 
+      se<lb ed="#L" n="6" break="no"/>quatur, in sanctorum canonizatione erret. Cuius 
+      pecu<lb ed="#L" n="7" break="no"/>liarissimae prouidentiae abundem magnum argumentum est,  
+      <lb ed="#L" n="8"/>quod numquam infirmata est fides ab humanis testibus 
+      se<lb ed="#L" n="9" break="no"/>mel in huiusmodi iudicijs suscepta. Quod in causis 
+      ciui<lb ed="#L" n="10" break="no"/>libus saepe accidit. Quae si singula forte non mouent, 
+      vni<lb ed="#L" n="11" break="no"/>uersa certe tamen inter se connexa atque coniuncta 
+      mo<lb ed="#L" n="12" break="no"/>uere debebunt, vt qui fidem in his ecclesiae detrahunt, eos, 
+      <lb ed="#L" n="13"/>non haereticos quidem, sed temerarios, impudentes, 
+      irre<lb ed="#L" n="14" break="no"/>ligiosos esse credamus. Quibus rebus exposits, primum,  
+      <lb ed="#L" n="15"/>secundum ac tertium argumentum facile refelluntur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e3018">
+               <lb ed="#L" n="16"/>Nam quae de postremo disputari possunt, illa nobis alio 
+      <lb ed="#L" n="17"/>tempore atque ad aliud institutum, si facultas erit, 
+      expli<lb ed="#L" n="18" break="no"/>cabuntur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e523-d1e3027">
+               <lb ed="#L" n="19"/>Nunc illud breuiter dici potest, qui summi pontificis 
+      <lb ed="#L" n="20"/>omne, de re quatunque iudicium, temere ac sine delectu 
+      <lb ed="#L" n="21"/>defendunt : hos sedis Apostolicae auctoritatem labefactare, 
+      <lb ed="#L" n="22"/>non fouere: euertere non firmare. Nam vt ea praetereamus,  
+      <lb ed="#L" n="23"/>quae paulo ante in hoc capite explicata sunt, quid 
+      tan<lb ed="#L" n="24" break="no"/>demaduersum haereticos disputando ille proficiet, quem 
+      <lb ed="#L" n="25"/>viderint non iudioio, sed affectu patrocinium auctoritatis 
+      <lb ed="#L" n="26"/>pontificiae suscipere, nec id agere vt disputationis suae vi 
+      <lb ed="#L" n="27"/>lucem ac veritatem eliciat, sed vt se ad alterius sensum  
+      <lb ed="#L" n="28"/>voluntatemque conuertat? Non eget Petrus mendacio 
+      <lb ed="#L" n="29"/>nostro, nostra adulatione non eget. Ordines igitur vel 
+      <lb ed="#L" n="30"/>probare vel refellere, quoniam non e scientia. id solum, 
+      <lb ed="#L" n="31"/>sed aetiam: e prudentia pendet, non ad ea pertinet, in 
+      <lb ed="#L" n="32"/>quibus summus pontifex errare nequit. Atque: iam vel 
+      <lb ed="#L" n="33"/>indbnuilio Lateranen. aduertebatur religionum nimiam  
+      <lb ed="#L" n="34"/>multitudinem, quam nunc esse videmus, valde ecclesiae 
+      <lb ed="#L" n="35"/>Christi incommodare. Concilium quoque 
+      Lugdunen<lb ed="#L" n="36" break="no"/>fatetur, quod impottuna petentium inhiatio contra syno 
+      <lb ed="#L" n="37"/>didecretum aliquarum religionum confirmationem ex- 
+      <lb ed="#L" n="38"/>torsit. Vndo quosdam ordines per sedem etiam 
+      Aposto<lb ed="#L" n="39" break="no"/>licam approbratos, tanquam occlesiae vel noxios vel inu¬ 
+      <!--352.xml-->
+      <pb ed="#L" n="341"/>
+               <lb ed="#L" n="1"/>tiles abolendos esse decreuit, vt nullum deinceps ad 
+      eo<lb ed="#L" n="2" break="no"/>rum professionem admitterent. Et Celestinus quintus 
+      <lb ed="#L" n="3"/>statum vitamque fratricellorum suo priuilegio 
+      confirma<lb ed="#L" n="4" break="no"/>uit: quod tamen confirmationis priuilegium Ioannes 22. 
+      <lb ed="#L" n="5"/>aperte infirmum esse dixit: quod Bonifacius ex certis 
+      <lb ed="#L" n="6"/>rationabilibus causis ea, quae Celestinus concesserat, 
+      viri<lb ed="#L" n="7" break="no"/>bus penitus euacuasset. Paulus item tertius ordinem, 
+      <lb ed="#L" n="8"/>quem in Italia frater Baptista Cremensis instituit, literis 
+      <lb ed="#L" n="9"/>suis probasse dicitur : at nuper &amp; ordo ille a Venetis est 
+      <lb ed="#L" n="10"/>edicto publico explosus, &amp; Baptistae doctrina, cui illius 
+      <lb ed="#L" n="11"/>ordinis homines inhaerebant, Romae est condemnata. 
+      <lb ed="#L" n="12"/>Imbecillum itaque eorum argumentum est, qui ex 
+      huius<lb ed="#L" n="13" break="no"/>modi priuilegijs, quae his facile temporibus vel 
+      concedun<lb ed="#L" n="14" break="no"/>tur vel potius extorquentur, nouas religiones non aliter ac 
+      <lb ed="#L" n="15"/>de coelo lapsas excipiendas esse confirmant: eas quoque 
+      <lb ed="#L" n="16"/>quae nullam regulam ex approbatis habent, nullam vel a 
+      <lb ed="#L" n="17"/>luis editam profitentur. Nec eius generis priuilegia certa 
+      <lb ed="#L" n="18"/>sunt sedis Apostolicae iudicia, quibus scilicet omnes 
+      fi<lb ed="#L" n="19" break="no"/>deles astringantur. Satis fuerit, si eam habeant 
+      auctorita<lb ed="#L" n="20" break="no"/>tem, quam epistolae decretales. Quarum nonnullas constat 
+      <lb ed="#L" n="21"/>a posterioribus meliore consilio refutatas: quoniam non  
+      <lb ed="#L" n="22"/>ex firmo decreto, sed ex pontificum opinione prodierunt. 
+      <lb ed="#L" n="23"/>Et quidem ante Diui Thomae tempora, adeo restricte &amp;  
+      <lb ed="#L" n="24"/>grauate noui ordines admittebantur, vt ex tam graui 
+      an<lb ed="#L" n="25" break="no"/>gustoque iudicio probabile argumentum prudentis 
+      con<lb ed="#L" n="26" break="no"/>silij sumeretur. Nostro vero hoc seculo tam multae sunt 
+      reli<lb ed="#L" n="27" break="no"/>giones a pontificibus confirmatae, vt qui eas omneis tueri 
+      <lb ed="#L" n="28"/>voluerit tanquam ecclesiae vel vtiles vel necessarias: hic 
+      im<lb ed="#L" n="29" break="no"/>prudentiae, ne dicam stultitiae, nomine iure optimo summisque, 
+      <lb ed="#L" n="30"/>rationibus arguatur. Sed iam liber de conciliorum 
+      aucto<lb ed="#L" n="31" break="no"/>ritate concludendus est. Si prius tamen eorum conatum 
+      <lb ed="#L" n="32"/>refutemus, qui in huius loci firmissimam soliditatem 
+      <lb ed="#L" n="33"/>impetum facere &amp; incursionem voluerunt.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

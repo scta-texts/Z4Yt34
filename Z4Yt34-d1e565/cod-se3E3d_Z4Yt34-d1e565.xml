@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="367"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e565"><!-- Z4Yt34-l6c2 -->
+            <head xml:id="Z4Yt34-d1e565-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e565-d1e109">
+               <lb ed="#L" n="23"/>Caput secundum, in quo redditur causa, cur fedes Apostolica 
+      <lb ed="#L" n="24"/>quintum locum obtineat.
+    </p>
+            <p xml:id="Z4Yt34-d1e565-d1e116">
+               <lb ed="#L" n="25"/>TOrum ego opinationem ex academijs theologicis 
+      <lb ed="#L" n="26"/>A Texplosurus sum. Efficiamque, vt spero, vi 
+      argumento<lb ed="#L" n="27" break="no"/>rum meorum, si integris animis expendantur, 
+      semo<lb ed="#L" n="28" break="no"/>tis contentione &amp; odio, quibus omne iudicium 
+      exocula<lb ed="#L" n="29" break="no"/>risolet. Vt autem euidentius intelligatur, quam sit magnus 
+      <lb ed="#L" n="30"/>huius opinionis error, fingamus animo vnum esse 
+      Luthe<lb ed="#L" n="31" break="no"/>rum, in quem stylus hic noster acuatur. Nam errantium 
+      <lb ed="#L" n="32"/>multitudo non parit errori patrocinium. Sit ergo primus 
+      <lb ed="#L" n="33"/>idemque solus qui audeat affirmare, summum Pontificem 
+      <lb ed="#L" n="34"/>ecclesiamque Romanam in fidei controuersijs 
+      decernen<lb ed="#L" n="35" break="no"/>dis posse contra euangelium errare. Nisi ego probauero 
+      <lb ed="#L" n="36"/>certioribus argumentis, id esse erroneum, quam probent 
+      <lb ed="#L" n="37"/>catholici aut purgatorium esse, aut indulgentias 
+      ponti<lb ed="#L" n="38" break="no"/>ficias diuina aucteritate constare, auctoritas haec mea, 
+      <!--379.xml-->
+      <pb ed="#L" n="368"/>
+               <lb ed="#L" n="1"/>quantula eacunque est, apud lectores periclitabitur. 
+      Il<lb ed="#L" n="2" break="no"/>lud vero melius ostendo, si ad locum hunc firma ratione 
+      <lb ed="#L" n="3"/>constabiliendum, altius huius rei fundamenta iacio. Sed 
+      <lb ed="#L" n="4"/>ante tamen cur hunc locum quintum fecerimus, paucis 
+      <lb ed="#L" n="5"/>explicandum est. Erunt enim fortasse quidam, quibus 
+      <lb ed="#L" n="6"/>aptior ordo videretur, si priorem, quo conciliorum aucto 
+      <lb ed="#L" n="7"/>ritas continetur, hic locus antecederet. Qui etiamsi 
+      aber<lb ed="#L" n="8" break="no"/>tant a coniectura, video tamen quid sequantur. 
+      Nempe<lb ed="#L" n="9" break="no"/>sedis Apostolicae auctoritate sublata, concilia quaecunque 
+      <lb ed="#L" n="10"/>non solum vacillare, sed cadere: at sedem Apostolicam  
+      <lb ed="#L" n="11"/>per se etiam sine concilijs suam habere auctoritatem.  
+      <lb ed="#L" n="12"/>Priorem itaque esse ecclesiae Apostolicae quam 
+      concilio<lb ed="#L" n="13" break="no"/>rum auctoritatem. Rebus autem suum cuique seruare 
+      <lb ed="#L" n="14"/>locum natura iubet. Quemadmodum locus 
+      elemen<lb ed="#L" n="15" break="no"/>tis suus est cuique proprius, vt terra infimum teneat, hanc 
+      <lb ed="#L" n="16"/>inundet aqua, superior aether, ignibus altissima ora 
+      red<lb ed="#L" n="17" break="no"/>dantur. Quibus breuiter respondemus, nos humani 
+      in<lb ed="#L" n="18" break="no"/>penij habita ratione, naturae ordinem saepe negligere. 
+      <lb ed="#L" n="19"/>Est autem hominibus comparatum, quod Aristoteles non 
+      <lb ed="#L" n="20"/>semel admonuit, vt a notioribus ad ea, quae minus sunt 
+      <lb ed="#L" n="21"/>nota, proficiscantur. Quamobrem, cum conciliorum 
+      au<lb ed="#L" n="22" break="no"/>ctoritas plerisque sit &amp; acceptior &amp; notior, nihil mirandum 
+      <lb ed="#L" n="23"/>est, si naturae ordinem anteuerterimus. Praeterquam quod 
+      <lb ed="#L" n="24"/>concilia ecclesiam repraesentant, &amp; ab ecclesia catholica 
+      <lb ed="#L" n="25"/>concilia catholica seiungere, non eratsatis ex 
+      ordine<lb ed="#L" n="26" break="no"/>Merito igitur ecclesiae concilia haerere fecimus. Sed 
+      <lb ed="#L" n="27"/>de his hactenus. Iam id quod erat institutum 
+      persequa<lb ed="#L" n="28" break="no"/>mur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

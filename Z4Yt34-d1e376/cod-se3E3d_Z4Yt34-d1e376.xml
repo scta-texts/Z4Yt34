@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="196"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e376"><!-- Z4Yt34-l3c6 -->
+            <head xml:id="Z4Yt34-d1e376-Hd1e106">Caput 6</head>
+            <p xml:id="Z4Yt34-d1e376-d1e109">
+               <lb ed="#L" n="18"/>Cap. Sextum, de firmitate n certitudine 
+      tradi<lb ed="#L" n="19" break="no"/>tionum Apostolicarum.
+    </p>
+            <p xml:id="Z4Yt34-d1e376-d1e116">
+               <lb ed="#L" n="20"/>QVibus rebus exposits, non erit difficile ostendere, 
+      <lb ed="#L" n="21"/>&amp;id quod in hac parte maxime quaeritur, ex Christi &amp;  
+      <lb ed="#L" n="22"/>Apostolorum traditionibus certissima posse 
+      argu<lb ed="#L" n="23" break="no"/>menta elici, &amp; ad ecclesiae consuetudines, &amp; ad fidei 
+      do<lb ed="#L" n="24" break="no"/>gmata comprobanda. Si enim Apostolus Paulus 
+      eccle<lb ed="#L" n="25" break="no"/>siae consuetudinem Corinthiis contentiosis opponit, cur 
+      <lb ed="#L" n="26"/>nos itidem ecclesiae morem ab Apostolis vsque receptum, 
+      <lb ed="#L" n="27"/>totque seculorum vsu ac gentium consensione probatum, 
+      <lb ed="#L" n="28"/>non opponemus haereticis, cum a nobis scriptura in 
+      cu<lb ed="#L" n="29" break="no"/>iusque rei confirmationem efflagitant?: Certe Paulus, cum 
+      <lb ed="#L" n="30"/>&amp; per scripturas &amp; per naturae rationem satis dixisse 
+      vi<lb ed="#L" n="31" break="no"/>deretur ad eius rei fidem faciendam, quam Corinthiis 
+      <lb ed="#L" n="32"/>persuasam esse cupiebat, considerans tamen inter 
+      Corin<lb ed="#L" n="33" break="no"/>thios fore quosdam, qui illiusinodi forte &amp; testimoniis 
+      <lb ed="#L" n="34"/>&amp; rationibus repugnarent: non aliud potius argumentum 
+      <lb ed="#L" n="35"/>ad causam euincendam habuit, quam si eos ad ecclesiae 
+      <lb ed="#L" n="36"/>morem reuocaret. Si quis, ait, videtur contentiosus esse, 
+      <lb ed="#L" n="37"/>nos talem consuetudinem non habemus nec ecclesiae Dei. 
+      <lb ed="#L" n="38"/>Quod dicit tale est. Si quis adeo est durus &amp; pertinax, vt 
+      <!--208.xml-->
+      <pb ed="#L" n="197"/>
+               <lb ed="#L" n="1"/>argumentis positis non adducatur, sed adhuc contendat, 
+      <lb ed="#L" n="2"/>Foeminam aperto capite orare oportere: hunc ego non  
+      <lb ed="#L" n="3"/>aliter refello, quam quod ecclesiae Dei talem 
+      consuetu<lb ed="#L" n="4" break="no"/>dinem non habent. Tanta vis in traditione est, vt quos 
+      <lb ed="#L" n="5"/>nec scripturae nec naturae ratio mouisset, eos Paulus 
+      exi<lb ed="#L" n="6" break="no"/>stimarit ecclesiarum more &amp; instituto refellendos. In 
+      <lb ed="#L" n="7"/>priore rursum ad Timotheum epistola, si quis, ait, aliter 
+      <lb ed="#L" n="8"/>docet &amp; non acquiescit sanis sermonibus. Non dicit 
+      scri<lb ed="#L" n="9" break="no"/>pturis. Et ad Gala. Si quis, inquit, vobis euangelizauerit 
+      <lb ed="#L" n="10"/>praeter id, quod accepistis, anathema sit. Quibus ex locis 
+      <lb ed="#L" n="11"/>recte Origenes in commentariis epistolae ad Titum 
+      defi<lb ed="#L" n="12" break="no"/>nit haereticum, eum qui se Christo credere profitetur, &amp;  
+      <lb ed="#L" n="13"/>aliud de veritate fidei Christianae credit, quam habeat 
+      <lb ed="#L" n="14"/>traditio ecclesiastica. Et lib. 1. periar. Sicut multis, inquit 
+      <lb ed="#L" n="15"/>apud Graecos &amp; Barbaros pollicentibus veritatem, 
+      de<lb ed="#L" n="16" break="no"/>sueuimus apud omnes eam querere, qui eam falsis 
+      opinio<lb ed="#L" n="17" break="no"/>nibus asserebant, postquam credidimus filium Dei esse 
+      <lb ed="#L" n="18"/>Christum, &amp; ab ipso hanc discendam esse persuasi sumus: 
+      <lb ed="#L" n="19"/>ita cum multi sint, qui se putant scire quae Christi sunt, &amp; 
+      <lb ed="#L" n="20"/>nonnulli eorum diuersa a prioribus sentiant, seruetur 
+      <lb ed="#L" n="21"/>vero ecclesiastica praedicatio per successionis ordinem 
+      <lb ed="#L" n="22"/>ab Apostolis tradita, &amp; vsque ad praesens in ecclesiis 
+      per<lb ed="#L" n="23" break="no"/>manens: illa sola credenda est veritas, quae in nullo ab 
+      ec<lb ed="#L" n="24" break="no"/>clesiastica traditione discordat. Hactenus Origen. 
+      Ig<lb ed="#L" n="25" break="no"/>natius quoque in epistola ad Heronem, omnis, ait, qui 
+      <lb ed="#L" n="26"/>dixerit praeter ea, quae tradita sunt, tametsi fide dignus 
+      <lb ed="#L" n="27"/>sit, tametsi ieiunet tametsi viroinitatem seruet, tametsi 
+      <lb ed="#L" n="28"/>signa faciat, tametsi prophetet, lupus tibi appareat. Si 
+      igi<lb ed="#L" n="29" break="no"/>tur anathema, haereticus &amp; lupus habendus est, qui 
+      eccie<lb ed="#L" n="30" break="no"/>siasticae traditioni repugnat, ex illa profecto certissima 
+      <lb ed="#L" n="31"/>argumenratio promitur, ad fidei dogmata &amp; ecclesiae 
+      mo<lb ed="#L" n="32" break="no"/>res comprobandum. Praeterea auctores grauissimi aperte 
+      <lb ed="#L" n="33"/>confirmant huiusmodi instituta etiam sine literis accepta 
+      <lb ed="#L" n="34"/>eandem vim habere ac si scripta ab Apostolis fuissent,  
+      <lb ed="#L" n="35"/>Irenaeus lib. 3. aduersum haereses. cap. 4. &amp; lib. 4. cap. 43. 
+      <lb ed="#L" n="36"/>Tertullianus item, quamuis ipse postea ab ecclesiae 
+      tradi<lb ed="#L" n="37" break="no"/>tione discesserit, in lib. tamen de corona militis eandem  
+      <lb ed="#L" n="38"/>sententiam habet. Cuius verba libet in praesentia 
+      referre<lb ed="#L" n="39" break="no"/>nec enim solum quid sentiat tradit sed cur etiam sentiat. 
+      <!--209.xml-->
+      <pb ed="#L" n="198"/>
+               <lb ed="#L" n="1"/>Antiquas, inquit, obseruationes ecclesiae, si nulla 
+      scri<lb ed="#L" n="2" break="no"/>ptura determinauit, certe consuetudo corroborauit, quae 
+      <lb ed="#L" n="3"/>sine dubio de traditione manauit. Et statim, cum 
+      quarum<lb ed="#L" n="4" break="no"/>dam traditionum meminisset, quarum in scripturis 
+      men<lb ed="#L" n="5" break="no"/>tio nulla est, istarum, ait, &amp; aliarum disciplinarum si ex- 
+      <lb ed="#L" n="6"/>postulas legem, nulla tibi legis traditio praetendetur, 
+      <lb ed="#L" n="7"/>Auctrix est consuetudo, confirmatrix est &amp; fidei 
+      obser<lb ed="#L" n="8" break="no"/>uatrix, idonea est testis traditionis veteris. 
+      Consuetu<lb ed="#L" n="9" break="no"/>do autem etiam in ciuilibus rebus pro lege suscipitur, 
+      <lb ed="#L" n="10"/>nec differt, scriptura an ratione consistat. Hactenus 
+      Ter<lb ed="#L" n="11" break="no"/>tullianus. Ac praeclare ille quidem. Quoniam si legem ratio 
+      <lb ed="#L" n="12"/>commendat: mos, qui ratione constet, non minus quam  
+      <lb ed="#L" n="13"/>lex habet commendari. Dist. 1. cap. consuetudo. Basilius 
+      <lb ed="#L" n="14"/>insuper in libro de Spiritu sancto. cap. 27. ac magno 
+      qui<lb ed="#L" n="15" break="no"/>dem argumento eandem rem confirmat, inquiens. 
+      Do<lb ed="#L" n="16" break="no"/>gmata, quae in ecclesia praedicantur, quaedam habemus e 
+      <lb ed="#L" n="17"/>doctrina scripto prodita, quaedam rursus ex 
+      Apostolo<lb ed="#L" n="18" break="no"/>rum traditione in mysterio occulto recepimus. Quorum 
+      <lb ed="#L" n="19"/>vtraque parem vim habent ad pietatem. Nec in his quisque 
+      <lb ed="#L" n="20"/>contradicit, qui sane, vel tenuiter expertus est. Nam si 
+      <lb ed="#L" n="21"/>consuetudines, quae scripto proditae non sunt, tanqe non  
+      <lb ed="#L" n="22"/>multum habentes momenti conemur reiicere, &amp; ea 
+      dam<lb ed="#L" n="23" break="no"/>nabimus, quae in Euangelio necessaria ad salutem habentur: 
+      <lb ed="#L" n="24"/>imo potius ipsam fidei praedicationem ad nudum 
+      nomen<lb ed="#L" n="25" break="no"/>contrahemus. Hactenus Basilius. Cuius ratio, si 
+      auctori<lb ed="#L" n="26" break="no"/>tas negligitur, certissimam rei huius faciet fidem. Cum  
+      <lb ed="#L" n="27"/>enim scripturas ipsas ecclesiae auctoritate recipiamus, nec 
+      <lb ed="#L" n="28"/>certiore argumento Euangelium Matthaei nomine 
+      inscri<lb ed="#L" n="29" break="no"/>ptum ipsius vere esse probemus, quam quod sic a 
+      patri<lb ed="#L" n="30" break="no"/>bus accepimus, simili profecto ratione ex reliquis 
+      insti<lb ed="#L" n="31" break="no"/>tutis, quae videlicet ab Apostolis retinemus, firma 
+      argu<lb ed="#L" n="32" break="no"/>menta deriuabimus. Quod si quis, nouum librum sacrum 
+      <lb ed="#L" n="33"/>ingerat, quem patres nostri minime receperunt, vt 
+      Basili<lb ed="#L" n="34" break="no"/>des, qui prophetas sibi nuncupauit atque constituit, is non 
+      <lb ed="#L" n="35"/>alio certiore argumento, refelli potest, quam traditione 
+      <lb ed="#L" n="36"/>maiorum: vt secundo iam libro latius explicatum est. Sic 
+      <lb ed="#L" n="37"/>quippe apud Euse. lib. 6. cap. 1O. Euangelium nomine 
+      Pe<lb ed="#L" n="38" break="no"/>tri ab haereticis prolatum Serapion grauissime exclusit. 
+      <lb ed="#L" n="39"/>Atque, vt Basilius idem argumetatur, etiam in reip. iudiciis.  
+      <!--210.xml-->
+      <pb ed="#L" n="199"/>
+               <lb ed="#L" n="1"/>vbi scripturae deest instrumentum, testibus habetur fides. 
+      <lb ed="#L" n="2"/>Et sicut in rebus humanis oculatos testes, ita in fide 
+      auri<lb ed="#L" n="3" break="no"/>tos accipimus, quia <quote xml:id="Z4Yt34-d1e376-Qd1e347">fides ex auditu est</quote>. Esset autem 
+      ridi<lb ed="#L" n="4" break="no"/>cula respublica, quae in iudicis scripto omnia, nihil sine 
+      <lb ed="#L" n="5"/>scripto probaret. Scripturas enim propter litigiosos faci 
+      <lb ed="#L" n="6"/>mus. Alioqui boni viri solo verbo in veritate &amp; officio 
+      <lb ed="#L" n="7"/>continentur. Praeterea, multa ad Christianos mores &amp; 
+      do<lb ed="#L" n="8" break="no"/>ctrinam pertinent, quae e sacris literis non habentur, vt ante 
+      <lb ed="#L" n="9"/>nobis constitutum est, stultum ergo fuerit in oinibus 
+      scri<lb ed="#L" n="10" break="no"/>pturam postulare. Traditione itaque opus aliquando est 
+      <lb ed="#L" n="11"/>ad fidei dogmata comprobanda. Rursus, cum traditiones 
+      <lb ed="#L" n="12"/>non scriptas Polycarpus, Tertullianus, Irenaeus, 
+      Mar<lb ed="#L" n="13" break="no"/>cioni ac Valentino : Epiphanius Melchisedechianis, 
+      A<lb ed="#L" n="14" break="no"/>postolicis, Aerianis: Hieronymus Vigilantio: 
+      Augusti<lb ed="#L" n="15" break="no"/>nus Donatistis: denique cvt in summa dicamo omnes sancti 
+      <lb ed="#L" n="16"/>aduersariis Catholicae fidei fidenter obiecerint, earumque 
+      <lb ed="#L" n="17"/>vi, perinde ac si fuissent scriptae, haereses sui quisque, 
+      tem<lb ed="#L" n="18" break="no"/>poris deturbauerint : certe non minori efficacia per 
+      hu<lb ed="#L" n="19" break="no"/>iusmodi traditiones nos haereticorum, qui aut nunc sunt,  
+      <lb ed="#L" n="20"/>aut etiam sunt futuri, quaecunque dogmata refellere ac 
+      de<lb ed="#L" n="21" break="no"/>turbare poterimus. Absurdissimum quippe fuerit, vt 
+      Hie<lb ed="#L" n="22" break="no"/>ronymus aduersus Vigilantium colligit, vnum Lutherum 
+      <lb ed="#L" n="23"/>aut Oecolampadium in ecclesiae angulo obloquentem 
+      au<lb ed="#L" n="24" break="no"/>dire, vniuersos autem maiores nostros vsque ab 
+      Aposto<lb ed="#L" n="25" break="no"/>is contemnere. Quorum traditiones si negligamus, 
+      diffi<lb ed="#L" n="26" break="no"/>cile dictu est, quantum religio detrimenti sit latura, 
+      quem<lb ed="#L" n="27" break="no"/>admodum dist. 11. cap. Ecclesiasticarum dicitur. Qualis 
+      <lb ed="#L" n="28"/>enim rerum omnium facies erit, qualis praesertim erga 
+      <lb ed="#L" n="29"/>Deum pietas, cultus, caeremoniae, non in ecclesia dico, cuius 
+      <lb ed="#L" n="30"/>&amp; mysteria &amp; sacramenta maxima ex parte traditione 
+      <lb ed="#L" n="31"/>constant, sed in vna qualibet republica, vel mediocriter 
+      <lb ed="#L" n="32"/>instituta, si mores illi, qui a principio statim cum rep. 
+      ado<lb ed="#L" n="33" break="no"/>leuerunt, contemnantur, labefactentur, euertantur? 
+      Longio<lb ed="#L" n="34" break="no"/>res hoc loco sumus, quam necesse est. Quis enim est, cui 
+      <lb ed="#L" n="35"/>non perspicua sint illa, quae pluribus verbis a quibusdam 
+      <lb ed="#L" n="36"/>commemorantur? Commemoratur ab his Augustinus 
+      <lb ed="#L" n="37"/>in epistola ad Ianuarium, &amp; in altera quoque ad 
+      Casu<lb ed="#L" n="38" break="no"/>lanum, in quibus scripsit insolentissimae insaniae esse 
+      di<lb ed="#L" n="39" break="no"/>sputare, an eiusmodi consuetudines seruandae sint:  
+      <!--211.xml-->
+      <pb ed="#L" n="200"/>
+               <lb ed="#L" n="1"/>nec minus esse eos coercendos, qui has contempserint,  
+      <lb ed="#L" n="2"/>quanuis humanae aliquae illarum sint, quam si diuinas 
+      le<lb ed="#L" n="3" break="no"/>ges praeuaricarentur. Commemorare &amp; alios auctores 
+      <lb ed="#L" n="4"/>possumus, sed vtemur in re non dubia testibus non 
+      ne<lb ed="#L" n="5" break="no"/>cessariis. Paulus enim vnus abunde rei huius facit fidem  
+      <lb ed="#L" n="6"/>in 2. ad Thes: epistola c. 2. inquiens., Tenete traditiones,  
+      <lb ed="#L" n="7"/>quas accepistis siue per epistolam, siue per sermonem. 
+      Pa<lb ed="#L" n="8" break="no"/>rem ergo vim habent Apostolica dogmata, pariterque 
+      re<lb ed="#L" n="9" break="no"/>tinenda sunt, siue scripto seu verbo ad ecclesiam 
+      perue<lb ed="#L" n="10" break="no"/>nerint, vt D. Basilius in lib. de Spi. sancto. cap. 29. ex hoc 
+      <lb ed="#L" n="11"/>ipso apostoli testimonio argumentatur. Quin apostolus 
+      <lb ed="#L" n="12"/>ipse ad Hebraeos &amp; ex scripturis &amp; ex traditione 
+      argu<lb ed="#L" n="13" break="no"/>mentatus est, quemadmodum Chryso. hom. 18. in epist. 
+      <lb ed="#L" n="14"/>ad Hebr. admonuit. Ex quibus omnibus multisque aliis 
+      <lb ed="#L" n="15"/>perspicuum est, qui traditiones contempserint, eos tanqe 
+      <lb ed="#L" n="16"/>haereticos iure ac merito ab ecclesia fuisse semper 
+      explo<lb ed="#L" n="17" break="no"/>sos. Ita enimhaeretici illi sunt habiti, qui solennia quadra 
+      <lb ed="#L" n="18"/>gesimae ieiunia ab Apostolis accepta pro nihilo habuere, 
+      <lb ed="#L" n="19"/>vt apud Auoustinum de haere. c. 53. &amp; apud Conci. 
+      Gan<lb ed="#L" n="20" break="no"/>gren: in epist. ad episcopos Armeniae videre licet. Ita qui 
+      <lb ed="#L" n="21"/>distinctionem episcopi &amp; presbyteri negarunt, etiam hi 
+      <lb ed="#L" n="22"/>haereseos sunt damnati: vt apud August. eodem lib. &amp; ca. 
+      <lb ed="#L" n="23"/>&amp; apud Epipha. lib. 3. cap. 75. &amp; apud concil. 
+      Constan<lb ed="#L" n="24" break="no"/>tiense reperies. Ita breuiter, siue Vuicleffistas, siue 
+      Luthe<lb ed="#L" n="25" break="no"/>ranos, siue alias quascunque antiquiores pestes, non 
+      mi<lb ed="#L" n="26" break="no"/>nus exhorruit ecclesia in eo quod huiusmodi 
+      traditio<lb ed="#L" n="27" break="no"/>nes inficiati sunt, quam in eo quod scripta dogmata 
+      re<lb ed="#L" n="28" break="no"/>iecerunt. Inde adeo venit, vt septima Synodus 
+      genera<lb ed="#L" n="29" break="no"/>lis acti. 7. doctrinam nostrae orationi maxime 
+      consenta<lb ed="#L" n="30" break="no"/>neam ediderit in haec verba. Fatemur nos ecclesiasticas 
+      <lb ed="#L" n="31"/>traditiones, siue scripto, siue consuetudine valentes 
+      re<lb ed="#L" n="32" break="no"/>tinere velle, quarum de numero est imaginum 
+      effigura<lb ed="#L" n="33" break="no"/>tio. Catholicae igitur ecclesiae traditionem obseruantes, 
+      <lb ed="#L" n="34"/>definimus sanctas imagines venerandas. Qui ergo ausi 
+      <lb ed="#L" n="35"/>fuerint aliud sentire, aut more impiorum haereticorum 
+      <lb ed="#L" n="36"/>ecclesiasticas traditiones contaminare, si episcopi fuerint,  
+      <lb ed="#L" n="37"/>deponuntor: si laici, communione priuantor. Et in fine 
+      <lb ed="#L" n="38"/>eiusdem sessi: si quis, aiunt patres traditiones ecclesiae 
+      <lb ed="#L" n="39"/>siue scripto, seu consuetudine valentes non curauerit,  
+      <!--212.xml-->
+      <pb ed="#L" n="201"/>
+               <lb ed="#L" n="1"/>anathema. Et concil. Trident. sess. 4. idem definit his 
+      ver<lb ed="#L" n="2" break="no"/>bis. Saerosancta Trident. Synodus prospiciens veritatem 
+      <lb ed="#L" n="3"/>Euangelii salutarem, &amp; morum doctrinam contineri in 
+      li<lb ed="#L" n="4" break="no"/>bris scriptis, &amp; sine scripto traditionibus ipsius Christi, 
+      <lb ed="#L" n="5"/>quae ab Apostolis acceptae, aut ab ipsis Apostolis Spiritu 
+      <lb ed="#L" n="6"/>sancto dictante quasi per manus traditae, ad nos vsque 
+      per<lb ed="#L" n="7" break="no"/>uenerunt: traditiones ipsas tum ad fidem tum ad mores 
+      <lb ed="#L" n="8"/>pertinentes, tanquam vel ore tenus a Christo, vel ab 
+      spi<lb ed="#L" n="9" break="no"/>ritu sancto dictatas, &amp; continua successione in ecclesia 
+      <lb ed="#L" n="10"/>catholica conseruatas, pari pietatis affectu ac reuerentia 
+      <lb ed="#L" n="11"/>cum libris sacris, suscipit ac veneratur. Et posterius: si quis 
+      <lb ed="#L" n="12"/>autem traditiones praedictas sciens &amp; prudens 
+      contem<lb ed="#L" n="13" break="no"/>pserit, anathema sit. Ne plura. Referri enim decet ad ea, 
+      <lb ed="#L" n="14"/>quae capite 3. posui fundamenta, ex quibus, vt nihil aliud 
+      <lb ed="#L" n="15"/>adiiceremus, id ipsum, quod hoc nunc capite 
+      persequi<lb ed="#L" n="16" break="no"/>mur, satis exploratum esset. Verum vt singula persequi est 
+      <lb ed="#L" n="17"/>operis infiniti: ita quaedam explicare fusius, est necessarium. 
+      <lb ed="#L" n="18"/>Nec tamenn quae huic loco explicando dedimus, nimis 
+      <lb ed="#L" n="19"/>multa videri debent. Quo enim huic loco vis ab 
+      haereti<lb ed="#L" n="20" break="no"/>cis maior infertur, eo nobis magis claborandum erat, vt 
+      <lb ed="#L" n="21"/>is quam dilipentissime &amp; explicaretur &amp; muniretur. Atque  
+      <lb ed="#L" n="22"/>quemadmodum supra diximus, ex decem partibus, in quas 
+      <lb ed="#L" n="23"/>loci Theologici naturam vimque, diuisimus: secunda haec, 
+      <lb ed="#L" n="24"/>quae in traditione consistit, maxime Theologiam &amp; fidem 
+      <lb ed="#L" n="25"/>attingit. Et res tanta paucis absoluenda non erat. Sed iam  
+      <lb ed="#L" n="26"/>argumenta ea tandem diluamus, quae capite primo 
+      ad<lb ed="#L" n="27" break="no"/>uersum traditiones opposuimus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

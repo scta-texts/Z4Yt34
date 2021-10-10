@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="10"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e124"><!-- Z4Yt34-l2c2 -->
+            <head xml:id="Z4Yt34-d1e124-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e124-d1e109">
+               <lb ed="#L" n="18"/>Cap. secundum, vbi argumenta referuntur suadere 
+      volenti<lb ed="#L" n="19" break="no"/>um, quod Deus fallere aliquando potest.
+    </p>
+            <p xml:id="Z4Yt34-d1e124-d1e116">
+               <lb ed="#L" n="20"/>VT autem ab illa controuersia ordiamur, quae licet 
+      <lb ed="#L" n="21"/>V facillima, tamen caput est caeterarum, prima veniat 
+      </p>
+            <p xml:id="Z4Yt34-d1e124-d1e123">
+               <lb ed="#L" n="22"/>in medium iuniorum opinio, quae plerisque notissima 
+      <lb ed="#L" n="23"/>est, non omnium quidem, sed paucorum asserentium, aliquando 
+      <lb ed="#L" n="24"/>Deum humano angeliconue ministerio homines fefellisse. 
+      <lb ed="#L" n="25"/>Nam quod spiritus veritatis ipse per se quempiam fallat,  
+      <lb ed="#L" n="26"/>ne impietatis inuidiam subeant, in dubium vocare non 
+      au<lb ed="#L" n="27" break="no"/>dent. Quod vero per alium decipere Deus possit, id 
+      per<lb ed="#L" n="28" break="no"/>suadere se posse arbitrantur. Primum quod Abraham 
+      pue<lb ed="#L" n="29" break="no"/>ris mentitus est, inquiens, expectate hic, ego &amp; puer 
+      post<lb ed="#L" n="30" break="no"/>quam adorauerimus, reuertemur ad vos. Et tamen illa erat 
+      <lb ed="#L" n="31"/>prophetia diuinae reuelationis : vt docet Amb. lib. 1. de 
+      <lb ed="#L" n="32"/>Abraham. cap. 8. in haec verba. Prophetauit quod 
+      igno<lb ed="#L" n="33" break="no"/>rabat: ipse solus disponebat redire immolato filio, sed do 
+      <lb ed="#L" n="34"/>minus per os eius locutus est. Captiose autem 
+      loqueba<lb ed="#L" n="35" break="no"/>tur cum seruulis, ne cognito negotio aut impediret 
+      ali<lb ed="#L" n="36" break="no"/>quis, aut gemitu obstreperet aut fletu. Hominis ergo mi 
+      <lb ed="#L" n="37"/>nisterio, homines Deus fallit. Alterum quoque eiusdem rei 
+      <lb ed="#L" n="38"/>argumentum proferunt, quod Iacob patrem suum Isaac 
+      men<lb ed="#L" n="39" break="no"/>dacio etiam de industria conficto decepit, dicens. Ego sum 
+      <!--22.xml-->
+      <pb ed="#L" n="11"/>
+               <lb ed="#L" n="1"/>primogenitus tuus Esau, feci sicut praecepisti mihi, surge 
+      <lb ed="#L" n="2"/>&amp; comede de venatione mea. Et paulo post, cum Isaac 
+      in<lb ed="#L" n="3" break="no"/>terrogasset, tu es filius meus Esau?respondit Iacob. Ego 
+      <lb ed="#L" n="4"/>sum. Mentitus est ergo Iacob, id quod agnouit pater, 
+      in<lb ed="#L" n="5" break="no"/>quiens, venit germanus tuus fraudulenter, &amp;c. At ea 
+      om<lb ed="#L" n="6" break="no"/>nia Iacob &amp; fecit &amp; dixit ex diuina reuelatione, vt 
+      Inno<lb ed="#L" n="7" break="no"/>centius tradit. Deus igitur per alium decipere potest. Ad 
+      <lb ed="#L" n="8"/>haec Esaias Exechiae: cras, inquit, morieris &amp; non viues. 
+      <lb ed="#L" n="9"/>Esaias autem sine dubio suis ipse verbis assentiebatur, nec 
+      <lb ed="#L" n="10"/>vero nisi lumine prophetico: agnoscebat enim 
+      reuela<lb ed="#L" n="11" break="no"/>tionem illam esse diuinam. Lumen ergo prophetiae causa 
+      quam<lb ed="#L" n="12" break="no"/>doque prophetae est, vt decipiatur. Non enim tunc 
+      tempo<lb ed="#L" n="13" break="no"/>ris mortuus est Exechias, sed conualuit. Praeterea cum 
+      do<lb ed="#L" n="14" break="no"/>minus aliquando interrogasset, quis decipiet Achab? 
+      <lb ed="#L" n="15"/>egressus spiritus, ego inquit, decipiam illum. Cui 
+      domi<lb ed="#L" n="16" break="no"/>nus, In quo? Tum ilie. Ero spiritus mendax in ore omnium 
+      <lb ed="#L" n="17"/>prophetarum eius. Et dixit dominus, decipies &amp; 
+      praeua<lb ed="#L" n="18" break="no"/>lebis: egredere &amp; fac ita. Subdit vero Michaeas. Num 
+      igi<lb ed="#L" n="19" break="no"/>tur ecce dedit dominus spiritum mendacij in ore omnium 
+      <lb ed="#L" n="20"/>prophetarum, qui hic sunt: &amp; dominus locutus est contra 
+      <lb ed="#L" n="21"/>te malum. Deus itaque per cacodaemonem administrum 
+      de<lb ed="#L" n="22" break="no"/>cipit. Id quod Aug. lib. 83. Quaest. confitetur. 
+      Quemad<lb ed="#L" n="23" break="no"/>modum enim iudex damnatum percutere, sua persona 
+      in<lb ed="#L" n="24" break="no"/>dignum &amp; nefarium iudicat: eius tamen iussu hoc facit 
+      car<lb ed="#L" n="25" break="no"/>nifex, ita quem Deus per se non falleret, eum fallit Deo 
+      <lb ed="#L" n="26"/>iubente cacodaemon. Libet nanqe similitudine eadem 
+      eis<lb ed="#L" n="27" break="no"/>demque, pene verbis quibus August. vtitur, huius rei argu 
+      <lb ed="#L" n="28"/>mentum facere. Item Iudaei domino praecipiente 
+      AEgy<lb ed="#L" n="29" break="no"/>tios decepere. Fecerunt enim filii lsrael, sicut 
+      praecepe<lb ed="#L" n="30" break="no"/>rat dominus Moysi, &amp; petierunt ab AEgyptiis vasa 
+      ar<lb ed="#L" n="31" break="no"/>gentea &amp; aurea: Dominus autem dedit gratiam populo suo,  
+      <lb ed="#L" n="32"/>coram AEgyptiis, vt commodarent eis, &amp; spoliauerunt 
+      <lb ed="#L" n="33"/>AEgyptios. Deo igitur auctore homo hominem fallit. 
+      <lb ed="#L" n="34"/>Nec mirum si hostem decipi dignum, decipere Deus 
+      iu<lb ed="#L" n="35" break="no"/>bet, quoniam hoc pertinet ad iustitiam &amp; veritatem, vt 
+      <lb ed="#L" n="36"/>dignis digna distribuantur: quemadmodum idem 
+      Augu<lb ed="#L" n="37" break="no"/>stinus loco nunc citato argumentatur. Atque, haec testimo 
+      <lb ed="#L" n="38"/>nia non perinde vrgent. Illa difficiliora sunt, quae, 
+      quo<lb ed="#L" n="39" break="no"/>niam vnius modi sunt ferme, simul commemorabuntur.  
+      <!--23.xml-->
+      <pb ed="#L" n="12"/>
+               <lb ed="#L" n="1"/>Primum est illud. Qui immutat cor principum, &amp; decipit eos: 
+      <lb ed="#L" n="2"/>&amp; errare eos facit quasi ebrios. Secundum illud. Homo 
+      <lb ed="#L" n="3"/>qui posuerit immunditias in corde suo, &amp; venerit ad 
+      <lb ed="#L" n="4"/>propheta interrogans per eum me: ego dominus 
+      respon<lb ed="#L" n="5" break="no"/>debo ei in multitudine immunditiarum suarum: &amp; 
+      pro<lb ed="#L" n="6" break="no"/>pheta cum errauerit &amp; locutus fuerit verbum, ego 
+      do<lb ed="#L" n="7" break="no"/>minus decepi prophetam illum. Tertium illud: Quare errare 
+      <lb ed="#L" n="8"/>nos fecisti domine de viis tuis? Quartum est Apostoli 
+      di<lb ed="#L" n="9" break="no"/>centis: Sicut non probauerunt Deum habere in notitia, 
+      tra<lb ed="#L" n="10" break="no"/>didit illos Deus in reprobum sensum. Quintum est etiam  
+      <lb ed="#L" n="11"/>eiusdem Apostoli. Eo quod charitatem veritatis non 
+      rece<lb ed="#L" n="12" break="no"/>perunt, ideo mittet illis Deus operationem erroris. Quibus 
+      <lb ed="#L" n="13"/>testimoniis Aug. manifeste doceri existimat Deum in 
+      cor<lb ed="#L" n="14" break="no"/>dibus hominum operari ad inclinandas eorum voluntates 
+      <lb ed="#L" n="15"/>in malum, nedum mentes in falsum. Nec ab his ratio aliena est,  
+      <lb ed="#L" n="16"/>cum enim error poena sit, nihil obstat, quo minus Deus 
+      <lb ed="#L" n="17"/>qui poenarum omnium auctor esse a prophetis dicitur, errore 
+      <lb ed="#L" n="18"/>ipse efficiat in eo praesertim, qui antecedentibus culpis 
+      <lb ed="#L" n="19"/>commeruit, vt a iusto iudice in errore induceretur. Vita 
+      <lb ed="#L" n="20"/>&amp; mors, inquit, paupertas &amp; honestas a Deo sunt : sapientia 
+      <lb ed="#L" n="21"/>&amp; disciplina apud eum: error &amp; tenebrae peccatoribus 
+      con<lb ed="#L" n="22" break="no"/>creata sunt. Confirmat autem illud vel maxime, quod cuiusque 
+      <lb ed="#L" n="23"/>motionis Deus est causa: in ipso enim mouemur &amp; sumus. 
+      <lb ed="#L" n="24"/>Errore itaque qui hominis errantis motio est, Deus 
+      effice<lb ed="#L" n="25" break="no"/>re in hominem potest, poteritque proinde decipere. Cuius 
+      <lb ed="#L" n="26"/>etiam rei argumentum aliud est, quod mendacium non est 
+      <lb ed="#L" n="27"/>suapte natura malum. Potest ergo Deus cuiquam 
+      praecipe<lb ed="#L" n="28" break="no"/>re vt mentiatur. Illud vero primum ex eo ostenditur, quod 
+      <lb ed="#L" n="29"/>Ioseph mendacium etiam iuramento confirmauit. Per salu 
+      <lb ed="#L" n="30"/>tem Ccinquit Pharaonis exploratores estis. Non est autem 
+      <lb ed="#L" n="31"/>credendum quod mendacium iuramento firmatum vir iustus 
+      <lb ed="#L" n="32"/>diceret, nisi diuinam haberet reuelationem, per quam a mortali 
+      <lb ed="#L" n="33"/>peccato excusaretur. Deinde illud etiam probatur ex eo 
+      <lb ed="#L" n="34"/>quod Michaeas ait. Vtinam vir essem non habens spiritum, &amp;  
+      <lb ed="#L" n="35"/>mendacium potius loquerer. Non ergo est intrinsecus 
+      ma<lb ed="#L" n="36" break="no"/>lum, quod Propheta Deo instigante desiderat. Adde huc,  
+      <lb ed="#L" n="37"/>quod Arist. 4. Ethico. Ii. Mendacium in ianctantiam &amp; 
+      iro<lb ed="#L" n="38" break="no"/>niam partitur, quae est diuisio propria mendacii auctore 
+      <lb ed="#L" n="39"/>diuo Thoma. 2. 2. quaest 11O. ar. 2. At vsus eius, quae dissi¬ 
+      <!--24.xml-->
+      <pb ed="#L" n="13"/>
+               <lb ed="#L" n="1"/>mulatio Latine dici potest, Graece enim 2igouio dicitur,  
+      <lb ed="#L" n="2"/>frequens in sacris literis est: vt ibi, Ecce Adam quasi vnus 
+      <lb ed="#L" n="3"/>ex nobis factus est. Et alio loco, Iam saturati estis, iam 
+      diui<lb ed="#L" n="4" break="no"/>tes facti estis, sine nobis regnatis. Et3. Re. 22. Ascendecait 
+      <lb ed="#L" n="5"/>Michaeas, &amp; vade prospere. &amp;c. Si igitur ironia mendaci 
+      <lb ed="#L" n="6"/>um est, Deus vero per sacros auctores ironice interdum 
+      <lb ed="#L" n="7"/>loquitur, non est, vt videtur, cur negemus. Deum posse per 
+      <lb ed="#L" n="8"/>alios mentiri. His testimoniis atque rationibus, opinationem 
+      <lb ed="#L" n="9"/>suam suadere poterant Theologi noui &amp; in sacris literis 
+      pa<lb ed="#L" n="10" break="no"/>rum exerciti. Nam quibus ipsi argumentis vtuntur, ego 
+      <lb ed="#L" n="11"/>data opera sileo: ne qui hunc librum legerint scholasticis illi 
+      <lb ed="#L" n="12"/>auctoribus inuidiam confsent: vulgique &amp; imperitorum 
+      insci<lb ed="#L" n="13" break="no"/>tiam academiis praeferant, cum ea audierint, quae nonnunquam 
+      <lb ed="#L" n="14"/>disseruntur a nostris. Sed de his hactenus. Iam 
+      quaestio<lb ed="#L" n="15" break="no"/>nem ipsam explicemus: diuinamque veritatemsquod erit 
+      <lb ed="#L" n="16"/>facile, ab eiusmodi aduersariis vindicemus. Deum nanque  
+      <lb ed="#L" n="17"/>deceptorem credere, nefarium &amp; impium esse, quis non  
+      <lb ed="#L" n="18"/>facillime intelligat?
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

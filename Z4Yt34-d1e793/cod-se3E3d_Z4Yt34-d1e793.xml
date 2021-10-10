@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="500"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e793"><!-- Z4Yt34-l9c2 -->
+            <head xml:id="Z4Yt34-d1e793-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e793-d1e109">
+               <lb ed="#L" n="8"/>Caput secundum.
+    </p>
+            <p xml:id="Z4Yt34-d1e793-d1e114">
+               <lb ed="#L" n="9"/>ALter autem error illorum est, qui solis sacrarum 
+      li<lb ed="#L" n="10" break="no"/>terarum testimonijs, aut interdum etiam scriptorum 
+      <lb ed="#L" n="11"/>veterum, omnia definiunt, ab argumentis naturae haud 
+      a<lb ed="#L" n="12" break="no"/>liter abhorrentes, quam si essent Theologiae aduersa &amp;  
+      <lb ed="#L" n="13"/>inimica. Hunc autem errorem plurimis testibus suadent.  
+      <lb ed="#L" n="14"/>At primus testis citatur Gregorius Nazanzenus, orat. 1. 
+      <lb ed="#L" n="15"/>in Iulianum, vbi ait, disciplinam nostram esse 
+      Pythago<lb ed="#L" n="16" break="no"/>ricam. At qui apud Pythagoraeos tantum auctoritas 
+      prae<lb ed="#L" n="17" break="no"/>iudicata poterat, vt sine ratione valeret. Alter est Hiero 
+      <lb ed="#L" n="18"/>nymus in 10. Matthaei caput, quo loco non vult 
+      euange<lb ed="#L" n="19" break="no"/>lij doctores humanae ratiocinationis praesidijs niti. Quia 
+      <lb ed="#L" n="20"/>huiusmodi, vt inquit, virga &amp; baculus arundineus est,  
+      <lb ed="#L" n="21"/>quem si paululum presseris, frangitur, &amp; manum perforat 
+      <lb ed="#L" n="22"/>incumbentis. Et in 31. caput Hieremiae, de verbis Dei 
+      hu<lb ed="#L" n="23" break="no"/>mano sensu argumentari, dicit esse sacrilegum. Tertius 
+      <lb ed="#L" n="24"/>est Augusti. lib. 1. de actis cum Felice Manichaeo, cap. 10. 
+      <lb ed="#L" n="25"/>Cum enim Felix Manichaeum efferret, quod docuisset 
+      <lb ed="#L" n="26"/>discipulos suos, initium, medium, &amp; finem, &amp; quomodo 
+      <lb ed="#L" n="27"/>vel quare factus sit mundus, de cursu solis &amp; lunae, deque 
+      <lb ed="#L" n="28"/>alijs huiusmodi rebus physicis, Augustinus contram ait, qu 
+      <lb ed="#L" n="29"/>spiritus paracletus non docet has veritates. Christianos 
+      <lb ed="#L" n="30"/>enim vult facere, non Mathematicos. Sufficere autem, vt 
+      <lb ed="#L" n="31"/>homines de his rebus propter humanos vsus nouerint, id 
+      <lb ed="#L" n="32"/>quod in schola didicerunt, scilicet priusquam ad Christi 
+      <lb ed="#L" n="33"/>religionem conuerterentur. Propter humanos vsus, 
+      in<lb ed="#L" n="34" break="no"/>quit ad vsum igitur Theologiae, humanae ratio doctrinae 
+      <lb ed="#L" n="35"/>nihil Catholico proderit. Referuntur etiam a Gratiano 
+      <lb ed="#L" n="36"/>37. dist. duo testimonia, vnum ex Ambrosio, alterum ex 4. 
+      <lb ed="#L" n="37"/>concilio Carthaginen, quibus suaderi videtur, humanas 
+      <!--512.xml-->
+      <pb ed="#L" n="501"/>
+               <lb ed="#L" n="1"/>disciplinas, vt perniciosas, vel certe vt inutiles, a Theolo 
+      <lb ed="#L" n="2"/>gia repellendas. Concilium quippe Carthagin. 4. Vetat 
+      <lb ed="#L" n="3"/>episcopis, ne libros gentilium legant. Ambrosius autem 
+      <lb ed="#L" n="4"/>dicit Astrologiam, &amp; alias huiusmodi disciplinas nihil 
+      <lb ed="#L" n="5"/>valere ad salutem, sed in errorem mittere. Epiphanius 
+      <lb ed="#L" n="6"/>quoque haeresi. 76. aduersus Aetium disserens ait, quod 
+      <lb ed="#L" n="7"/>non reuelat Deus patrem &amp; filium per Spiritum sanctum, 
+      <lb ed="#L" n="8"/>his, qui de ipso per syllogismos ratiocinantur. Qui ergo 
+      <lb ed="#L" n="9"/>in Theologiam humanas rationes inuehunt, hi diuinae 
+      <lb ed="#L" n="10"/>reuelationis non possunt esse participes. 
+      </p>
+            <p xml:id="Z4Yt34-d1e793-d1e205">
+               <lb ed="#L" n="11"/>Nec solum testimonijs patrum, sed sacrarum etiam 
+      li<lb ed="#L" n="12" break="no"/>terarum abutuntur in sui erroris confirmationem. 
+      Prin<lb ed="#L" n="13" break="no"/>cipio enim afferunt illud Ecclesiastes 1. ego Ecclesiastes 
+      <lb ed="#L" n="14"/>proposui in animo meo quaerere &amp; inuestigare sapienter 
+      <lb ed="#L" n="15"/>de omnibus quae fiunt sub sole. Hanc occupationem 
+      pes<lb ed="#L" n="16" break="no"/>simam dedit Deus filijs hominum, vt occuparentur in eas. 
+      <lb ed="#L" n="17"/>vidi quae fiunt cuncta sub sole, &amp; ecce vniuersa vanitas,  
+      <lb ed="#L" n="18"/>&amp; afflictio spiritus. Si ergo occupatio pessima est studium 
+      <lb ed="#L" n="19"/>humanae literaturae, si vanitas &amp; afflictio spiritus, non est 
+      <lb ed="#L" n="20"/>profecto a Theologis expetenda. Deinde 
+      argumentan<lb ed="#L" n="21" break="no"/>tur ex illo Prouerb. 5. ne intenderis fallaciae mulieris: 
+      fa<lb ed="#L" n="22" break="no"/>uus enim distillans labia meretricis, &amp;c. Et postea, quare 
+      <lb ed="#L" n="23"/>seduceris fili mi ab aliena, &amp;c. hanc autem humanam 
+      sa<lb ed="#L" n="24" break="no"/>pientiam interpretantur, quam nimirum esse fallacem ad 
+      <lb ed="#L" n="25"/>Coloss. 2. testatur Apostolus in haec verba. Videte ne 
+      <lb ed="#L" n="26"/>quis vos decipiat per philosophiam, &amp; inanem fallaciam.  
+      <lb ed="#L" n="27"/>Addunt illud 1. ad Corinth. 1. perdam sapientiam 
+      sapien<lb ed="#L" n="28" break="no"/>tium, &amp; prudentiam prudentium reprobabo. Vbi sapiens? 
+      <lb ed="#L" n="29"/>vbi scriba? vbi inquisitor huius seculi? Nonne stultam 
+      fe<lb ed="#L" n="30" break="no"/>cit Deus sapientiam huius mundi? Addunt etiam illud 
+      <lb ed="#L" n="31"/>us eodem Apostolo 1. Corinth. 8. scientia inflat. Aliud 
+      </p>
+            <p xml:id="Z4Yt34-d1e793-d1e253">
+               <lb ed="#L" n="32"/>Aque 1. ad Timoth. 6. si quis non acquiescit sanis ser¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e793-d1e259">
+               <lb ed="#L" n="33"/>bus, &amp; ei quae secundum pietatem est doctrinae, su¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e793-d1e264">
+               <lb ed="#L" n="34"/>stinihil sciens, sed languens circa quaestiones. 
+      </p>
+            <p xml:id="Z4Yt34-d1e793-d1e269">
+               <lb ed="#L" n="35"/>colunt Apostolum significare, disciplinas 
+      <lb ed="#L" n="36"/>ebos esse, solamque Christi doctrinam esse 
+      <lb ed="#L" n="37"/>secundum pietatem, id est, religioni 
+      con<lb ed="#L" n="38" break="no"/>insentantam esse, illas non esse. 
+      <lb ed="#L" n="39"/>postoli non habuerunt Philosophiam, non 
+      <!--513.xml-->
+      <pb ed="#L" n="502"/>
+               <lb ed="#L" n="1"/>est igitur Theologo necessaria. Si enim Spiritus sanctus 
+      <lb ed="#L" n="2"/>docuit Apostolos omnem veritatem, iuxta Domini 
+      pol<lb ed="#L" n="3" break="no"/>licitationem Ioannis decimosexto, &amp; has disciplinas non 
+      <lb ed="#L" n="4"/>docuit, sequitur non esse Christiano doctori vtiles, atque 
+      <lb ed="#L" n="5"/>adeo ne versari quidem circa veritatem. Praeterea, vel 
+      <lb ed="#L" n="6"/>Philosophia est Theologo necessaria, dum imperfectos in 
+      <lb ed="#L" n="7"/>ecclesia instruit, veldum perfectos alloquitur. 
+      Imperfe<lb ed="#L" n="8" break="no"/>ctis lac Apostolus dat, nec existimat se quicquam inter 
+      <lb ed="#L" n="9"/>huiusmodi scire, nisi Christum &amp; hunc crucifixum. 
+      Per<lb ed="#L" n="10" break="no"/>fectis vero sapientiam loquitur, non huius, saeculi, neque 
+      <lb ed="#L" n="11"/>principum huius seculi, hoc est, Philosophorum. Non 
+      <lb ed="#L" n="12"/>ergo Theologus Philosophia eget, siue cum paruulis seu 
+      <lb ed="#L" n="13"/>cum prouectioribus sermones diuinos conserat. 
+      </p>
+            <p xml:id="Z4Yt34-d1e793-d1e315">
+               <lb ed="#L" n="14"/>Pergunt etiam argumentari, quod si vtilis &amp; 
+      necessa<lb ed="#L" n="15" break="no"/>ria esset Theologo philosophia, hoc esset ob id maxime,  
+      <lb ed="#L" n="16"/>quod non alia via &amp; ratione melius Philosophi Christo 
+      <lb ed="#L" n="17"/>repugnantes euincerentur. At hoc constat esse 
+      vanissi<lb ed="#L" n="18" break="no"/>mum. Primum, quoniam euacuaretur erux Christi, vt 
+      <lb ed="#L" n="19"/>Apostolus ait, Si de philosophis &amp; sophistis per 
+      huma<lb ed="#L" n="20" break="no"/>nam sapientiam triumpharet. Rursus, quoniam vt idem 
+      <lb ed="#L" n="21"/>Apostolus secunda ad Corinth. cap. decimo auctor est: 
+      <lb ed="#L" n="22"/>Arma Christianae militiae non carnalia sunt, sed potentia 
+      <lb ed="#L" n="23"/>Deo ad destructionem munitionum, consilia 
+      destruen<lb ed="#L" n="24" break="no"/>tes, &amp; omnem altitudinem extollentem se aduersus 
+      scien<lb ed="#L" n="25" break="no"/>tiam Dei, &amp; in captiuitatem redigentes omnem 
+      intelle<lb ed="#L" n="26" break="no"/>ctum in obsequium Christi. 
+      </p>
+            <p xml:id="Z4Yt34-d1e793-d1e346">
+               <lb ed="#L" n="27"/>Non ergo Theologus, Christi miles, humanarum disci 
+      <lb ed="#L" n="28"/>olinarum praesidijs eget, vt fidei aduersarios possit 
+      euin<lb ed="#L" n="29" break="no"/>cere. Id quod exemplo Nicaeni concilij facile 
+      demon<lb ed="#L" n="30" break="no"/>stratur, vbi Philosopho superando plus valuit simplicis 
+      <lb ed="#L" n="31"/>hominis syncera fides, quam onnes omnium 
+      Dialectico<lb ed="#L" n="32" break="no"/>rum &amp; Philosophorum argutiae. Certe Hieronymus ad 
+      <lb ed="#L" n="33"/>Pammachium aduersus Ioannis errores, argumenta a 
+      <lb ed="#L" n="34"/>ratione ducta &amp; de gentilium fonte manantia, tanquam  
+      <lb ed="#L" n="35"/>oentilium arma Christiano dicit esse deponenda. 
+      Po<lb ed="#L" n="36" break="no"/>stremo etiam argumentantur, Christi doctrinam 
+      per<lb ed="#L" n="37" break="no"/>fectam esse: non itaque Philosophiae subsidijs 
+      indi<lb ed="#L" n="38" break="no"/>gere.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

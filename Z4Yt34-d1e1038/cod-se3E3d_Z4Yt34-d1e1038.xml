@@ -1,0 +1,2453 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="569"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1038"><!-- Z4Yt34-l11c5 -->
+            <head xml:id="Z4Yt34-d1e1038-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e1038-d1e109">
+               <lb ed="#L" n="27"/>Cap. quintum. Vbi respondetur argumentis 
+      <lb ed="#L" n="28"/>capitis tertij.
+    </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e116">
+               <lb ed="#L" n="29"/>NOn est facile contrarias obiectiones excutere, sed 
+      <lb ed="#L" n="30"/>TN excutiendae sunt tamen. Atque in primo argumento 
+      <lb ed="#L" n="31"/>quidem non Osiander modo, verumetiam catholici 
+      qui<lb ed="#L" n="32" break="no"/>dam omni vi &amp; ratione contendunt, id, quod de duobus 
+      <lb ed="#L" n="33"/>patribus Ioseph naturali &amp; legali refertur, commentum, 
+      por<lb ed="#L" n="34" break="no"/>tentum, monstrum, somnium esse. His enim nominibus 
+      <lb ed="#L" n="35"/>sententiam illam Africani notandam putant. Certe auctor 
+      <lb ed="#L" n="36"/>lib. q. vet. &amp; no. testa, siue Augustinus is fuerit seu quispiam 
+      <lb ed="#L" n="37"/>alius, sententiam eam asserit, nec probabilem esse, nec ad 
+      <lb ed="#L" n="38"/>vllam rem proficere:ne sit qui existimet vetere historiam  
+      <!--581.xml-->
+      <pb ed="#L" n="570"/>
+               <lb ed="#L" n="1"/>solis iunioribus displicuisse. Vtuntur autem hi ad 
+      Affi<lb ed="#L" n="2" break="no"/>cani traditionem infirmandam argumentis huiusmodi. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e149">
+               <lb ed="#L" n="3"/>Primo quod nullum testimonium, vel exemplum, nec S 
+      <lb ed="#L" n="4"/>sacris, nec ex profanis Hebraeorum literis erui possit, quo 
+      <lb ed="#L" n="5"/>talis primogenitus filius defuncti nuncupetur: non ergo 
+      <lb ed="#L" n="6"/>mortuus ille pater primogeniti vocabitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e160">
+               <lb ed="#L" n="7"/>Deinde, vt demus, inquiunt, quantumuis iniqua 
+      condi<lb ed="#L" n="8" break="no"/>tione eiusmodi primogenitui duos patres sortitum, 
+      esse<lb ed="#L" n="9" break="no"/>adhuc tamen nihil faciet, vt Euangelicae discrepantiae 
+      <lb ed="#L" n="10"/>scrupulus eximatur. Nam legalem filium nemo poterat ex 
+      <lb ed="#L" n="11"/>vxore defuncti procreare, nisi frater fuisset defuncti 
+      ger<lb ed="#L" n="12" break="no"/>manus, simulque cum eo habitasset, quemadmodum Deu. 25. 
+      <lb ed="#L" n="13"/>euidentissime traditur. Illud vero non contingit nisi ex 
+      <lb ed="#L" n="14"/>eodem patre natis: nam qui diuersos habent patres, ij 
+      di<lb ed="#L" n="15" break="no"/>uersas etiam capiunt haereditates, atque adeo non habitant 
+      <lb ed="#L" n="16"/>simul. Nunc autem lacob &amp; Heli, nec fuerunt ex eisdem  
+      <lb ed="#L" n="17"/>patribus, auis, aut proauis: nec simul habitare potuerunt, 
+      <lb ed="#L" n="18"/>cum alter censeatur in posteris Nathan, alter in posteris, 
+      <lb ed="#L" n="19"/>Salomonis. Nam, quod etiam argumentantur,. Ioseph non 
+      <lb ed="#L" n="20"/>fuisse vocatum nomine patris legalis, quae res erat 
+      neces<lb ed="#L" n="21" break="no"/>saria, iuxta illam Deut. legem, id exiguum sane ac 
+      mendi<lb ed="#L" n="22" break="no"/>cum argumentum est, cui Augustinus &amp; 5. lib. 4. in Deut. 
+      <lb ed="#L" n="23"/>4. 46. &amp; lib. 2. retraec. 12. nullo negotio respondet. Mihi 
+      <lb ed="#L" n="24"/>vero opinio communis magis placet: quanuis illorum 
+      opi<lb ed="#L" n="25" break="no"/>nio non displiceat, qui asserunt, Heli Iosephi socerum 
+      <lb ed="#L" n="26"/>fuisse, eundem qui &amp; IoaEim parentem virginis Mariae, 
+      <lb ed="#L" n="27"/>vt Lucas Genealogiam Christi per matrem attexuerit: 
+      <lb ed="#L" n="28"/>Matthaeus vero per eum, qui patet putabatur. Nec 
+      pro<lb ed="#L" n="29" break="no"/>inde tamen Genealogiam mulierum contra scripturae vsum 
+      <lb ed="#L" n="30"/>Euangelista texuit. Nam cum ait, qui fuit Heli, relatiuum 
+      <lb ed="#L" n="31"/>ad Christum, referendum est, vt sit sensus. Et ipse Iesus 
+      pu<lb ed="#L" n="32" break="no"/>tabatur quidem esse Iosephi, at re vera non illius fuit, sed 
+      <lb ed="#L" n="33"/>Heli. Cum enim sine virili opera ex virgine matre natus 
+      <lb ed="#L" n="34"/>sit: nullum habuit in terris, cuius filius vere dici posset 
+      <lb ed="#L" n="35"/>praeter Heli, qui auus scilicet ipsius maternus erat. Ne 
+      <lb ed="#L" n="36"/>quis ergo miraretur, quod in texenda genealogia Christi 
+      <lb ed="#L" n="37"/>ab nepore statim transilierit ad auum, interiecit 
+      causam<lb ed="#L" n="38" break="no"/>quia Ioseph, quem patrem Christi dicere debebat, non vere 
+      <lb ed="#L" n="39"/>erat pater, sed putabatur. Quanqe &amp; relatiuum ad Ioseph 
+      <!--582.xml-->
+      <pb ed="#L" n="571"/>
+               <lb ed="#L" n="1"/>quoque referri potest: vt intelligas eum fuisse Heli non 
+      <lb ed="#L" n="2"/>naturalem filium, sed ad eum modum, quo gener 
+      soce<lb ed="#L" n="3" break="no"/>ri filius esse dicitur. Itaque Iosephum euangelistae ad 
+      <lb ed="#L" n="4"/>parentes suos retulerunt, alter ad eos, quos ex se 
+      ha<lb ed="#L" n="5" break="no"/>puit, alter ad eos quos ex coniugio sortitus est. Huius 
+      <lb ed="#L" n="6"/>opinionis Augustinus li. quaestionum euangelicarum. 2. 4. 
+      <lb ed="#L" n="7"/>5. meminit. Hanc tenuit auctor libelli cuiusdam de ortu 
+      <lb ed="#L" n="8"/>virginis, qui Hieronymo falso tribuitur. Hanc Ioannes 
+      <lb ed="#L" n="9"/>Annius, Ioanes item Lucidus, Georgius Vuiccelius, aliique, 
+      <lb ed="#L" n="10"/>nonnulli iuniores amplexi sunt. Huic etiam nominum 
+      si<lb ed="#L" n="11" break="no"/>gnificatio consonat. Nam Ioatim, Eliachim, Heli, idem  
+      <lb ed="#L" n="12"/>fere significant, proque eodem fere vsurpantur. 4. Re. 23. 2. 
+      <lb ed="#L" n="13"/>Para. 36. Probabilis opinio haec sit. Quis negat? Sed ne 
+      <lb ed="#L" n="14"/>ipsa quidem certa est. Osiandri enim argumenta, quae ille 
+      <lb ed="#L" n="15"/>firma esse existimat, sunt profecto infirmissima. Obiicit 
+      <lb ed="#L" n="16"/>primo nusquam in sacris literis reperiri, quod ille primoge 
+      <lb ed="#L" n="17"/>nitus filius mortui nuncupetur. Id vero de more 
+      impu<lb ed="#L" n="18" break="no"/>denter obiicit. Si enim Obed filius Noemi illique natus 
+      <lb ed="#L" n="19"/>esse dicitur, cur non dicatur natus Maaloni, huiusque 
+      pro<lb ed="#L" n="20" break="no"/>inde etiam filius? Item, accipiet eam, inquit, frater eius, &amp; 
+      <lb ed="#L" n="21"/>suscitabit semen fratris sui, &amp; primogenitum ex ea filium 
+      <lb ed="#L" n="22"/>nomine illius appellabit. Praeterea, ecquid obsecro est 
+      <lb ed="#L" n="23"/>suscitare semen fratri, nisi filium illi gignere? Quid None 
+      <lb ed="#L" n="24"/>illud manifestum est, ille sciens non nasci sibi filios, semen fun 
+      <lb ed="#L" n="25"/>debat in terra, ne liberi fratris nomine nascerentur? 
+      Ge<lb ed="#L" n="26" break="no"/>ne. 38. At haec ipsa loca retulit Osiander. Retulit quidem, 
+      <lb ed="#L" n="27"/>sed ita tamen, vt apertis testimontis respondere 
+      nequi<lb ed="#L" n="28" break="no"/>uerit, nisi haereticorum ritu aut vulgatam editionem 
+      ac<lb ed="#L" n="29" break="no"/>cusaret, aut etiam scripturae &amp; verba &amp; sensum eluderet. 
+      <lb ed="#L" n="30"/>Nam sanctorum omnium commune intelligentiam pro 
+      nihilo<lb ed="#L" n="31" break="no"/>habere est illi familiare, &amp; cum caeteris Lutheranis getile ac 
+      <lb ed="#L" n="32"/>proprium. Ia, quo secundo loco accipit, fratres, de quibus lex 
+      <lb ed="#L" n="33"/>loquitur, simul habitare oportere, id est, in eadem 
+      haeredi<lb ed="#L" n="34" break="no"/>tate paterna, atque adeo germanos esse ab eodemque patre 
+      ge<lb ed="#L" n="35" break="no"/>nitos : specie fortasse veritatis habet, veritatem nullam profecto 
+      <lb ed="#L" n="36"/>habet. Fratres quippe in illa Deu. lege non germani modo 
+      <lb ed="#L" n="37"/>intelligendi sunt, verumetiam consanguinei, qui scripturarum 
+      <lb ed="#L" n="38"/>vsu fratres appellantur. Id quod non communi solum 
+      sancto<lb ed="#L" n="39" break="no"/>rum omnium sententia, sed aperto scripturae testimonio 
+      <!--583.xml-->
+      <pb ed="#L" n="572"/>
+               <lb ed="#L" n="1"/>comprobari potest. Boox enim Maalonis non germanus 
+      <lb ed="#L" n="2"/>erat, sed propinquus. Nec confundimus nos negotium 
+      <lb ed="#L" n="3"/>redemptionis cum negotio leuiri, quod Osiander 
+      calum<lb ed="#L" n="4" break="no"/>niatur. Sed contendimus, summoque omnino iure 
+      con<lb ed="#L" n="5" break="no"/>tendimus, exemplum libri Ruth, ad legem illam Deute. 
+      <lb ed="#L" n="6"/>pertinere. Alioqui, si eos simul habitare interpretamur, 
+      <lb ed="#L" n="7"/>qui in eadem haeteditate paterna habitat, cur non magis, 
+      <lb ed="#L" n="8"/>nam hoc simplicius est, eos qui in eadem domolIta 
+      quan<lb ed="#L" n="9" break="no"/>uis fratres Germani sint, nisi eandem domum habeant 
+      <lb ed="#L" n="10"/>communem, ea lege minime tenebuntur. Quod ne 
+      Osi<lb ed="#L" n="11" break="no"/>ander ipse quidem, quamlibet perfricta fronte, 
+      concessu<lb ed="#L" n="12" break="no"/>rus esset. Exponamus igitur, quod &amp; Hebraeorum mos, &amp;  
+      <lb ed="#L" n="13"/>legis ratio exigit, tum etiam fratres habitare simul, cum 
+      <lb ed="#L" n="14"/>in eodem oppido, vel ciuitate habitarint. Id vero non  
+      <lb ed="#L" n="15"/>duobus solum vterinis, quales Iacob &amp; Heli fuisse 
+      per<lb ed="#L" n="16" break="no"/>hibentur, vsu venire potuit: sed propinquis etiam aliis,  
+      <lb ed="#L" n="17"/>vel remotis. Nihil ergo nos Osiandri argumenta 
+      mo<lb ed="#L" n="18" break="no"/>uent, quo minus fidem Africano habeamus. Illud forta 
+      <lb ed="#L" n="19"/>mouere potest, quod in tertia conclusione capitis 
+      supe<lb ed="#L" n="20" break="no"/>rioris asseruimus, communem scriptorum omnium 
+      tra<lb ed="#L" n="21" break="no"/>ditionem, certo nedum probabiliter pro vera historia 
+      <lb ed="#L" n="22"/>habendam esse. Huic autem Africani traditioni 
+      histo<lb ed="#L" n="23" break="no"/>rici omnes ecclesiastici testimonium perhibent. Igitur non 
+      <lb ed="#L" n="24"/>modo probabilis, sed certa illa doctrina erit, quae duos 
+      <lb ed="#L" n="25"/>patres Ioseph legalem &amp; naturale infert. Minime vero. Mul 
+      <lb ed="#L" n="26"/>tum enim refert, res gestas qua historici asseueratione 
+      <lb ed="#L" n="27"/>narrent. Si enim is ipse, qui primus auctor historiae fuit, 
+      <lb ed="#L" n="28"/>re non vt visam ac certa, sed vt auditam &amp; incertam 
+      scripse<lb ed="#L" n="29" break="no"/>rit: tunc qui simili temperamento re ceu probabilem 
+      refe<lb ed="#L" n="30" break="no"/>runt, ij quanuis consentiant omnes, non faciunt tamen 
+      hi<lb ed="#L" n="31" break="no"/>storiae firmitudinem. Porro autem Africanus, vnde 
+      cae<lb ed="#L" n="32" break="no"/>teri hanc historiam acceperunt, nihil praeter auditum  
+      <lb ed="#L" n="33"/>habuit: nec referentibus certam habuit fidem. Nam postque 
+      <lb ed="#L" n="34"/>re perinde vt a Iudaeis quibusdam acceperat, ad Aristide 
+      <lb ed="#L" n="35"/>retulisset, huiusmodi verba, Musculo interprete, adiecit. 
+      <lb ed="#L" n="36"/>Siue itaque ad hunc modum siue aliter habet res ista, non 
+      po<lb ed="#L" n="37" break="no"/>terit quisquam, meo iudicio, clariorem illius, scilicet, quae 
+      <lb ed="#L" n="38"/>obiecta erat Euangelistarum discrepantiae, expositionem 
+      re<lb ed="#L" n="39" break="no"/>perire. Quisquis autem aequo animo praeditus est, idem quod 
+      <!--584.xml-->
+      <pb ed="#L" n="573"/>
+               <lb ed="#L" n="1"/>nos curabit, etiamsi certum desit testimonium: ob id 
+      vi<lb ed="#L" n="2" break="no"/>delicet, quod meliorem ac veriorem expositonem 
+      pro<lb ed="#L" n="3" break="no"/>ferre non poterit. Euangelium sane per omnia quae vera sunt  
+      <lb ed="#L" n="4"/>tradit. Hactenus Africanus. Quibus verbis satis ille 
+      signi<lb ed="#L" n="5" break="no"/>ficat, si componendis Euangelistis ratio alia quaecunque 
+      <lb ed="#L" n="6"/>probabilior appareret, eam se libenter amplexurum. Quae 
+      <lb ed="#L" n="7"/>omnino res &amp; Augustinum &amp; Thomam videtur conpulisse, 
+      <lb ed="#L" n="8"/>vt praeter hanc alias quoque rationes tollendae discrepatiae 
+      <lb ed="#L" n="9"/>cinuestigarent. Sed de primo argumento satis multa diximus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e437">
+               <lb ed="#L" n="10"/>Ad secundum vero dicendum est, huiusmodi quoque 
+      <lb ed="#L" n="11"/>res non tam ex fide historiae, que ex probabili eorum 
+      conie<lb ed="#L" n="12" break="no"/>ctura pendere, qui sacras literas interpretantur. Non est 
+      <lb ed="#L" n="13"/>enim aliquis probatus auctor, qui asserat se praeter Mariam, 
+      <lb ed="#L" n="14"/>aliam Iosephi vxorem aut vidisse, aut certis testibus 
+      ac<lb ed="#L" n="15" break="no"/>cepisse. Sed cum in euangelio fratres Domini legerentur, 
+      <lb ed="#L" n="16"/>&amp; religio vetaret filios Mariae suspicari: scripturae 
+      expo<lb ed="#L" n="17" break="no"/>sitoribus communiectandum fuit, quonam id pacto fieri 
+      potue<lb ed="#L" n="18" break="no"/>rit: vt veritas euangelii cum Mariae perpetua virginitate 
+      <lb ed="#L" n="19"/>congrueret. Ita quidam filios Ioseph ex alia vxore 
+      intu<lb ed="#L" n="20" break="no"/>lerunt, Christique proinde fratres non veros, sed qui 
+      pu<lb ed="#L" n="21" break="no"/>tarentur, interpretati sunt: nam &amp; Ioseph non verus 
+      <lb ed="#L" n="22"/>erat pater, sed putabatur. Neque horum coniectura vana 
+      <lb ed="#L" n="23"/>commentitiaque fuit, nullaye ratione tantum ad 
+      responden<lb ed="#L" n="24" break="no"/>dum haereticis excogitata: sed probabiles habuit causas,  
+      <lb ed="#L" n="25"/>quae scripturarum etiam testimoniis niterentur. Primum, 
+      <lb ed="#L" n="26"/>quia Iacobus Hierosolymitanus episcopus non 
+      peculia<lb ed="#L" n="27" break="no"/>riter esset frater domini cognominatus: si cognatione 
+      <lb ed="#L" n="28"/>solum fratres domini vocarentur. Cum &amp; Iacobus 
+      Aebe<lb ed="#L" n="29" break="no"/>dei filius, a quo ille cognomento distinguitur, ad eum 
+      <lb ed="#L" n="30"/>quoque modum frater domini esset. Deinde, non 
+      simpli<lb ed="#L" n="31" break="no"/>citer quidam in euangelio diceret, Ecce mater tua &amp; fratres 
+      <lb ed="#L" n="32"/>tui foris stat queretes te alloqui, si generali sanguinis 
+      con<lb ed="#L" n="33" break="no"/>iunctione fraternitatem definiret. Iacobus nanqe &amp; Ioanes 
+      <lb ed="#L" n="34"/>tunc temporis cum Christo intra domum erant, qui illo modo 
+      <lb ed="#L" n="35"/>erant fratres. Accedit quod apud Marcum a quibusdam dictum 
+      <lb ed="#L" n="36"/>est, Nonne hic est faber filius Mariae frater Iacobi &amp; Iose, 
+      <lb ed="#L" n="37"/>&amp; Iudae, &amp; Simonis:? Nonne &amp; sorores eius hic nobiscum 
+      <lb ed="#L" n="38"/>sunt? Filius, inquiunt, Mariae, frater Iacobi &amp; Iose, &amp;c. vt 
+      <lb ed="#L" n="39"/>non ex Maria, sed exIosepho fratres intelligerentur. Vnde 
+      <!--585.xml-->
+      <pb ed="#L" n="574"/>
+               <lb ed="#L" n="1"/>&amp; iuxta Lucam interrogant, Nonne hic est filius Iosephr 
+      <lb ed="#L" n="2"/>Atque, sorores, filias Iosephi Esther &amp; Thamar 
+      intelligen<lb ed="#L" n="3" break="no"/>das esse, Hippolytus ac Nicephorus graues in primis 
+      au<lb ed="#L" n="4" break="no"/>ctores asserunt. Fratres ergo similiter intelligendi sunt,  
+      <lb ed="#L" n="5"/>Iacobus, Iose, Simeo, &amp; Iudas: quos quatuor filios ex 
+      pri<lb ed="#L" n="6" break="no"/>ore comuniuge, cui nomen erat Salome, Iosephum suscepisse 
+      <lb ed="#L" n="7"/>iidem auctores prodidere. Accedit etiam, quod Iosephum, cum 
+      <lb ed="#L" n="8"/>Mariam vxore accepit, octoginta annorum fuisse sene, 
+      Epi<lb ed="#L" n="9" break="no"/>phanius non semel astruit. At in tam longa aetate non est 
+      pro<lb ed="#L" n="10" break="no"/>fecto verisimile illum sine conuniuge extitisse. Haec auctores 
+      <lb ed="#L" n="11"/>illi sine fidei discrimine argumentari, atque adeo 
+      asserere<lb ed="#L" n="12" break="no"/>potuerunt. Sed Hieronymus tamen rem diligentius 
+      ani<lb ed="#L" n="13" break="no"/>maduertens, ut erat in sacris literis apprime versatus, 
+      pro<lb ed="#L" n="14" break="no"/>babiliore multo rationem inuenit, qua citra &amp; Mariae 
+      cor<lb ed="#L" n="15" break="no"/>ruptionem &amp; Iosephi digamiam fratres domini in 
+      scriptu<lb ed="#L" n="16" break="no"/>ris intelligerentur. Quod enim Iacobus frater domini 
+      <lb ed="#L" n="17"/>vulgo cognominatus, Iosenhi filius non fuerit, ex 
+      euan<lb ed="#L" n="18" break="no"/>gelijs videtur manifeste colligi. Marcus siquidem quos 
+      ca<lb ed="#L" n="19" break="no"/>pite sexto fratres domini vocatos scripserat, cos capite 
+      <lb ed="#L" n="20"/>quinto decimo filios cuiusdam Mariae scribit esse, nimirum 
+      <lb ed="#L" n="21"/>vxor Iosephi esse non poterat: nisi duas illum simul 
+      vxo<lb ed="#L" n="22" break="no"/>res habuisse contendas, Mariam virginem, &amp; alteram 
+      Ma<lb ed="#L" n="23" break="no"/>riam, quod nulla ratio probat, nulla prodit historia. Quin 
+      <lb ed="#L" n="24"/>hominem pauperem, qui vix vnam alere &amp; sustinere 
+      pos<lb ed="#L" n="25" break="no"/>set, duarum coniugum onera subiisse, &amp; imprudentiae, &amp;  
+      <lb ed="#L" n="26"/>incontinentiae argumentum est. Ea vitia viro iusto 
+      tri<lb ed="#L" n="27" break="no"/>buere quam sit stultum, ne dicam impium, non est opus 
+      <lb ed="#L" n="28"/>longa oratione suadere. Adde quod haec eadem a 
+      Io<lb ed="#L" n="29" break="no"/>anne Maria Cleophae cognominata est. Erat autem 
+      Cle<lb ed="#L" n="30" break="no"/>ophas frater Iosephi, vt Eusebius li. 3. eccl. hist. cap. 11. ex 
+      <lb ed="#L" n="31"/>Egesippo retulit, ob quam causam, nisi me coniectura 
+      fal<lb ed="#L" n="32" break="no"/>lit, soror Mariae virginis appellatur. Nam &amp; leuiri fratres 
+      <lb ed="#L" n="33"/>vulgo dici solent, &amp; fratrum Vxores sorores. Non igitur,  
+      <lb ed="#L" n="34"/>vt sentio equidem, Maria illa tanquam mater, sed tanqua 
+      <lb ed="#L" n="35"/>vxor Cleophae nomen accepit. Iosephi itaque coniux non 
+      <lb ed="#L" n="36"/>erat, atque adeo nec huius filii filii erant Iosephi, sed 
+      Cleo<lb ed="#L" n="37" break="no"/>phae. Verum quemadmodum Iosephus pater Christi 
+      existi<lb ed="#L" n="38" break="no"/>mabatur, sic filii Cleophae, Iacobus, Iose, Iudas, Simeo, existi 
+      <lb ed="#L" n="39"/>mabantur Christi consobrini, Christique, patruus Cleophas. 
+      <!--586.xml-->
+      <pb ed="#L" n="575"/>
+               <lb ed="#L" n="1"/>Qua ratione Maria ista Christi matertera nuncupari 
+      po<lb ed="#L" n="2" break="no"/>test: non quod vere Mariae virginis germana fuerit, sed 
+      <lb ed="#L" n="3"/>quod soror &amp; habita &amp; dicta sit. Atqui consobrinos 
+      fra<lb ed="#L" n="4" break="no"/>tres etiam dici omnis scriptura demonstrat. Nec prioris 
+      <lb ed="#L" n="5"/>opinionis necesse est argumenta refellere. Nonnulla 
+      e<lb ed="#L" n="6" break="no"/>nim assumit, quae certis de causis a plerisque aliter 
+      existi<lb ed="#L" n="7" break="no"/>mantur. Vt filios Tebedaei Christi esse consanguineos, &amp;  
+      <lb ed="#L" n="8"/>proinde scripturae vsu fratres. Item Iosephum. 8O. annos 
+      <lb ed="#L" n="9"/>natum esse, cum Mariam vxorem accepit. Quae res dici 
+      <lb ed="#L" n="10"/>possunt, probari non possunt. Nam &amp; Acto. cap. 1. Lucas 
+      <lb ed="#L" n="11"/>cum Iacobum Alphaei, Simonem, &amp; Iudam, retulisset, 
+      sub<lb ed="#L" n="12" break="no"/>dit. Hi omnes erant perseuerantes in oratione cum Maria 
+      <lb ed="#L" n="13"/>matre Iesu, &amp; fratribus eius. Constat autem Iacobum 
+      Al<lb ed="#L" n="14" break="no"/>phaei, Simonem ac Iudam fratres domini appellatos. Sed 
+      <lb ed="#L" n="15"/>de his disputatum est ab alijs diligentius. Nos in 
+      praesen<lb ed="#L" n="16" break="no"/>ti non id agimus. Tantum dicimus, ex diuersis 
+      opinioni<lb ed="#L" n="17" break="no"/>bus, quas in scripturarum interpretatione orthodoxi 
+      se<lb ed="#L" n="18" break="no"/>quuntur, minime historiae fidem periclitari. Haec 
+      quip<lb ed="#L" n="19" break="no"/>pe sola oratio erat secundo argumonto confutando 
+      ne<lb ed="#L" n="20" break="no"/>cessaria. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e641">
+               <lb ed="#L" n="21"/>At tertium sic deluitur. Non fuit Herodias filia 
+      Are<lb ed="#L" n="22" break="no"/>thae regis, sed Aristobuli, sicut Iosephus multis in locis 
+      <lb ed="#L" n="23"/>testatus est. Id quod nomen quoque ipsum indicat. Est enim 
+      <lb ed="#L" n="24"/>quasi patronymicum ab Herode, nihilque, proinde aliud 
+      si<lb ed="#L" n="25" break="no"/>gnifieat quam filiam, vel neptem, Vel aliquam e posteris 
+      He<lb ed="#L" n="26" break="no"/>rodis. Quamobrem cum Aretha rege Arabum nihil vide 
+      <lb ed="#L" n="27"/>tur habere commune: cum Herode magno, cuius fuit 
+      ne<lb ed="#L" n="28" break="no"/>ptis, commune habet genus. Quod autem Hieronymus 
+      <lb ed="#L" n="29"/>tradit ex vetere historia, pace tanti viri dixerim, in ea re 
+      <lb ed="#L" n="30"/>sine dubio fallitur. Apparet eum sane, vel in historiam 
+      quam<lb ed="#L" n="31" break="no"/>piam auctoris incerti incidisse, ob id enim quidam veteren 
+      <lb ed="#L" n="32"/>historiam appellatam volunt, vel certe in Eusebij Latinam  
+      <lb ed="#L" n="33"/>incidit, quam Ruffinus fecit sua traditione vitiosam. Quo 
+      <lb ed="#L" n="34"/>autem res planior fiat, verba loci illius subscribemus. 
+      Con<lb ed="#L" n="35" break="no"/>cordi vero testimonio etiam Iosephus de hoc scribit 
+      no<lb ed="#L" n="36" break="no"/>minatim, etiam de Herodiade commemorans, velut de 
+      con<lb ed="#L" n="37" break="no"/>iugio fratris Philippi viuentis violenter abstracta, &amp; suis 
+      <lb ed="#L" n="38"/>ab Herode incestis nuptijs sociata: propria, &amp; 
+      legiti<lb ed="#L" n="39" break="no"/>ma vxore depulsa, quam Herodiadem filiam fuisse dicit 
+      <!--587.xml-->
+      <pb ed="#L" n="576"/>
+               <lb ed="#L" n="1"/>Arethae regis Arabiae. Hactenus Eusebius Ruffino 
+      inter<lb ed="#L" n="2" break="no"/>prete. E quibus verbis si tollas nomen Herodiadem 
+      po<lb ed="#L" n="3" break="no"/>steriore loco positum, quod nec Eusebius habet nec 
+      Iose<lb ed="#L" n="4" break="no"/>phus, vera erit lectio, atque adeo germana Eusebij Graeci in 
+      <lb ed="#L" n="5"/>Latinum conuersio. Nam relatiuum, quam, non ad 
+      Hero<lb ed="#L" n="6" break="no"/>diadem, quod Ruffinus falso intellexit, sed ad propriam  
+      <lb ed="#L" n="7"/>&amp; legitimam vxorem depulsam referendum est: quod 
+      re<lb ed="#L" n="8" break="no"/>cte Musculus in noua nunc interpretatione fecit. Verum  
+      <lb ed="#L" n="9"/>de tertio argumento haec nobis dicta sint.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e709">
+               <lb ed="#L" n="10"/>Ad quartum ita respondeo. Quid quid sit de Magis, 
+      an<lb ed="#L" n="11" break="no"/>fuerint reges nec ne, quod in controuersia est positum, 
+      cer<lb ed="#L" n="12" break="no"/>tum illud est, non ex ea re historiae fidem labefactari, quod 
+      <lb ed="#L" n="13"/>plurimi auctores Magos reges fuisse tradiderint. 
+      Nempe<lb ed="#L" n="14" break="no"/>res haec eius generis est, quam nemo historicorum sese 
+      af<lb ed="#L" n="15" break="no"/>firmet aut vidisse, aut ex viris fide dignis, qui viderint, au  
+      <lb ed="#L" n="16"/>diuisse. Nituntur itaque auctores illi non historiae 
+      aucto<lb ed="#L" n="17" break="no"/>ritate, quam nullam probatam habuere, sed probabilibus 
+      <lb ed="#L" n="18"/>coniecturis, quas porro habuere nonnullas. Qualis est,  
+      <lb ed="#L" n="19"/>quod in magis videtur impletum illud, Reges Tharsis &amp; 
+      <lb ed="#L" n="20"/>insulae munera offerent, reges Arabum &amp; Sabba dona 
+      ad<lb ed="#L" n="21" break="no"/>ducent. Item illud, Ambulabunt reges in splendore ortus 
+      <lb ed="#L" n="22"/>tui, &amp;c. Quae in epiphania Dhi non hodiernum vulgus, sed 
+      <lb ed="#L" n="23"/>antiquus semper ecclesiae chorus intonuit. Accedit, quod, 
+      <lb ed="#L" n="24"/>vt Tertullianus ait, Magos reges fere habuit Oriens. 
+      Ac<lb ed="#L" n="25" break="no"/>cedit quod in reges illud maxime quadrat, Apertis 
+      the<lb ed="#L" n="26" break="no"/>sauris suis, &amp;caet. Extat etiam Claudiani epigramma, vbi 
+      <lb ed="#L" n="27"/>Magos appellat Chaldaeos reges. Quod si Claudiani non  
+      <lb ed="#L" n="28"/>est, certe elegantissimi poctae est. Hanc opinionem, vt quae 
+      <lb ed="#L" n="29"/>plausibilis sit ac popularis, Christi fideles iam olim 
+      liben<lb ed="#L" n="30" break="no"/>ter induerunt. Neque operepretium iudico, si quis in 
+      con<lb ed="#L" n="31" break="no"/>cione publica eam dissuadere conetur. Nam dissuadere 
+      <lb ed="#L" n="32"/>nihil attinet : ac frustra niti, &amp; nihil aliud quam laborando 
+      <lb ed="#L" n="33"/>odium quaerere, extremae dementiae est. Quod si paucis 
+      <lb ed="#L" n="34"/>forte quibusdam fidem argumentatione tua feceris, 
+      mul<lb ed="#L" n="35" break="no"/>tas tamen in populo quereias, dissidia, ac lites induces. 
+      Si<lb ed="#L" n="36" break="no"/>ne ergo plebem probabilissimam opinionem, praesertim 
+      <lb ed="#L" n="37"/>quae penitus insedit atque inueterauit, cum suis 
+      maiori<lb ed="#L" n="38" break="no"/>bus retinere. Quod si coniecturis alijs permotus 
+      contra<lb ed="#L" n="39" break="no"/>riam sententiam habes, liceat per me, equidem non repu¬ 
+      <!--588.xml-->
+      <pb ed="#L" n="577"/>
+               <lb ed="#L" n="1"/>gno. Illud ago, siue haec siue illa opinio vera sit, non inde 
+      <lb ed="#L" n="2"/>historiae, auctoritatem aut eleuari aut imminui : cum 
+      neu<lb ed="#L" n="3" break="no"/>tra earum opinionum historiae auctoritati, sed probabili 
+      <lb ed="#L" n="4"/>coniecturae innitatur. Quod enim regum nomen 
+      Euan<lb ed="#L" n="5" break="no"/>gelista suppresserit, id omnino nihil est. Non enim 
+      exi<lb ed="#L" n="6" break="no"/>stimauit euangelij testimonium regio apparatu 
+      cumulan<lb ed="#L" n="7" break="no"/>dum, quod Magorum sapientiam &amp; grauitatem 
+      amplissi<lb ed="#L" n="8" break="no"/>me ornauerat. In veritate sane occulta confirmanda 
+      re<lb ed="#L" n="9" break="no"/>gia appellatio obscura, &amp; otiosa erat, Magorum vox prae 
+      <lb ed="#L" n="10"/>clara &amp; opportuna. Nam quod Herodes Magos parum  
+      <lb ed="#L" n="11"/>honorifice exceperit, hoc aut Herodiani fastus indicium 
+      <lb ed="#L" n="12"/>est, aut Romanae gloriae, &amp; maiestatis. Indignum vero est 
+      <lb ed="#L" n="13"/>Magni regis tumorem in minutorum inuidiam odiumque, 
+      <lb ed="#L" n="14"/>conuertere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e811">
+               <lb ed="#L" n="15"/>De quarto igitur argumento hactenus. Nunc ad 
+      quin<lb ed="#L" n="16" break="no"/>tum respondeamus. Non Hieronymus modo, 
+      Augusti<lb ed="#L" n="17" break="no"/>nus. Thomas, ac caeteri fere omnes auctores, verum etiam  
+      <lb ed="#L" n="18"/>antiqua ecclesiae traditio tenet, quod Magi Christum 
+      <lb ed="#L" n="19"/>decimotertio die, ex quo natus fuerat, adorarunt. Cuius 
+      <lb ed="#L" n="20"/>quidem rei cum causam quaererem, quidnam esset cur tan 
+      <lb ed="#L" n="21"/>ta id consensione ab ecclesia receptum sit, quanquam 
+      ve<lb ed="#L" n="22" break="no"/>teri traditioni in huiusmodi rebus multum debetur fidei, 
+      <lb ed="#L" n="23"/>vt ratio alia non subsit, has causas tamen inueniebam  
+      <lb ed="#L" n="24"/>duas, easque ambas ex ipso euangelio collectas. Vnam,  
+      <lb ed="#L" n="25"/>quod Matthaeus dicit, Cum natus esset Iesus, ecce 
+      Ma<lb ed="#L" n="26" break="no"/>gi ab oriente venerunt. Sane si quando Magi venerunt,  
+      <lb ed="#L" n="27"/>Christus esset anniculus aut bimus, vt Epiphanius, 
+      Ra<lb ed="#L" n="28" break="no"/>charias, Faber, Osiander, existimant: non dixisset 
+      euange<lb ed="#L" n="29" break="no"/>lista, Cum natus esset, ecce Magi. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e846">
+               <lb ed="#L" n="30"/>Quod non de re tam sera, sed de subita &amp; improuisa, 
+      <lb ed="#L" n="31"/>vel certe proxima, &amp; quasi praesenti dici solet. Necdum, 
+      <lb ed="#L" n="32"/>inquit, intra se verba compleuerat, &amp; ecce Rebecca 
+      egre<lb ed="#L" n="33" break="no"/>diebatur. Et Poeta. Audiat haec aliquis, vel qui venit, 
+      ec<lb ed="#L" n="34" break="no"/>ce Palemon. Hinc enim cum Mariae dixisset angelus, 
+      Ec<lb ed="#L" n="35" break="no"/>ce concipies, &amp;c. intelligens ipsa statim se concepturam, 
+      <lb ed="#L" n="36"/>ait: Quomodo fiet istud, quoniam virum non cognosco? 
+      <lb ed="#L" n="37"/>Recens ergo natus erat infans quando Magi 
+      aduene<lb ed="#L" n="38" break="no"/>runt. Altera causa est haec. Magi inuenerunt puerum in 
+      <lb ed="#L" n="39"/>Bethleem, ergo ante diem purificationis accesserunt. 
+      <!--589.xml-->
+      <pb ed="#L" n="578"/>
+               <lb ed="#L" n="1"/>uia vltra id temporis Christus non s 
+      <lb ed="#L" n="2"/>Lucas enim descriptis ijs, quae 
+      <lb ed="#L" n="3"/>bant, subdit. vt perfecerunt omnia s 
+      <lb ed="#L" n="4"/>mini, reuersi sunt in Galilaean 
+      <lb ed="#L" n="5"/>reth. Non ait, in Bethleem, sed in D 
+      <lb ed="#L" n="6"/>Bethlee reuerterentur, vbi adeo nihil habebat 
+      <lb ed="#L" n="7"/>ctilis, vt virgini ad reclinandum infantem 
+      <lb ed="#L" n="8"/>praesepe locus fuerit in diuersorio? Nec eu 
+      <lb ed="#L" n="9"/>cet, eos venisse vt morarentur, sed vt pr 
+      <lb ed="#L" n="10"/>uitate sua. Manserunt itaque ibid 
+      <lb ed="#L" n="11"/>fuit ad implendam legem, quae iubet, vt post circ 
+      <lb ed="#L" n="12"/>infantulum maneat mulier triginta tribu 
+      <lb ed="#L" n="13"/>guine purificationis suae. Intra quos di 
+      <lb ed="#L" n="14"/>nisse Magos recte credimus, &amp; puerum indicio s 
+      <lb ed="#L" n="15"/>uentum adorasse. In ea vero ratione, quae primum 
+      oppo<lb ed="#L" n="16" break="no"/>nitur, quidam liberalitatem ac beneficientiam virginis 
+      <lb ed="#L" n="17"/>animaduertunt, quae breui aurum acceptum in pauperes 
+      <lb ed="#L" n="18"/>erogarit. Alij prudentiam, quod viaticum parauerit in 
+      <lb ed="#L" n="19"/>Aegyptum. Siue enim Ioseph ante purificationem de 
+      fu<lb ed="#L" n="20" break="no"/>ga ab angelo fuerit admonitus, iuxta illud. Cum Magi 
+      <lb ed="#L" n="21"/>recessissent, ecce angelus apparuit in somnis, &amp; caet. si u 
+      <lb ed="#L" n="22"/>Magi oraculum de reditu per aliam viam virgini commi 
+      <lb ed="#L" n="23"/>nicauerint : credibile profecto est, foeminam 
+      prudentis<lb ed="#L" n="24" break="no"/>simam iam inde illud quod ad fugam &amp; peregrinationem 
+      <lb ed="#L" n="25"/>opus erat, prouidere. Sunt qui modestiam aduertant. 
+      At<lb ed="#L" n="26" break="no"/>que haec ratio mihi videtur sanctissime &amp; 
+      prouidentissi<lb ed="#L" n="27" break="no"/>me constituta. Non decebat enim, vt quae pauper erat, ea 
+      <lb ed="#L" n="28"/>diuitum oblationem subito inferret. Ab omni fastu, &amp; 
+      o<lb ed="#L" n="29" break="no"/>stentatione erat virgo aliena, nec mutare conditionem illi 
+      <lb ed="#L" n="30"/>erat animus, quam sciebat Dei filio placuisse. Quid Quod 
+      <lb ed="#L" n="31"/>aurum Deo a Magis oblatum in sacros fortasse vsus 
+      cen<lb ed="#L" n="32" break="no"/>suit consecrandum? Prima itaque aduersariorum ratio his 
+      <lb ed="#L" n="33"/>omnino modis facile diluitur. Secunda pressius videtur 
+      <lb ed="#L" n="34"/>vrgere. Si enim diligenter a Magis Haerodes tempus stel 
+      <lb ed="#L" n="35"/>le didicit, occidit autem omnes pueros a bimatu, &amp; 
+      infra<lb ed="#L" n="36" break="no"/>secundum tempus quod exquisierat a Magis : biennium 
+      <lb ed="#L" n="37"/>ergo ante stella Magis apparuit. Non initur mox a 
+      Chri<lb ed="#L" n="38" break="no"/>sto nato aduenerunt. Nam statim recedentibus Magis 
+      He<lb ed="#L" n="39" break="no"/>rodes occidit pueros. Illa enim particula, runc, non minus re 
+      <!--590.xml-->
+      <pb ed="#L" n="579"/>
+               <lb ed="#L" n="1"/>praesentem proximamue significat, quam vocula, ecce, cu 
+      <lb ed="#L" n="2"/>ius vim paulo ante expendebamus. Ait vero euangelista: 
+      <lb ed="#L" n="3"/>Tunc Herodes videns quoniam illusus esset a Magis, 
+      mit<lb ed="#L" n="4" break="no"/>tens occidit. Sed hic nodus bifariam solui potest. 
+      Pri<lb ed="#L" n="5" break="no"/>mum enim, quod Euthimius admonuit, illa oratio, 
+      secun<lb ed="#L" n="6" break="no"/>dum tempus, &amp;c. non refertur ad id, quod praecessit, a 
+      <lb ed="#L" n="7"/>bimatu, sed solum ad particulam, infra, cui pioxime 
+      con<lb ed="#L" n="8" break="no"/>inncta est. Itaque continenter legendum est, occidit omnes 
+      <lb ed="#L" n="9"/>pueros qui erant in Bethleem, &amp; in omnibus finibus eius 
+      <lb ed="#L" n="10"/>a bimatu. Et ibi facta hypodiastolesubiungatur &amp; infra, 
+      <lb ed="#L" n="11"/>secundum tempus, quod exquisierat a Magis. Non itaque  
+      <lb ed="#L" n="12"/>intelligendus est peremisse bimulos secundum tempus 
+      <lb ed="#L" n="13"/>exquisitum: sed tantum alios minimos, quibus videlicet 
+      <lb ed="#L" n="14"/>solis tempus stellae accommodauit. Sed ais. Cur bimos in 
+      <lb ed="#L" n="15"/>terfecit, si non secundum tempus stellae? Respondeo. Cur 
+      <lb ed="#L" n="16"/>in omnibus finibus Bethleem, si in Bethicem iuxtam 
+      pro<lb ed="#L" n="17" break="no"/>phetam natus est Christus? Quemadmodu ergo ex 
+      pro<lb ed="#L" n="18" break="no"/>pria malitia ampliauit locum, sic ampliauit &amp; tempus. 
+      De<lb ed="#L" n="19" break="no"/>inde, probabile est, id quod mihi semper vero similius 
+      <lb ed="#L" n="20"/>fuit, Herodem Romam enocatum, vt accusationi filiorum 
+      <lb ed="#L" n="21"/>responderet, stragem illam puerorum edere distulisse: 
+      <lb ed="#L" n="22"/>quam edidit postea cum Hierosolyma regressus est. Quod 
+      <lb ed="#L" n="23"/>si necesse esset biennium Magis ad iter faciendum 
+      con<lb ed="#L" n="24" break="no"/>cedere, quod tamen absurdum est, non protinus 
+      neces<lb ed="#L" n="25" break="no"/>sario fit consequens, vt biennio post Christum natum 
+      <lb ed="#L" n="26"/>aduenerint. Multo enim facilius expeditiusque dicetur,  
+      <lb ed="#L" n="27"/>quod Chrysostomo Augustinoque video placuisse, 
+      appa<lb ed="#L" n="28" break="no"/>ruisse sftellam Magis tanto ante Christi natiuitatem, quan 
+      <lb ed="#L" n="29"/>tum fuit opus, vt tot regionibus ac prouincijs 
+      peragra<lb ed="#L" n="30" break="no"/>tis puerum haud multo ante natum adorarent. Cum vero 
+      <lb ed="#L" n="31"/>demum quaeritur, qui fieri potuerit, vt ab Oriente Magi tam 
+      <lb ed="#L" n="32"/>paucis diebus peruenerint : huic quaestioni responsum 
+      fa<lb ed="#L" n="33" break="no"/>cile, &amp; promptum est. Non enim opus fuerit, quod 
+      Re<lb ed="#L" n="34" break="no"/>migius facit, eam rem nati pueri facultati viribusque 
+      tri<lb ed="#L" n="35" break="no"/>buere: qui Magos ad se tam breui dierum spatio 
+      perdu<lb ed="#L" n="36" break="no"/>xerit. Sed Oriens in sacris frequenter accipitur pro 
+      ter<lb ed="#L" n="37" break="no"/>ris quae Orientales ad illam sint, in qua sunt qui 
+      loquun<lb ed="#L" n="38" break="no"/>tur. Vt ibi, Elegit sibi Loth regionem circa Iordanem, &amp; re 
+      <lb ed="#L" n="39"/>cessit ab oriente. Item, de Aram adduxit me Balach rex 
+      <!--591.xml-->
+      <pb ed="#L" n="580"/>
+               <lb ed="#L" n="1"/>Moabitarum, de montibus Orientis. Siue ergo Magi po 
+      <lb ed="#L" n="2"/>steri fuerint Balaam, ac proinde ex Mesopotamia Syriae 
+      <lb ed="#L" n="3"/>venerint, vt Chrysostomo, Hieronymo, &amp; Ambrosio 
+      vi<lb ed="#L" n="4" break="no"/>sum est, siue ex Arabia accesserint, quae sententia Iustini 
+      <lb ed="#L" n="5"/>martyris perpetua fuit, seu sapientes alij, vel Persae vel 
+      <lb ed="#L" n="6"/>Chaldaei, quod Magorum nomen prae se fert: dubitari 
+      <lb ed="#L" n="7"/>non potest, quin totum illud quicquid erat itineris decem 
+      <lb ed="#L" n="8"/>diebus conficere potuerint. Distat si quidem Hierusalem 
+      <lb ed="#L" n="9"/>ab Aram centum septuaginta duabus parasangis Persicis 
+      <lb ed="#L" n="10"/>&amp; Hispanis, ab Vr vero Chaldaeorum ducentis 
+      duode<lb ed="#L" n="11" break="no"/>cim. Atque cum Laban Iacob fugientem a 
+      Mesopota<lb ed="#L" n="12" break="no"/>mia in Iudaeam insequeretur, septimo die consecutus est 
+      <lb ed="#L" n="13"/>illum in monte Galaad, qui est principium Libani. Et 
+      fe<lb ed="#L" n="14" break="no"/>rebat tamen Iacob greges &amp; vxores ac paruulos. At 
+      La<lb ed="#L" n="15" break="no"/>ban non ante tertium diem fugam deprehenderat. Quid? 
+      <lb ed="#L" n="16"/>Quod in regione illa abundant dromedarij, quos vno 
+      <lb ed="#L" n="17"/>die stadiorum mille iter conficere, scribit in vita Apollo 
+      <lb ed="#L" n="18"/>nij Philostratus? Aristoteles quoque lib. 9. histor. anima. 
+      <lb ed="#L" n="19"/>cap. vltimo testatur, celerius eos currere quam Nisaeos 
+      <lb ed="#L" n="20"/>equos. Nec te illud turbet, quod Hieronymus in 
+      Hiere<lb ed="#L" n="21" break="no"/>miae 25. cap. imo Hieremias ipse, Chaldaeam ait in 
+      aqui<lb ed="#L" n="22" break="no"/>onis parte iuxta situm Hierusale collocatum esse. Quia. n. 
+      <lb ed="#L" n="23"/>inter aquilonem &amp; orientem sita est, modo aquilonaris,  
+      <lb ed="#L" n="24"/>modo orientalis nuncupatur. Haec fastidioso lectori 
+      <lb ed="#L" n="25"/>scio molesta fore: sed efant ostendendum, quam temere 
+      <lb ed="#L" n="26"/>quidam a syncera historiae fide, &amp; communi sanctorum 
+      <lb ed="#L" n="27"/>ppinione dissenserint. Verum de quinto argumento 
+      sa<lb ed="#L" n="28" break="no"/>tis. Nunc sequentia refellamus.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e1113">
+               <lb ed="#L" n="29"/>Sane quidem, cum in sexto argumento Epiphanij 
+      sen<lb ed="#L" n="30" break="no"/>tentia contra historiae fidem ponitur, nihil prorsus 
+      mo<lb ed="#L" n="31" break="no"/>uere nos debet. Primum quoniam in rerum gestarum 
+      tem<lb ed="#L" n="32" break="no"/>porumque ratione nullos ille graues auctores sequi solet. 
+      <lb ed="#L" n="33"/>Atque adeo in earum rerum memoria interdum fallitur. 
+      <lb ed="#L" n="34"/>Deinde quoniam hoc saltem loco nulla argumentatione 
+      <lb ed="#L" n="35"/>probabili, nullis prolatis veteribus monumentis, antiquo  
+      <lb ed="#L" n="36"/>ecclesiae vsui contradicit. Quod si verum est, vt verum est 
+      <lb ed="#L" n="37"/>profecto, Christum passum esse anno aetatis suae 
+      trigesi<lb ed="#L" n="38" break="no"/>motertio, inchoato per tres menses ac decem fortasse dies, 
+      <lb ed="#L" n="39"/>nam de hac re nullam modo quaestionem habere volumus, 
+      <!--592.xml-->
+      <pb ed="#L" n="581"/>
+               <lb ed="#L" n="1"/>docuisse autem eum tribus annis, &amp; lgnatius in episto. 1. 
+      <lb ed="#L" n="2"/>ad Trallianos, &amp; Euseb. in Chronicis prodiderunt, certe 
+      <lb ed="#L" n="3"/>Ephiphanij opinio videtur vera esse non posse. A 
+      trige<lb ed="#L" n="4" break="no"/>simo namque anno expleto vsque ad passionem, non nisi 
+      <lb ed="#L" n="5"/>duo anni supersunt. Quamuis nondum hunc solueret 
+      Epi<lb ed="#L" n="6" break="no"/>phanius, si tempus doctrinae Christi non a nuptijs, sed a 
+      <lb ed="#L" n="7"/>baptismo inchoaret. Quod nos quoque dicere oportet, 
+      <lb ed="#L" n="8"/>qui Maximi sententiam veteremque, ecclesiae vsum 
+      propu<lb ed="#L" n="9" break="no"/>gnamus. Nuptias quippe anno post baptismum integro 
+      <lb ed="#L" n="10"/>elapso factas esse credimus. Qua in re nobiscum 
+      dissen<lb ed="#L" n="11" break="no"/>tiunt quidam: nec sine causa dissentiunt tamen. Primum  
+      <lb ed="#L" n="12"/>enim toto illo anno nihil, inquiunt, scriptum haberemus 
+      <lb ed="#L" n="13"/>de doctrina Christi. Quin eo anno nihil omnino 
+      docuis<lb ed="#L" n="14" break="no"/>set. Quod est credibile nullo modo. In baptismo 
+      siqui<lb ed="#L" n="15" break="no"/>dem filius ac sapientia Dei, dux populi atque magister, 
+      pa<lb ed="#L" n="16" break="no"/>tris testimonio declaratus est. Nec post euangelij munus 
+      <lb ed="#L" n="17"/>euidentissima triadis commendatione, testificationeque 
+      <lb ed="#L" n="18"/>susceptum, otiosus Christus tot diebus vitam in silentio 
+      <lb ed="#L" n="19"/>degeret. Sed illud, vt par erat, protinus exequeretur. Id 
+      <lb ed="#L" n="20"/>quod non coniectura nostra solum, sed Ioannis etiam 
+      e<lb ed="#L" n="21" break="no"/>uangelio comprobatur. Ioannes porro ita diserte rerum 
+      <lb ed="#L" n="22"/>gestarum post baptismum tempora notat, vt ad nuptias,  
+      <lb ed="#L" n="23"/>non dicamannum, sed ne pauci quidem menses 
+      interflu<lb ed="#L" n="24" break="no"/>xisse videantur. Altera, inquit, die vidit Ioannes lesum 
+      <lb ed="#L" n="25"/>venientem ad se, &amp; rursum paulo inferius. Altera die 
+      ite<lb ed="#L" n="26" break="no"/>tum stabat Ioannes, &amp; ex discipulis eius duo, &amp;c. Et 
+      po<lb ed="#L" n="27" break="no"/>stea, In crastinum voluit exire in Galilaea, &amp; inuenit 
+      Phi<lb ed="#L" n="28" break="no"/>lippum, &amp;c. Denique statim in secundi capitis initio, Et 
+      <lb ed="#L" n="29"/>die tertia nuptiae factae sunt in Cana Galilaeae. En cum 
+      Io<lb ed="#L" n="30" break="no"/>annes Iudaeorum legatis respondisset, postero die vidit 
+      <lb ed="#L" n="31"/>Iesum venientem ad se. Quo tempore lesus nec notus 
+      e<lb ed="#L" n="32" break="no"/>rat, nec discipulos acceperat, vt ex hoc primo Ioannis ca 
+      <lb ed="#L" n="33"/>pite manifestissime liquet. Sed postero die, hoc est, tribus 
+      <lb ed="#L" n="34"/>a legatione diebus, duo discipuli Ioannis secuti sunt 
+      Ie<lb ed="#L" n="35" break="no"/>sum: ac proximo huic die exiens in Galilaeam Iesus ipse 
+      <lb ed="#L" n="36"/>Philippum inuenit. Cum vero subiungit euangelista: Et 
+      <lb ed="#L" n="37"/>tertia die nuptiae factae sunt in Cana Galilaeae, satis 
+      aper<lb ed="#L" n="38" break="no"/>te indicat, quam breue tempus inter baptismum, vocatio 
+      <lb ed="#L" n="39"/>nem discipulorum, ac nuptias fluxerit. Non itaque annus 
+      <!--593.xml-->
+      <pb ed="#L" n="582"/>
+               <lb ed="#L" n="1"/>integer intercessit. Praeterea post secundum aduentum 
+      <lb ed="#L" n="2"/>in Galilaeam coepit Iesus praedicare, vt Matthaei cap. 5 
+      <lb ed="#L" n="3"/>dicitur: Non ergo ante nuptias praedicauerat. Nam illae 
+      <lb ed="#L" n="4"/>factae sunt cum post baptismum primo aduenit in 
+      Gali<lb ed="#L" n="5" break="no"/>laeam. Quod si annus integer a baptismo ad nuptias, 
+      in<lb ed="#L" n="6" break="no"/>terfluxisset, iam tres anni praedicationis Christi nullo mo 
+      <lb ed="#L" n="7"/>do inuenirentur. Adde, quod ex ea sententia consequens 
+      <lb ed="#L" n="8"/>fieret, vt Christus anno aetatis suae 34. inchoato fuerit 
+      <lb ed="#L" n="9"/>passus. Illud non obscure colligitur, quoniam si vera esset, 
+      <lb ed="#L" n="10"/>quinquies pascha a haptismo ad morte interuenisset. 
+      Pri<lb ed="#L" n="11" break="no"/>mum id esset, de quo nihil habemus in Euangelio scriptum, 
+      <lb ed="#L" n="12"/>inter baptismum &amp; nuptias. Secundum, quod Ioannes statim  
+      <lb ed="#L" n="13"/>post nuptias commemorat c. 2. Vbi Christus ementes ac 
+      <lb ed="#L" n="14"/>vendentes de templo primum eiecit. Tertium, de quo sit 
+      <lb ed="#L" n="15"/>mentio Ioan. 5. cum sanauit paralyticum. Quartum, cuius 
+      <lb ed="#L" n="16"/>idem euangelista meminit c. 6. inquiens: Erat autem 
+      proxi<lb ed="#L" n="17" break="no"/>mum pascha, &amp;c. Quintum, in quo passus est Christus, de 
+      <lb ed="#L" n="18"/>quo Ioan. 12. &amp; 13. Nam quoe tertium illud, de quo dubium 
+      <lb ed="#L" n="19"/>esse potest, festum paschae fuerit, non modo Rupertus, sed 
+      <lb ed="#L" n="20"/>renaeus etiam testatur. Ac reuera nomen festi 
+      simplici<lb ed="#L" n="21" break="no"/>er pro pascha solet in Euangelijs accipi. Vt ibi, Non in 
+      <lb ed="#L" n="22"/>lie festo, Matth. 26. Item, secundum consuetudinem diei 
+      <lb ed="#L" n="23"/>festi, Lucae. 2. Item, eme ea, quae opus sunt nobis, ad diem  
+      <lb ed="#L" n="24"/>festum, Ioann. 13. Cum itaque Christus baptizatus fuerit 
+      <lb ed="#L" n="25"/>anno tricesimo aetatis suae inchoato per tredecim dies: 
+      e<lb ed="#L" n="26" break="no"/>rat enim incipiens quasi annorum triginta, vt Lucas 
+      affi<lb ed="#L" n="27" break="no"/>mat, si quinquies festum paschae intercessit, nimirum mor 
+      <lb ed="#L" n="28"/>tuus est anno aetatis suae trigesimoquarto. Quod licet Be 
+      <lb ed="#L" n="29"/>da alijque, nonnulli iuniores asseruerint, defendi tamen 
+      nul<lb ed="#L" n="30" break="no"/>e ratione potest, vt Paulus episcopus Forosempronensis 
+      <lb ed="#L" n="31"/>ib. 9. 2. par. &amp; lib. 4. eiusdem partis, Ioannes item 
+      Luci<lb ed="#L" n="32" break="no"/>dus in libro de vero die passionis Christi ostenderunt. 
+      <lb ed="#L" n="33"/>At vero nullae huiusmodi rationes, ab antiqua patrum 
+      tra<lb ed="#L" n="34" break="no"/>ditione, quam communis ecclesiae consuetudo in diuino 
+      <lb ed="#L" n="35"/>officio, hymnis, antiphonisque confirmat, poterunt me 
+      <lb ed="#L" n="36"/>mouere. Non quod haec ad fidem religionemue 
+      magno<lb ed="#L" n="37" break="no"/>pere attineant, sed quod in rebus, vel vtraque ex parte 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e1314">
+               <lb ed="#L" n="38"/>probabilibus, vel etiam ambiguis, veteris ecclesiasticae hi 
+      <lb ed="#L" n="39"/>storiae fides communis me delectat. Sed prima videamus. 
+      <!--594.xml-->
+      <pb ed="#L" n="583"/>
+               <lb ed="#L" n="1"/>Anno, quod inter baptismum, &amp; nuptias fluxit, nihil 
+      om<lb ed="#L" n="2" break="no"/>nino docuit Christus : cessator ergo fuit maximus, qui, 
+      <lb ed="#L" n="3"/>post iniunctum munus tamdiu fuit otiosus. Sane quidem,  
+      <lb ed="#L" n="4"/>eo anno non est publice concionatus Christus, neque, 
+      <lb ed="#L" n="5"/>turbis euangelium praedicauit. Sed non fuit interim otio 
+      <lb ed="#L" n="6"/>sus. Quin &amp; frequenter ad Ioannem accessit, vt frequens 
+      <lb ed="#L" n="7"/>etiam de ipso Ioannes testimonium diceret, &amp; priuatim  
+      <lb ed="#L" n="8"/>quoque docuit quosdam, ne ecclesiae concionator 
+      repen<lb ed="#L" n="9" break="no"/>te prodiret. Non enim discipuli Ioannis illum Rabbi, 
+      <lb ed="#L" n="10"/>hoc est, magistrum appellarent, nisi iam docere 
+      incepis<lb ed="#L" n="11" break="no"/>set, quemadmodum Caietanus noster diligenter 
+      aduer<lb ed="#L" n="12" break="no"/>tit. Nam quod aiunt, ex Ioannis euangelio colligi, 
+      pau<lb ed="#L" n="13" break="no"/>cos dies inter baptismum &amp; nuptias intercessisse: id 
+      nul<lb ed="#L" n="14" break="no"/>lo modo verum est. Cum Ioannes aduentum Iesu ad 
+      ba<lb ed="#L" n="15" break="no"/>ptismum nusquam omnino narrauerit, vt idem 
+      Caieta<lb ed="#L" n="16" break="no"/>nus manifesta argumentatione confecit. Quanquam in 
+      <lb ed="#L" n="17"/>eo fallitur, quod pro certo asserit, ex quatuor Baptistae 
+      <lb ed="#L" n="18"/>testimonijs, quae primo cap. Euangelista refert, tertium 
+      <lb ed="#L" n="19"/>datum esse die proximo post secundum. Secundum quippe, 
+      <lb ed="#L" n="20"/>vt mihi videtur quidem, de futuro est, &amp; licet scripturae 
+      <lb ed="#L" n="21"/>ordine sequatur, tempore tamen primum etiam 
+      testimo<lb ed="#L" n="22" break="no"/>nium antecessit, vt vel Caietanus ipse confitetur. 
+      Il<lb ed="#L" n="23" break="no"/>lud enim, quod a Ioanne legatis Iudaeorum impartitum 
+      <lb ed="#L" n="24"/>est, idem omnino ipsum fuit, quod se ante dixisse 
+      Bapti<lb ed="#L" n="25" break="no"/>sta meminerat. Estque multo verosimilius, eo tempore 
+      <lb ed="#L" n="26"/>nondum Christum a Ioanne baptismum suscepisse. 
+      Me<lb ed="#L" n="27" break="no"/>dius, inquit, vestrum stetit, quem vos nescitis. Ipse est,  
+      <lb ed="#L" n="28"/>qui post me venturus est. Cum ergo, Euangelista inquit, 
+      <lb ed="#L" n="29"/>altera die vidit Ioannes Iesum venientem ad se, nec 
+      in<lb ed="#L" n="30" break="no"/>telligit de aduentu ad baptismum, nec scribit quid poste 
+      <lb ed="#L" n="31"/>ro die a legatione Iudaeorum gestum sit, sed docet, tertium 
+      <lb ed="#L" n="32"/>testimonium altero die post illud, quod primo loco 
+      scri<lb ed="#L" n="33" break="no"/>pserat, datum esse. Nam secundum obiter est, vtrique, id 
+      <lb ed="#L" n="34"/>est, primo, &amp; tertio ab Euangelista interpositum, vt ex- 
+      <lb ed="#L" n="35"/>plicaretur Baptistam semper fuisse sui in testificatione 
+      si<lb ed="#L" n="36" break="no"/>milem, nec aliud futurum ante dixisse, quam in praesenti 
+      <lb ed="#L" n="37"/>testificaretur. Itaque temporis ordine, vt diximus, 
+      il<lb ed="#L" n="38" break="no"/>lud fuit primum, quod secundo loco Euangelista 
+      comme<lb ed="#L" n="39" break="no"/>morat. Deinde secutum est id quod a principio positum est. 
+      <!--595.xml-->
+      <pb ed="#L" n="584"/>
+               <lb ed="#L" n="1"/>Post hoc proximo die tertium Baptista testimonium 
+      de<lb ed="#L" n="2" break="no"/>dit, cum vidit Iesum venire ad se. Saepe enim post 
+      baptis<lb ed="#L" n="3" break="no"/>mum, vt supra dictum est, ad Ioannem veniebat. Postero 
+      <lb ed="#L" n="4"/>autem die quartum testimonium addidit, cum interessent 
+      <lb ed="#L" n="5"/>illi ex discipulis eius duo, quorum vnus erat Andreas. 
+      <lb ed="#L" n="6"/>Cum igitur non constet quantum temporis inter 
+      baptis<lb ed="#L" n="7" break="no"/>mum, &amp; tria illa testimonia de praesenti fluxerit, quamuis 
+      <lb ed="#L" n="8"/>omnia illa post baptismum data sint, certe ex euangelio 
+      <lb ed="#L" n="9"/>Ioannis non colligitur, paucos dies inter baptismum ac 
+      <lb ed="#L" n="10"/>nuptias interfluxisse. Quid? quod cum ait, In crastinum 
+      <lb ed="#L" n="11"/>voluit exire in Galilaeam, &amp; inuenit Philippum, non 
+      Chri<lb ed="#L" n="12" break="no"/>stum fortasse Euangelista intellexit, sed Andream, quem 
+      <lb ed="#L" n="13"/>primum dixerat inuenisse Simonem, nunc dicit, postero 
+      <lb ed="#L" n="14"/>die inuenisse Philippum, cum ex habitaculo Christi in 
+      Ga<lb ed="#L" n="15" break="no"/>lilaeam exijsset. Ob id enim interpres latinus ait: Et dicit 
+      <lb ed="#L" n="16"/>ei Iesus, cum nomen Iesus non reperiatur in Graeco. Quot 
+      <lb ed="#L" n="17"/>autem dies intercesserint inter postremum illud testimo  
+      <lb ed="#L" n="18"/>nium Ioannis, coram duobus discipulis tributum, &amp; humc 
+      <lb ed="#L" n="19"/>diem quo Andreas inuenit Simonem, incertum est. Nam  
+      <lb ed="#L" n="20"/>illud quidem apud Matthaeum de publica ad plebem prae 
+      <lb ed="#L" n="21"/>dicatione intelligitur : cum perspicuum sit, in primo 
+      ad<lb ed="#L" n="22" break="no"/>uentu Christi ad Galilaeam, quem solus Ioannes capite 2. 
+      <lb ed="#L" n="23"/>narrat, iam Christum discipulos habuisse. Matthaeus 
+      au<lb ed="#L" n="24" break="no"/>tem de secundo aduentu loquitur, quum iam Ioannes 
+      e<lb ed="#L" n="25" break="no"/>rat in carcere. Non igitur de priuata doctrina, sed de 
+      pu<lb ed="#L" n="26" break="no"/>plica, &amp; populari intelligi potest. At vero tempus 
+      praedi<lb ed="#L" n="27" break="no"/>cationis Christi quantum fuerit, non satis a veteribus 
+      expe<lb ed="#L" n="28" break="no"/>ditum est. Eusebius quoque ipse parum sibi in hac re 
+      con<lb ed="#L" n="29" break="no"/>stare videtur. Nam in Chronicis post quintum decimum  
+      <lb ed="#L" n="30"/>annum Tiberij tribus annis scribit Dominum 
+      praedicas<lb ed="#L" n="31" break="no"/>se: idque astruit a Ioanne etiam in Euangelio 
+      conscri<lb ed="#L" n="32" break="no"/>ptum. Caeterum idem in lib. demonst. euang. 8. 
+      demon<lb ed="#L" n="33" break="no"/>stratione secunda, Ioannis item testimonio, confirmat,  
+      <lb ed="#L" n="34"/>tribus annis, &amp; sex mensibus Christum praedicauisse. Quod 
+      <lb ed="#L" n="35"/>si ad passionem venit anno Tiberij decimooctauo, vt in 
+      <lb ed="#L" n="36"/>Chronicis Eusebius ait, qui fieri potest, vt post annum 
+      Ti<lb ed="#L" n="37" break="no"/>berij quintum decimum, annis tribus, &amp; sex mensibus prae 
+      <lb ed="#L" n="38"/>dicarit: Atqui post annum 15. Tiberij inchoatam esse 
+      E<lb ed="#L" n="39" break="no"/>uangelij doctrinam e Lucae 3. cap. patescit. Nos autem, si 
+      <!--596.xml-->
+      <pb ed="#L" n="585"/>
+               <lb ed="#L" n="1"/>trium annorum doctrinam explere volumus, vnum doctri 
+      <lb ed="#L" n="2"/>nae priuatae, duos vero publicae doctrinae impartiemur. 
+      <lb ed="#L" n="3"/>Huic enim totum triennium dare nulla ratio cogit, nulla 
+      <lb ed="#L" n="4"/>probat auctoritas. Negamus si quidem, probabiliterque 
+      <lb ed="#L" n="5"/>negamus, festum, cuius Ioannes c. 5. meminit, pascha 
+      fuis<lb ed="#L" n="6" break="no"/>se. Chrysestomus porro ac Cyrillus affirmant festum 
+      fuis<lb ed="#L" n="7" break="no"/>se Pentecostes. Quod mihi fateor ingenue non sit vero 
+      <lb ed="#L" n="8"/>simile. Primo, quoniam post pascha Iesus moratus est in 
+      <lb ed="#L" n="9"/>Iudaea cum discipulis suis, vt ca. 3. Icannes scribit, at 
+      mo<lb ed="#L" n="10" break="no"/>ra iuxta scripturae vsum in paucis his diebus, qui ad 
+      Pen<lb ed="#L" n="11" break="no"/>tecosten interfluxerunt, intelligi non potest. Eo vel 
+      ma<lb ed="#L" n="12" break="no"/>xime, quod postquam Christus moratus in Iudaea est,  
+      <lb ed="#L" n="13"/>abijt iterum illa relicta in Galilaeam, quemadmodum 
+      Io<lb ed="#L" n="14" break="no"/>annis cap. 4. dicitur. Ac rursum, e Galilaea venit 
+      Hierusa<lb ed="#L" n="15" break="no"/>em, quod habes cap. 5. Quae omnia tam breui tempore, 
+      <lb ed="#L" n="16"/>nisi Christum cursorem faciamus, expediri vix queunt.  
+      <lb ed="#L" n="17"/>Quieta. sane in quartum Ioannis caput, haud absurda 
+      ra<lb ed="#L" n="18" break="no"/>tione computat, Christum in Iudaea post pascha 
+      celebra<lb ed="#L" n="19" break="no"/>tum, in quo vendentes eiecit de templo, longam multorum 
+      <lb ed="#L" n="20"/>mensium moram interposuisse. Non igitur festum illud 
+      <lb ed="#L" n="21"/>quod cap. quinto commemoratur, Pentecostes solenne 
+      <lb ed="#L" n="22"/>erat. Deinde, quod cap. quinto vnum miraculum 
+      euan<lb ed="#L" n="23" break="no"/>gelista narrarit in pascha patratum, &amp; quod sexto statim  
+      <lb ed="#L" n="24"/>capite ad alterum pascha transierit, omnibus &amp; gestis, &amp;  
+      <lb ed="#L" n="25"/>dictis vnius anni intermissis, non ita prohabise apparet. 
+      <lb ed="#L" n="26"/>Festum ergo illuds in quo paralyticus sanatus est, vt 
+      re<lb ed="#L" n="27" break="no"/>cte Caietanus existimauit, hyemale fuit. Nihil autem 
+      in<lb ed="#L" n="28" break="no"/>terest, siue dicas fuisse festum dedicationis templi 
+      secun<lb ed="#L" n="29" break="no"/>di sub Rorobabele, quod cclebrabatur tertia die mensis 
+      <lb ed="#L" n="30"/>Adar, hoc est, Februarij: siue potius festum sortium, quod 
+      <lb ed="#L" n="31"/>Iudaeis solenne erat. 14. &amp; 15. die eiusdem postremi 
+      men<lb ed="#L" n="32" break="no"/>sis. Tunc enim ordine egregio cap. 6. sequitur, Erat 
+      au<lb ed="#L" n="33" break="no"/>tem proximum pascha, &amp;c. Sed in huius argumenti 
+      con<lb ed="#L" n="34" break="no"/>futationem nimis multa diximus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e1577">
+               <lb ed="#L" n="35"/>Septimo vero argumento libri secundi capit. 
+      decimo<lb ed="#L" n="36" break="no"/>octauo respondisse videmur. Sed ibi breuiter: nunc vbi 
+      <lb ed="#L" n="37"/>proprius est locus, longiore oratione argumentum illud 
+      <lb ed="#L" n="38"/>refellendum est. Non sunt verba Hieronymi in eum 
+      sen<lb ed="#L" n="39" break="no"/>sum intelligenda, vt existimemus ad veritatem historie satis 
+      <!--597.xml-->
+      <pb ed="#L" n="586"/>
+               <lb ed="#L" n="1"/>esse, si ea, quae auctor affirmat, vera a vulgo esse credantun 
+      <lb ed="#L" n="2"/>tum etiam cum falsa sunt. Alioqui si ad eam regulim 
+      <lb ed="#L" n="3"/>liceret scripturae historias interpretari, diceremus cun 
+      <lb ed="#L" n="4"/>apostolus ait Saulem regnasse. 40. annis, eum vulgo 
+      lo<lb ed="#L" n="5" break="no"/>quentem hoc, quod fama crebrior haberet dicere voluisse 
+      <lb ed="#L" n="6"/>Quod Beda in 13. caput Actorum Apostolicorum asseruit 
+      <lb ed="#L" n="7"/>recte ne an secus, aliorum esto iudicium. De tanto quippe 
+      <lb ed="#L" n="8"/>viro non libet in praesenti iudicare. Diceremus rursum, 
+      <lb ed="#L" n="9"/>Matthaeum virum Mariae Iosephum appellasse, non quod 
+      <lb ed="#L" n="10"/>reuera esset, sed quod vulgo esse crederetur: turhatum 
+      <lb ed="#L" n="11"/>quoque Herodem, &amp; omnem cum illo Hierosolymam  
+      <lb ed="#L" n="12"/>non re quidem, sed opinione vulgi: mortuum denique, si ita 
+      <lb ed="#L" n="13"/>placet, esse Christum, non vere, sed ad vulgi 
+      existimatio<lb ed="#L" n="14" break="no"/>nem apparenter. Certe si consuetudinis scripturarum, est,  
+      <lb ed="#L" n="15"/>vt opinionem multorum sic narret hiistoricus, quomodo 
+      <lb ed="#L" n="16"/>eo tempore ab hominibus credebatur: omnia, quae de Nabu 
+      <lb ed="#L" n="17"/>chodonosoro, Dario, Cyro, Alexandro, Sansone, 
+      Macha<lb ed="#L" n="18" break="no"/>baeis scriptura refert, poterit quis inficias ire, quod 
+      vi<lb ed="#L" n="19" break="no"/>delicet auctores sacri ea narrarint, quae vulgo erant 
+      per<lb ed="#L" n="20" break="no"/>suasa, non quae ipsi vera esse crediderint. Quod quam sit 
+      <lb ed="#L" n="21"/>auditu horribile ac pertimescendum, nemo fidelium non  
+      <lb ed="#L" n="22"/>videt. Alius est igitur Hieronymi sensus multo sanior 
+      <lb ed="#L" n="23"/>&amp; verior, quem ex subiecta partitione facile lector 
+      acci<lb ed="#L" n="24" break="no"/>piet. Falsae vulgi opiniones in duplici sunt differentia. 
+      <lb ed="#L" n="25"/>Quaedam, quae non nisi verbis falsis significari atque ex- 
+      <lb ed="#L" n="26"/>primi possunt. Vt Christum esse Ioanne Baptistam, vel 
+      <lb ed="#L" n="27"/>Hieremiam, vel vnum ex prioribus prophetis. Atque 
+      <lb ed="#L" n="28"/>huiusinodi opinioues semper auctores sacri ita referunt, 
+      <lb ed="#L" n="29"/>vt non ex se, sed ex vulgi nomine retulisse videantur. 
+      A<lb ed="#L" n="30" break="no"/>liae sunt vulgi opiniones falsae quidem, sed verbis ijs ex- 
+      <lb ed="#L" n="31"/>pressae ac significatae, quae in sensu aliquo vulgari vera 
+      <lb ed="#L" n="32"/>sint. Vt Ioseph esse patrem Christi ad vulgi sensum 
+      fal<lb ed="#L" n="33" break="no"/>sum omnino erat, sed vere tamen pater, &amp; sine falsitate 
+      <lb ed="#L" n="34"/>dicebatur. Tum quoniam nutritius erat, tum quoniam  
+      <lb ed="#L" n="35"/>vir matris erat. Et licet vulgi sermone, vere tamen 
+      pri<lb ed="#L" n="36" break="no"/>uignus filius vocatur, mater nouerca, vitricus pater. In 
+      <lb ed="#L" n="37"/>quibus rebus, fateor, vera historiae lex est vulgi 
+      opinio<lb ed="#L" n="38" break="no"/>nem exprimere. Nam si de priore rerum genere sermo 
+      <lb ed="#L" n="39"/>sit, in historia profana absurdus est, in sacra etiam impius. 
+      <!--598.xml-->
+      <pb ed="#L" n="587"/>
+               <lb ed="#L" n="1"/>Sapientes quippe cum Vulgo loquuntur fere, sed non sen 
+      <lb ed="#L" n="2"/>tiunt cum Vulgo. Nec mendacij tamen rei sunt, quoniam  
+      <lb ed="#L" n="3"/>quae loquuntur, ea secundum aliquem verbi sionificatum  
+      <lb ed="#L" n="4"/>vera esse intelligunt. Sic Maria virgo dixit, Pater tuus,  
+      <lb ed="#L" n="5"/>&amp; ego dolentes quaerebamus te, sermone vulgi quidem, 
+      <lb ed="#L" n="6"/>sed vere tamen. Sic etiam si nullam habuisset interiorem 
+      <lb ed="#L" n="7"/>admirationem Christus, vere tamen admiratus dici 
+      pos<lb ed="#L" n="8" break="no"/>set, cum speciem admirantis exhibuit, quemadmodum 
+      <lb ed="#L" n="9"/>Beda libro secundo in Lucam cap. 24. exposuit. Sic 
+      con<lb ed="#L" n="10" break="no"/>tristatum Herodem Matthaeus, Mareusque dixerunt, qui 
+      <lb ed="#L" n="11"/>tristitiam haberet in vultu. Inquem sensum hypocritas 
+      <lb ed="#L" n="12"/>tristitiam simulantes tristes quoque appellauit Dominus. 
+      <lb ed="#L" n="13"/>Vulgata enim dictione rerum Vocabula pro rerum 
+      ima<lb ed="#L" n="14" break="no"/>vinibus vsurpantur. Tametsi in praescriptis exemplis &amp; 
+      <lb ed="#L" n="15"/>Christus, si Diuo Thomae credimus, aliquo modo 
+      inte<lb ed="#L" n="16" break="no"/>rius admiratus est, &amp; Herodes etiam contristatus. Etenim 
+      <lb ed="#L" n="17"/>peccatores simul in vitijs tristantur &amp; exultant, gaudent  
+      <lb ed="#L" n="18"/>dolentque. At de hoc argumento satis. Iam pergamus ad 
+      <lb ed="#L" n="19"/>reliqua. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e1725">
+               <lb ed="#L" n="20"/>Non debuit sane tantopere ridere Hieronymus 
+      Ada<lb ed="#L" n="21" break="no"/>mi in loco Caluariae sepulturam: nec nos, viri licet 
+      san<lb ed="#L" n="22" break="no"/>ctissimi exemplo, historias eiusmodi ridere debemus 
+      <lb ed="#L" n="23"/>Vulgus, video equidem, hisce rebus credendis nimium 
+      <lb ed="#L" n="24"/>est facile. Gredulitas etiam in optimi cuiusque mentem 
+      <lb ed="#L" n="25"/>facillime irrepit. At viri quidam excellentes, cum a 
+      vul<lb ed="#L" n="26" break="no"/>gi facilitate &amp; credulitate declinant, in aduersum 
+      quan<lb ed="#L" n="27" break="no"/>doque vitium incurrunt : suntque tum etiam increduli, cum 
+      <lb ed="#L" n="28"/>in fide nihil est vitij, in incredulitate vitij nonnihil est. 
+      <lb ed="#L" n="29"/>Testimonium autem, quod ex Iosue cap. 14. historiae 
+      <lb ed="#L" n="30"/>veteri opponitur, nihil profecto vrget : vtpote cum no¬ a 
+      <lb ed="#L" n="31"/>men Adam eo loco non proprium sit, sed comune.
+      Red<lb ed="#L" n="32" break="no"/>dit enim scriptura causam, cur quae post Hebron, ea ante 
+      <lb ed="#L" n="33"/>Cariath Arbah, id est, ciuitas Arbeae dicta sit: quod 
+      vi<lb ed="#L" n="34" break="no"/>delicet Arbah, quem Arbeam 7O. vocauere, homo inter 
+      <lb ed="#L" n="35"/>gigantes magnus ibi fuerit. Qui sensus praeterquam quod 
+      <lb ed="#L" n="36"/>scripturae contextui aptissime iungitur, qquapropter a 
+      <lb ed="#L" n="37"/>Chaldaeo interprete, Pagnino, alijsque viris clarissimis 
+      <lb ed="#L" n="38"/>axpressus est, inde etiam facile probari potest, quod capi 
+      <lb ed="#L" n="39"/>te eiusdem libri decimoquinto Arbah pater Enach fuisse 
+      <!--599.xml-->
+      <pb ed="#L" n="588"/>
+               <lb ed="#L" n="1"/>dicitur : vt proptum sit cuique intelligere, &amp; Arbah 
+      no<lb ed="#L" n="2" break="no"/>men fuisse gigantis proprium, a quo Cariath, Arbah 
+      no<lb ed="#L" n="3" break="no"/>minata sit, &amp; Arbah patrem primumque fuisse illius terrae 
+      <lb ed="#L" n="4"/>gigantum. Omitto hic versionem. 7O. qui tametsi 
+      ma<lb ed="#L" n="5" break="no"/>gnitudinem non ad Arbah, sed ad ciuitatem retulerunt, 
+      <lb ed="#L" n="6"/>vt ea vrbs Metropolis intelligeretur, satis tamen 
+      indica<lb ed="#L" n="7" break="no"/>runt Arbah nomen esse gigantis proprium, vnde ciuitas 
+      <lb ed="#L" n="8"/>illa suum olim cognomentum acceperit. Itaque primi 
+      pa<lb ed="#L" n="9" break="no"/>rentis in ciuitate Arbeae, fuisse sepulchrum, nec ex eo loco 
+      <lb ed="#L" n="10"/>neque aliunde colligitur. Quin illud multo probabilius 
+      <lb ed="#L" n="11"/>est, quod publica rerum Veterum memoria prodidit, 
+      pri<lb ed="#L" n="12" break="no"/>mum Adam ibi iacere conditum, vbi secundus etiam 
+      se<lb ed="#L" n="13" break="no"/>pultus est. De 8. igitur argumento hactenus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e1803">
+               <lb ed="#L" n="14"/>Nonum argumentum non solum in Chronographia, 
+      <lb ed="#L" n="15"/>sed in scripturarum intelligentia, difficillimam 
+      quaestio<lb ed="#L" n="16" break="no"/>nem habet, quae auctores nobilissimos in varias 
+      senten<lb ed="#L" n="17" break="no"/>tias traxit. Iosephus sane. 7O. illos annos Iudaicae 
+      capti<lb ed="#L" n="18" break="no"/>uitatis ad primum Cyriannum computauit. Quem 
+      secu<lb ed="#L" n="19" break="no"/>ti sunt Africanus in quinto temporum volumine, Abulesis 
+      <lb ed="#L" n="20"/>noster in secundum Matthaei cap. quaestione. 91. Annius 
+      <lb ed="#L" n="21"/>cum Philone suo libr. 14. Ioannes Lucidus libr. secundo 
+      <lb ed="#L" n="22"/>cap. 11. alijque viri graues, &amp; antiqui &amp; iuniores. 
+      Nitun<lb ed="#L" n="23" break="no"/>tur vero hi scripturae sacrae clarissimis testimonijs. 
+      Pri<lb ed="#L" n="24" break="no"/>mum est Hieremiae cap. Vigesimoquinto inquientis, 
+      ser<lb ed="#L" n="25" break="no"/>uient gentes istae regi Babylonis. 70. annis. Cumque 
+      im<lb ed="#L" n="26" break="no"/>pleti fuerint. 7O. anni, visitabo super regem Babylonis,  
+      <lb ed="#L" n="27"/>&amp;c. Sepuaginta ergo anni Iudaicae captiuitatis iam tunc 
+      <lb ed="#L" n="28"/>expleti erant, cum Babylon capta a Persis ac vastata est. 
+      <lb ed="#L" n="29"/>At rem hanc primo anno Cyri gestam esse, nemo est qui 
+      <lb ed="#L" n="30"/>ignoret. Item Hieremies. 29. Cum coeperint impleri in 
+      <lb ed="#L" n="31"/>Babylone. 7O. anni, visitabo vos, &amp; suscitabo super vos 
+      <lb ed="#L" n="32"/>verbum meum bonum vt reducam vos ad locum istum.  
+      <lb ed="#L" n="33"/>Quam vaticinationem primo Cyri anno fuisse expletam  
+      <lb ed="#L" n="34"/>2. libro. Paral. capit. 36. &amp; 1. libro. Esdrae. cap. 1. non 
+      ob<lb ed="#L" n="35" break="no"/>scure traditur. Atque Hieronymus ipse, quamuis alijs 
+      <lb ed="#L" n="36"/>in locis aliter senserit, in hunc tamen Hieremiae locum non 
+      <lb ed="#L" n="37"/>potuit cum manifesta veritate pugnare. Nisi, inquit, 
+      se<lb ed="#L" n="38" break="no"/>ptuaginta anni expleti fuerint, Cyro regem Persarum 
+      la<lb ed="#L" n="39" break="no"/>xante captiuos, nequaquam in patriam reuertemini. 
+      <!--600.xml-->
+      <pb ed="#L" n="589"/>
+               <lb ed="#L" n="1"/>A contraria parte illud primum est, quod angelus, qui 
+      <lb ed="#L" n="2"/>n RTacharia loquebatur, Vsquequo, ait, non miserebetis 
+      <lb ed="#L" n="3"/>Hierusalem, &amp; urbium Iuda, quibus iratus es? Iste iam  
+      <lb ed="#L" n="4"/>septuagesimus annus est. Istum autem annum Darij 
+      se<lb ed="#L" n="5" break="no"/>cundum eundem esse, Tacharias capit. primo testatus est: 
+      <lb ed="#L" n="6"/>non ergo 70. anni in primo anno Cyri, sed in secundo 
+      <lb ed="#L" n="7"/>Darij completi sunt. Quo argumento Clemens, 
+      Theo<lb ed="#L" n="8" break="no"/>doretus, Eusebius, Hieronymus, Augustinusque 
+      nitun<lb ed="#L" n="9" break="no"/>tur. Quod vero exponunt quidam, Iste iam 70. annus 
+      <lb ed="#L" n="10"/>est, scilicet iam diu transactus, vix audiri sine molestia 
+      po<lb ed="#L" n="11" break="no"/>test. Cum pronomen, Iste, hanc intelligentiam 
+      euiden<lb ed="#L" n="12" break="no"/>tissime excludat: quae si pronomen abijceretur, esset 
+      for<lb ed="#L" n="13" break="no"/>tasse probabilis. Deinde 7O. illi anni, quos praedixerat 
+      <lb ed="#L" n="14"/>Hieremias, non transmigrationis Iudaeorum, sed 
+      desola<lb ed="#L" n="15" break="no"/>tionis templi ac ciuitatis intelliguntur. At. 7O. 
+      desolatio<lb ed="#L" n="16" break="no"/>nis anni non sunt ad primum Cyriannum, sed ad 
+      secun<lb ed="#L" n="17" break="no"/>dum Darij referendi. Annus ergo septuagesimus, de quo 
+      <lb ed="#L" n="18"/>est Hieremiae vaticinatio, non in primo Cyri anno, 
+      sed<lb ed="#L" n="19" break="no"/>in Darij secundo expletus est. Illud prius, quod in hac argu 
+      <lb ed="#L" n="20"/>mentatione sumpsimus, ex. 2. Paral. cap. 36. probari facile 
+      <lb ed="#L" n="21"/>potest, vbi haec verba scripta sunt. Cunctis diebus 
+      deso<lb ed="#L" n="22" break="no"/>lationis egit sabbatum vsque dum complerentur. 7O. 
+      an<lb ed="#L" n="23" break="no"/>ni, &amp; caet. Et Danielis. 9. In anno primo Darij filij 
+      As<lb ed="#L" n="24" break="no"/>sueri de semine Medorum, ego Daniel intellexi 
+      nume<lb ed="#L" n="25" break="no"/>rum annorum, de quo factus est sermo Domini ad 
+      Hie<lb ed="#L" n="26" break="no"/>temiam prophetam, vt complerentur desolationis 
+      Hie<lb ed="#L" n="27" break="no"/>rusalem septuaginta anni. Et Hieremiae. 25. Et erit 
+      terra<lb ed="#L" n="28" break="no"/>in solitudinem, &amp; in stuporem, &amp; seruient regi Babylonis 
+      <lb ed="#L" n="29"/>70. annis. Anni ergo septuaginta non transmigrationis,  
+      <lb ed="#L" n="30"/>sed desolationis intelligendi sunt : vt Iosephus etiam 
+      te<lb ed="#L" n="31" break="no"/>stis est libro de antiqui. 1O. ca. 1O. &amp; 11. &amp; libro. 1. cont.  
+      <lb ed="#L" n="32"/>Appio. Desolationis autem annos non in primo annc 
+      Cy<lb ed="#L" n="33" break="no"/>ri, sed in secundo Darij fuisse completos, id enim 
+      poste<lb ed="#L" n="34" break="no"/>riore loco sumptum est 2Esdrae testimonio a Hieronymo 
+      <lb ed="#L" n="35"/>comprobatur. Esdras quippe verbis minime obscuris 
+      te<lb ed="#L" n="36" break="no"/>stimonium perhibet, templum vsque ad Darij tempora 
+      <lb ed="#L" n="37"/>deturbatum perstitisse. Septuaginta igitur euersionis an¬ 
+      <!--601.xml-->
+      <pb ed="#L" n="590"/>
+               <lb ed="#L" n="1"/>nos non ad primum Cyriannum, sed ad Darij secundum 
+      <lb ed="#L" n="2"/>computare debemus. Quibus ex rebus satis profecto 
+      in<lb ed="#L" n="3" break="no"/>telligitur, quantis omnino tenebris quaestio praesens 
+      sa<lb ed="#L" n="4" break="no"/>cras etiam literas circunfundat. Sed in ratione quoque tem 
+      <lb ed="#L" n="5"/>porum adeo impedita, &amp; complicata est, vt vix aut nullo 
+      <lb ed="#L" n="6"/>certe modo expediri atque extricari possit. Clemens 
+      <lb ed="#L" n="7"/>porro Alexandrinus a desolationis initio, quod 
+      decimo<lb ed="#L" n="8" break="no"/>nono Nabuchodonosori anno, &amp; Sedechiae vn decimo  
+      <lb ed="#L" n="9"/>fuisse. 4. Reg. 25. scribitur, ad primum annum Cyri, quo 
+      <lb ed="#L" n="10"/>laxata captiuitas Iudaeorum est, non nisi triginta annos 
+      <lb ed="#L" n="11"/>computauit. Cui numero, vt dixi, Eusebius. 
+      Theodore<lb ed="#L" n="12" break="no"/>tus, Hieronymus, Augustinusque consentiunt. Cuius rei 
+      <lb ed="#L" n="13"/>etiam illud argumentum est, quod si ad imperium Cyri 
+      <lb ed="#L" n="14"/>70. anni interssxuere, Mardochaeus certe ea aetate res tales 
+      <lb ed="#L" n="15"/>ac tantas gessisse inuenietur, qua per summam 
+      senectu<lb ed="#L" n="16" break="no"/>tem, non dico Rempub. administrare, sed ne inter viuos 
+      <lb ed="#L" n="17"/>quidem numerari possit. Fuit nanque ex eorum numero 
+      <lb ed="#L" n="18"/>captiuorum, quos cum Iechonia rege Iuda 
+      Nabuchodo<lb ed="#L" n="19" break="no"/>nosorus transtulit. Quare vel secundum illos, qui non  
+      <lb ed="#L" n="20"/>a desolatione, sed a transmigratione. 7O. annos 
+      compu<lb ed="#L" n="21" break="no"/>tare volunt expleta captiuitate, hoc est, primo Cyri 
+      an<lb ed="#L" n="22" break="no"/>no, iam Mardochaeus erat propemodum octogenarius. 
+      <lb ed="#L" n="23"/>Nisi credamus illum bimum aut trimum in Chaldaeam 
+      es<lb ed="#L" n="24" break="no"/>se transsatum. Sed fac anniculum fuisse. Minimum ergo, 
+      v<lb ed="#L" n="25" break="no"/>num &amp; septuaginta annos natus erat, quando laxata per 
+      <lb ed="#L" n="26"/>Cyrum captiuitas est. Cyrus autem, vt nobilissimus 
+      <lb ed="#L" n="27"/>quisque tradit historicus, aut triginta, aut triginta 
+      fer<lb ed="#L" n="28" break="no"/>me annos imperauit : Cambyses, &amp; Magi imperarunt 
+      no<lb ed="#L" n="29" break="no"/>uem. In principio itaque regni Darij Histaspis Mardochaeo 
+      <lb ed="#L" n="30"/>anni aetatis centum decem accesserant. Ponamus igitur, 
+      <!--602.xml-->
+      <pb ed="#L" n="591"/>
+               <lb ed="#L" n="1"/>id quod videtur cum ratione pugnare minus, Darium 
+      fu<lb ed="#L" n="2" break="no"/>isse eum, sub quo res Mardochaei gestas scriptura 
+      com<lb ed="#L" n="3" break="no"/>plectitur. Nam illas sub Arthaxerxe Longimano, aut  
+      <lb ed="#L" n="4"/>etiam sub Mennone contigisse, vt qui multis annis 
+      Da<lb ed="#L" n="5" break="no"/>rio fuerint posteriores, longe incredibilius est. 
+      Nullo<lb ed="#L" n="6" break="no"/>vero modo probabile ad Cambysen filium Cyri, haec 
+      <lb ed="#L" n="7"/>ipsa traducere, qui octo solum annos tenuit imperium. 
+      <lb ed="#L" n="8"/>At post duo decimum Assueriannum quaedam 
+      Mardo<lb ed="#L" n="9" break="no"/>chaei gesta historia sacra commemorat. Non ergo 
+      Assuc<lb ed="#L" n="10" break="no"/>rus ilse Cambyses fuit: praesertim cum huius acta actis 
+      <lb ed="#L" n="11"/>illius nullo pacto cohaereant. Manet ergo, Mardochaeum 
+      <lb ed="#L" n="12"/>eo etiam tempore, quo ad centesimum vigesimum 
+      secun<lb ed="#L" n="13" break="no"/>dum annum vitam perduxerat, non imbecillum, 
+      ingra<lb ed="#L" n="14" break="no"/>uescentem, senioue confectum: sed solidum, robustum, 
+      <lb ed="#L" n="15"/>ac valentem in rebus magnis praeclarisque gerendis 
+      fu<lb ed="#L" n="16" break="no"/>isse versatum. Quod in illis seculis vix credi potest. 
+      Vt<lb ed="#L" n="17" break="no"/>pote cum multo ante nondum hominum aetate adeo in 
+      <lb ed="#L" n="18"/>clinata, illud propheta dixerit, Si autem in potentatibus 
+      <lb ed="#L" n="19"/>80. anni, &amp; amplius eorum labor, &amp; dolor. Quas ob res 
+      <lb ed="#L" n="20"/>triginta anni, quos ad primum Cyri Augustinus, 
+      Hie<lb ed="#L" n="21" break="no"/>ronymus, Eusebius,. Theodoretus, Clemensque 
+      Alexan<lb ed="#L" n="22" break="no"/>dri. colligunt, historiae libri Esther magis conuenire, &amp;  
+      <lb ed="#L" n="23"/>quadrare videntur: quam numerus 7O. qui aliorum 
+      opi<lb ed="#L" n="24" break="no"/>nione colligitur. Nisi Philonis Anniani fabulis 
+      delecta<lb ed="#L" n="25" break="no"/>mur, qui Mardochaeum ait decem &amp; octoannis aetatem 
+      <lb ed="#L" n="26"/>lsaaci superasse. Verum enimuero Iosephus a decimono 
+      <lb ed="#L" n="27"/>no anno Nabuchodonosori, quo anno templum 
+      detur<lb ed="#L" n="28" break="no"/>batum euersumque fuisse sacrae literae produnt, ad finem 
+      <lb ed="#L" n="29"/>regni Baltasar, cum Babylon a Dario, &amp; Cyro capta est,  
+      <lb ed="#L" n="30"/>non solum 7O. annos, sed multo etiam plures enumerat, 
+      <lb ed="#L" n="31"/>scribit enim Abilamarodachum, Nabuchodonosori fili¬ I 
+      <lb ed="#L" n="32"/>um annis i8. imperasse. Niglisarem deinceps annis 40. 1 
+      <lb ed="#L" n="33"/>Labosordachum post mensibus nouem. Baltasarem s 
+      <lb ed="#L" n="34"/>denique annis 17. Itaque praeter annos, quibus a 
+      tem<lb ed="#L" n="35" break="no"/>plo vastato Nabuchodonosorus vixit, qui fuere non  
+      <lb ed="#L" n="36"/>pauci, septuaginta sex alii, si Iosephus vera dicit, ad s 
+      <lb ed="#L" n="37"/>primum Cyri intercesserunt. Berosus autem in 3. libro  
+      <!--603.xml-->
+      <pb ed="#L" n="592"/>
+               <lb ed="#L" n="1"/>Chaldaeorum non nisi. 48. annos a desolatione ad Cyrum 
+      <lb ed="#L" n="2"/>supputat. Nabuchodonosorum nanque ait. 43. annos 
+      im<lb ed="#L" n="3" break="no"/>perium tenuisse. Huius filium Euilmarodachum annos 
+      <lb ed="#L" n="4"/>duos. Niglisar, quem maritum sororis Euilmarodachi 
+      <lb ed="#L" n="5"/>fuisse tradit, annos quatuor. Labosordachum Niglisaris  
+      <lb ed="#L" n="6"/>filium menses nouem: Nabonidum ex eadem gete annos 
+      <lb ed="#L" n="7"/>17. cuius postremo anno Babylon a Cyro capta est. Quae 
+      <lb ed="#L" n="8"/>cadem ferme computatio ex Phoenicum historiis 
+      habe<lb ed="#L" n="9" break="no"/>tur, quas Iosephus 1. contra Appi. libro retulit. At 
+      Me<lb ed="#L" n="10" break="no"/>tasthenes a vastatione Hierusalem ad primum annum 
+      <lb ed="#L" n="11"/>Cyri septuaginta annos conputauit in hunc modum. 
+      Na<lb ed="#L" n="12" break="no"/>buchodonosorus, qui templum ciuitatemque vastauit, 
+      im<lb ed="#L" n="13" break="no"/>perium tenuit. 46. annis Euilmerodach filius eius 30. Reg. 
+      <lb ed="#L" n="14"/>Assar huius filius 3. Lab Assar. Dach huius frater 6. Bait 
+      <lb ed="#L" n="15"/>Assar horum etiam frater 5. Si enim acceperis 26. annos,  
+      <lb ed="#L" n="16"/>quibus post euersum templum: Nabuchodonosorus vixit,  
+      <lb ed="#L" n="17"/>&amp; illis addideris, 44. quibus Nabuchodonosori filius 
+      <lb ed="#L" n="18"/>vnus ac tres nepotes imperarunt, conficies dictum 
+      nu<lb ed="#L" n="19" break="no"/>merum 7O. In ratione igitur temporum quaestio haec 
+      <lb ed="#L" n="20"/>valde implicita est, atque ita implicita, vt ne a viris 
+      <lb ed="#L" n="21"/>quidem historiae peritis explicari posse videatur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e2150">
+               <lb ed="#L" n="22"/>Nam Iudaei, quippe qui Chronographiae penitus sint 
+      <lb ed="#L" n="23"/>gnari, nihil hoc loco, &amp; quaestione valent, nisi mera 
+      som<lb ed="#L" n="24" break="no"/>nia fingere. In quibus etiam Lyranus est, qui suo arbitratu 
+      <lb ed="#L" n="25"/>7O. annos ab 8. Ioatim patris lechonie, ad quartum Cyri 
+      <lb ed="#L" n="26"/>numerauit, tantum vt sententiam suam diceret, nullius 
+      <lb ed="#L" n="27"/>grauis auctoris testimonio subnixam, nulla annalium 
+      ra<lb ed="#L" n="28" break="no"/>tione probatam, nullis argumentis persuasam, a sacris 
+      <lb ed="#L" n="29"/>etiam literis alienam. Sed hoc in re ambigua ferri potest. 
+      <lb ed="#L" n="30"/>Illud quis ferat?quod nonnulli apud Eusebium a 13. anno 
+      <lb ed="#L" n="31"/> Iosiae ad primum annum Cyri septuaginta illos annos, de 
+      <lb ed="#L" n="32"/>quibus est controuersia, computandos esse astruxerunt.  
+      <lb ed="#L" n="33"/>TQuid ? quod in hac etiam quaestione illud varium atque 
+      <lb ed="#L" n="34"/>&amp; irretitum est, quod vel maxime erat explicatu 
+      necessari<lb ed="#L" n="35" break="no"/>um, vt huius quaestionis difficultas exponeretur. 
+      Nempe<lb ed="#L" n="36" break="no"/>an Balthasar filius Nabuchodonosori fuerit, an nepos 
+      an<lb ed="#L" n="37" break="no"/>spronepos. Nam si verum est, quod Eusebius ait, 
+      Baltha<lb ed="#L" n="38" break="no"/>i sar filium fuisse Nabuchodonosori, fratrem 
+      Euilmero<lb ed="#L" n="39" break="no"/>it dachi: nihil absurdum videtur dicere, cum negat a de¬ 
+      <!--604.xml-->
+      <pb ed="#L" n="593"/>
+               <lb ed="#L" n="1"/>molitione templi ad primum Cyriannum plures quam  
+      <lb ed="#L" n="2"/>g&amp; annos intercessisse. Sin aut idem Nabuchodonosori 
+      <lb ed="#L" n="3"/>non filius, non nepos, sed pronepos fuit: tum vero inter 
+      <lb ed="#L" n="4"/>euersionem ciuitatis, &amp; primum annum Cyri non nisi 
+      tri<lb ed="#L" n="5" break="no"/>ginta annos interfluxisse, nullo modo est credibile. At 
+      <lb ed="#L" n="6"/>fuisse pronepotem Hieronymus auctoribus Beroso ac 
+      <lb ed="#L" n="7"/>Iosepho in 5. Danielis caput affirmat. Et refertur de 
+      ves<lb ed="#L" n="8" break="no"/>bo. signifi. ca. Nam &amp; rex. Quanquam Iosephus libro 
+      de<lb ed="#L" n="9" break="no"/>cimo an. cap. 13. Balthasar nepotem Nabuchodonosori 
+      <lb ed="#L" n="10"/>fuisse scribit. Quod &amp; Metafthenes Annianus asseruit. 
+      <lb ed="#L" n="11"/>Quae omnia idcirco a me tam plolixe sunt posita, vt lector 
+      <lb ed="#L" n="12"/>intelligat primum, huius argumenti quaestio quantis sit 
+      <lb ed="#L" n="13"/>difficultatibus illigata: deinde ne in re perdifficili ac 
+      <lb ed="#L" n="14"/>perobscura, quam explanare nemo adhuc potuit, 
+      senten<lb ed="#L" n="15" break="no"/>tiam a me expectet perspicuam, certam, constantem: sed 
+      <lb ed="#L" n="16"/>probabilem, verosimilem, minime absurdam. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e2231">
+               <lb ed="#L" n="17"/>Principio igitur illud pono, quod, nisi ego fallor, satis 
+      <lb ed="#L" n="18"/>abundem probatum est, septuaginta annorum initium a 
+      <lb ed="#L" n="19"/>desolatione sumendum esse, non a transmigratione, hoc 
+      <lb ed="#L" n="20"/>est, non ab 8. anno regni Nabuchodonosor, cum Ioachim  
+      <lb ed="#L" n="21"/>cognomento Iechonias vltro se dedidit. 4. reg. 24. sed 
+      <lb ed="#L" n="22"/>ab vndeuigesimo eiusdem Nabuchodonosori, quando 
+      <lb ed="#L" n="23"/>Nabuzardan templum, domos, murosque ciuitatis 
+      euer<lb ed="#L" n="24" break="no"/>tit. 4. reg. 25. Id quoniam, vt dixi, ex 2. Para. cap. 36. 
+      pri<lb ed="#L" n="25" break="no"/>mo Esdr. primo, &amp; Hieremiae 25. ostensum est, 
+      superua<lb ed="#L" n="26" break="no"/>caneum existimo, si eadem iterum resumantur. At 
+      Caie<lb ed="#L" n="27" break="no"/>tanus in 2. para. 36. caput contra dicit a Iechoniae 
+      trasmi<lb ed="#L" n="28" break="no"/>gratione 7O. annos computari oportere, quod 
+      Hiere<lb ed="#L" n="29" break="no"/>mias cap. 29. iis, qui cum Iechonia translati sunt, ait: cum 
+      <lb ed="#L" n="30"/>coeperint impleri in Babylone. 7O. anni visitabo vos, &amp;  
+      <lb ed="#L" n="31"/>suscitabo, &amp;c. Verum satis expeditum est, ea quae cap. 29. 
+      <lb ed="#L" n="32"/>dicuntur, ad sensum capitis 25. esse referenda. Non enim, 
+      <lb ed="#L" n="33"/>inquit, Cum coeperint in vobis impleri 70. anni, sed, Cum 
+      <lb ed="#L" n="34"/>coeperint impleri. 7O. anni, illi scilicet, quos praedixerat. 
+      <lb ed="#L" n="35"/>Perspicuum est autem 7O. annos capitis 25. 
+      desolatio<lb ed="#L" n="36" break="no"/>nis intelligendos esse. Tum quoniam omni populo Iudeae 
+      <lb ed="#L" n="37"/>loquitur, vt patet ex initio capitis. Tum quoniam per 
+      <lb ed="#L" n="38"/>trasmigrationem lechoniae non est facta vniuersa 
+      terra<lb ed="#L" n="39" break="no"/>illa in solitudinem &amp; stuporem. Tum quoniam statim sub¬ 
+      <!--605.xml-->
+      <pb ed="#L" n="594"/>
+               <lb ed="#L" n="1"/>ditur, Et seruient omnes gentes istae regi Babylonis 70. 
+      <lb ed="#L" n="2"/>annis. Si autem soli illi, qui cum Iechonia commigrarunt, 
+      <lb ed="#L" n="3"/>70. annis seruierunt, quomodo omnibus dicitur, Et 
+      ser<lb ed="#L" n="4" break="no"/>uient omnes gentes istae, &amp;c? Nempe etiam vicinae 
+      Hieru<lb ed="#L" n="5" break="no"/>salem, &amp;c. Quid? quod etiam si solitudinis fuissent 7O. 
+      an<lb ed="#L" n="6" break="no"/>ni: desolationis tamen non fuerunt, si a trasmigratione 
+      Ie<lb ed="#L" n="7" break="no"/>choniae computamus? Aliud quippe est solitudo, aliud 
+      <lb ed="#L" n="8"/>desolatio. Non ergo. 70. anni a trasmigratione Iechoniae 
+      <lb ed="#L" n="9"/>numerandi sunt. Quamobrem qui, vel a i3. anno Iosiae, 
+      <lb ed="#L" n="10"/>vel etiam ab 8. IoaEim, aut a tertio quoque huius 
+      compu<lb ed="#L" n="11" break="no"/>tare 7O. annos incipiunt, eos equidem ab hac 
+      disputatio<lb ed="#L" n="12" break="no"/>ne, multo magis remouendos existimo.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e2315">
+               <lb ed="#L" n="13"/>Primum itaque fundamentum praeclare iactum est. 
+      De<lb ed="#L" n="14" break="no"/>inde non mihi sane verosimile fit, a desolatione ad primum 
+      <lb ed="#L" n="15"/>Cyriannum non nisi ahnos triginta interfluxisse, quos 
+      <lb ed="#L" n="16"/>Eusebius, &amp; qui Eusebio consentiunt, Theodoretus, 
+      Hie<lb ed="#L" n="17" break="no"/>ronymus, &amp; Augustinus numerent necesse est, si ad 
+      secum<lb ed="#L" n="18" break="no"/>dum annum Darij Histaspis, septuagesimi anni 
+      absolu<lb ed="#L" n="19" break="no"/>tionem trahant. Constat siquidem Nabuchodonosorum  
+      <lb ed="#L" n="20"/>patrem Euilmerodachi ad quadragesimumquintum 
+      an<lb ed="#L" n="21" break="no"/>num imperium perduxisse. Quos illi vere Metasthenes 
+      An<lb ed="#L" n="22" break="no"/>nianus tribuit. A transmigratione enim Iechoniae ad 
+      pri<lb ed="#L" n="23" break="no"/>mum annum Euilmerodach. 37: anni efffuxerunt. 4. reg. 
+      <lb ed="#L" n="24"/>25. &amp; Hieremiae 25. Iam ergo Nabuchodonosorus shos 
+      <lb ed="#L" n="25"/>triginta septem annos imperauit. His si addas 8. annos,  
+      <lb ed="#L" n="26"/>quos ante regnarat 4. re. 24. annos quinque &amp; 
+      quadra<lb ed="#L" n="27" break="no"/>ginta conficies. Nec huic sententiae repugnat 
+      Hierony<lb ed="#L" n="28" break="no"/>mus, qui in Dani. 5. caput Nabuchodonosorum ait annis 
+      <lb ed="#L" n="29"/>tribus &amp; quadraginta regnasse. Quam sententiam ex 
+      Io<lb ed="#L" n="30" break="no"/>sepho accepit. 1. contra Appionem libro, Iosephus vero a 
+      <lb ed="#L" n="31"/>Beroso in 3. li. Chaldaicorum. Conputat nanque annos 
+      inte<lb ed="#L" n="32" break="no"/>gros, non integros excludit. Qui mos est auctoribus 
+      profa<lb ed="#L" n="33" break="no"/>nis sacrisque familiaris. Sic Hieremiae23. scribitur, primum  
+      <lb ed="#L" n="34"/>Nabuchodonosori annum, eundem regis Ioaxim fuisse 
+      <lb ed="#L" n="35"/>quartum. Cum tamen anno tertio Ioacim regis Iuda, 
+      Na<lb ed="#L" n="36" break="no"/>buchodonosor rex Babylonis in Hierusalem venerit, &amp;  
+      <lb ed="#L" n="37"/>obsederit eam. Daniel. primo. Eodem autem tertio anno 
+      <lb ed="#L" n="38"/>Ioacim, Iudaeam captam a rege Babylonis Eusebius etiam  
+      <lb ed="#L" n="39"/>m Chronicis auctor est. Annus ergo tertius Ioacim  
+      <!--606.xml-->
+      <pb ed="#L" n="595"/>
+               <lb ed="#L" n="1"/>primus erat Nabuchodonosori, sed non integer: annus 
+      <lb ed="#L" n="2"/>vero Ioacim 4. idem Nabuchodonosori primus integer 
+      <lb ed="#L" n="3"/>fuit. Nos porro annos Nabuchodonosor as. licet non  
+      <lb ed="#L" n="4"/>omnes integri fuerint, numeramus. Sicque de annis non in 
+      <lb ed="#L" n="5"/>tegris in tota hac disputatione loquimur. Vnde error 
+      <lb ed="#L" n="6"/>Eusebij coarguitur, qui non nisi 38. annos imperij 
+      Nabu<lb ed="#L" n="7" break="no"/>chodonosoro assignauit. Ponit enim illius mortem anno a 
+      <lb ed="#L" n="8"/>desolatione i9. cum in vigesimosexto ponenda esset, si 
+      <lb ed="#L" n="9"/>verum est, vt verum est certe, Nabuchodonosorum post 
+      <lb ed="#L" n="10"/>desolationem 26. annos imperium tenuisse. Nam a 19. anno,  
+      <lb ed="#L" n="11"/>in quo templum vastatum est, ad 45. ad quem 
+      Nabucho<lb ed="#L" n="12" break="no"/>donosorus vitam regnumque perduxit, anni sex, &amp; viginti 
+      <lb ed="#L" n="13"/>computantur. Item si a 37. annis quos a transmigratione 
+      <lb ed="#L" n="14"/>Ioachim Nabuchodonosorus vixit, vndecim ademeris, 
+      <lb ed="#L" n="15"/>quibus regnauit Sedechias 26. annos pariter supputabis. 
+      <lb ed="#L" n="16"/>Atque hinc etiam error alter Eusebij refellitur, qui 
+      Euil<lb ed="#L" n="17" break="no"/>merodacho caeterisque Nabuchodonosori posteris 
+      qua<lb ed="#L" n="18" break="no"/>tuor duntaxat annos imperij reliquit, aut pluiimum 6. ne 
+      <lb ed="#L" n="19"/>que eos integros tamen. Certe si a desolatione ad primum 
+      <lb ed="#L" n="20"/>annum Cyri triginta anni numerentur, cum Vigintisex ex 
+      <lb ed="#L" n="21"/>illis Nabuchodonosoro accesserint, quatuor solum aut  
+      <lb ed="#L" n="22"/>quinque restant, quos Euilmerodacho, Neglisari, 
+      Labo<lb ed="#L" n="23" break="no"/>sardacho, Balthasari, impartiamur. Hos enim 
+      Nabucho<lb ed="#L" n="24" break="no"/>donosoro ordine successisse non Iosephus modo 
+      affir<lb ed="#L" n="25" break="no"/>mat, verum &amp; Hieronymus Berosum prodidisse 
+      consen<lb ed="#L" n="26" break="no"/>tit. Quae res omnino mihi magnam admirationem mouet. 
+      <lb ed="#L" n="27"/>Quid enim causae Hieronymo fuerit, equidem non 
+      intel<lb ed="#L" n="28" break="no"/>ligo, vt Beroso Iosephoque consentiens Balthasar 
+      Nabu<lb ed="#L" n="29" break="no"/>chodonosori pronepotem fuisse crediderit, &amp; cum 
+      Eu<lb ed="#L" n="30" break="no"/>sebio tamen a fine regni Nabuchodonosori ad primum  
+      <lb ed="#L" n="31"/>Cyriannum adeo paucos annos computarit. Eusebius 
+      e<lb ed="#L" n="32" break="no"/>nim excusari forte potest, qui Balthasar fratrem 
+      Euilme<lb ed="#L" n="33" break="no"/>rodachi fuisse, filium vero Nabuchodonosori existimauit. 
+      <lb ed="#L" n="34"/>Sed cur Eusebium excusem? Cum Matthaeus dicat 
+      Iecho<lb ed="#L" n="35" break="no"/>niam post transmigrationem Babylonis genuisse 
+      Sala<lb ed="#L" n="36" break="no"/>thiel. Salathiel autem Torobabel. Hic autem in primo  
+      <lb ed="#L" n="37"/>anno Cyri iam grandior erat, cum esset dux &amp; princeps 
+      <lb ed="#L" n="38"/>Iudaeorum. At ne intelligi quidem potest, Iechoniam  
+      <lb ed="#L" n="39"/>in tam paucis annis ab Eusebio computatis, nepotem 
+      <!--607.xml-->
+      <pb ed="#L" n="596"/>
+               <lb ed="#L" n="1"/>adeo adultum habuisse. Non ergo a desolatione ad 
+      re<lb ed="#L" n="2" break="no"/>migrationem 3O. solum anni intercesserunt. His duabus 
+      <lb ed="#L" n="3"/>conclusionibus illam adijcio, Adesolatione ad primum  
+      <lb ed="#L" n="4"/>Cyriannum 7O. annos intercessisse. Quam ego 
+      conclu<lb ed="#L" n="5" break="no"/>sionem negare non queo, cum 25. c. Hieremiae &amp; 36. 2. 
+      Pa<lb ed="#L" n="6" break="no"/>rali. diligenter expendo. Si quis autem his scripturae 
+      testi<lb ed="#L" n="7" break="no"/>monijs apte ac probabiliter respondebit, cum eo 
+      equi<lb ed="#L" n="8" break="no"/>dem non magnopere contenderim. Mihi profecto, vt 
+      di<lb ed="#L" n="9" break="no"/>xi, nulla via explicandorum eorum testimoniorum 
+      appa<lb ed="#L" n="10" break="no"/>ret, nisi plane consentiendo, quod ad primum annum 
+      Cy<lb ed="#L" n="11" break="no"/>ri 7O. desolationis anni interfluxerunt. Intelligo autem 
+      <lb ed="#L" n="12"/>quosdam rei huius summam ita distinguere, vt 
+      captiuita<lb ed="#L" n="13" break="no"/>tis septuaginta annos a transmigratione ad primum 
+      an<lb ed="#L" n="14" break="no"/>num Cyri computent: at in secundo Darij anno 
+      septua<lb ed="#L" n="15" break="no"/>vinta desolationis absoluant. Quod si verum esset, 
+      dis<lb ed="#L" n="16" break="no"/>crepantium opinionum probabilis sane concordia esset 
+      <lb ed="#L" n="17"/>inuenta. Sed nihil falsius inuenio, eum ad veritatem 
+      coe<lb ed="#L" n="18" break="no"/>pi reuocare rationem. Transmigratio enim fuit in anno 
+      <lb ed="#L" n="19"/>Nabuchodonosori octauo, vt 4. Reg. lib. c. 24. scribitur. 
+      <lb ed="#L" n="20"/>Desolatio vero in eiusdem Regis anno vndeuigesimo fa 
+      <lb ed="#L" n="21"/>cta est, 4. Regum 25. Vastatio ergo post vndecim annos 
+      <lb ed="#L" n="22"/>transmigrationi successit. Aprimo autem anno Cyri ad 
+      <lb ed="#L" n="23"/>Darij secundum, sine controuersia plures quam triginta 
+      <lb ed="#L" n="24"/>interfluxerunt. Nullo ergo modo fieri potest, vt a 
+      trans<lb ed="#L" n="25" break="no"/>migratione Iechoniae ad primum annum Cyri 7O. anni, 
+      <lb ed="#L" n="26"/>a desolatione item ad annum Darij secundum, septuaginta 
+      <lb ed="#L" n="27"/>alij numerentur. Quocirca varijs dissentientium 
+      aucto<lb ed="#L" n="28" break="no"/>rum sententijs omissis, ad argumenta cum tertia hac 
+      con<lb ed="#L" n="29" break="no"/>clusione pugnantia respondeamus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e2532">
+               <lb ed="#L" n="30"/>Obijcitur primum, quod angelus apud Tachariam, 
+      <lb ed="#L" n="31"/>cum de secundo Darij anno loqueretur: Iste ait, iam 
+      se<lb ed="#L" n="32" break="no"/>ptuagesimus annus est. Cui nos argumento ante omnia 
+      <lb ed="#L" n="33"/>respondemus, locum illum ab interprete Chaldaeo 
+      san<lb ed="#L" n="34" break="no"/>cteque Pagnino, multo aliter atque ad scripture sensum, 
+      <lb ed="#L" n="35"/>fortassae aptius fuisse conuersum. Horum porro versio 
+      <lb ed="#L" n="36"/>fic habet. Vsquequo Domine non misereberis 
+      Hierusa<lb ed="#L" n="37" break="no"/>lem &amp; vrbium Iuda, quibus iratus es istis septuaginta 
+      an<lb ed="#L" n="38" break="no"/>nis? Nimirum enim apud Hebraeos interrogatio non in 
+      <lb ed="#L" n="39"/>illius orationis medio rumpitur, sed ad finem continenti 
+      <!--608.xml-->
+      <pb ed="#L" n="597"/>
+               <lb ed="#L" n="1"/>sermone produci potest. Qua ex re sit, vt in editione no 
+      <lb ed="#L" n="2"/>stra, tametsi oratio diuisa est, duae tamen interrogationes 
+      <lb ed="#L" n="3"/>in vna angeli querimonia intelligantur. Quarum prior 
+      <lb ed="#L" n="4"/>illa sit, Vsquequo Domine non misereberis Hierusalem 
+      <lb ed="#L" n="5"/>&amp; vrbium Iuda, quibus iratus es? Posterior illa, Iste 
+      se<lb ed="#L" n="6" break="no"/>ptuagesimus annus est? Quasi angelus in hunc modum 
+      <lb ed="#L" n="7"/>conquereretur: Itamne Domine promissionis tuae oblitus 
+      <lb ed="#L" n="8"/>es? Num iste est septuagesimus annus, quem scilicet &amp; tu 
+      <lb ed="#L" n="9"/>nobis tanta benignitate promiseras, &amp; nos a tetam 
+      ar<lb ed="#L" n="10" break="no"/>denti desiderio expectabamus? Ecquid nobis confert 
+      la<lb ed="#L" n="11" break="no"/>xata captiuitas, facultas concessa &amp; templum extruendi 
+      <lb ed="#L" n="12"/>&amp; ciuitatem, si illud euersum, haec vastata perseuerat? Nec 
+      <lb ed="#L" n="13"/>vero insolitum est, vt quaedam passim sine nota 
+      interro<lb ed="#L" n="14" break="no"/>gandi proferantur, quae rectius aliter enunciarentur. 
+      Ha<lb ed="#L" n="15" break="no"/>bes exemplum, vt caetera omittam, in epistola ad 
+      Roma<lb ed="#L" n="16" break="no"/>nos capite octauo, cuius nos particulam sic pronunciare 
+      <lb ed="#L" n="17"/>solemus, Quis accusabit aduersus electos Dei? Deus qui 
+      <lb ed="#L" n="18"/>iustificat. Quis est qui condemnet? Christus Iesus qui 
+      <lb ed="#L" n="19"/>mortuus est, qui resurrexit, qui est in dextra Dei, qui etiam 
+      <lb ed="#L" n="20"/>interpellat pro nobis. At Augustinus rectissime indicat, 
+      <lb ed="#L" n="21"/>sic legi ac proferri oportere. Quis accusabit aduersus 
+      e<lb ed="#L" n="22" break="no"/>lectos Dei? Deus qui iustificat? vt tacite respondeatur, 
+      <lb ed="#L" n="23"/>non. Et item, quis est qui condemnet: Christus Iesus qui 
+      <lb ed="#L" n="24"/>mortuus est, qui resurrexit, qui est in dextera pei, qui etiam 
+      <lb ed="#L" n="25"/>interpellat pro nobis? Quasi dicat, absit. Quo in loco 
+      vi<lb ed="#L" n="26" break="no"/>des percunctationibus duabus duas interrogationas 
+      ad<lb ed="#L" n="27" break="no"/>iunctas, cum multum habere venustatis tum acrimoniae 
+      <lb ed="#L" n="28"/>plurimum. Quod ego idem in praesenti de angeli 
+      que<lb ed="#L" n="29" break="no"/>rela sentio. Maior quippe vis in illa inerit, si duabus 
+      in<lb ed="#L" n="30" break="no"/>terrogationibus continebitur. Sed fac, nihil hic 
+      percun<lb ed="#L" n="31" break="no"/>ctatione quaesitum. An ne idcirco nihil est, quod non do 
+      <lb ed="#L" n="32"/>lore expressum uideatur? Puto equidem, nec absurdem puto, 
+      <lb ed="#L" n="33"/>illa quasi dolentis ac deiecti animi verba esse, quae nihil 
+      <lb ed="#L" n="34"/>minus conquestione depressa, quam sublata 
+      interroga<lb ed="#L" n="35" break="no"/>tione significent. Id quo melius intelligatur, exemplis 
+      e<lb ed="#L" n="36" break="no"/>tiam scripturae illustrandum est: quae aperte mihi rem 
+      to<lb ed="#L" n="37" break="no"/>tam videntur exponere. Hieremias primum duas quoque 
+      <lb ed="#L" n="38"/>querelae eiusdem partes faciat: quarum vna 
+      interrogati<lb ed="#L" n="39" break="no"/>onem habet, altera non habet. Quare, inquit, via impiorum 
+      <!--609.xml-->
+      <pb ed="#L" n="598"/>
+               <lb ed="#L" n="1"/>prosperatur, bene est omnibus qui praeuaricantur, &amp; 
+      ini<lb ed="#L" n="2" break="no"/>que agunt? Plantasti eos &amp; radieum miserunt, proficiunt 
+      <lb ed="#L" n="3"/>&amp; faciunt fructum. Simillimum ex Habacuc exemplum 
+      <lb ed="#L" n="4"/>proferam. Quare, ait, non respicis super iniqua agentes, &amp;  
+      <lb ed="#L" n="5"/>taces deuorante impio iustiorem se? Et facies homines 
+      <lb ed="#L" n="6"/>quasi pisces maris, &amp; quasi reptile non habens principem. 
+      <lb ed="#L" n="7"/>Num Prophetae hi aliud conquestione atque 
+      interroga<lb ed="#L" n="8" break="no"/>tione denotarunt? Num quicquam asseruere dum 
+      quae<lb ed="#L" n="9" break="no"/>runtur: Non certe plus quamdum interrogant. Ad eundem  
+      <lb ed="#L" n="10"/>ergo modum angelum in Tacharia duas suae querimoniae 
+      <lb ed="#L" n="11"/>particulas fecisse intelligo: quarum prior per 
+      interroga<lb ed="#L" n="12" break="no"/>tionem expressa sit, posterior per conquestionem. Non 
+      <lb ed="#L" n="13"/>itaque asserit, illum annum, in quo loquitur, septuagesimum 
+      <lb ed="#L" n="14"/>a desolatione esse: sed istum tam promissum, tam 
+      desidera<lb ed="#L" n="15" break="no"/>tum, iam diu praeterijsse conqueritur. Nihil enim, vt 
+      mo<lb ed="#L" n="16" break="no"/>do diximus, conquerendo exprimit, nisi quod interrogam 
+      <lb ed="#L" n="17"/>do expressisset. Iram Dei, scilicet, vltra tempus praefinitum 
+      <lb ed="#L" n="18"/>trahi, illa interrogationc questus est, Vsquequo non 
+      misere<lb ed="#L" n="19" break="no"/>beris. Misericordiam item plus nimio differri questus est,  
+      <lb ed="#L" n="20"/>illam conquestionem adijciens, Iste septuagesimus annus 
+      <lb ed="#L" n="21"/>est. Quod non vultu asserentis, sed slentis, voce videlicet 
+      <lb ed="#L" n="22"/>queribunda, proferendum est. Verum de Rachariae 
+      testi<lb ed="#L" n="23" break="no"/>monio satis. Opponitur deinde, quod anni septuaginta 
+      <lb ed="#L" n="24"/>non captiuitatis, sed euersionis numerandi sunt. Id quod 
+      <lb ed="#L" n="25"/>nos libentissime concedimus. Sed septuaginta euersionis 
+      <lb ed="#L" n="26"/>annos non in primo Cyri, sed in Darij secundo expletos 
+      <lb ed="#L" n="27"/>esse: id vero constantissime pernegamus, non nostra 
+      opi<lb ed="#L" n="28" break="no"/>nione nos, sed scripturae testimonio freti. At inquis: Tem  
+      <lb ed="#L" n="29"/>plum vsque ad Darij secundumannum deiectum 
+      euersum<lb ed="#L" n="30" break="no"/>que permansit. Si nihil templi factum intelligis: falsum est. 
+      <lb ed="#L" n="31"/>Cum in primis Cyriannis altare fuerit extructum, 
+      templi<lb ed="#L" n="32" break="no"/>que fundamenta iacta, vt 1. Esd. lib. c. 3. &amp; 5. scribitur. Sin 
+      <lb ed="#L" n="33"/>templum ais non fuisse Cyro regnante perfectum. Ita est 
+      <lb ed="#L" n="34"/>sane. Sed ne vsque ad Darij sextum quidem annum 
+      perfe<lb ed="#L" n="35" break="no"/>ctum est, quemadmodum i. Esd. lib. cap. 6. legimus. Quin 
+      <lb ed="#L" n="36"/>Iosephus memoriae prodidit, templum vsque ad nonum 
+      <lb ed="#L" n="37"/>annum Darij non fuisse omni ex parte expletum. Cui 
+      o<lb ed="#L" n="38" break="no"/>pinioni Iudaei consentientes, 46. annis aiunt templum 
+      ae<lb ed="#L" n="39" break="no"/>dificatum. Atque idem Iosephus libro eod. cap. 5. tradit,  
+      <!--610.xml-->
+      <pb ed="#L" n="599"/>
+               <lb ed="#L" n="1"/>templum ne anno quidem Rerxis 25. esse suis numeris 
+      o<lb ed="#L" n="2" break="no"/>mnibus absolutum. Quocirca si demolitio templi tandium 
+      <lb ed="#L" n="3"/>perdurasse intelligitur, quandiu informatum illud atque 
+      <lb ed="#L" n="4"/>imperfectum mansit: nimirum septuaginta anni non iam  
+      <lb ed="#L" n="5"/>ad secundum, sed ad sextum, vel nonum Darij, yel etiam 2s 
+      <lb ed="#L" n="6"/>Aerxis numerabuntur. Quid que 70. anni vastitatis non mo 
+      <lb ed="#L" n="7"/>do templi, sed vrbis etiam intelligendi sunt? Ego, inquit,  
+      <lb ed="#L" n="8"/>intellexi numerum annorum, de quo factus est seimo ad 
+      <lb ed="#L" n="9"/>Hieremiam propheta, vt complerentur desolationis Hie 
+      <lb ed="#L" n="10"/>rusalem 70. anni. Si igitur ad eum modum annos 
+      vastita<lb ed="#L" n="11" break="no"/>tis accipimus, cum Hierusalem in 20. etiam Arthaxerxis 
+      <lb ed="#L" n="12"/>anno adhuc deserta perstiterit, muri dissipati, portae 
+      con<lb ed="#L" n="13" break="no"/>sumptae, vt 2. Esdr. c. 2. habes, dicenus vtique 7O. illos 
+      an<lb ed="#L" n="14" break="no"/>nos ad Neemiae quoque tempora protrahendos, cum 
+      ciui<lb ed="#L" n="15" break="no"/>tas ab eo est per Arthaxerxis imperium instaurata. Nos 
+      er<lb ed="#L" n="16" break="no"/>go, tametsi in secundo, vel saltem tertio Cyrianno 
+      templi<lb ed="#L" n="17" break="no"/>fabricam inchoatam esse credimus, 7O. tamen euersionis 
+      <lb ed="#L" n="18"/>annos tunc expletos arbitramur, non quando templum, aus 
+      <lb ed="#L" n="19"/>incoeptum, aut consummatum est: sed quando Iudaeis est la 
+      <lb ed="#L" n="20"/>xata captiuitas dataque adeo facultas, vt in patrium solum 
+      <lb ed="#L" n="21"/>remigrarent, altare extruerent, fabricarent templum, ciuita 
+      <lb ed="#L" n="22"/>tem reficerent, ruinas implerent. Quem omnino sensum, 
+      <lb ed="#L" n="23"/>vt diximus, a sacris videmur literis accepisse: quae verbum 
+      <lb ed="#L" n="24"/>Hieremiae primo Cyri anno impletum esse tradiderunt.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e2790">
+               <lb ed="#L" n="25"/>At Mardochaei aetas, imo potius res praeclarae gesiae cum 
+      <lb ed="#L" n="26"/>nostra opinione dissentiunt. Nam si tanta suit, quantam 
+      <lb ed="#L" n="27"/>ex nobis aduersarij colligunt: non modo summa sed 
+      de<lb ed="#L" n="28" break="no"/>crepita etiam ac caduca fuit, nec rebus ita magnis 
+      geren<lb ed="#L" n="29" break="no"/>dis idonea. Cuius argumenti responsio illa, quae a viris 
+      <lb ed="#L" n="30"/>doctissimis accepta est, non est omnino contemnenda. 
+      <lb ed="#L" n="31"/>Ecquid enim absurdi est, si illis adhuc seculis homo vnus 
+      <lb ed="#L" n="32"/>aut alter aetate, temperamento, corporis animique, vigore, 
+      <lb ed="#L" n="33"/>longe reliquis sui temporis senibus antecclluerit, cum 
+      e<lb ed="#L" n="34" break="no"/>tiamnum quidam sint, quorum in summ a scnectute, nec 
+      <lb ed="#L" n="35"/>ingenium, nec memoria, nec caeterae animi vires non mo 
+      <lb ed="#L" n="36"/>do labefactatae, sed ne extenuatae quidem videantur? 
+      At<lb ed="#L" n="37" break="no"/>que hac responsione illud quoque argumentum diluitur, 
+      <lb ed="#L" n="38"/>quo ex Aggaei 2. trahi potest. Quis in vobis, inquit, est 
+      de<lb ed="#L" n="39" break="no"/>relictus, qui vidit domum istam in gloria sua prima? &amp; c. 
+      <!--611.xml-->
+      <pb ed="#L" n="600"/>
+               <lb ed="#L" n="1"/>In secundo igitur anno Darij quidam supererant, annos 
+      <lb ed="#L" n="2"/>nati 116. &amp; eo amplius. Si enim 70. annis desolationis, 3o.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e2834">
+               <lb ed="#L" n="3"/>Oyri, Cambysis, &amp; Magorum 9. Darij duos &amp; quinque 
+      <lb ed="#L" n="4"/>vel etiam septem addas, quibus ante vastitatem vixerant,  
+      <lb ed="#L" n="5"/>si templum videre, &amp; gloriae eius post tot annos recordari 
+      <lb ed="#L" n="6"/>potuissent, certe summam illam 116. annorum conficies. 
+      <lb ed="#L" n="7"/>Atque haec responsio quidem minus absurda iudicabitur,  
+      <lb ed="#L" n="8"/>si 39. Cyri anni non a capta Babylone, sed ab Astyage vi 
+      <lb ed="#L" n="9"/>cto numerentur. Tunc enim primum Persarum ac 
+      Medo<lb ed="#L" n="10" break="no"/>rum regnum accepit. Denique hoc quoque respondena 
+      <lb ed="#L" n="11"/>dum censeo. Quod Mardochaeus fuisse legitur de eo 
+      nu<lb ed="#L" n="12" break="no"/>mero captiuorum, quos transstulit Nabuchodonosor cum 
+      <lb ed="#L" n="13"/>Iechonia rege Iuda: non sic accipi oportet, quasi is ipse 
+      <lb ed="#L" n="14"/>tunc fuerit inter captiuos numeratus: sed quasi ex illis ex 
+      <lb ed="#L" n="15"/>titerit, exque eis duxerit originem. Hoc vero in Mardochaei 
+      <lb ed="#L" n="16"/>laude scriptura posuit, quod non ex ijs fuerit parentibus, 
+      <lb ed="#L" n="17"/>qui Prophetis contradixerunt: sed ex eis, qui Hieremiae 
+      <lb ed="#L" n="18"/>obtemperarunt. Quae huius loci interpretatio ex primo  
+      <lb ed="#L" n="19"/>Esdrae libro cap. 2. colligitur. Vbi numerantur illi, qui 
+      as<lb ed="#L" n="20" break="no"/>cenderunt de captiuitate, quam transtulerat Nabuchodo 
+      <lb ed="#L" n="21"/>nosor, &amp; in Iudaeam reuersi sunt : cum ex ipsis quidam non 
+      <lb ed="#L" n="22"/>in Babyloniam venerint, sed patres eorum. Compertum 
+      <lb ed="#L" n="23"/>siquidem ex Matthaeo est, Torobabelem in Babylone ge 
+      <lb ed="#L" n="24"/>nitum fuisse. Sed &amp; 3. Esdr. lib. c. 5. ita legis: Sunt autem 
+      <lb ed="#L" n="25"/>hi qui ascenderunt ex Iudaea, &amp;c. Nullam ergo vim 
+      scri<lb ed="#L" n="26" break="no"/>pturae afferimus, si interpretamur Mardochaeum de 
+      Hie<lb ed="#L" n="27" break="no"/>rusalum translatum esse: quod pater eius translsatus sit. 
+      <lb ed="#L" n="28"/>Quod si quis adhuc hanc intelligentiam violentam esse 
+      <lb ed="#L" n="29"/>contendat, &amp; sic quoque respondere possumus. Assuerus 
+      <lb ed="#L" n="30"/>ille, de quo in libro Esther perpetua mentio sit, Astyages 
+      <lb ed="#L" n="31"/>fortasse fuit pater Darij Medi. Hunc enim Daniel cap. 9. 
+      <lb ed="#L" n="32"/>Assuerum vocat. Vel certe Cyaxaras huius pater: quem 
+      <lb ed="#L" n="33"/>primum Asiae populos in prouincias distinxisse Herodo 
+      <lb ed="#L" n="34"/>tus tradit. Fuisse etiam ait, cum ingenti tenebatur ira, per 
+      <lb ed="#L" n="35"/>acerbum. Quae omnia in Assuerum apprime conueniunt, 
+      <lb ed="#L" n="36"/>qui in libro Esther eisdem coloribus pictus est. Nec 
+      re<lb ed="#L" n="37" break="no"/>fert hi an alij Medorum reges ante Cyrum Asiae 
+      imperi<lb ed="#L" n="38" break="no"/>tarint. Scimus enim Ctesiam Ghidium apud Diodorum in 
+      <lb ed="#L" n="39"/>tertio, alios atque Herodotus scripsit, pofuisse. Sed He¬ 
+      <!--612.xml-->
+      <pb ed="#L" n="601"/>
+               <lb ed="#L" n="1"/>rodotum Eusebius sequitur. Accedit, qo nusquam 
+      Assue<lb ed="#L" n="2" break="no"/> 
+               <lb ed="#L" n="3"/>rus iste rex Babylonis dicitur, sed Persarum atque Medo 
+      <lb ed="#L" n="4"/>rum. Ante Cyrum autem &amp; Darium auunculum vna erat 
+      <lb ed="#L" n="5"/>monarchia Medorum atque Persarum: Babyloni rex pro 
+      <lb ed="#L" n="6"/>prius imperabat, vt in primo libro Herodotus scripit. 
+      <lb ed="#L" n="7"/>Accedit etiam que huic expositioni omnia consonant, nec 
+      <lb ed="#L" n="8"/>ex ea quicquam absurdi emergit. Nam quo Mardochaeus 
+      <lb ed="#L" n="9"/>primum in Babylonem translatus sit, deinde in Susis 
+      ap<lb ed="#L" n="10" break="no"/>pareat, nulla repugnantia est. Constat enim fieri potuisse,, 
+      <lb ed="#L" n="11"/>vt Babylonij quosdam ex captiuis Persis Medisque, vendi 
+      <lb ed="#L" n="12"/>derint : vt causas alias omittam, quae eius rei multae esse 
+      <lb ed="#L" n="13"/>potuerunt. Danielem sane in Babylonem principio 
+      tras<lb ed="#L" n="14" break="no"/>iatum, compertum est: at in Susis postea extitisse capite 
+      <lb ed="#L" n="15"/>eiusdem Prophetae 8. legimus. 2 Quanto illud vrgentius 
+      <lb ed="#L" n="16"/>iduersarios premit, quod si tempore, aut Darij Histaspis, 
+      <lb ed="#L" n="17"/>aut Arthaxerxis Longimani illa contigissent, quae ipsius 
+      <lb ed="#L" n="18"/>Esther narrat historia, nullo modo Esdras Neemiesque 
+      <lb ed="#L" n="19"/>silentio praeterijssent. Nam haec ad Arthaxerxis Memne 
+      <lb ed="#L" n="20"/>nis tempora referre, si Mardochaeus cum Iechonia 
+      com<lb ed="#L" n="21" break="no"/>migrauit, somnio quam simillimum est. Nec me fugit, Su 
+      <lb ed="#L" n="22"/>sa regiam aliquando Medorum ac Persarum ciuitatem, in 
+      <lb ed="#L" n="23"/>qua Assuerus conuiuium illud instruxit, a Dario 
+      Histas<lb ed="#L" n="24" break="no"/>pis filio conditam, Plinium lib. 6. c. 27. scribere. Quae res 
+      <lb ed="#L" n="25"/>si vera est, illa de Astyage aut Cyaxare sententia vera 
+      es<lb ed="#L" n="26" break="no"/>se non potest. Sed Plinij nos auctoritas vrgere nequit. 
+      <lb ed="#L" n="27"/>Quin multo probabilius Strabo in libro. 15. scribit, Susa 
+      <lb ed="#L" n="28"/>Thitoni patris Memnonis aedificium esse. Atque 
+      Hero<lb ed="#L" n="29" break="no"/>dotus lib. 5. vrbem Memnonis vocari solitam, ait. Non 
+      <lb ed="#L" n="30"/>Arthaxerxis Memnonis, sed illius praestantissimi iuuenis, 
+      <lb ed="#L" n="31"/>qui Priamo e Syria auxiliaturus venit, qui etiam in Susis 
+      <lb ed="#L" n="32"/>regiam aedificauit, Memnoniam ab illo cognominatam,  
+      <lb ed="#L" n="33"/>vt Diodorus scripsit in 3. Susa vero ante Cyrum fuisse 
+      con<lb ed="#L" n="34" break="no"/>dita, Daniel certissimus auctor est. Anno, inquit, tertio 
+      <lb ed="#L" n="35"/>regni Balthasar, cum essem in Susis, &amp;c. Quam vrbem Me 
+      <lb ed="#L" n="36"/>tropolim esse regionis Elamitarum Hieronymus vere 
+      <lb ed="#L" n="37"/>quidem interpretatur, sed in ea Danielem turrim 
+      extru<lb ed="#L" n="38" break="no"/>xisse falso existimat. Iosephus siquidem in 10. libri 
+      postre<lb ed="#L" n="39" break="no"/>mo cap. Danielem, ait, apud Ecbatana Mediae turtim eam  
+      <lb ed="#L" n="40"/>aedificasse: apud Susa vero primariam Persidis vrbem illa 
+      <!--613.xml-->
+      <pb ed="#L" n="602"/>
+               <lb ed="#L" n="1"/>vidisse, quae Danielis 8. narrantur. Quanquam Susa 
+      pro<lb ed="#L" n="2" break="no"/>prie nec Persidis nec Mediae ciuitas est, Sed Susiae Persis 
+      <lb ed="#L" n="3"/>Medisque vicinae. Quae quoniam non duabus his 
+      pro<lb ed="#L" n="4" break="no"/>aincijs modo, verumetiam Babyloni confinis erat, inque 
+      <lb ed="#L" n="5"/>harum trium regionum medio collocata: ideo reges 
+      Per<lb ed="#L" n="6" break="no"/>sarum atque Medorum in ea sedem imperij locauerunt. 
+      <lb ed="#L" n="7"/>Quod Cyrum fecisse Strabo affirmat: nos alios etiam  
+      <lb ed="#L" n="8"/>priores fecisse credimus. Iam si Susa principium regni 
+      As<lb ed="#L" n="9" break="no"/>sueri fuit, vt primo libri Esther capite dicitur, non fuit 
+      au<lb ed="#L" n="10" break="no"/>tem, aut Darij Histaspis aut Longimani, aut alterius 
+      Ar<lb ed="#L" n="11" break="no"/>thaxertis cognomento Memnonis Susa regni principium: 
+      <lb ed="#L" n="12"/>sed vel Thitoni, vel alius regis, qui primus Susa 
+      nobilita<lb ed="#L" n="13" break="no"/>uit, atque inde exordium imperij sumpsit, certe non est 
+      <lb ed="#L" n="14"/>absurdum Assuerum virum Esther Astyagem Cyaxaremue 
+      <lb ed="#L" n="15"/>huius patrem intelligere. Vterqe enim Medis etiam ac 
+      Per<lb ed="#L" n="16" break="no"/>sis imperauit, quemadmodum scribit in 1. libro 
+      Herodo<lb ed="#L" n="17" break="no"/>tus. Restat vt illud tandem exponamus, qui fieri 
+      potue<lb ed="#L" n="18" break="no"/>rit vt 7O. annos, quos praedixit Hieremias, Iosephus in 
+      <lb ed="#L" n="19"/>primo Cyri anno expletos dicat : cum multo plures ipse 
+      <lb ed="#L" n="20"/>adem in Nabuchodonosori posterorumque huius imperio 
+      <lb ed="#L" n="21"/>conputarit. Sed in numeris Iosephi libri menda habent 
+      in<lb ed="#L" n="22" break="no"/>numera. Quae ego menda viro diligetissimo atque 
+      grauis<lb ed="#L" n="23" break="no"/>simo assignare, nec volo nec debeo. Librariorum ergo 
+      vi<lb ed="#L" n="24" break="no"/>tio accidisse credendum est, vt in Neglisaris regno pro 20 
+      <lb ed="#L" n="25"/>subiecta fuerit 40. in Balthasaris autem pro 7. posita fuerint 
+      <lb ed="#L" n="26"/>17. Hos enim duos numeros si correxeris 70. anni consta 
+      <lb ed="#L" n="27"/>bunt, quos Iosephus a desolatione ad 1. Cyriannum 
+      scri<lb ed="#L" n="28" break="no"/>psit effluxisse. Sic tamen 7O. annorum summa constabit, si 
+      <lb ed="#L" n="29"/>post desolationem solos 25. Nabuchodonosoro tribuas. 
+      <lb ed="#L" n="30"/>Quod 26. incoeptus fuit non absolutus, si excludas item 
+      <lb ed="#L" n="31"/>postremum Balthasaris, quo in illius initio Babylon in Cy 
+      <lb ed="#L" n="32"/>ri ditionem venit. Ac si quinque annos Balthasari dedit,  
+      <lb ed="#L" n="33"/>sed ex scribentium vitio substituti sunt septemdecim, tunc 
+      <lb ed="#L" n="34"/>70. anni confsantur, nec opus erit eos, qui integri non fue 
+      <lb ed="#L" n="35"/>runt, excludere. Verum in his minutulis explicandis ego 
+      <lb ed="#L" n="36"/>quoque mihi ipse displiceo. Sed harum rerum curiosis se 
+      <lb ed="#L" n="37"/>mel satisfaciendum fuit. Et Gordianus iste nodus, 
+      quam<lb ed="#L" n="38" break="no"/>uis multo labore verbisque etiam multis, erat tamen 
+      expli<lb ed="#L" n="39" break="no"/>cate distincteque soluendus. 
+      <!--614.xml-->
+      <pb ed="#L" n="603"/>
+               <lb ed="#L" n="1"/>Decimum argumentum facile est quidem, sed ad 
+      scri<lb ed="#L" n="2" break="no"/>pturae cognitionem explicatu necessarium. Non enim Hie 
+      <lb ed="#L" n="3"/>ronymus solum, sed Aggaeus etiam scribit, in secundo 
+      Da<lb ed="#L" n="4" break="no"/>rij anno, templi esse fundamenta iacta. Atque illud, quod ex 
+      <lb ed="#L" n="5"/>commentarijs in Danielem obiecimus, nihil habet 
+      omni<lb ed="#L" n="6" break="no"/>no quaestionis. Cum Hieronymus ipse in Isaiae44. caput 
+      <lb ed="#L" n="7"/>sua verba fuerit interpretatus. Cyro viuente, ait, 
+      templi<lb ed="#L" n="8" break="no"/>iacta sunt fundamenta. Caeterum sub Darioanno illius se 
+      <lb ed="#L" n="9"/>cundo, templum aedificari coeptum est. Hoc itaque 
+      facilli<lb ed="#L" n="10" break="no"/>mum. Id difficilius, quod Hieronymus, imo Aggaeus ipse 
+      <lb ed="#L" n="11"/>dicit in haec verba: Ponite corda vestra a die ista &amp; in 
+      <lb ed="#L" n="12"/>futurum: a quarta &amp; vicesima, nona mensis, a die qua 
+      funda<lb ed="#L" n="13" break="no"/>menta iacta sunt templi Domini, &amp;c. Et Hieronymus, A 
+      <lb ed="#L" n="14"/>die vicesimaquarta noni mensis, in quo templi fundamen 
+      <lb ed="#L" n="15"/>ta sunt iacta, &amp;c. Loquitur autem sine dubio propheta de 
+      <lb ed="#L" n="16"/>nono mense anni secundi sub Dario. Huic argumento 
+      <lb ed="#L" n="17"/>varie quidem a multis responsum est. Lyranus sentit, fun 
+      <lb ed="#L" n="18"/>damenta hoc sane loco appellari, partem aedificij inferio 
+      <lb ed="#L" n="19"/>rem, quae caeteras sustentet ac ferat, etiamsi ima non sit, sed 
+      <lb ed="#L" n="20"/>fundamenta imis superposita. Beda credit, atquesid 
+      rece<lb ed="#L" n="21" break="no"/>ptius est, templi interioris fundamenta viuente Cyro 
+      <lb ed="#L" n="22"/>fuisse posita: atrij vero exterioris porticuum &amp; 
+      Gaxophi<lb ed="#L" n="23" break="no"/>lacij in secundo anno Darij. Illud quoque dici potest,  
+      <lb ed="#L" n="24"/>sub Cyro fundata inchoata informataque fuisse, sub 
+      Da<lb ed="#L" n="25" break="no"/>rio perfecta &amp; consummata. Adde, a Cyro ad Darium 4o.  
+      <lb ed="#L" n="26"/>annis interfluentibus fundamenta &amp; temporum iniuria, 
+      <lb ed="#L" n="27"/>&amp; inimicorum opera fuisse propemodum euersa &amp; 
+      labe<lb ed="#L" n="28" break="no"/>factata: sed sub Dario reconcinnata refectaque fuisse. 
+      <lb ed="#L" n="29"/>Vnde &amp; Iosephus Ruffino interprete, scripsit, quod 
+      <lb ed="#L" n="30"/>sub Dario fundamentis restitutis superaedificabatur. 
+      <lb ed="#L" n="31"/>Atque, vt quemadmodum sentio loquar, non mihi Aggaeus 
+      <lb ed="#L" n="32"/>videtur astruere, quod in secundo Darij anno templi 
+      <lb ed="#L" n="33"/>fundamenta iacta sint. Sed hunc sensum Propheta habet: 
+      <lb ed="#L" n="34"/>Attendite non solum ex die ista, quae videlicet est 
+      vice<lb ed="#L" n="35" break="no"/>sima &amp; quarta noni mensis: sed die, qua fundamenta iacta 
+      <lb ed="#L" n="36"/>sunt templi, &amp; inuenietis a templo meo inchoato nullos 
+      <lb ed="#L" n="37"/>vberiores fructus praedia vestra, tulisse. Nimirum enim 
+      <lb ed="#L" n="38"/>negligentibus Dei religionem &amp; cultum, nihil adhuc 
+      <lb ed="#L" n="39"/>prospere euenit. At ex die ista benedicam, &amp; c. Et hic sensus 
+      <!--615.xml-->
+      <pb ed="#L" n="604"/>
+               <lb ed="#L" n="1"/>paulo ante fuerat explicatus his verbis. Et nunc ponite 
+      <lb ed="#L" n="2"/>corda vestra, a die hac &amp; supra, antequam poneretur lapis 
+      <lb ed="#L" n="3"/>super lapidem in templo Domini, &amp;c. Quasi ex eo 
+      tem<lb ed="#L" n="4" break="no"/>pore, quo primum iubente Cyro e Babylone venerint,  
+      <lb ed="#L" n="5"/>eorum frugibus maledixerit, nec quicquam eis foeliciter 
+      <lb ed="#L" n="6"/>terra produxerit, quod in Dei &amp; opere templi structura 
+      <lb ed="#L" n="7"/>cessauerint. Sed de arpumento decimo haec satis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3205">
+               <lb ed="#L" n="8"/>In vndecimo non est facile expedire, quisnam ille 
+      Ar<lb ed="#L" n="9" break="no"/>thaxerxes fuerit, qui cum Cyro &amp; Dario iusserit templum 
+      <lb ed="#L" n="10"/>aedificari. Rabbi Samuel eundem esse credidit Darium &amp;  
+      <lb ed="#L" n="11"/>Arthaxerxem. Hoc enim non proprium nomen, sed 
+      re<lb ed="#L" n="12" break="no"/>gum Persarum omnium fuisse cognomen: vt Caesar 
+      Ro<lb ed="#L" n="13" break="no"/>manorum, Pharao Aegyptiorum. Non itaque tribus 
+      iuben<lb ed="#L" n="14" break="no"/>tibus templum aedificatum, sed duobus Cyro &amp; Dario 
+      <lb ed="#L" n="15"/>Arthaxerne. Cui opinioni vehementer coniunctio 
+      repu<lb ed="#L" n="16" break="no"/>gnat, quae nomen Darij cum Arthaxerxe non solum in 
+      La<lb ed="#L" n="17" break="no"/>tino, sed in Graeco &amp; Hebraico exemplari communiungit. 
+      In<lb ed="#L" n="18" break="no"/>eptae sane loquendi formulae sunt, Iulius &amp; Caesar, 
+      Mar<lb ed="#L" n="19" break="no"/>cus &amp; Tullius, Chencres &amp; Pharao. Huic quoque 
+      senten<lb ed="#L" n="20" break="no"/>tiae illud refragatur, quod pari ratione Arthaxerxis 
+      co<lb ed="#L" n="21" break="no"/>gnomen Cyro fuerat addendum, qui rex vtique 
+      nobilissi<lb ed="#L" n="22" break="no"/>mus Persarum fuit. Atque idem. Rabbi per Arthaxerxem,  
+      <lb ed="#L" n="23"/>de quo cap. 4. sermo sit, vere vt ego sentio, non 
+      Camby<lb ed="#L" n="24" break="no"/>sen, sed Cyrum intellexit. Cur igitur scriptura 
+      cogno<lb ed="#L" n="25" break="no"/>men vtrique regi commune alteri adijceret, ab altero 
+      au<lb ed="#L" n="26" break="no"/>ferret? Hanc denique opinionem illud minus probabilem 
+      <lb ed="#L" n="27"/>facit, quod si Arthaxerxes cognomen omnium Regum 
+      <lb ed="#L" n="28"/>Persarum esset, id esset absurdu, quod 1. Esdr. 7. scribitur: 
+      <lb ed="#L" n="29"/>In regno autem Arthaxerxis regis Persarum Esdras, &amp;c. 
+      <lb ed="#L" n="30"/>Nullus enim peculiariter intelligeretur, non plus certe, 
+      <lb ed="#L" n="31"/>quam si solum regem Persarum, sine Arthaxerxis voce 
+      po<lb ed="#L" n="32" break="no"/>suisset. Sed de hac sententia satis. Pergamus ad reliquas. 
+      <lb ed="#L" n="33"/>Iosephus porro apud Lyranum, hunc Terxem filium 
+      Da<lb ed="#L" n="34" break="no"/>rij interpretatur. Vndecimo quippe anti. Iuda. lib. cap. 5. 
+      <lb ed="#L" n="35"/>scribit Rerxem filium Darij, pietatis paternae perinde vt 
+      <lb ed="#L" n="36"/>regni haeredem fuisse. Nihilque ex patris institutis circa 
+      di<lb ed="#L" n="37" break="no"/>uinum cultum immutasse, sed Iudaeos summa fuisse 
+      bene<lb ed="#L" n="38" break="no"/>suolentia prosecutum. Addit etiam huius tempore Esdram 
+      <lb ed="#L" n="39"/>quidem argento, auro &amp; vasis pretiosis, quae ex vniuersa 
+      <!--616.xml-->
+      <pb ed="#L" n="605"/>
+               <lb ed="#L" n="1"/>prouincia Babylonis attulerat, templum ornasse ac Dei 
+      <lb ed="#L" n="2"/>cumulasse cultum: Neemiam vero eodem rege 
+      conce<lb ed="#L" n="3" break="no"/>dente non modo ciuitatem &amp; muros instaurasse, sed &amp; id 
+      <lb ed="#L" n="4"/>supplesse, quod ad fabricam templi deerat. Verum haec 
+      sen<lb ed="#L" n="5" break="no"/>tentia duos scrupulos habet. Prior est, quod huic regi 38. 
+      <lb ed="#L" n="6"/>annos imperij tribuit. Qua in re cum omnium 
+      Chrono<lb ed="#L" n="7" break="no"/>graphorum ratione pugnat, qui Rerxi filio Darij non nisi 
+      <lb ed="#L" n="8"/>viginti regni annos impartiuntur. Posterior scrupulus 
+      <lb ed="#L" n="9"/>est huiusmodi. Primi Esdrae sexto capite dicitur, q Iudaei 
+      <lb ed="#L" n="10"/>aedificauerunt &amp; construxerunt &amp; compleuerunt domum  
+      <lb ed="#L" n="11"/>Dei, Cyro &amp; Dario &amp; Arthaxerxe iubentibus, sed 
+      com<lb ed="#L" n="12" break="no"/>pleuerunt tamen in anno 6. Darij. Necesse est igitur, vt 
+      <lb ed="#L" n="13"/>Arthaxerxes ille, quicunque tandem fuerit, anteannum 
+      <lb ed="#L" n="14"/>Darij sextum fuerit. Alioqui quomodo vsque ad sextum 
+      <lb ed="#L" n="15"/>annum Darij construxerunt Iudaei &amp; compleuerunt 
+      tem<lb ed="#L" n="16" break="no"/>plum, viuente Cyro &amp; Dario &amp; Arthaxerxe? Non itaque 
+      <lb ed="#L" n="17"/>in nomine Arthaxerxis Rerxes filius Darij intelligit. Quae 
+      <lb ed="#L" n="18"/>eadem causa eos etiam vrget, qui hoc loco Arthaxerxem  
+      <lb ed="#L" n="19"/>Longimanum filium Terxis accipiunt, cuius diebus, vt 
+      <lb ed="#L" n="20"/>Eusebius est auctor, &amp; Esdras &amp; Neemias ea, quae templo, 
+      <lb ed="#L" n="21"/>ciuitati, murisque deerant, expleuerunt. Ac ne illud quidem 
+      <lb ed="#L" n="22"/>verum est, quod nonnulli aiunt: Darium Medum hoc 
+      lo<lb ed="#L" n="23" break="no"/>co accipi oportere, nam Darium Histaspis nomine 
+      Ar<lb ed="#L" n="24" break="no"/>thaxerxis accipiunt. Primum enim nusquam aut in literis 
+      <lb ed="#L" n="25"/>sacris, aut in auctore aliquo historiae probato legitur, qu  
+      <lb ed="#L" n="26"/>Darius Medus templi fabricam aut iuuerit aut iusserit. 
+      <lb ed="#L" n="27"/>Solus quippe Daniel huius Darij mentionem fecit, nec 
+      <lb ed="#L" n="28"/>tale quippiam illi assignauit. Deinde cum Darius hic auum  
+      <lb ed="#L" n="29"/>culus Cyri esset, vt plerisque visum est, multoque aetate 
+      <lb ed="#L" n="30"/>maior, vt visum est omnibus, nequaquam scriptura 
+      sacra<lb ed="#L" n="31" break="no"/>contra aliarum omnium morem, Cyrum prius quam 
+      Da<lb ed="#L" n="32" break="no"/>rium nominaret. Iubente, inquit, Cyro &amp; Dario 
+      Artha<lb ed="#L" n="33" break="no"/>xerxe. Quae eadem ratio Vetat, vt Darius hic Medus per 
+      <lb ed="#L" n="34"/>Arthaxerxis vocem intelligatur. Quanquam 76. 
+      inter<lb ed="#L" n="35" break="no"/>pretes Danielis 7. pro Dario Arthaxerxem interpretati 
+      <lb ed="#L" n="36"/>sunt quemadmodum Hieronymus noster admonuit. Prae 
+      <lb ed="#L" n="37"/>terea nulla historia neque humana neque diuina Darium 
+      <lb ed="#L" n="38"/>Histaspis Arthaxerxem appellauit. Nulla ergo causa est,  
+      <lb ed="#L" n="39"/>cur hoc loco Darium Histaspis Arthaxerxis nomine in¬ 
+      <!--617.xml-->
+      <pb ed="#L" n="606"/>
+               <lb ed="#L" n="1"/>telligamus. Praesertim cum in toto illo libro per nomen 
+      <lb ed="#L" n="2"/>Darij non alius vnquam nisi Histaspis filius intelligatur. 
+      <lb ed="#L" n="3"/>Quid autem scriptura nobis per nominis ambiguitatem  
+      <lb ed="#L" n="4"/>illuderet, si in eadem etiam orationis clausula Darij 
+      no<lb ed="#L" n="5" break="no"/>men in varios significatus distraheret: Aedificauerunt,  
+      <lb ed="#L" n="6"/>ait, iubente Cyro &amp; Dario &amp; Arthaxerxe, &amp; 
+      compleue<lb ed="#L" n="7" break="no"/>runt domum Dei istam, vsque ad diem tertium mensis 
+      <lb ed="#L" n="8"/>Adar, qui estannus 6. Darij regis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3387">
+               <lb ed="#L" n="9"/>Mihi duae viae huius quaestionis explicandae apparent. 
+      <lb ed="#L" n="10"/>Vna est, vt tueamur id quod nunc nunc impugnatum est. 
+      <lb ed="#L" n="11"/>Arthaxerxem Longimanum hic accini oportere, qui 
+      pri<lb ed="#L" n="12" break="no"/>mus huius nominis in historijs prophanis inuenitur. Quae 
+      <lb ed="#L" n="13"/>eadem sententia Bedae fuit. Loquitur autem scriptura 
+      <lb ed="#L" n="14"/>per anticipationem, id quod saepe alias sacri auctores 
+      fa<lb ed="#L" n="15" break="no"/>ctitarunt. Non enim omnes illi tres intelligendi sunt 
+      tem<lb ed="#L" n="16" break="no"/>plum &amp; aedificasse &amp; complesse, vsque ad sextum Darij 
+      <lb ed="#L" n="17"/>annum. Sed tres illi opus compleuere quidem, quos Iudaeis 
+      <lb ed="#L" n="18"/>constat in opere faciundo explendoque fauisse, at 
+      aedifica<lb ed="#L" n="19" break="no"/>tum est, atque aliqua ex parte completum vsque ad 6. Darij 
+      <lb ed="#L" n="20"/>annum, Cyro &amp; Dario iubentibus. Tametsi eo anno 
+      tem<lb ed="#L" n="21" break="no"/>plum non est omni ex parte absolutum. Quoniam, vt 
+      Io<lb ed="#L" n="22" break="no"/>sephus ait, Esdras ac Neemias sub Arthaxerxe postea 
+      tem<lb ed="#L" n="23" break="no"/>pli fabricam, ornatum, &amp; cultum expleuerunt. Hoc vero 
+      <lb ed="#L" n="24"/>solum a Iosephi opinione nostra discrepat, quod ea, quae 
+      <lb ed="#L" n="25"/>Esdras ac Neemias gessisse in scriptura referuntur, ille 
+      <lb ed="#L" n="26"/>Terxe filio Darij imperante, nos Longimano iubente ge 
+      <lb ed="#L" n="27"/>sta esse contendimus. Illud autem sine controuersia verum 
+      <lb ed="#L" n="28"/>est, Cyrum &amp; Darium &amp; Arthaxerxem eum, cui Neemias 
+      <lb ed="#L" n="29"/>atque Esdras placuere, templum aedificasse, absoluisse &amp;  
+      <lb ed="#L" n="30"/>ornasse. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3438">
+               <lb ed="#L" n="31"/>Altera quoque scrupuli huius eximendi ratio est: si 
+      di<lb ed="#L" n="32" break="no"/>camus, duas illas particulas, &amp; Arthaxerxe, ab Hebraeo 
+      <lb ed="#L" n="33"/>quopiam adiectas esse in margine primum, deinde textui, 
+      <lb ed="#L" n="34"/>vt fieri solet, insertas, Nec aliunde quam ex eodem libro 
+      <lb ed="#L" n="35"/>exemplum huius erroris petere necesse: est. In capite 
+      e<lb ed="#L" n="36" break="no"/>nim quarto sic Latina editio habet: In regno autem 
+      As<lb ed="#L" n="37" break="no"/>sueri, ipse est Arthaxerxes, &amp; c. vbi tres illae voces, ipse est 
+      <lb ed="#L" n="38"/>Arthaxerxes, non sunt scripturae partes, sed ab expositore 
+      <lb ed="#L" n="39"/>nescio quo, in margine fortasse positae scribentium errore 
+      <!--618.xml-->
+      <pb ed="#L" n="607"/>
+               <lb ed="#L" n="1"/>textui nostro interiectae sunt, cum nec in Haebreis 
+      exem<lb ed="#L" n="2" break="no"/>plaribus, nec in Graecis 7O. interpretum haberetur: 
+      quem<lb ed="#L" n="3" break="no"/>admodum etiam ante nos Lyranus admonuit. Idem quoque 
+      <lb ed="#L" n="4"/>error accidit in Latinis codicibus. 2. Reg. c. 8. vbi verba 
+      <lb ed="#L" n="5"/>illa. De quo fecit Solomon omnia vasa aerea in templo &amp;  
+      <lb ed="#L" n="6"/>mare aeneum &amp; columnas &amp; altare, nec Hebraea 
+      exempla<lb ed="#L" n="7" break="no"/>ria habent, nec Graeca 7O. &amp;c. Quod autem vitium in 
+      Lati<lb ed="#L" n="8" break="no"/>nam editionem irrepsit, idem potuit accidere, vt in Hebrea 
+      <lb ed="#L" n="9"/>quoque irrepserit exemplaria. Qua de re &amp; lib. 2. multa 
+      <lb ed="#L" n="10"/>opportune diximus, &amp; iam iam in sequentis argumenti 
+      ex<lb ed="#L" n="11" break="no"/>plicationem quaedam haud importune disseremus. Illud 
+      <lb ed="#L" n="12"/>nunc dico, me non leui coniectura ductum de huius loci 
+      <lb ed="#L" n="13"/>errore ita existimasse. Iosephus siquidem vndecimo 
+      Iu<lb ed="#L" n="14" break="no"/>dai. anti. lib. c. 4. hunc ipsum Esdrae locum referens sic 
+      <lb ed="#L" n="15"/>ait. Magnis omnium studiis proficiebat templi 
+      aedifica<lb ed="#L" n="16" break="no"/>tio, iuxta mandata Cyri &amp; Darii, prophetantibus interim 
+      <lb ed="#L" n="17"/>Aggaeo &amp; Racharia: absolutuique est intra septennium. 
+      <lb ed="#L" n="18"/>Et lib. 15. ca. postremo, non alium templi auctorem facit 
+      <lb ed="#L" n="19"/>Herodes praeter Cyrum &amp; Darium. Non ergo alius 
+      ter<lb ed="#L" n="20" break="no"/>tius in Hebraeis veris exemplaribus habebatur. Verum  
+      <lb ed="#L" n="21"/>haec hactenus. Caetera diluamus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3510">
+               <lb ed="#L" n="22"/>Argumentatio duo decima vsque eo difficilis &amp; 
+      ob<lb ed="#L" n="23" break="no"/>scura est, vt aut nullo modo, aut multo difficillime dilui 
+      <lb ed="#L" n="24"/>possit. Nimirum enim in historia cum sacra tum profana, 
+      <lb ed="#L" n="25"/>ita sepe librariorum vitio numeri deprauati sunt, vt qui 
+      <lb ed="#L" n="26"/>eos ad veram rationem reuocare voluerit, is non dico in 
+      <lb ed="#L" n="27"/>scopulosis locis arduisque versetur: sed in labyrinthum 
+      <lb ed="#L" n="28"/>inexplicabilium questionum intret necesse sit, vnde ex- 
+      <lb ed="#L" n="29"/>ire non queat, nec si Thesei quidem filum habeat. 
+      Huiusmo<lb ed="#L" n="30" break="no"/>di autem errores in historiis humanis prodere superuacaneum 
+      <lb ed="#L" n="31"/>erit, nam obuii sunt passim plurimi. In sacris paucos 
+      quos<lb ed="#L" n="32" break="no"/>dam commemorabo, qui satis sint tamen, vt intelligant 
+      <lb ed="#L" n="33"/>omnes, quam lubricum &amp; facile librariis sit, vel in diuina 
+      <lb ed="#L" n="34"/>scriptura numerum pro numero substituere. Agedum ergo 
+      <lb ed="#L" n="35"/>primum huius rei exemplum proferamus, ex libri secundi 
+      <lb ed="#L" n="36"/>Para. ca. 15. vbi ita legimus, Bellum vero non fuit vsque 
+      <lb ed="#L" n="37"/>ad tricesimum quintumannum regni Assa. Et euestigio 
+      <lb ed="#L" n="38"/>in initio capitis sextidecimi, Anno autem tricesimosexto 
+      <lb ed="#L" n="39"/>regni eius ascendit Baassa, &amp;c. Quo vtroque loco pro 
+      <!--619.xml-->
+      <pb ed="#L" n="608"/>
+               <lb ed="#L" n="1"/>tricesimo legere oportet vicesimum. Nam Baassa anno 
+      <lb ed="#L" n="2"/>tertio regis Assa regnare coepit, solumque, regnauit annos 
+      <lb ed="#L" n="3"/>quatuor &amp; viginti, vt 3. lib. Reg. cap. 15. traditur. Non 
+      <lb ed="#L" n="4"/>ergo ad tricesimumsextumannum regis Assa regnum 
+      vi<lb ed="#L" n="5" break="no"/>tamque perduxit. Id quod perspicuum quoque fit ex 3. Reg. 
+      <lb ed="#L" n="6"/>li. ca. 16. Anno. inquit, vicesimosexto Assa regis Iuda 
+      re<lb ed="#L" n="7" break="no"/>gnauit Hela filius Baassa super Isracl, &amp;c. Et posterius, 
+      an<lb ed="#L" n="8" break="no"/>no vicesimoseptimo regis Assa regnauit amri, qui 
+      scili<lb ed="#L" n="9" break="no"/>cet occiderat Hela. Quem errorem Ioannes Lucidus in 
+      <lb ed="#L" n="10"/>secundo temporum libro animaduertit. 
+      <lb ed="#L" n="11"/>Ne vero imperitus quisquam huius loci vitium in 
+      La<lb ed="#L" n="12" break="no"/>tinae editionis odium torqueat, aeque sciat Graeca 
+      He<lb ed="#L" n="13" break="no"/>braeaque exemplaria esse corrupta. Id quod 2. Para. ca. 36. 
+      <lb ed="#L" n="14"/>etiam contigit. Vbi in haec verba exemplaria omnia, quae 
+      <lb ed="#L" n="15"/>mihi videre licuit, consentiunt. Octo annorum erat Ioachim  
+      <lb ed="#L" n="16"/>cum regnare coepisset, &amp; tribus mensibus ac decem diebus 
+      <lb ed="#L" n="17"/>regnauit in Hierusalem: fecitque mialum in conspectu 
+      do<lb ed="#L" n="18" break="no"/>mini. Quo in loco pro decem &amp; octo librarius aut 
+      indo<lb ed="#L" n="19" break="no"/>ctus aut negligens octo subiecit. Sic enim3. Reg. 24. 
+      ve<lb ed="#L" n="20" break="no"/>re legis. Decem &amp; octo annorum erat Ioachim cum 
+      re<lb ed="#L" n="21" break="no"/>gnare coepisset, &amp;c. Alioqui quomodo fecit malum in 
+      <lb ed="#L" n="22"/>conspectu domini? Quomodo egressus est ad rege 
+      Baby<lb ed="#L" n="23" break="no"/>lonis, &amp; cum esset natura bonus, ne ciuitas periclitaretur,  
+      <lb ed="#L" n="24"/>vltro se dedidit: 4. Reg. 24. Iosephus 10. anti. c. 9. Atque  
+      <lb ed="#L" n="25"/>hunc etiam errorem Caietanus prior deprehendit: 
+      Nolo<lb ed="#L" n="26" break="no"/>enim quicquam aliorum, aut industriae aut ingenio 
+      de<lb ed="#L" n="27" break="no"/>trahere. Verum ego etiam ipse interdum coniectura 
+      du<lb ed="#L" n="28" break="no"/>cor ad suspicandum, auctores sacros quibusdam in locis 
+      <lb ed="#L" n="29"/>alios numeros posuisse, quam numc inueniantur. Verbi causa 
+      <lb ed="#L" n="30"/>ponamus aliquid, vbi coniecturae huius argumentum 
+      ap<lb ed="#L" n="31" break="no"/>pareat. Primo reg. li. c. 13. scribitur, quod filius vnius anni 
+      <lb ed="#L" n="32"/>erat Saul, cum regnare coepisset. Quod si filius anni vnius 
+      <lb ed="#L" n="33"/>intelligitur, quasi puer vnius anni innocens, qui nesciret 
+      <lb ed="#L" n="34"/>inter dextram sinistramque discernere: quonam pacto illud 
+      ac<lb ed="#L" n="35" break="no"/>cipiemus, Filius vnigeniti &amp; vnius anni erat Sedechias cum 
+      <lb ed="#L" n="36"/>regnare coepisset? Quid si hic etiam numerus ille viginti 
+      <lb ed="#L" n="37"/>exscribentium esset errore praetermissus? An non tibi 
+      vi<lb ed="#L" n="38" break="no"/>detur, si ita hi per incuriam negligentiamque fecissent, falsis 
+      <lb ed="#L" n="39"/>interpretantium expositionibus locum esse daturos? Rur¬ 
+      <!--620.xml-->
+      <pb ed="#L" n="609"/>
+               <lb ed="#L" n="1"/>sum, quale queso illud est, Filius triginta annorum erat 
+      Da<lb ed="#L" n="2" break="no"/>uid, cum regnare coepisset, &amp; quadraginta annis regnauit, si 
+      <lb ed="#L" n="3"/>filium vnius anni innocentem interpretamur? In simili ergo 
+      <lb ed="#L" n="4"/>dicendi forma similis sit interpretatio. Sed similis esse non 
+      <lb ed="#L" n="5"/>potest, si vnius anni filius Saulus esse dicatur. Quaobrem 
+      <lb ed="#L" n="6"/>verisimile est, auctorem libri Regum filium eum viginti &amp;  
+      <lb ed="#L" n="7"/>vnius anni scripsisse: sed scriptorum vitio maiore numerum 
+      <lb ed="#L" n="8"/>in Hebreis exemplaribus omissum. Quem deinceps errorem 
+      <lb ed="#L" n="9"/>in Graeca Latinaque exemplaria aut alii quilibet, aut etiam  
+      <lb ed="#L" n="10"/>interpretes transfuderunt. Quod idem 2. Para. c. 15. 16. 
+      <lb ed="#L" n="11"/>&amp; 36. accidit, sicuti paulo ante demonstrauimus. Et quoniam 
+      <lb ed="#L" n="12"/>non est animus singula loca discutere: vnum solumodo ex 
+      <lb ed="#L" n="13"/>Rabani opinione adiiciam, vt iam demum ea, quae sunt huius 
+      <lb ed="#L" n="14"/>argumenti propria, expediantur. Hieremiae 52. vulgata 
+      le<lb ed="#L" n="15" break="no"/>ctio sic habet. Iste est populus, quem transtulit 
+      Nabucho<lb ed="#L" n="16" break="no"/>donosor, in anno septimo Iudaeos, tria millia &amp; viginti 
+      <lb ed="#L" n="17"/>tres. In anno octauo decimo Nabuchodonosor, 
+      transtu<lb ed="#L" n="18" break="no"/>lit de Hierusalem animas octingentas triginta duas. In 
+      <lb ed="#L" n="19"/>anno. 23. Nabuchodonosor, transtulit Nabuzardam 
+      ma<lb ed="#L" n="20" break="no"/>gister militiae animas Iudaeorum septingentas 
+      quadragin<lb ed="#L" n="21" break="no"/>taquinqe. Omnes ergo animae quatuor millia sexcentae. 
+      <lb ed="#L" n="22"/>Qua ex lectione subdifficiles &amp; perobscurae quaestiones 
+      <lb ed="#L" n="23"/>emergunt, quarum nonnullas Liranus mouit: sed que belle 
+      <lb ed="#L" n="24"/>responderit, aliorum esto iudicium. Rabbanus in 
+      Hiere<lb ed="#L" n="25" break="no"/>miam ter Iudaeos a Nabuchodonosoro captos scribit, 
+      ha<lb ed="#L" n="26" break="no"/>rumque trium captiuitatum numerum hic a propheta censeri. 
+      Pri<lb ed="#L" n="27" break="no"/>ma fuit, cum Nabuchodonosor Ioabimum filium Iosiae 
+      <lb ed="#L" n="28"/>vinctum catenis duxit in Babylonem 2. Para. 36. Nec enim? 
+      <lb ed="#L" n="29"/>est verosimile, non etiam alios plurimos cum Ioacimo in i 
+      <lb ed="#L" n="30"/>Babylonem transtulisse. Nam &amp; Daniel capite primo I 
+      <lb ed="#L" n="31"/>verbis non valde obscuris significat, anno tertio Ioacimi 
+      <lb ed="#L" n="32"/>quosdam e Iudaea in Babilone esse transsatos. At 
+      Caieta<lb ed="#L" n="33" break="no"/>nus negat, Ioacimum in Chaldaeam aduenisse. Sane qui¬s 
+      <lb ed="#L" n="34"/>dem: verum infirma ratione negat. Interfectus est, inquit, 
+      <lb ed="#L" n="35"/>Ioacimus in Iudaea, &amp; sepultura asini iuxta Hieremiae 2 
+      <lb ed="#L" n="36"/>praedictionem sepultus est, ac proiectus extra portas 
+      Hie<lb ed="#L" n="37" break="no"/>rusalem. Quid tum? Quasi vero fieri nullo modo posset, 
+      <lb ed="#L" n="38"/>vt ductus primum in Babylonem, deinde in Hierosolyma 
+      <lb ed="#L" n="39"/>remitteretur, vbi, cum fidem regi Babylonio datam violasset, 
+      <!--621.xml-->
+      <pb ed="#L" n="610"/>
+               <lb ed="#L" n="1"/>ingloria morte periret. Non itaque eamus inficias, 
+      Ioaci<lb ed="#L" n="2" break="no"/>mum cum aliis miultis in Babylonem esse traductum. Id 
+      <lb ed="#L" n="3"/>enim non Rabanus solum, sed diuinae etiam scripturae tradunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3740">
+               <lb ed="#L" n="4"/>Secundam captiuitatem Rabanus ponit in 
+      trasmigra<lb ed="#L" n="5" break="no"/>tione Iechoniae, quae 4. lib. Regum 24. habetur expresse. 
+      <lb ed="#L" n="6"/>Tertia quoque in eodem lib. c. 5. expressa est, cum 
+      Nabuzar<lb ed="#L" n="7" break="no"/>dam templum etiam vrbemque vastauit. Trium ergo harum 
+      capti<lb ed="#L" n="8" break="no"/>uitatum, vt Rabanus autumat, Hieremias hic singillatim  
+      <lb ed="#L" n="9"/>scribit numerum. Quae si vera sententia est, tres numeri 
+      mu<lb ed="#L" n="10" break="no"/>tandi sunt : vt pro septimo anno in prima captiuitate 
+      scri<lb ed="#L" n="11" break="no"/>batur, primo. Illa enim anno primo Nabuchodonosori 
+      <lb ed="#L" n="12"/>contigit, qui idem Ioacimi tertius fuit: quemadmodum 
+      <lb ed="#L" n="13"/>paulo ante dicebamus. In secunda vero captiuitate pro 
+      <lb ed="#L" n="14"/>octauo decimo scribendum est, octauo. Constat enim 
+      Ie<lb ed="#L" n="15" break="no"/>choniam in Babylonem octauo Nabuchodonosori anno 
+      <lb ed="#L" n="16"/>commigrasse. 4. Reg. 24. Pro vicesimo autem tertio in 
+      capti<lb ed="#L" n="17" break="no"/>uitate postrema legi oportet, vndeuicesimo. Nam, vt 
+      4<lb ed="#L" n="18" break="no"/>Reg. 25. scriptum est, Hieremiae item 52. Sedechias in anno 
+      <lb ed="#L" n="19"/>19. Nabuchodonosori ductus est in Chaldeam. Nec huic 
+      <lb ed="#L" n="20"/>sententiae repugnat, quod li. Reg. 4. c. 24. decem Iudaeorum 
+      <lb ed="#L" n="21"/>millia cum Iechonia dicuntur esse transslata. Quoniam 
+      Hie<lb ed="#L" n="22" break="no"/>remias non vulgus promiscuum, aut milites quoslibet 
+      annu<lb ed="#L" n="23" break="no"/>merat, sed principes Iudae, &amp; eos qui erant in dignitate 
+      <lb ed="#L" n="24"/>aliqua constituti, vt Iosephus decimo Iudai. anti. lib. ca. S. 
+      <lb ed="#L" n="25"/>animaduertit. Vel etiam eos hic supputat Hieremias, qui 
+      <lb ed="#L" n="26"/>in libris Regum non fuerant numerati: Primae siquidem ac 
+      <lb ed="#L" n="27"/>postremae captiuitatis numerum auctor libri Regum 
+      om<lb ed="#L" n="28" break="no"/>nino praeterierat. In secunda autem posuerat maiore quidem, 
+      <lb ed="#L" n="29"/>hoc est, decem millia: praetermiserat minorem, quem hic 
+      <lb ed="#L" n="30"/>supplet Hieremias, id est, animarum octingentas triginta 
+      <lb ed="#L" n="31"/>duas. Quod Iosephus intelligens in decimo anti. Iud. li. 
+      <lb ed="#L" n="32"/>c. 9. vtrumque numerum conplectitur, asseritque eos, qui cum 
+      <lb ed="#L" n="33"/>sechonia ducti sunt, fuisse decem millia numero, &amp; 
+      am<lb ed="#L" n="34" break="no"/>plius octingentos triginta duos. Quanquam primam 
+      ca<lb ed="#L" n="35" break="no"/>ptiuitatem ad eum annum refert, quo rex Babylonius 
+      Io<lb ed="#L" n="36" break="no"/>acimum interemit, insepultumque extra moenia iussit proiici. 
+      <lb ed="#L" n="37"/>Pum enim scribit tria millia Iudaeorum Babylonem in 
+      ca<lb ed="#L" n="38" break="no"/>ptiuitatem esse ducta. Quiannus procul dubio septimus 
+      <lb ed="#L" n="39"/>Nabuchodonosori fuit. In octauo nanque Iechonias 
+      <!--622.xml-->
+      <pb ed="#L" n="611"/>
+               <lb ed="#L" n="1"/>pro patre est constitutus. 4. Reg. 24. quod si accipimus,  
+      <lb ed="#L" n="2"/>numerus primae captiuitatis in Hieremia, sine vlla 
+      corre<lb ed="#L" n="3" break="no"/>rectione rectissime constat, intelligo autem locum Hiere 
+      <lb ed="#L" n="4"/>miae totum posse a mendi nota vindicari: si dicamus 
+      se<lb ed="#L" n="5" break="no"/>cundam captiuitatem auno. 18. Nabuchodonosori fuisse, 
+      <lb ed="#L" n="6"/>annis scilicet integris numeratis. Sicut &amp; prima anno 
+      se<lb ed="#L" n="7" break="no"/>ptimo est in hunc sensum adscribenda. Alioqui, si de 
+      an<lb ed="#L" n="8" break="no"/>nis non expletis sermo sit, prima in anno. 8. secunda in. 19. 
+      <lb ed="#L" n="9"/>Nabuchodonosori fuit. At tertia fuit anno. 23. cum quin 
+      <lb ed="#L" n="10"/>to post excidium Hierosolymitanum anno, qui fuit 
+      re<lb ed="#L" n="11" break="no"/>gni Nabuchodonosori. 23. inuasit Coelen Syriam, 
+      Am<lb ed="#L" n="12" break="no"/>monitas Moabitasque subegit, Aegyptios perdomuit, ac 
+      <lb ed="#L" n="13"/>repertos ibi Iudaeos captiuos Babylonem abduxit, vt Io 
+      <lb ed="#L" n="14"/>sephus auctor est. 10. antique. Iudi. lib. cap. 11. Sed quoniam  
+      <lb ed="#L" n="15"/>Hieremias eos numerare videtur, non qui de Aegypto 
+      <lb ed="#L" n="16"/>sed qui de Iudaea translati sunt: quia rursum eas videtur 
+      <lb ed="#L" n="17"/>captiuitates recensere, quae e sacris historijs colliguntur: 
+      <lb ed="#L" n="18"/>quia demum eam, quae sub Nabuzardane fuit omnium ce 
+      <lb ed="#L" n="19"/>leberrima, templique atque vrbis incendio vel maxime 
+      no<lb ed="#L" n="20" break="no"/>bilitata, tertio loco videtur scribere, vt eo redeat vnde 
+      <lb ed="#L" n="21"/>est paulo ante digressus, vt numerum annorum in secunda 
+      <lb ed="#L" n="22"/>&amp; tertia captiuitate ad formam. 4. libri Reg. restituendum 
+      <lb ed="#L" n="23"/>contenderet, ei ego non magnopere repugnarim. Nam si 
+      <lb ed="#L" n="24"/>in prima captiuitate Iosephum quam Rabanum sequi 
+      ma<lb ed="#L" n="25" break="no"/>lis, non equidem improbabo. Ego autem, vt ingenue 
+      lo<lb ed="#L" n="26" break="no"/>quar, nunquam mihi minus quaum in hac digressione 
+      pla<lb ed="#L" n="27" break="no"/>cui, quanquam magis adeo id argumenti difficillimi ex- 
+      <lb ed="#L" n="28"/>plicandi cupiditate, quam vlla alia culpa mea cotigit: qui 
+      <lb ed="#L" n="29"/>dum monere volo, numerorum quaestiones lubricas esse 
+      <lb ed="#L" n="30"/>atque difficiles, quod error in numeris facilis ac lubricus 
+      <lb ed="#L" n="31"/>sit, mei pene sub oblitus: fecique id repentino quasi motu 
+      <lb ed="#L" n="32"/>percitus, quod ne meditatus quidem opere ad hoc 
+      insti<lb ed="#L" n="33" break="no"/>tuto facturus eram: vt ijs de rebus, quae maximi sunt nego 
+      <lb ed="#L" n="34"/>tij, inter refellendum argumenta disputarem. Sed hoc 
+      ta<lb ed="#L" n="35" break="no"/>men cecidit mihi peropportune, quod duo decimi 
+      argu<lb ed="#L" n="36" break="no"/>menti difficultas omnis in eo numero annorum sita est,  
+      <lb ed="#L" n="37"/>qui tertio Regum libr. capit. 6. praescribitur, ab 
+      egressio<lb ed="#L" n="38" break="no"/>ne filiorum Israel de Aegypto ad templum a Solomone 
+      in<lb ed="#L" n="39" break="no"/>choatum. Est autem in omnibus exemplaribus Graecis, Latinis 
+      <!--623.xml-->
+      <pb ed="#L" n="612"/>
+               <lb ed="#L" n="1"/>&amp; Hebraeis idem omnino numerus annorum 
+      quadringen<lb ed="#L" n="2" break="no"/>torum octoginta. Quem numerum ex scribentium 
+      erro<lb ed="#L" n="3" break="no"/>re a vero esse immutatum, hisce argumentis suaderi potest. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3920">
+               <lb ed="#L" n="4"/>Primum quod Iosephus li. 
+      <lb ed="#L" n="5"/>Iudai. an. 8. cap. 3. scribit, 
+      So<lb ed="#L" n="6" break="no"/>lomonem templi fabricam  
+      <lb ed="#L" n="7"/>exorsum esse annis 
+      quingen<lb ed="#L" n="8" break="no"/>tis nonaginta duobus, 
+      post<lb ed="#L" n="9" break="no"/>uam lsraelitae ex Aegypto 
+      <lb ed="#L" n="10"/>oxcesserunt: mille vero 
+      vi<lb ed="#L" n="11" break="no"/>ginti annis postquam 
+      Abra<lb ed="#L" n="12" break="no"/>ham in Chananaeam regionem 
+      <lb ed="#L" n="13"/>e Mesopotamia migrauit. 
+      <lb ed="#L" n="14"/>Nam si quadringentis triginta, qui iuxta Exodum a 
+      mi<lb ed="#L" n="15" break="no"/>gratione Abraham ad exitum Israelitarum de Aegypto 
+      <lb ed="#L" n="16"/>interfluxerunt, quingentos nonaginta addideris ab exitu 
+      <lb ed="#L" n="17"/>ad templi aedificium coeptum: summa illa Iosephi 
+      relinque<lb ed="#L" n="18" break="no"/>tur annorum mille viginti, atque adeo &amp; vterque sibi 
+      nume<lb ed="#L" n="19" break="no"/>rus &amp; inter se vicissim ambo. constabunt. Deinde Iosephus 
+      <lb ed="#L" n="20"/>idem lib. 11. an. Iud. cap. 4. Ante Saulum &amp; Dauidem, 
+      in<lb ed="#L" n="21" break="no"/>quit, remp. Iudices administrauerunt. Qui reip. status plus 
+      <lb ed="#L" n="22"/>quam quingentis annis durauit post Moysis &amp; Iosue 
+      im<lb ed="#L" n="23" break="no"/>perium. Non ergo ab exitu lsrael de Aegypto ad initium 
+      <lb ed="#L" n="24"/>templi. 48O. solum anni intercesserunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3968">
+               <lb ed="#L" n="25"/>Praeterea, Moyses quadraginta annis imperauit. Erat 
+      <lb ed="#L" n="26"/>enim annorum octoginta cum eduxit Israel, Exod. 7. &amp;  
+      <lb ed="#L" n="27"/>centesimo vicesimo aetatis anno mortuus est. Deutr. 
+      vl<lb ed="#L" n="28" break="no"/>timo.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3979">
+               <lb ed="#L" n="29"/>Adde annos octo interregni, quibus lsraelite seruierunt 
+      <lb ed="#L" n="30"/>post mortem Iosue regi Mesopotamiae. Iudi. 3. Iosephus 
+      <lb ed="#L" n="31"/>6. lib. ant. cap. 5. scribit hos fuisse duodeuiginti. Quorum 
+      <lb ed="#L" n="32"/>octo seruitutis fuisse lib. 5. cap. 7. tradiderat. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3991">
+               <lb ed="#L" n="33"/>Othoniel iudicauit populum quadraginta annis. 
+      Iu<lb ed="#L" n="34" break="no"/>di. 3. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e3998">
+               <lb ed="#L" n="35"/>Adde duo deuinginti annos interregni, quibus 
+      seruie<lb ed="#L" n="36" break="no"/>runt regi Moab. Iudi 3. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4005">
+               <lb ed="#L" n="37"/>Aioth iudicauit populum octoginta annis. Iudi. 3. 
+      <lb ed="#L" n="38"/>Adde viginti annos interregni, quibus seruierunt regi 
+      <lb ed="#L" n="39"/>Chanaam. Iudi. 4. 
+      <!--624.xml-->
+      <pb ed="#L" n="613"/>
+               <lb ed="#L" n="1"/>Barac &amp; Debora iudicarunt populum quadraginta 
+      an<lb ed="#L" n="2" break="no"/>nis. Iudi. 5. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4023">
+               <lb ed="#L" n="3"/>Adde interregnum septem annorum sub Madian. 
+      Iu<lb ed="#L" n="4" break="no"/>dicum 6. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4030">
+               <lb ed="#L" n="5"/>Gedeon iudicauit populum quadraginta annis. 
+      Iudi<lb ed="#L" n="6" break="no"/>cum S. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4037">
+               <lb ed="#L" n="7"/>Abimelech tribus annis. Iudi. 9. 
+      <lb ed="#L" n="8"/>Thola viginti tribus annis. Iudi. 10. 
+      <lb ed="#L" n="9"/>Iair vigintiduobus annis. Iudi. 10. 
+      <lb ed="#L" n="10"/>Interregnum decem &amp; octo annorum sub Philistaeis &amp; 
+      <lb ed="#L" n="11"/>Ammonitis. Iudi. 10. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4051">
+               <lb ed="#L" n="12"/>lepte sex annis iudicauit. Iudi. 12. 
+      <lb ed="#L" n="13"/>Abesan septem annis. Iudi. 12. 
+      <lb ed="#L" n="14"/>Helon decemannis. Iudi. 12. 
+      <lb ed="#L" n="15"/>Abdon octo annis. Iudi. 12. 
+      <lb ed="#L" n="16"/>Interregnum quadraginta annorum sub Philistaeis. 
+      Iu<lb ed="#L" n="17" break="no"/>dicum i3. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4067">
+               <lb ed="#L" n="18"/>Sanson viginti annis. Iudi. 16. 
+      <lb ed="#L" n="19"/>Heli quadraginta annis. 1. Reg. 4. 
+      <lb ed="#L" n="20"/>Saul regnauit quadraginta. Acto. 13. Nam Iosephus lib.  
+      <lb ed="#L" n="21"/>6. anti. Iuda. cap. postremo ait, illum regnasse viuente 
+      Sa<lb ed="#L" n="22" break="no"/>muele annis duodeuiginti, post Samuelis mortem annis 
+      <lb ed="#L" n="23"/>viginti. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4083">
+               <lb ed="#L" n="24"/>vr 
+      <lb ed="#L" n="25"/>Dauid regnauit annis quadraginta. 2. Reg. 5. &amp; 1. 
+      Pa<lb ed="#L" n="26" break="no"/>ralip. 3. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4092">
+               <lb ed="#L" n="27"/>Solomon quarto anno regni sui templi fabricam 
+      coe<lb ed="#L" n="28" break="no"/>pit. 3. Reg. 6. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4099">
+               <lb ed="#L" n="29"/>Qui in summam redacti faciunt numerum 
+      quingento<lb ed="#L" n="30" break="no"/>rum septuaginta quatuor annorum. Quibus si adijcias 
+      an<lb ed="#L" n="31" break="no"/>nos Iosue Sagar &amp; Samuelis, interregnum quoque, quod 
+      <lb ed="#L" n="32"/>inter Sanson &amp; Heli fuisse scriptura dicit, maior vtique 
+      <lb ed="#L" n="33"/>summa quam illa Iosephi conficietur. Plures igitur quam  
+      <lb ed="#L" n="34"/>4S0. anni ab excessu ssracl de Aegypto, ad templi 
+      fabri<lb ed="#L" n="35" break="no"/>cam intercesserunt. Mendum itaque in hoc scripturae 
+      lo<lb ed="#L" n="36" break="no"/>co inest, suntque proinde ad veram rationem codices 
+      He<lb ed="#L" n="37" break="no"/>braici, Graeci, &amp; Latini corrigendi. Adhaec, si Graeca 
+      <lb ed="#L" n="38"/>omnia exemplaria fidem aliquam faciunt, vt in eiusmodi 
+      <lb ed="#L" n="39"/>rebus ambiguis &amp; numerorum ratione controuersa. 
+      ae<lb ed="#L" n="40" break="no"/>quum est, Paulus certe post terram Chanaam filijs Israel 
+      <!--625.xml-->
+      <pb ed="#L" n="614"/>
+               <lb ed="#L" n="1"/>sorte distributam tempus Iudicum vsque ad Samuel, 
+      qua<lb ed="#L" n="2" break="no"/>dringentis quinquaginta annis, non multo secus 
+      defini<lb ed="#L" n="3" break="no"/>uit. Sic enim Graeca habent. V1oSeop Edun E Ha 
+      <lb ed="#L" n="4"/>SM 2oyodp vo RrAupodorurep Surois Tlu vsip Sus 
+      <lb ed="#L" n="5"/>P. MO Aero roumro es Eregi rerggrogiois nol 
+      Soo<lb ed="#L" n="6" break="no"/>Hiuorro ed oonep ugrros, Eos oougnR Vm agoprou. 
+      <lb ed="#L" n="7"/>Quae Erasmus ita conuertit, &amp; deletis gentibus septem, in 
+      <lb ed="#L" n="8"/>terra Chanaam sorte distribuit eis terram eorum. Et post 
+      <lb ed="#L" n="9"/>haec annis circiter quadringentis quinquaginta, dedit 
+      lu<lb ed="#L" n="10" break="no"/>dices vsqe ad Samuel prophetam. In eundem sensum 
+      Pa<lb ed="#L" n="11" break="no"/>gninus vertit, caeterique iuniores omnes interpretes. Nec 
+      <lb ed="#L" n="12"/>enim Graeca illa aliter reddi possunt. Quod si quadrin 
+      <lb ed="#L" n="13"/>
+               <!-- figure on this line -->
+               <lb ed="#L" n="14" break="no"/>getis quimquaginta annis, quos Paulus Iudicibus a 
+      distri<lb ed="#L" n="15" break="no"/>putione terrae ad Samuelem impartitur, addamus Moysis 
+      <lb ed="#L" n="16"/>quadraginta, Saul item quadraginta, Dauid quoque alios qua 
+      <lb ed="#L" n="17"/>draginta, &amp; quatuor denique Solomonis: eandem profecto 
+      <lb ed="#L" n="18"/>summa conficiemus cum ea, quae paulo ante e certis scriptu 
+      <lb ed="#L" n="19"/>rae testimonijs confecta est, quingentorum septuaginta 
+      qua<lb ed="#L" n="20" break="no"/>tuor annorum: vt nouum testamentum veteri omnino 
+      con<lb ed="#L" n="21" break="no"/>rentiat. Sed ait Caietanus, Graeca omnia exemplaria &amp; 
+      La<lb ed="#L" n="22" break="no"/>tina esse vitiata: &amp; Graece rgicnogiois non rae reonogiorae 
+      <lb ed="#L" n="23"/>Latine tercentis non quadringetis esse legendum. Qui fice 
+      <lb ed="#L" n="24"/>Euincitur, inquit, quoniam alias non constabit numerus 
+      <lb ed="#L" n="25"/>annorum, quem tertius liber Reg. c. 6. definit. Scilicet, quasi 
+      <lb ed="#L" n="26"/>no in hoc controuersia sit, an ille numerus an hic scribetium 
+      <lb ed="#L" n="27"/>errore sit inductus. Numero sane tertij libri Regum 
+      reli<lb ed="#L" n="28" break="no"/>quae omnes scripturae dissentiunt. Numero Actorum 
+      Apo<lb ed="#L" n="29" break="no"/>stolicorum scripturae consonant omnes. Non ergo hic sed 
+      <lb ed="#L" n="30"/>ille numerus vitio librariorum est corruptus. 
+      <lb ed="#L" n="31"/> Confirmat autem hanc sententiam illud tandem, quod 
+      <lb ed="#L" n="32"/>qui contrariam tueri volunt, numerumque illum 
+      quadrin<lb ed="#L" n="33" break="no"/>gentorum octoginta annorum retinere: ij tantum 
+      abfur<lb ed="#L" n="34" break="no"/>ditatum in supputatione sua faciunt, vt vix audiri sine 
+      <lb ed="#L" n="35"/>aurium molestia possint. Nicolaus porro &amp; Abulensis, 
+      <lb ed="#L" n="36"/>qui in scripturae explanatione habentur insignes, vt 
+      sum<lb ed="#L" n="37" break="no"/>ma illis. 4S0. annorum iusta constituatur, primum aiunt,  
+      <lb ed="#L" n="38"/>annos Iosue minime computandos, sed in Othonielis 
+      <!--626.xml-->
+      <pb ed="#L" n="615"/>
+               <lb ed="#L" n="1"/>quadraginta includendos. Eodemque modo de 
+      Samue<lb ed="#L" n="2" break="no"/>le iudicant, cuius annos similiter intraquadraginta 
+      Sau<lb ed="#L" n="3" break="no"/>lis includunt. Mox addunt, annos quibus Iudaei 
+      seruie<lb ed="#L" n="4" break="no"/>runt regi Mesopotamiaes, alijsque postea sequenti tempore 
+      re<lb ed="#L" n="5" break="no"/>gibus eis annis includi, quibus terra quicuisse dicitur, vel 
+      <lb ed="#L" n="6"/>etiam Iudex hic aut ille lsraelitis praefuisse. Vnum solum 
+      <lb ed="#L" n="7"/>annorum duodeuiginti interregnum in computationem 
+      <lb ed="#L" n="8"/>asciscunt, vt cum tribus annis Solomonis sunimam. 4 S0.  
+      <lb ed="#L" n="9"/>annorum suo belle arbitratu conficiant. Sed, vt dixi, 
+      <lb ed="#L" n="10"/>haec computandi ratio multum omnino absurditatis 
+      ha<lb ed="#L" n="11" break="no"/>bet. Vt enim omittam alia, ne in re nota &amp; perspicua 
+      <lb ed="#L" n="12"/>multus &amp; insolens sim, illud ante omnia expediri 
+      velim<lb ed="#L" n="13" break="no"/>ecquo pacto interrennorum anni in eos redigi valeant &amp;  
+      <lb ed="#L" n="14"/>contrahi, quibus sub Iudicibus terra a praelijs dicitur  
+      <lb ed="#L" n="15"/>quieuisse? Sane in interregnis aut perpetuum Iudaeis bellum 
+      <lb ed="#L" n="16"/>contra inimicos fuit, aut seruitus sine Iudice misera, res 
+      <lb ed="#L" n="17"/>afflictae, turbata omnia, nulla quies. 
+      <lb ed="#L" n="18"/>Praeterea, ecquid de quadraginta annorum interregno 
+      <lb ed="#L" n="19"/>isti dicturi sunt, quod inter Abdonem &amp; Sansonem 
+      scri<lb ed="#L" n="20" break="no"/>ptura commemorat? An. 4O. illos annos in Sansonis 
+      <lb ed="#L" n="21"/>viginti inclusuri sunt: An potius in Abdonis octo? 
+      Prae<lb ed="#L" n="22" break="no"/>terea, cur vnicum interregnum annorum decem &amp; octo 
+      <lb ed="#L" n="23"/>accipiunt, reijciunt caetera? Quod si causam reddere 
+      <lb ed="#L" n="24"/>ne vnam quidem idoneam possunt, sane aut interregnum 
+      <lb ed="#L" n="25"/>hoc cum caeteris abijciant, &amp; summa erit minor: aut cum 
+      <lb ed="#L" n="26"/>hoc, vt par est, admittant reliqua : &amp; summa erit maior.  
+      <lb ed="#L" n="27"/>Adhaec, liber Iudicum explicate docet, terram duce Iuda, 
+      <lb ed="#L" n="28"/>qui successit Iosuae, minime quieuisse: sed multis bellis 
+      <lb ed="#L" n="29"/>fuisse agitatam, quibus Chananaei ac Pherezaei victi 
+      op<lb ed="#L" n="30" break="no"/>pressique fuerunt. Nam ductum Iosue praelijs 
+      fre<lb ed="#L" n="31" break="no"/>quentibus turbulentum extitisse, Iosue liber ipse 
+      ma<lb ed="#L" n="32" break="no"/>nifestat. Cum vero rex Mesopotamiae, Iosue Iudaque 
+      de<lb ed="#L" n="33" break="no"/>sunctis, filios Israel pugna vicerit, octoque annis 
+      serui<lb ed="#L" n="34" break="no"/>re coegerit, tunc tempora pacata, quietamque terram 
+      <lb ed="#L" n="35"/>describere, prorsus est a sensu communi alienum. 
+      <lb ed="#L" n="36"/>Quod si annos Iosue ac Iudae, illos quoque, quibus rex 
+      <lb ed="#L" n="37"/>Mesopotamiae lsraelitas expugnauit &amp; oppressit, in id 
+      tem<lb ed="#L" n="38" break="no"/>poris trahas, quo terra quieuisse dicitur: nonne turbidos 
+      <lb ed="#L" n="39"/>&amp; inquieros annos cum tranquillis, quietisque confundes? 
+      <!--627.xml-->
+      <pb ed="#L" n="616"/>
+               <lb ed="#L" n="1"/>Nonne etiam scripturae sacrae in aperta narratione vim  
+      <lb ed="#L" n="2"/>afferes manifestam? Illa nimirum non obscure refert, post 
+      <lb ed="#L" n="3"/>mortem Iosue, post Chananaeos Pherezeosque deuictos,  
+      <lb ed="#L" n="4"/>post filios Israel per Othonielem a seruitute liberatos,  
+      <lb ed="#L" n="5"/>terram quadragintaannis quieuisse. Quid Paulus? An no 
+      <lb ed="#L" n="6"/>post Samulem quadraginta annos Saulis regno 
+      imparti<lb ed="#L" n="7" break="no"/>tur? Qua ergo ratione Samuelis annos, in annis Saulis 
+      in<lb ed="#L" n="8" break="no"/>cludemus? quos triginta octo fuisse Iosephus prodit, 
+      fuis<lb ed="#L" n="9" break="no"/>se quadraginta prodit Paulus. I 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4329">
+               <lb ed="#L" n="10"/>Nulla ergo ratione, vt videtur, numerus ille 
+      quadrin<lb ed="#L" n="11" break="no"/>gentesimus octogesimus defendi potest. Ab eo siquidem  
+      <lb ed="#L" n="12"/>tempore, quo filij Isracl terram promissionis incolere 
+      ha<lb ed="#L" n="13" break="no"/>bereque coeperunt, ad primum Iepteannum trecentos 
+      <lb ed="#L" n="14"/>interfluxisse testis est Iepte ipse locupletissimus. 
+      Tre<lb ed="#L" n="15" break="no"/>centis si addas quadraginta, quibus populus moram 
+      <lb ed="#L" n="16"/>in deserto fecit, ac viginti annos Samuelis, qui ex primo  
+      <lb ed="#L" n="17"/>libro Regum a quibusdam colliguntur, illos demum, quos 
+      <lb ed="#L" n="18"/>Iepte ad quartum annum Solomonis ante numerauimus: 
+      <lb ed="#L" n="19"/>eadem omnino summa constitueretur, quae bis supra 
+      con<lb ed="#L" n="20" break="no"/>stituta est, quingentorum septuagintaquatuor annorum. 
+      <lb ed="#L" n="21"/>vt quoquo te vertas, &amp; siue ex temporibus 
+      interregno<lb ed="#L" n="22" break="no"/>rum ac Iudicum singulorum, siue ex Pauli calculo atque 
+      <lb ed="#L" n="23"/>ratione, siue ex Iepte testimonio &amp; inculpatae defensionis 
+      <lb ed="#L" n="24"/>iudicio, verum certumque annorum numerum ab excessu 
+      <lb ed="#L" n="25"/>lsrael de Aegypto ad templi fabricam efficere pertentes: 
+      <lb ed="#L" n="26"/>semper eundem illum inuenias quingentesimum 
+      septua<lb ed="#L" n="27" break="no"/>vesimumquartum. Porro autem qui numeri cuiusque sum 
+      <lb ed="#L" n="28"/>mam exigue nimis &amp; exiliter ad calculos reuocare 
+      cu<lb ed="#L" n="29" break="no"/>iunt, hi numerum eum Verissimum ac rectissimum censent.  
+      <lb ed="#L" n="30"/>quem plurimis confectis rationibus vndique constantem, 
+      <lb ed="#L" n="31"/>cohaerentem, consentaneum, sibi caeterisque reperiunt, qui 
+      <lb ed="#L" n="32"/>saepe in vnum collati eandem prorsus summam efficiunt.  
+      <lb ed="#L" n="33"/>His argumentis numerus ille. 3. lib. Reg. infirmari potest: 
+      <lb ed="#L" n="34"/>qui tamen non modo omnibus exemplaribus, sed vniuer 
+      <lb ed="#L" n="35"/>sis auctoribus Latinis, Graecis, Hebraeis consentientibus 
+      <lb ed="#L" n="36"/>confirmatur. Verum enimuero inmumeri huius summa 
+      <lb ed="#L" n="37"/>tuenda &amp; conseruanda vix reperias praesidium aliquod 
+      <lb ed="#L" n="38"/>omni ex parte munitum. Eusebius etenim, qui sine 
+      cotro<lb ed="#L" n="39" break="no"/>ruersia in ratione temporum diligentissimus est, hanc sum 
+      <!--628.xml-->
+      <pb ed="#L" n="617"/>
+               <lb ed="#L" n="1"/>sam A8O. annorum defendit quidem, sed ita defendit 
+      <lb ed="#L" n="2"/>tamen, vt defensionis ratio negsecta esse videatur. 
+      Prin<lb ed="#L" n="3" break="no"/>cipio nanque decem annos Helon e quadringentesimo  
+      <lb ed="#L" n="4"/>octogesimo numero exemit, quoniam septuaginta 
+      inter<lb ed="#L" n="5" break="no"/>pretes ait illum Iudicem omisisse. Quare coactus fuit 
+      vi<lb ed="#L" n="6" break="no"/>gintiseptem annes Iosue administrationi dare, vt 
+      qua<lb ed="#L" n="7" break="no"/>dringentesimus octogesimus expleretur. Quod si decem 
+      <lb ed="#L" n="8"/>annos Helon in ASo. numero includeret, cum Iosue 
+      vi<lb ed="#L" n="9" break="no"/>gintiseptem attribuerit, doo. annorum summa 
+      confice<lb ed="#L" n="10" break="no"/>retur. Incidit autem in codices mendosiores. Nam 
+      com<lb ed="#L" n="11" break="no"/>plutenses eum Iudicem in 7O. versione habent. Codex 
+      <lb ed="#L" n="12"/>quoque fuit illi similiter deprauatus in tempore, quo 
+      iu<lb ed="#L" n="13" break="no"/>xta 7O. Heli populum iudicauit. Scribit enim in 7O. 
+      in<lb ed="#L" n="14" break="no"/>terpretatione viginti annos inueniri. Atqui in Hispaniensi 
+      <lb ed="#L" n="15"/>TcOOogaentoyro, id est, quadraginta reperiuntur. Quem 
+      <lb ed="#L" n="16"/>Eusebii errorem saepe sum admiratus. Si enim 7O. 
+      inter<lb ed="#L" n="17" break="no"/>pretationem sequi libuit, cur quemadmodum decem 
+      an<lb ed="#L" n="18" break="no"/>nos Helon, ita &amp; Heli viginti non ademit? Quod si visum 
+      <lb ed="#L" n="19"/>est Heli annos 4o. retinere, cur decem Helon a numero 
+      <lb ed="#L" n="20"/>exemit: Illud etiam incommodi Eusebio accidit, quod 
+      <lb ed="#L" n="21"/>cum interregna omnia posteriorum Iudicum temporibus 
+      <lb ed="#L" n="22"/>includeret, videretque ex illis quaedam antecedentia 
+      in<lb ed="#L" n="23" break="no"/>eptissime sequentibus copulari: eam rem traditionibus 
+      <lb ed="#L" n="24"/>Hebraeorum attribuit, ne ipse rei perabsurdae primus esse 
+      <lb ed="#L" n="25"/>auctor videretur. Circa annos vero Samuelis ac Saulis 
+      <lb ed="#L" n="26"/>eodem in luto cum caeteris haeret. Ambobus enim non  
+      <lb ed="#L" n="27"/>plures quam quadraginta annos assignat. At totidem 
+      Pau<lb ed="#L" n="28" break="no"/>lus soli Sauli impartitur: Iosephus aut Samueli soli 
+      duo<lb ed="#L" n="29" break="no"/>decim, regnate Saule duodeuiginti : Sauli post Samuelis 
+      <lb ed="#L" n="30"/>mortem viginti. Quo in loco Beda magna me 
+      admiratio<lb ed="#L" n="31" break="no"/>ne afficit, primum quod sermonem permittit Paulo cum 
+      vul<lb ed="#L" n="32" break="no"/>gare, tum etiam falsum. Deinde quod ante Samuele 
+      trecen<lb ed="#L" n="33" break="no"/>tos nonaginta sex annos Iudices praefuisse eorum librum 
+      in<lb ed="#L" n="34" break="no"/>dicare afferit: cum in Iudicum libro non nisi trecenti 
+      triginta<lb ed="#L" n="35" break="no"/>nouem reperiantur. Quare ad explendam summa illam necesse 
+      <lb ed="#L" n="36"/>est Moysis quadraginta annos apponas, Iosue vero 
+      sep<lb ed="#L" n="37" break="no"/>tendecim. At Iosue septendecim non ex historiae aut 
+      di<lb ed="#L" n="38" break="no"/>uinae aut humanae veritate, sed ex eorum opinione solum 
+      <lb ed="#L" n="39"/>habentur, qui ad summam illam A8o. annorum numeros 
+      <!--629.xml-->
+      <pb ed="#L" n="618"/>
+               <lb ed="#L" n="1"/>quoslibet reuocare pergunt : idque vt faciant, non 
+      dubi<lb ed="#L" n="2" break="no"/>tant historias omnes contra venire. Quid, quod Iosephum 
+      <lb ed="#L" n="3"/>Beda ait Samueli annos viginti, Sauli totide alios 
+      impar<lb ed="#L" n="4" break="no"/>tiri? Cum quinquaginta ambobus sine duliio 
+      impartia<lb ed="#L" n="5" break="no"/>tur, quemadmodum e locis ante citatis manifestissime 
+      <lb ed="#L" n="6"/>constat. Caietanus porro via longe diuersissima 
+      ingres<lb ed="#L" n="7" break="no"/>sus est. Nam quadraginta annos quidem soli Sausi 
+      di<lb ed="#L" n="8" break="no"/>stribuit: sed vt summa illi 4So. annorum constet, Iosue 
+      <lb ed="#L" n="9"/>annos decem, septem vero Samueli dispertit. Quod 
+      prae<lb ed="#L" n="10" break="no"/>ter historiae fidem suo solum arbitrio facit. Quid igitur? 
+      <lb ed="#L" n="11"/>semper ego alienarum opinionum relator tantum: 
+      Nun<lb ed="#L" n="12" break="no"/>quam ne repona: Sane, &amp; de meo aliquid exoluere lectori 
+      <lb ed="#L" n="13"/>debeo, si quid tamen probati nummi exolui possit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4519">
+               <lb ed="#L" n="14"/>Primum autem non existimo, aut fidei aut religionis 
+      <lb ed="#L" n="15"/>quaestionem esse, Num 3. 8O. iste annorum numerus, qui 
+      <lb ed="#L" n="16"/>in codicibus peruulgatis reperitur, librariorum vitio 
+      scri<lb ed="#L" n="17" break="no"/>ptus sit: an potius idem ab auctore sacro in suo 
+      exem<lb ed="#L" n="18" break="no"/>plari positus. Ostendimus enim errorem in numeris 
+      pro<lb ed="#L" n="19" break="no"/>ptissimum esse atque facillimum. Ostendimus numeros 
+      <lb ed="#L" n="20"/>quosdam in libris sacris exscribentium errore vitiatos. 
+      <lb ed="#L" n="21"/>Ostendimus denique multas esse causas, cur hic, de quo 
+      <lb ed="#L" n="22"/>agimus. 4S0. annorum numerus corrupte esse in ductus 
+      <lb ed="#L" n="23"/>videatur. Atque Iosephus &amp; Sabellicus, Hebraeus vnus, 
+      La<lb ed="#L" n="24" break="no"/>tinus alter, cum locum illum ex 3. lib. re. c. 6. referrent, non 
+      <lb ed="#L" n="25"/>48O. annos, sed multo plures posuerunt. Incredibile 
+      au<lb ed="#L" n="26" break="no"/>tem videtur esse, Iosephum, si omnia Hebraea exemplaria 
+      <lb ed="#L" n="27"/>48O. numerum habuissent, ab illo certo ac praescripto 
+      <lb ed="#L" n="28"/>numero discessurum. Nec Hugo cardinalis, cum 
+      senten<lb ed="#L" n="29" break="no"/>tiam Iosephi retulisset, eam reprobandam censuit. Non 
+      <lb ed="#L" n="30"/>igitur si quispiam dicat, ab egressione filiorum Israel de 
+      <lb ed="#L" n="31"/>Aegypto ad templum incoeptum, quingentos annos, &amp;  
+      <lb ed="#L" n="32"/>eo amplius interfluxisse, protinus refellendus est, quasi ea 
+      <lb ed="#L" n="33"/>res ad fidem religionem ve pertineat. Illud deinde 
+      sen<lb ed="#L" n="34" break="no"/>tio, interregnorum annos vere inter annos Iudicum 
+      ef<lb ed="#L" n="35" break="no"/>fluxisse. Itaque non esse, quod Hebraei falso tradunt, in 
+      <lb ed="#L" n="36"/>temporibus vel priorum vel posteriorum Iudicum 
+      com<lb ed="#L" n="37" break="no"/>putandos. Quocirca Iosepus, quoniam non ea solum 
+      <lb ed="#L" n="38"/>tempora, quibus Iudices praefuere, conputare voluit, sed illa 
+      <lb ed="#L" n="39"/>etiam, quae in interregnis sine Iudice fluxerunt, vere sum¬ 
+      <!--630.xml-->
+      <pb ed="#L" n="619"/>
+               <lb ed="#L" n="1"/>mam quingentorum nononaginta confecit annorum. At 
+      au<lb ed="#L" n="2" break="no"/>ctor libri regum interregnorum annis omissis, eos tantum 
+      <lb ed="#L" n="3"/>redegit in numerum, quos intellexit, dum Iudices 
+      admini<lb ed="#L" n="4" break="no"/>strarent, intercessisse. Anni ergo plures ab eo, quo Ifrael 
+      <lb ed="#L" n="5"/>excessit de Aegypto, ad templi initia fluxere. Sed ducum, 
+      <lb ed="#L" n="6"/>iudicum, &amp; regum non siuxere, nisi quadringenti 
+      octo<lb ed="#L" n="7" break="no"/>ginta. Aduertendum quoque ex iis, qui populo a Moyse ad 
+      <lb ed="#L" n="8"/>Solomonem praefuerunt, quatuor esse, quorum tempora nusqua 
+      <lb ed="#L" n="9"/>scriptura vetus denotarit Nempe Iosue, Sangar, Samuel, 
+      <lb ed="#L" n="10"/>Saui. Nam reliquorum omnium certus annorum numerus 
+      <lb ed="#L" n="11"/>in ipsis est testamenti veteris libris designatus? E quibus 
+      <lb ed="#L" n="12"/>summa colligitur annorum 4i9. His si Solomonis adiumgas 
+      <lb ed="#L" n="13"/>tres, 4. enim anno templum fabricare coepit, reliqui erunt 
+      <lb ed="#L" n="14"/>anni 58. quos Iosue, Sangaro, Samueli, Saulique dispertias. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4613">
+               <lb ed="#L" n="15"/>Ac Sangar quidem, quoniam nondum vertente anno 
+      <lb ed="#L" n="16"/>munere simul ac vita defunctus est, merito ab huius 
+      nu<lb ed="#L" n="17" break="no"/>meri summa eximitur. Cum vero Sauli Paulus 
+      impertie<lb ed="#L" n="18" break="no"/>rit quadraginta, dubium non erit, quin decem &amp; octo 
+      <lb ed="#L" n="19"/>sint inter Iosue &amp; Samuelem distribuendi. At decem ne 
+      <lb ed="#L" n="20"/>ex his Iosue, reliquos autem Samueli assignare oporteat, I 
+      <lb ed="#L" n="21"/>an contra pauciores Iosue, Samueli plures, de hac re 
+      du<lb ed="#L" n="22" break="no"/>bitari potest. Caietano illud placuit, mihi etiam idem 
+      vi<lb ed="#L" n="23" break="no"/>sum est. Quoniam Iosepho aliisque probatis historicis lo¬ s 
+      <lb ed="#L" n="24"/>gior Ductus Iosue fuit, que Samuelis Iudicatus. Nec no¬¬ 
+      <lb ed="#L" n="25"/>strae huic opinioni contrarium est, Arcam sub Samuelis 
+      <lb ed="#L" n="26"/>tempora in Cariathiarim viginti annis permansisse. Non  
+      <lb ed="#L" n="27"/>enim his viginti annis, quod quidam falso existimarunt,  
+      <lb ed="#L" n="28"/>Samuel plebis Israeliticae iudex erat, sed propheta. Quin A 
+      <lb ed="#L" n="29"/>scriptura ipsa satis, nisi ego fallor, aperte significat: post i 
+      <lb ed="#L" n="30"/>vicesimum illum annum coepisse a Samuele populum 
+      <lb ed="#L" n="31"/>iudicari. In Iosue autem tempore computando, ita 
+      <lb ed="#L" n="32"/>magna auctorum varietas, &amp; discrepantia est, vt nullas 
+      <lb ed="#L" n="33"/>ex parte historiae labefactetur auctoritas: si vbi variae 
+      <lb ed="#L" n="34"/>sunt historicorum discrepantesque sententiae, ibi nulla 
+      <lb ed="#L" n="35"/>eorum premi nos vrgerique patiamur. Iosephus 
+      Gele<lb ed="#L" n="36" break="no"/>nio interprete, Iosue vigintiquinque annos 
+      annume<lb ed="#L" n="37" break="no"/>rat. Eusebius viginti septem. Beda, Ioannes Lucidus, 
+      <lb ed="#L" n="38"/>aliique nonnulli, septemdecim impertiunt. Caietanus 
+      <lb ed="#L" n="39"/>decem. Quamobrem cum nos decem &amp; octo Iosue 
+      <!--631.xml-->
+      <pb ed="#L" n="620"/>
+               <lb ed="#L" n="1"/>Samuelique dispertiendos dicimus, nihil sane absurdi 
+      di<lb ed="#L" n="2" break="no"/>cimus. Quanquam ratio subest, vt sine scripturae 
+      verita<lb ed="#L" n="3" break="no"/>tisque, discrimine octo aut nouem alios annos his duobus 
+      <lb ed="#L" n="4"/>iudicibus adiungamus. Quid ita? Nonne hisce vel octo 
+      <lb ed="#L" n="5"/>vel nouem adiunctis anni plures quam 4 So. efficientur? 
+      <lb ed="#L" n="6"/>Efficientur vtique. Falsum ergo erit, inquies, anno ASo.  
+      <lb ed="#L" n="7"/>ex eo, quo Israel de Aegypto exiit, templum aedificari 
+      <lb ed="#L" n="8"/>coeptum. Minime gentium. Quin vtrunque verum esse 
+      <lb ed="#L" n="9"/>nihil obstat. Scriptura enim minutos numeros praeterire 
+      <lb ed="#L" n="10"/>aliquando solet. Cuius rei exemplum paulo ante 
+      po<lb ed="#L" n="11" break="no"/>suimus ex 4. regum libr. capit. 24. Vbi decem mille 
+      Iu<lb ed="#L" n="12" break="no"/>daei dicuntur esse translati: quibus tamen Iosephus 
+      <lb ed="#L" n="13"/>octingentos trigintaduos adiecit, imo &amp; Hieremias,  
+      <lb ed="#L" n="14"/>quemadmodum est nobis supra explicatum. Atque 
+      <lb ed="#L" n="15"/>scriptura Ionae post 4o. dies ita Niniue subuertendam: 
+      <lb ed="#L" n="16"/>&amp; tamen septuaginta interpretes 43. Graecis literis 
+      pro<lb ed="#L" n="17" break="no"/>diderunt, qui reuera ab initio praedicationis Ionae 
+      com<lb ed="#L" n="18" break="no"/>putantur, hos vere tres sacer auctor omisit, qui a toto 
+      tri<lb ed="#L" n="19" break="no"/>duo illa semper verba propheta intonabat, Adhuc 40.  
+      <lb ed="#L" n="20"/>dies, &amp;c. Quamuis ab initio, si Niniue subuerteretur,  
+      <lb ed="#L" n="21"/>43. erant interfluxuri. Quod autem a3. dies septuaginta 
+      <lb ed="#L" n="22"/>interpretes scripserint, auctor est Iustinus in dialogo 
+      <lb ed="#L" n="23"/>cum Tryphone. Quia vero Augustinus non 43. sed 3. 
+      <lb ed="#L" n="24"/>solum legit, difficulter se ex hac qe extricauit, Ii. 18. de 
+      ci<lb ed="#L" n="25" break="no"/>uita. cap. 44. Quae eadem causa erroris Hieronymo fuit. 
+      <lb ed="#L" n="26"/>Si enim in 7O. non triduum, sed 43. dies ipse legisset, 
+      om<lb ed="#L" n="27" break="no"/>nis admirandi occasio cessasset. Sic ergo licet plures 
+      fue<lb ed="#L" n="28" break="no"/>rint, quam 48O. anni, quia tamen non ad 49O. accesserunt: 
+      <lb ed="#L" n="29"/>recte suo more scriptura dixit, annos 48O. interfluxisse. 
+      <lb ed="#L" n="30"/>Id si probabile est, vt est certe, iam viginti septem annos 
+      <lb ed="#L" n="31"/>Iosue &amp; Samueli poterimus impartiri. Samueli decem, 
+      sep<lb ed="#L" n="32" break="no"/>tendecim Iosue, quos huic Beda aliique viri graues 
+      imper<lb ed="#L" n="33" break="no"/>tierunt. Sed valeant istae numerorum tetricae salebrosaeque 
+      <lb ed="#L" n="34"/>quaestiones: in quibus poteram ignorantiam meam 
+      simplici<lb ed="#L" n="35" break="no"/>ter confiteri, &amp; omne curiosorum hominum desiderium 
+      com<lb ed="#L" n="36" break="no"/>temnere. At leuioris culpae arbitratus sum, in explicanda 
+      <lb ed="#L" n="37"/>difficillima argumer : atione tam multa fuse, quam 
+      omni<lb ed="#L" n="38" break="no"/>no nihil dicere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4756">
+               <lb ed="#L" n="39"/>Tertiumdecimun rgumentum parua difficultate nos 
+      <!--632.xml-->
+      <pb ed="#L" n="621"/>
+               <lb ed="#L" n="1"/>lmplicat. Nec enim historias omneis tueri est animus, quae 
+      <lb ed="#L" n="2"/>passim in ecclesia lectitantur. Video tantum vulgi non solum 
+      <lb ed="#L" n="3"/>in laicis, sed in ecclesiasticis etiam esse, vt eas quoque 
+      fabu<lb ed="#L" n="4" break="no"/>las oppido que libenter excipiant, quas iam diu ecclesia ex- 
+      <lb ed="#L" n="5"/>plosit. In his certe pontificum non diligentia modo, verum  
+      <lb ed="#L" n="6"/>etiam prudentia desideratur. Quidam nanque dum reduuiam curant, 
+      <lb ed="#L" n="7"/>capiti inconmodant. Videlicet historias graues pro 
+      apo<lb ed="#L" n="8" break="no"/>cryphis reddunt quidem, sed diuinum ecclesiae officium vsque 
+      <lb ed="#L" n="9"/>eo praeter solitum immutant, vt vix vlla antiquae 
+      religio<lb ed="#L" n="10" break="no"/>nis formam in cotidianis precibus relicta esse videatur. 
+      <lb ed="#L" n="11"/>Qua ex reque multa &amp; magna mala ecclesiae Dei accidant,  
+      <lb ed="#L" n="12"/>non est huius loci, &amp; temporis dicere. Sod esto, quaedam in 
+      pu<lb ed="#L" n="13" break="no"/>blicis ecclesiae precibus habeantur ambigua, quaedam etiam 
+      <lb ed="#L" n="14"/>falsa. Num idcirco historiis ecclesiae omnibus fidem abrogare 
+      <lb ed="#L" n="15"/>perges, quod nonnullae earum sint vulgo iactatae &amp; creditae, 
+      <lb ed="#L" n="16"/>in quibus, praesertim quoties de miraculis incidit sermo,  
+      <lb ed="#L" n="17"/>ficta reperias fortasse plura, que iure ac merito 
+      reprobem<lb ed="#L" n="18" break="no"/>tur? Mihi profecto illud Gelasii consilium placet, vt cum 
+      <lb ed="#L" n="19"/>huius generis historias catholici legerint, beati Pauli 
+      <lb ed="#L" n="20"/>sententia praecedat, Omnia probate, quod bonum est 
+      te<lb ed="#L" n="21" break="no"/>nete. Atqui irridere episcopos, de Theologis scholae 
+      lu<lb ed="#L" n="22" break="no"/>dere, in monachorum imperitiam insultare, quasi fabulas 
+      hu<lb ed="#L" n="23" break="no"/>iusmodi ventris gratia rudi vulgo inferant &amp; intrudant : haec 
+      <lb ed="#L" n="24"/>non puto equidem hominis ingenui esse, qui ad bonitatem fue 
+      <lb ed="#L" n="25"/>rit a natura conpositus, nedum eius quem Christus simplice 
+      <lb ed="#L" n="26"/>sicut columbam ad legem euangelii formauerit. Quod si 
+      <lb ed="#L" n="27"/>ex quibusdam fictis falsisque narrationibus historias 
+      gen<lb ed="#L" n="28" break="no"/>tium estimemus, nulla omnino erit, quam non similiter 
+      illu<lb ed="#L" n="29" break="no"/>damus. Id si hominum imprudentium, atque adeo stultorum est: 
+      <lb ed="#L" n="30"/>maneat, diuorum gesta, quae in ecclesia legi solent, 
+      despi<lb ed="#L" n="31" break="no"/>ci nullo modo oportere. Quanquam nonnulla ex his 
+      in<lb ed="#L" n="32" break="no"/>certa sunt, apocrypha, leuia, falsa. Nam &amp; pleraque 
+      credi<lb ed="#L" n="33" break="no"/>bilia ac vera sunt, quedam etiam certa. De tertio decimo  
+      <lb ed="#L" n="34"/>autem argumento hactenus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4839">
+               <lb ed="#L" n="35"/>In quartidecimi argument i responsionem multa sunt 
+      <lb ed="#L" n="36"/>breuissime animaduertenda. Primum in maximo illi 
+      <lb ed="#L" n="37"/>errore versantur, qui rerum gestarum memorias tanquam 
+      <lb ed="#L" n="38"/>ecclesiae oracula accipiunt, si eas in epistolis, &amp; decretis suis 
+      <lb ed="#L" n="39"/>pontifices aliquando vsurparint. No est idem, mihi crede, 
+      <!--633.xml-->
+      <pb ed="#L" n="622"/>
+               <lb ed="#L" n="1"/>historiae approbatio &amp; vsurpatio. Vtitur quidem 
+      inter<lb ed="#L" n="2" break="no"/>dum pontifex, si quicquam suadere cupit, receptis 
+      opini<lb ed="#L" n="3" break="no"/>onibus, sententiis, rebuso, vulgatis: at non continuo 
+      quae<lb ed="#L" n="4" break="no"/>cunque in hunc vsum attulerit, ea sedis apostolicae iudicio 
+      <lb ed="#L" n="5"/>probat. Aliud quippe est suadentis munus, aliud 
+      diffinien<lb ed="#L" n="6" break="no"/>tis. Qui pronunciat, res veras ille adfert: qui suadet, 
+      non<lb ed="#L" n="7" break="no"/>nunqe etiam veresimiles. Audiebam de praeceptore meo puer, 
+      <lb ed="#L" n="8"/>nullum oino argumentum esse negligendum, in quo aliqua 
+      si<lb ed="#L" n="9" break="no"/>gnificatio veritatis appareat. Amplectendum autem esse ita 
+      <lb ed="#L" n="10"/>vnumquodque maxime, vt quodque ad faciendam fidem erit 
+      <lb ed="#L" n="11"/>aptissimum. Ad cuius praecepti forma non modo dialectici 
+      <lb ed="#L" n="12"/>&amp; oratores, sed veteres etiam theologi suas disputationes 
+      <lb ed="#L" n="13"/>effinxerunt. Nam in causam suam quisque &amp; quibuslibet 
+      <lb ed="#L" n="14"/>argumentis quandoque abusi sunt, &amp; vulgi etiam 
+      credu<lb ed="#L" n="15" break="no"/>litate. Itaque imprudentium hominum erit, historias quasuis 
+      <lb ed="#L" n="16"/>obiter etiam, &amp; ad praesentem causam a pontifice adductas,  
+      <lb ed="#L" n="17"/>non aliter amplecti, atque eas quae sint ecclesiae certo 
+      iu<lb ed="#L" n="18" break="no"/>dicio comprobatae. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1038-d1e4896">
+               <lb ed="#L" n="19"/>Quod deinde ad Constantini donationem attinet, de eo 
+      <lb ed="#L" n="20"/>non libet in praesentia disputare. Disputent alij, quibus 
+      <lb ed="#L" n="21"/>cordi forte est Romane ecclesiae maiestatem amplitudinemque 
+      <lb ed="#L" n="22"/>minuere. <name xml:id="Z4Yt34-d1e1038-Nd1e4906">Laurentium Vallam</name> scimus integro libro aduersus 
+      <lb ed="#L" n="23"/>recepta communi opinione sententiam declamasse. 
+      Iurispe<lb ed="#L" n="24" break="no"/>riti, quae vulgo circunfertur eius donationic formula, eam 
+      <lb ed="#L" n="25"/>commentitiam esse satis indicant, cum Paleae inscriptione 
+      de<lb ed="#L" n="26" break="no"/>notant. Eusebius, Ruffinus. Theodoritus, Socrates, 
+      Soxo<lb ed="#L" n="27" break="no"/>menus, Eutropius, Victor, caeterique probae fidei auctores, 
+      <lb ed="#L" n="28"/>qui onia Constatini gesta scripsere diligentissime, non 
+      mo<lb ed="#L" n="29" break="no"/>do nullam donationis eius mentionem faciunt, sed tradunt 
+      <lb ed="#L" n="30"/>etiam orbe Romanum, sic inter tres illius filios distributum,  
+      <lb ed="#L" n="31"/>vt Italia vni eorum tota contigerit. Ammianus Marcellinus 
+      <lb ed="#L" n="32"/>lib. lis. Constantium vrbis dominationem habuisse, &amp; 
+      Leon<lb ed="#L" n="33" break="no"/>tium praefectum ibi constituisse, auctor est. Nonnullos 
+      de<lb ed="#L" n="34" break="no"/>inceps imperatores Italie atque adeo Romae imperasse, omnes 
+      <lb ed="#L" n="35"/>historici memoriae prodiderunt. Haec &amp; alia eiusmodi quis 
+      <lb ed="#L" n="36"/>ignorat? Verum quid refert a Constantino facta ea donatio 
+      <lb ed="#L" n="37"/>sst, an a principibus posterioribus? Fictam &amp; 
+      commenti<lb ed="#L" n="38" break="no"/>tiam fabulam dicunt a Nicolao Clementeque prolatam. Quasi 
+      <lb ed="#L" n="39"/>vero pontifex aut factam eam donationem suo decreto 
+      <!--634.xml-->
+      <pb ed="#L" n="623"/>
+               <lb ed="#L" n="1"/>definiat, aut vrbem eo solum titulo defendat. Negant 
+      <lb ed="#L" n="2"/>donatam a Constantino vrbem esse: quanquam nequeunt 
+      <lb ed="#L" n="3"/>probare id quidem. Sed quaero, quod donatam negant,  
+      <lb ed="#L" n="4"/>ea si non donata esset, quidnam facerent? An vrbem 
+      Cae<lb ed="#L" n="5" break="no"/>sari concederent? Vrgent rustice sane. Negant. n. 
+      dona<lb ed="#L" n="6" break="no"/>tam esse, &amp; in eo perstat. Nos vero tanque tormenta 
+      quae<lb ed="#L" n="7" break="no"/>dam adhibemus. Vt si responderint, qu donata a 
+      Con<lb ed="#L" n="8" break="no"/>stantino non est, idcirco ad ius nunc Caesaris pertinere, 
+      <lb ed="#L" n="9"/>stultos se esse fateantur. Potuit enim donare alius. 
+      Po<lb ed="#L" n="10" break="no"/>tuit quoque Romanus pontifex vrbem iusto alio nomine 
+      <lb ed="#L" n="11"/>possidere. Certe longi temporis praescriptione potuit. 
+      <lb ed="#L" n="12"/>Sin negauerint ius omne Caesari in vrbem, omnia, quae de 
+      <lb ed="#L" n="13"/>Constantini donatione disputant, vana esse concedant. 
+      <lb ed="#L" n="14"/>Sed iam, ne nos vani itidem simus, reliqua persequamur. 
+      <lb ed="#L" n="15"/>Lepra Constantinum laborasse, apud idoneos auctores 
+      nus<lb ed="#L" n="16" break="no"/>quam legi, sed eius nominis alium cognomento 
+      Copro<lb ed="#L" n="17" break="no"/>nymum. Vnde fortasse ambiguitate vocis error inductus.  
+      <lb ed="#L" n="18"/>Nisi rumor iste de lepra inde ortus videri possit, qu 
+      Bi<lb ed="#L" n="19" break="no"/>xantio ad aquas calidas valetudinis gratia eum egressum 
+      <lb ed="#L" n="20"/>ferunt. D. Thomas 3. p. 4. 69. in 4. argum. historiam 
+      vul<lb ed="#L" n="21" break="no"/>gatam sumit, atque, vt videtur, probat. Caietanus non  
+      <lb ed="#L" n="22"/>item. Habet hic auctores suos Platinam in vitam Marci, 
+      <lb ed="#L" n="23"/>Ludouicum Viuem lib. de cor. disc. 2. Alciatum lib. 
+      pa<lb ed="#L" n="24" break="no"/>rerg. 7. c. 19. qui aperte negant. Habet scriptores omnes 
+      <lb ed="#L" n="25"/>veteres eius aetatis, qui tacuerunt: non omissuri si sciuissent, 
+      <lb ed="#L" n="26"/>scituri omnino rem si fuisset. Nam quod nomine 
+      Constan<lb ed="#L" n="27" break="no"/>tini circumfertur edictum, tamet si Nicaeno concilio 
+      adiun<lb ed="#L" n="28" break="no"/>ctum est, non tamen habet concilij auctoritatem. Haec illi. Ego 
+      <lb ed="#L" n="29"/>haec nec pro certis affirmare ausim, nec pro falsis refellere. 
+      <lb ed="#L" n="30"/>Syluestri acta, in quibus ea res gesta commemoratur, Gelasis 
+      <lb ed="#L" n="31"/>non reprobat. Refertur eadem in synodo Romana sub 
+      Syl<lb ed="#L" n="32" break="no"/>uestro canone 1. in septima rursus synodo act. 2. Eandem 
+      <lb ed="#L" n="33"/>denique Nicephorus lib. 7. c. 33. vt veram historiam refert. 
+      <lb ed="#L" n="34"/>Quocirca Pontifices duos Clementem ac Nicolaum, aut D. 
+      <lb ed="#L" n="35"/>etiam Thomam, in eo quo ea historia vsi sunt, nec ridere iure 
+      <lb ed="#L" n="36"/>possumus, nec arguere. Quamuis, vt dixi, leprae 
+      Constan<lb ed="#L" n="37" break="no"/>tinianae testis grauis, &amp; probatus ex veteribus nemo est. 
+      <lb ed="#L" n="38"/>Itaque, si negemus, nec pontificum nec historicorum 
+      au<lb ed="#L" n="39" break="no"/>ctoritatem labefacimus. 
+      <!--635.xml-->
+      <pb ed="#L" n="624"/>
+               <lb ed="#L" n="1"/>De baptismo historici quoque ipsi nobilissimi varie 
+      lo<lb ed="#L" n="2" break="no"/>quuntur. Hieronymus in Chronicis, Eusebius lib. 4. de 
+      <lb ed="#L" n="3"/>vita Constan. Socrates lib. 1. histo. suae cap. 39. 
+      Theodo<lb ed="#L" n="4" break="no"/>ritus lib. item 1. cap. 31. Sozomenus lib. 2. cap. 34. 
+      Cassio<lb ed="#L" n="5" break="no"/>dorus qui historiam ab his tribus ecclesiasticam compila 
+      <lb ed="#L" n="6"/>uit. Pomponius laetus alijque, scriptores huius ordinis, 
+      Con<lb ed="#L" n="7" break="no"/>stantinum tradunt non Romae a Syluestro, sed 
+      Nicome<lb ed="#L" n="8" break="no"/>diae ab Eusebio episcopo, &amp; quidem Ariano, sacrum 
+      ba<lb ed="#L" n="9" break="no"/>ptisma suscepisse. Contra Damasus in libro Pontificali 
+      <lb ed="#L" n="10"/>tradit illum Romae a Syluestro sacris lustricis ablutum 
+      es<lb ed="#L" n="11" break="no"/>se. Cui omnino consentiunt Marianus, Scotus, 
+      Sabelli<lb ed="#L" n="12" break="no"/>cus, Platina in vitam Marci. Nicephorus lib. 7. cap. 35. &amp;  
+      <lb ed="#L" n="13"/>lib. 8. cap. 54. ne Diuum Thomam, Nicolaum, Clementem, 
+      <lb ed="#L" n="14"/>duas denique Synodos in huius rei testimonium 
+      repeta<lb ed="#L" n="15" break="no"/>mus. Atque Nicephoius in hac re asseueranda, &amp; 
+      contra<lb ed="#L" n="16" break="no"/>ria opinione refellenda, oratione sane quam acri vsus est.  
+      <lb ed="#L" n="17"/>Ita enim suam de baptismo Constantini sententiam 
+      eccle<lb ed="#L" n="18" break="no"/>siae consensioni tribuit, vt aduersam Arianorum 
+      commen<lb ed="#L" n="19" break="no"/>tis assignet. Qui in oriente, inquit, olim Arianae sectae fue 
+      <lb ed="#L" n="20"/>re, Constantinum Nicomediae, ab Eusebio eius Vrbis 
+      epis<lb ed="#L" n="21" break="no"/>copo, iam moriturum baptismum suscepisse, prodiderunt: 
+      <lb ed="#L" n="22"/>propterea eum sacrum lauacrum distulisse dicentes, quod 
+      <lb ed="#L" n="23"/>in Iordane perficere voluerit. Id vero ex eo facile 
+      refel<lb ed="#L" n="24" break="no"/>litur, quod ecclesia a Syluestre eum Romae baptixatum 
+      <lb ed="#L" n="25"/>esse certo praedicat. Quapropter testatum omnibus esse 
+      <lb ed="#L" n="26"/>volo, vt hoc sic etiam tuto, &amp; opinentur &amp; credant. Aria 
+      <lb ed="#L" n="27"/>ni enim male sentientes animo, &amp; consilio diabolico hoc 
+      <lb ed="#L" n="28"/>confinxerunt, non Romae baptixatum eum esse 
+      asseren<lb ed="#L" n="29" break="no"/>tes, aut fortasse eadem cum illis sensisse astruentes, 
+      per<lb ed="#L" n="30" break="no"/>inde atque ab ipsis propterea baptismi gratiam 
+      suscepe<lb ed="#L" n="31" break="no"/>rit. Quod absurditatis, &amp; mendacij plenum est. Quod si 
+      <lb ed="#L" n="32"/>nondum sacri lauacri particeps fuit, consequitur, eum ne 
+      <lb ed="#L" n="33"/>que in Nicaena synodo cum patribus congressum esse, 
+      <lb ed="#L" n="34"/>neque cum eis mysteria participasse: sicuti historia 
+      tra<lb ed="#L" n="35" break="no"/>dit. Haec ille. Et paulo ante. Quod autem Romae a 
+      Sylue<lb ed="#L" n="36" break="no"/>stre sacratus sit, satis ostendit baptisterium quod ad hoc 
+      <lb ed="#L" n="37"/>vsque tempus eius rei gratia in testimonium certissimum  
+      <lb ed="#L" n="38"/>Romae asseruatur. Quae duae profecto rationes efficiunt,  
+      <lb ed="#L" n="39"/>vt non temere ijs accedam, qui Constantinum Romae 
+      <!--636.xml-->
+      <pb ed="#L" n="625"/>
+               <lb ed="#L" n="1"/>sacio tinctum lauacro ferunt. Quod si baptisterium tam 
+      <lb ed="#L" n="2"/>insigni structum apparatu, si rerum Veterum publica 
+      com<lb ed="#L" n="3" break="no"/>memoratio, non solum habitantium animis, sed lapidibus 
+      <lb ed="#L" n="4"/>etiam insculpta, nullum nobis argumentum est: iam 
+      iam<lb ed="#L" n="5" break="no"/>que non dico quae vetustatis in vrbe monimenta sunt,  
+      <lb ed="#L" n="6"/>sed quaesunt in orbe maiorum traditione recepta, ire ea 
+      <lb ed="#L" n="7"/>omnia inficias poterimus: quamuis indicia extent rerum, 
+      <lb ed="#L" n="8"/>locorum, temporum manifesta. Ac nisi prius baptismi 
+      <lb ed="#L" n="9"/>fuisset fonte sublatus, qui credi potest, Constantino 
+      e<lb ed="#L" n="10" break="no"/>piscopos aut culparum, &amp; querimoniarum libellos 
+      obtu<lb ed="#L" n="11" break="no"/>lisse, aut, vt synodo &amp; disputationibus interesset, 
+      permi<lb ed="#L" n="12" break="no"/>sisse? Baptixatus ergo ante synodum Nicaenam fuerat 
+      <lb ed="#L" n="13"/>Constantinus. Vbi haereticorum industriam ac 
+      diligen<lb ed="#L" n="14" break="no"/>tiam in propaganda secta mirari satis non queo. Omnia 
+      <lb ed="#L" n="15"/>quippe illi sus deque miscent, vt viri pietate insignes, prae 
+      <lb ed="#L" n="16"/>sertim si reges aut imperatores sunt, ipsorum partes 
+      fo<lb ed="#L" n="17" break="no"/>uisse videantur. Tanta vero arte id efficiunt, vt doctos 
+      <lb ed="#L" n="18"/>etiam viros, nedum imperitos fallant. Eusebius porro 
+      <lb ed="#L" n="19"/>Pamphili, vel quia Eusebio Nicomediensi caeterisque 
+      a<lb ed="#L" n="20" break="no"/>micis credulum se praebuit, vel quia sectam, cuius 
+      aper<lb ed="#L" n="21" break="no"/>tissimus propugnator erat, hac laude &amp; gloria voluit 
+      <lb ed="#L" n="22"/>oruare, eius fabulae primus auctor Christianis fuit. Huic 
+      <lb ed="#L" n="23"/>enim scribenti Hieronymus ac relioui auctores 
+      credide<lb ed="#L" n="24" break="no"/>runt. Sed de Eusebij fide plura postea. Nam 
+      Constan<lb ed="#L" n="25" break="no"/>tiam Constantino fratri Arrianum presbyterum 
+      insinu<lb ed="#L" n="26" break="no"/>asse, a quo vir religiosissimus seductus sit, hoc vt 
+      cre<lb ed="#L" n="27" break="no"/>dam, quantum Constantiae leuitas, &amp; inconstantia 
+      mo<lb ed="#L" n="28" break="no"/>uet, tantum Constantini pietas &amp; grauitas remorantur. 
+      <lb ed="#L" n="29"/>Ac si presbyter ille Arrianus pium alias imperatorem, 
+      <lb ed="#L" n="30"/>quidem, sed potestate, diuitijs, honoribus, triumphis, 
+      me<lb ed="#L" n="31" break="no"/>ritis, secundis denique rebus omnibus insolentiorem 
+      <lb ed="#L" n="32"/>factum decepit, vt Arium reuocaret, Athanasium 
+      repel<lb ed="#L" n="33" break="no"/>leret: viris etenim bonis in rebus eiusmodi facile 
+      im<lb ed="#L" n="34" break="no"/>ponitur, non tamen adeo in errore processisse 
+      creden<lb ed="#L" n="35" break="no"/>dus est, vt Arriano ritu alterum baptismum Nicomediae 
+      <lb ed="#L" n="36"/>susciperet. Quanquam sunt qui existiment, qui per 
+      so<lb ed="#L" n="37" break="no"/>rorem falsum in fide Constantinum produnt, eos falsos 
+      <lb ed="#L" n="38"/>nominis similitudine id patri attribuisse, quod filij 
+      sce<lb ed="#L" n="39" break="no"/>lere patratum est. Verum siue hoc modo siue alio res 
+      <!--637.xml-->
+      <pb ed="#L" n="626"/>
+               <lb ed="#L" n="1"/>habeat, illud tenendum est, neruos atque artus esse 
+      sapien<lb ed="#L" n="2" break="no"/>tiae non temere credere: ijs praesertim historicis, qui 
+      <lb ed="#L" n="3"/>quoniam fidem diuinam violarunt, fidei humanae 
+      aucto<lb ed="#L" n="4" break="no"/>ritatem amiserunt. Sed de his capite sequenti accuratius 
+      <lb ed="#L" n="5"/>disseremus. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

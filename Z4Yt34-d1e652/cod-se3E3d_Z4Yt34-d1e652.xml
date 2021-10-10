@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="420"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e652"><!-- Z4Yt34-l7c1 -->
+            <head xml:id="Z4Yt34-d1e652-Hd1e106">Caput 1</head>
+            <p xml:id="Z4Yt34-d1e652-d1e109">
+      <!--431.xml-->
+               <pb ed="#L" n="420"/>
+               <lb ed="#L" n="1"/>DE SANCTO. 
+      <lb ed="#L" n="2"/>RVMGVCTORITATE 
+      <lb ed="#L" n="3"/>PVLE SERTO LOCO COBa 
+      <lb ed="#L" n="4"/>tinetur, Liber septimus. 
+      <lb ed="#L" n="5"/>caput primum.
+    </p>
+            <p xml:id="Z4Yt34-d1e652-d1e127">
+               <lb ed="#L" n="6"/>SAnctorum auctoritas sexto iam loco 
+      <lb ed="#L" n="7"/>nobis constituenda est, quam haeretici, 
+      <lb ed="#L" n="8"/>maxime Lutherani, de gradum 
+      deijcere<lb ed="#L" n="9" break="no"/>moliuntur. Ac primum quicquid 
+      anti<lb ed="#L" n="10" break="no"/>qui sancti asserunt, incertum, esse 
+      sua<lb ed="#L" n="11" break="no"/>dent. D. August. plurimis testimonijs, 
+      <lb ed="#L" n="12"/>quae retulit vniuersa. Grat. 9. dist. 
+      de<lb ed="#L" n="13" break="no"/>cre. ex prooemio libri tertij de tri¬ex 
+      <lb ed="#L" n="14"/>lib. ad Vincen, victo. 2. ex epistola ad Hier. 19. ex 
+      episto<lb ed="#L" n="15" break="no"/>la item altera ad Marcell. 7. ex epistola rursum ad Vincem. 
+      <lb ed="#L" n="16"/>48. ex epistola quoque alia ad Fortuna. 111. ex lib. denique 
+      <lb ed="#L" n="17"/>2. de bap. contra Dona. cap. 3. His enim locis omnibus 
+      <lb ed="#L" n="18"/>sui Augustinus similis idem dicit, hoc est, praeter 
+      aucto<lb ed="#L" n="19" break="no"/>res sacros, qui libros scripsere Canonicos, alios omnes 
+      <lb ed="#L" n="20"/>ita legendos, vt quantalibet sanctitate doctrinaque 
+      pol<lb ed="#L" n="21" break="no"/>leant, non ideo verum sit putandum illud, quod 
+      asserue<lb ed="#L" n="22" break="no"/>rint, quia ipsi ita senserunt: sed quia nobis vel auctorum 
+      <lb ed="#L" n="23"/>sacrorum testimonio, vel probabili ratione id 
+      persuade<lb ed="#L" n="24" break="no"/>re potuerunt: licereque proinde contram atque illi sentire, 
+      <lb ed="#L" n="25"/>&amp; salua honorificentia, quae illis debetur hominibus, 
+      ali<lb ed="#L" n="26" break="no"/>quid in eorum scriptis improbare atque respuere. Hoc 
+      au<lb ed="#L" n="27" break="no"/>tem Diui Augustini testimonium tam constans, tamque 
+      <lb ed="#L" n="28"/>multis locis non obscure repetitum, si verum esse 
+      credi<lb ed="#L" n="29" break="no"/>mus, fateamur necesse est, nullum omnino a sanctis 
+      aucto<lb ed="#L" n="30" break="no"/>ribus firmum argumentum sumi posse, ad fidei 
+      theolo<lb ed="#L" n="31" break="no"/>giae ve dogmata corroboranda. Id quod Diuus Thomas 
+      <lb ed="#L" n="32"/>Diui Augustini auctoritate confirmatus 1. parte, quaest. 1. 
+      <lb ed="#L" n="33"/>ar. 8. ad. 2. arg. plane testatur in haec verba, Auctoritatibus 
+      <lb ed="#L" n="34"/>canonicae scripturae vtitur sacra doctrina ex necessitate 
+      <!--432.xml-->
+      <pb ed="#L" n="421"/>
+               <lb ed="#L" n="1"/>argumentando, auctoritatibus autem aliorum doctorum 
+      <lb ed="#L" n="2"/>ecclesiae probabiliter arguendo. Atque eius rei causam 
+      <lb ed="#L" n="3"/>etiam subdit, quod innititur fides nostra reuelationi 
+      fa<lb ed="#L" n="4" break="no"/>ctae iis, qui canonicos libros scripserunt, non autem reue 
+      <lb ed="#L" n="5"/>lationi si qua fuit alijs doctoribus facta. Quod si duo hi 
+      <lb ed="#L" n="6"/>testes clarissimi contemnuntur, si ratio quoque Diui 
+      <lb ed="#L" n="7"/>Thomae contemnatur, rationibus certe alijs minime 
+      <lb ed="#L" n="8"/>contemnendis id ipsum confirmari potest. Nam si in 
+      li<lb ed="#L" n="9" break="no"/>bro canonico vna quaelibet falsitas inueniretur, 
+      quem<lb ed="#L" n="10" break="no"/>admodum superiore quodam loco argumentabamur, 
+      to<lb ed="#L" n="11" break="no"/>tius libri certitudo interiret. Cum ergo in libris 
+      sancto<lb ed="#L" n="12" break="no"/>rum scriptorum vnam, &amp; item alteram falsitatem liceat re 
+      <lb ed="#L" n="13"/>perire, vel in his etiam, quae ad fidem pertinent, fit 
+      conse<lb ed="#L" n="14" break="no"/>quens, vt sanctis scriptoribus certam fidem habere non sit 
+      <lb ed="#L" n="15"/>necessarium, Scio, inquit Hieronymus, me aliter habere 
+      <lb ed="#L" n="16"/>apostolos, aliter reliquos tractatores. Illos semper: vera di 
+      <lb ed="#L" n="17"/>cere, istos in quibusdam vt homines aberrare. 
+      <lb ed="#L" n="18"/>Praeterea, ne de singulorum auctoritate disseratur, quam 
+      <lb ed="#L" n="19"/>incertam esse satis exploratum haberi potest, maius aliquid 
+      <lb ed="#L" n="20"/>aduersarij conficere argumentando volunt. Nempe 
+      san<lb ed="#L" n="21" break="no"/>ctos scriptores, etiam si plerique in eandem sententiam conue 
+      <lb ed="#L" n="22"/>niant, probabile quidem fidem facere posse, certam non posse. 
+      <lb ed="#L" n="23"/>Nam plurimi ex eis asseruere, mundi huius partes 
+      om<lb ed="#L" n="24" break="no"/>nes non eodem simul die, sed multis potius fuisse editas,  
+      <lb ed="#L" n="25"/>ornatas, absolutas. Asseruit certe in Bas: homilia. 2. exame 
+      <lb ed="#L" n="26"/>ron, &amp; alijs sequentibus. Euse. id principio suae 
+      chronio<lb ed="#L" n="27" break="no"/>graphicae, Chrysi: homilia secunda super Genesim. Dama. 
+      <lb ed="#L" n="28"/>n. 2: suae theologiae, Ambr. lib. 1. Exameron. cap. 7. Greg. 
+      <lb ed="#L" n="29"/>32. moralium cap. 10. Sed &amp; mag. senten. in. 2. dist. 12. &amp;  
+      <lb ed="#L" n="30"/>13. Hieronymum in hanc sententiam citat. Posset autem 
+      <lb ed="#L" n="31"/>facile tum Bedam, Rabb. Strab, tum alios huius ordinis 
+      <lb ed="#L" n="32"/>viros commemorare, qui communi sensu opera illa, quae 
+      <lb ed="#L" n="33"/>Geneseos 1. cap. enarrantur, sex diebus succedentibus 
+      <lb ed="#L" n="34"/>condita esse intellexerunt. At communis hic sanctorun 
+      <lb ed="#L" n="35"/>consensus nullum argumontum certum theologis 
+      submi<lb ed="#L" n="36" break="no"/>nistrat, quin vnius Aug. opinio caeteris omnibus aduersa 
+      <lb ed="#L" n="37"/>probabilis semper in ecclesia est habita, non itaque ex 
+      com<lb ed="#L" n="38" break="no"/>muni sanctorum sententia firmum argumentum promitur,  
+      <lb ed="#L" n="39"/>quo conclusiones theologicae aut etiam fidei dogmata 
+      <!--433.xml-->
+      <pb ed="#L" n="422"/>
+               <lb ed="#L" n="1"/>confirmentur, Atque huius rei, vt in eodem versemur, aliud 
+      <lb ed="#L" n="2"/>quoque exemplum proferre possumus. Plurimi nanque ex 
+      <lb ed="#L" n="3"/>sanctorum scriptorum numero tradiderunt, Moysen Dei 
+      <lb ed="#L" n="4"/>naturam, dum in hoc mortali corpore viueret, aperte &amp;,  
+      <lb ed="#L" n="5"/>quod dici solet, ad faciem non vidisse. Tradit ita Hier. ad 
+      <lb ed="#L" n="6"/>Damasum papam in sextum cap. Isaiae, Greg. Nazanzenus 
+      <lb ed="#L" n="7"/>2. lib. suae Theologiae. D. Gregor. 18 moralium cap. 36. 
+      <lb ed="#L" n="8"/>Chrysost. homilia.14. in Ioannem, Cyrillus lib. 1. in 
+      Ioan<lb ed="#L" n="9" break="no"/>nem cap. 22. Euaris. Papa. in. 1. sua epistola decreta. Dio.  
+      <lb ed="#L" n="10"/>in lib. de mystica Theo. cap. 1. Orig. libr. 1. periar. cap. 4. 
+      <lb ed="#L" n="11"/>At opinio Augu. contraria non modo non est reiecta, ve 
+      <lb ed="#L" n="12"/>rum etiam habetur apud Theologos probabilissima. De 
+      <lb ed="#L" n="13"/>communi igitur sanctorum consensione nihil certi in theo 
+      <lb ed="#L" n="14"/>logia conficitur, id quod hoc etiam argumento confirma 
+      <lb ed="#L" n="15"/>ri potest. 
+      </p>
+            <p xml:id="Z4Yt34-d1e652-d1e318">
+               <lb ed="#L" n="16"/>Sancti nanque omnes, qui in eius rei mentionem 
+      inci<lb ed="#L" n="17" break="no"/>dere, vno ore asseuerarunt. Beatam virginem in peccato 
+      <lb ed="#L" n="18"/>originali conceptam, hoc videlicet Ambr. astruit super 
+      <lb ed="#L" n="19"/>psal. 118. concione. 6. hoc August, super psalmum. 34. an 
+      <lb ed="#L" n="20"/>illum versiculum, Ego autem cum mihi molesti essent, &amp;c. 
+      <lb ed="#L" n="21"/>&amp; lib. secundo de baptismo paruulorum capit. 24. &amp; 10. 
+      <lb ed="#L" n="22"/>super Genesim, ad literam capit. 18. &amp; lib. 53. contra 
+      Iulia<lb ed="#L" n="23" break="no"/>num cap. 9. hoc Chrysost. super Matthae. hoc Eus: Emis. 
+      <lb ed="#L" n="24"/>in. 2. concione Natiuitatis Domini, hoc Remigius super 
+      <lb ed="#L" n="25"/>psalmum vicesimum grimum, &amp; Maximus in sermone de 
+      <lb ed="#L" n="26"/>Assumptione. Beatae virginis astruxere. Idem quoque 
+      <lb ed="#L" n="27"/>affirmat. Beda in homilia super Missus est. Anselmus in 
+      <lb ed="#L" n="28"/>libr. cut Deus homo, capit. 16. Beruardus in epistola ad 
+      <lb ed="#L" n="29"/>Lugdunenses. 174. Erardus episcopus, &amp; martyr in 
+      con<lb ed="#L" n="30" break="no"/>cione quadam. de Natiuitate Beatae virginis, sanctus 
+      An<lb ed="#L" n="31" break="no"/>tonius Paduanus in concionesetiam de Natiuitate 
+      eius<lb ed="#L" n="32" break="no"/>dem sanctae virginis, sanctus Bernardinus in isermonum 
+      <lb ed="#L" n="33"/>suorum opere tertio, in tractatuide Beata, virgine, 
+      concione<lb ed="#L" n="34" break="no"/>4. Diuus Bonauentura. 3. senten. distinctione. 3. quaestio. 
+      <lb ed="#L" n="35"/>1. articul. 2. Diuus Thom. 3. partei, quaestio: 27. articul 2. 
+      <lb ed="#L" n="36"/>Diuus Vincen in fermone de Conceptione Beatae 
+      virgi<lb ed="#L" n="37" break="no"/>nis. Diuus Anton. Eparte. titul. 8. Damas. lib. 3. 
+      fententia<lb ed="#L" n="38" break="no"/>rum suarum. Hugo de sancto victore de sacram. parte: 2. 
+      <lb ed="#L" n="39"/>cap. 4. &amp; cum nullus sanctorum contra venerit, infirmum 
+      <!--434.xml-->
+      <pb ed="#L" n="423"/>
+               <lb ed="#L" n="1"/>tamen ex omnium auctoritate argumentum ducitur: quin 
+      <lb ed="#L" n="2"/>potius contraria sententia, &amp; probabiliter &amp; pie in 
+      ec<lb ed="#L" n="3" break="no"/>clesia defenditur. En Argumentum illud Achillicum, 
+      <lb ed="#L" n="4"/>quo Erasmus omnium etiam sanctorum testimonio non  
+      <lb ed="#L" n="5"/>se existimat obruendum, si quando vniuersis 
+      repugna<lb ed="#L" n="6" break="no"/>uerit. Cuius sententiae ratio etiam illa suffragatur, quod 
+      <lb ed="#L" n="7"/>sancti vniuersi, praeter auctores sacros, qui libros 
+      scri<lb ed="#L" n="8" break="no"/>psere Canonicos, humano spiritu libros suos ediderunt.  
+      <lb ed="#L" n="9"/>Nam si spiriru sancto inspirante ipsi etiam locuti sunt, 
+      ni<lb ed="#L" n="10" break="no"/>hil videtur obstare, quo minus eorum libri in canonicis 
+      <lb ed="#L" n="11"/>habeantur. Infirmus igitur hic locus est, quo sanctorum  
+      <lb ed="#L" n="12"/>auctoritas continetur. Humana enim veritas firma &amp;  
+      <lb ed="#L" n="13"/>terta esse non potest. Omnis quippe homo 
+      mendax<lb ed="#L" n="14" break="no"/>Osiander vero. 1. lib. Anno. in armoniam euangelicam, 
+      il<lb ed="#L" n="15" break="no"/>lud argumentum addit, quod omnes veteres 
+      commenta<lb ed="#L" n="16" break="no"/>tores a tempore apostolorum, id quod Matthaeus de 
+      Chri<lb ed="#L" n="17" break="no"/>sto affert, ex Aegypto vocaui filium meum, in genuino 
+      <lb ed="#L" n="18"/>literae sensu ad Israelem referunt, iuxta allegoriam 
+      ve<lb ed="#L" n="19" break="no"/>ro ad Christum. Cum tamen, vt ait, allegoria, vtcunque 
+      <lb ed="#L" n="20"/>fingatur, constare non queat, quoquo enim te vertas, 
+      di<lb ed="#L" n="21" break="no"/>hil simile videtur esse, praeterquam quod vtrique fuerunt 
+      <lb ed="#L" n="22"/>in Aegypto. Ita contendit, literae sensum a principio 
+      ca<lb ed="#L" n="23" break="no"/>pitis de Christo domino esse, qui Rex Israclis est, &amp; 
+      auro<lb ed="#L" n="24" break="no"/>rae merito comparatus. Quod si in sacrarum literarum ex- 
+      <lb ed="#L" n="25"/>positione sancti omnes errant, horum certe auctoritas fit 
+      <lb ed="#L" n="26"/>mum argumentum theologis exhibere non potest. 
+      Ecce<lb ed="#L" n="27" break="no"/>argumenta quibus aduersarij nostri locum hunc aggredi 
+      <lb ed="#L" n="28"/>&amp; expugnare contendunt.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

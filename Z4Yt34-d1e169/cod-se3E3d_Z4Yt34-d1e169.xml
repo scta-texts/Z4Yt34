@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="35"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e169"><!-- Z4Yt34-l2c6 -->
+            <head xml:id="Z4Yt34-d1e169-Hd1e106">Caput 6</head>
+            <p xml:id="Z4Yt34-d1e169-d1e109">
+      <!--46.xml-->
+               <pb ed="#L" n="35"/>
+               <lb ed="#L" n="1"/>cap. sextum: continet argumenta eorum qui suadere 
+      conan<lb ed="#L" n="2" break="no"/>tur, scripiuram sucram non egere ecclesiae 
+      <lb ed="#L" n="3"/>approbatione.
+    </p>
+            <p xml:id="Z4Yt34-d1e169-d1e122">
+               <lb ed="#L" n="4"/>ET quidem, quod ad primam partem attinet, 
+      Luthe<lb ed="#L" n="5" break="no"/>rani aliquando asseruerunt, scriptura non egere 
+      ec<lb ed="#L" n="6" break="no"/>clesiae aut alterius cuiusque approbatione, sed 
+      iudi<lb ed="#L" n="7" break="no"/>cium de scriptura ex ipsis scripturis esse faciendum: seu 
+      <lb ed="#L" n="8"/>potius per ipsas scripturas caetera omnia iudicanda, eas 
+      <lb ed="#L" n="9"/>vero per se quidem cuique habeti Spiritus sancti, &amp; fidei 
+      lu<lb ed="#L" n="10" break="no"/>me, esse manifestas. Quod si ab illis roges, ecquis nobis 
+      <lb ed="#L" n="11"/>fidem facit haec a Deo prodiisse? ecquis salua &amp; intacta ad 
+      <lb ed="#L" n="12"/>nostram vsque etatem peruenisse certiores reddat? Ecquis per 
+      <lb ed="#L" n="13"/>suadeat librum hunc reuerenter excipiendum, illum vero 
+      nu<lb ed="#L" n="14" break="no"/>mero expungendum? Aiunt, perinde esse ac si quis roget,  
+      <lb ed="#L" n="15"/>vnde discemus lumen discernere a tenebris, album a 
+      ni<lb ed="#L" n="16" break="no"/>gro, suaue ab amaro: non enim obscuriorem Veritatis suae 
+      <lb ed="#L" n="17"/>sensum scriptura prae se ferre, quam coloris sui res albas 
+      <lb ed="#L" n="18"/>ac nigras, saporis suaues &amp; amaras. Sicut etiam apud 
+      phi<lb ed="#L" n="19" break="no"/>losophos per communes animi conteptionescsic enim vo 
+      <lb ed="#L" n="20"/>canto reliqua omnia probantur, cum ipsae probatione non  
+      <lb ed="#L" n="21"/>egeant. Ita existimant Lutherani, diuini verbi 
+      cognitio<lb ed="#L" n="22" break="no"/>ne, quod est doctrinae catholicae cemmune principium, vsque  
+      <lb ed="#L" n="23"/>adeo in proptu esse, vt nulla hominum approbatio sit 
+      ne<lb ed="#L" n="24" break="no"/>cessaria. Atque hic idem perniciosissimus error olim apud 
+      <lb ed="#L" n="25"/>Vuicleffistas inualuit, vt Thomas Vualdensis auctor est. 
+      <lb ed="#L" n="26"/>li. 2. doctr, fid. Anti. c. 19. ne quisquam existimet a Luthero 
+      <lb ed="#L" n="27"/>hanc primum haeresim prodiisse. Suadent autem id principio, ex 
+      <lb ed="#L" n="28"/>eo quod dominus apud Ioannen dicit. Ego non ab 
+      homi<lb ed="#L" n="29" break="no"/>ne testimonium accipio. At siue summus Potifex, siue 
+      con<lb ed="#L" n="30" break="no"/>cilium seu etiam ecclesia tota homines sunt, non igitur ab his 
+      <lb ed="#L" n="31"/>Christi euangelium aut relique scripturae parres accipiunt 
+      <lb ed="#L" n="32"/>testimonium. Idem rursum ex illo confirmant, quod Ioannes 
+      <lb ed="#L" n="33"/>Apostolus ait. Nou necesse habetis, vt aliquis doceat 
+      <lb ed="#L" n="34"/>vos, sed sicut vnctio eius docet vos de omnibus &amp; 
+      ve<lb ed="#L" n="35" break="no"/>rum est. Tertio loco argumentantur ex eo verbo 
+      domi<lb ed="#L" n="36" break="no"/>ni, si quis voluerit voluntatem eius facere, cognoscet ex 
+      <lb ed="#L" n="37"/>doctrina vtrum ex Deo sit. Cui simile est illud, oues meae 
+      <lb ed="#L" n="38"/>vocem meam audiunt, alienum autem non sequuntur. Quo 
+      testi<lb ed="#L" n="39" break="no"/>monio Lutherus quasi re confecta gloriatur, &amp; nondum 
+      <!--47.xml-->
+      <pb ed="#L" n="36"/>
+               <lb ed="#L" n="1"/>collata manu tamquam ferox victor insultat. Aperte enim 
+      <lb ed="#L" n="2"/>Tvt aito euangelium testatur, ipsas per se oues habere ido 
+      <lb ed="#L" n="3"/>neam discernendi scripturas facultatem. 
+      </p>
+            <p xml:id="Z4Yt34-d1e169-d1e213">
+               <lb ed="#L" n="4"/>Quarto illud Ioannis afferunt, si testimonium 
+      homi<lb ed="#L" n="5" break="no"/>num accipitis, testimonium Dei maius est: qui credit in 
+      <lb ed="#L" n="6"/>filium Dei, habet testimonium Dei in se. In omnibus 
+      igi<lb ed="#L" n="7" break="no"/>tur, quae ad fidem pertinent, non ad externa hominum 
+      te<lb ed="#L" n="8" break="no"/>stimonia recurrere debemus, sed ad id quod Deus 
+      intra<lb ed="#L" n="9" break="no"/>nos testimonium praebet. Addunt etiam huc illud ex 
+      <lb ed="#L" n="10"/>Deutero: qui verba prophetae, quae loquetur in nomine 
+      <lb ed="#L" n="11"/>meo, audire noluerit, ego vltor existam. Propheta autem, 
+      <lb ed="#L" n="12"/>qui voluerit loqui in nomine meo, quae ego non 
+      praece<lb ed="#L" n="13" break="no"/>pi illi vt diceret, interficietur. Quod si tacita 
+      cogitatio<lb ed="#L" n="14" break="no"/>ne responderis quomodo possum intelligere verbum, 
+      <lb ed="#L" n="15"/>quod dominus non est locutus: hoc habebis signum, &amp;c. 
+      <lb ed="#L" n="16"/>Quod si in nomine Domini propheta ille praedixerit &amp;  
+      <lb ed="#L" n="17"/>non euenerit, hoc dominus non est locutus, &amp;c. Ecce 
+      <lb ed="#L" n="18"/>quemadmodum discernendis verbis Dei a verbis 
+      homi<lb ed="#L" n="19" break="no"/>num, non remittitur fidelis populus ad pontificem aut sa 
+      <lb ed="#L" n="20"/>cerdotem, non ad hominum concilium, sed ex ipsa rerum 
+      <lb ed="#L" n="21"/>euidentia, vt discernat instituitur. 
+      <lb ed="#L" n="22"/>Eodem quoque pertinet illud Ioannis, Charissimi 
+      no<lb ed="#L" n="23" break="no"/>lite omni spiritui credere, sed probate spiritus si ex Deo 
+      <lb ed="#L" n="24"/>sint, quoniam multi pseudoprophetae exierunt in 
+      mun<lb ed="#L" n="25" break="no"/>dum. In hoc cognoscitur spiritus Dei, &amp;c. 
+      </p>
+            <p xml:id="Z4Yt34-d1e169-d1e263">
+               <lb ed="#L" n="26"/>Confirmant praeterea idem ex illo Apostoli 
+      testimo<lb ed="#L" n="27" break="no"/>nio. Animalis homo non percipit ea quae sunt spiritus 
+      <lb ed="#L" n="28"/>Dei, spiritualis autem iudicat omnia. Rursum ex eo, 
+      Pro<lb ed="#L" n="29" break="no"/>phetae duo aut tres loquantur, caeteri diiudicent, &amp; paulo 
+      <lb ed="#L" n="30"/>post, si quis videtur esse spiritualis, cognoscat quae 
+      scri<lb ed="#L" n="31" break="no"/>bo vobis, quod domini sunt mandata. Quicunque igitur, 
+      <lb ed="#L" n="32"/>in quo est spiritus Dei, cognoscere verba domini, eaque 
+      <lb ed="#L" n="33"/>discernere iure suo potest. Proferunt etiam alia 
+      testimo<lb ed="#L" n="34" break="no"/>nia, quae quoniam eodem spectant, eo demque, modo 
+      refel<lb ed="#L" n="35" break="no"/>luntur, non est necesse ea hoc loco proferre: sed rationes 
+      <lb ed="#L" n="36"/>illas addere, quibus etiam vtuntur in sui erroris 
+      confir<lb ed="#L" n="37" break="no"/>mationem. 
+      </p>
+            <p xml:id="Z4Yt34-d1e169-d1e293">
+               <lb ed="#L" n="38"/>pi ecclesia, inquiunt, de diuinis scripturis iudicium 
+      <lb ed="#L" n="39"/>ferret, tum inferior in superioris legem auctoritatem  
+      <!--48.xml-->
+      <pb ed="#L" n="37"/>
+               <lb ed="#L" n="1"/>vsurparet. Id quod absurdum plane est. Nam vt 
+      Augu<lb ed="#L" n="2" break="no"/>stinus inquit, non licet iudici de legibus iudicare, sed 
+      <lb ed="#L" n="3"/>secundum ipsas. distin. 4. cap. in istis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e169-d1e311">
+               <lb ed="#L" n="4"/>Praeterea quae securitas Caiuntnobis erit aeternae vitae, 
+      <lb ed="#L" n="5"/>si quaecunque de ea in sacris literis extant promissiones 
+      <lb ed="#L" n="6"/>solo hominum iudicio fultae consistant? Rursum fides 
+      no<lb ed="#L" n="7" break="no"/>stra quantum apud homines in suspicionem vocabitur, si 
+      <lb ed="#L" n="8"/>credatur hominum beneficio non secus ac precariam 
+      ha<lb ed="#L" n="9" break="no"/>bere auctoritatem? Et cum Apostolus asserat 
+      fundamen<lb ed="#L" n="10" break="no"/>tum ecclesiae esse catholicam &amp; apostolicam doctrinam,  
+      <lb ed="#L" n="11"/>suam huic certitudinem ante constare oportet, quam 
+      il<lb ed="#L" n="12" break="no"/>la extare incipiat. Nam si Christiana ecclesia 
+      propheta<lb ed="#L" n="13" break="no"/>rum scriptis &amp; apostolorum praedicatione fundata fuit, 
+      <lb ed="#L" n="14"/>vbicunqe reperiatur ea doctrina, ecclesiam certe 
+      prae<lb ed="#L" n="15" break="no"/>cessit eius approbatio, sine qua nunquam ecclesia ipsa ex- 
+      <lb ed="#L" n="16"/>titisset. Vanissimum ergo commentum est?. cap. 
+      institu<lb ed="#L" n="17" break="no"/>Caluinus aitscripturae iudicandae potestatem esse penes 
+      <lb ed="#L" n="18"/>ecclesiam, quasi ab huius nutu illius certitudo pendeat. 
+      </p>
+            <p xml:id="Z4Yt34-d1e169-d1e346">
+               <lb ed="#L" n="19"/>Praeterea si scripture sacrae veritas ab hominum 
+      testi<lb ed="#L" n="20" break="no"/>monio penderet ex eoque comprobaretur, tunc vltima 
+      <lb ed="#L" n="21"/>fidei resolutio in ecclesiae auctoritatem fieret. Credimus 
+      <lb ed="#L" n="22"/>enim Christum fuisse filium Dauid: Quoniam Deus 
+      pro<lb ed="#L" n="23" break="no"/>phetis &amp; Apostolis reuelauit. Quod si Deum reuelasse ex 
+      <lb ed="#L" n="24"/>ecclesiae auctoritate teneremus, iam fides nostra non in 
+      <lb ed="#L" n="25"/>Deum tandem, sed in homines reuocaretur. Quocirca 
+      <lb ed="#L" n="26"/>ratio fidei formalis non diuina sed humana veritas esset. 
+      </p>
+            <p xml:id="Z4Yt34-d1e169-d1e366">
+               <lb ed="#L" n="27"/>Postremo, vt Aristoteles docuit. 1. li. post cap. 2. 
+      pro<lb ed="#L" n="28" break="no"/>pter quod vnumquodque tale &amp; illud magis. Si igitur scri 
+      <lb ed="#L" n="29"/>ptura canonica ecclesiae auctoritate comprobaretur, plus 
+      <lb ed="#L" n="30"/>hominibus quam Deo crederemus. Constat vero nullam  
+      <lb ed="#L" n="31"/>auctoritatem maiorem esse diuina: qua videlicet sacrae 
+      <lb ed="#L" n="32"/>literae pollent. Non ergo scriptura sacra per ecclesiam 
+      com<lb ed="#L" n="33" break="no"/>firmabitur, &amp; ab illius approbatione pendebit. His atque 
+      <lb ed="#L" n="34"/>aliis argumentis errorem suum Haeretici suadere possunt, 
+      <lb ed="#L" n="35"/>persuadere non possunt. Errant enim vehementer cum in 
+      <lb ed="#L" n="36"/>asserendis scripturis ecclesiae auctoritatem labefactare 
+      <lb ed="#L" n="37"/>conantur. Qua de re nunc breuiter &amp; ad hanc solum de 
+      <lb ed="#L" n="38"/>libris canonicis causam disputabimus. Propterea quod 
+      <lb ed="#L" n="39"/>&amp; a plerisque viris catholicis contra haereticos de eccle¬ 
+      <!--49.xml-->
+      <pb ed="#L" n="38"/>
+               <lb ed="#L" n="1"/>siae auctoritate accuratissime disputatum est. Et hanc nos 
+      <lb ed="#L" n="2"/>quoque in vniuersum postea asserere &amp; confirmare debemus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="289"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e489"><!-- Z4Yt34-l5c2 -->
+            <head xml:id="Z4Yt34-d1e489-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e489-d1e109">
+               <lb ed="#L" n="19"/>Caput secundum docet, quidnam nomen aut Dnodi aut 
+      con<lb ed="#L" n="20" break="no"/>cilij hoc sane loco significet.
+    </p>
+            <p xml:id="Z4Yt34-d1e489-d1e116">
+               <lb ed="#L" n="21"/>PIhil dubium erat, quin synodi vel concilij 
+      nomi<lb ed="#L" n="22" break="no"/>Mne, eadem quippe res est, patres semper nostri 
+      in<lb ed="#L" n="23" break="no"/>tellexerint sacerdotes, praesertim episcopos, in 
+      lo<lb ed="#L" n="24" break="no"/>cum vnum congregatos, vt causas eas scilicet definirent,  
+      <lb ed="#L" n="25"/>quae ad ecclesiae siue fidem seu mores pertinerent. At 
+      Lu<lb ed="#L" n="26" break="no"/>therani nouum concilium volunt omnibus retro seculis 
+      <lb ed="#L" n="27"/>inauditum, vbi de fidei quaestione iudicent, non episcopi 
+      <lb ed="#L" n="28"/>&amp; sacerdotes, sed rhetores &amp; laicorum turba, qui non via 
+      <lb ed="#L" n="29"/>&amp; ratione, sed verbis &amp; clamore praeualeant. Verum 
+      hu<lb ed="#L" n="30" break="no"/>iusmodi errorem facillimum est eripere. 
+      <lb ed="#L" n="31"/>Tota enim fidelium ecclesia congregari non potest: 
+      <lb ed="#L" n="32"/>&amp; vt posset quidem, non expedit tamen, vt ad 
+      indisci<lb ed="#L" n="33" break="no"/>plinatum vulgus disciplinae nostrae controuersiae 
+      refe<lb ed="#L" n="34" break="no"/>rantur. Quod si ad rempublicam vel in pace vel in 
+      bel<lb ed="#L" n="35" break="no"/>lo continendam stultum esset, concitatae &amp; ineruditae 
+      <lb ed="#L" n="36"/>plebis consilium requirere, stultum quoque est, ac 
+      <lb ed="#L" n="37"/>multo etiam magis, velle vt in grauissimis de fide 
+      quae<lb ed="#L" n="38" break="no"/>stionibus populi consensionem atque iudicium 
+      requi<lb ed="#L" n="39" break="no"/>ramus. Ac si populus in rebus temporarijs tuto &amp; pru¬ 
+      <!--301.xml-->
+      <pb ed="#L" n="290"/>
+               <lb ed="#L" n="1"/>denter magistratuum curae, diligentiae, consilio, sese 
+      <lb ed="#L" n="2"/>tradit, nec ferendis legibus quicquam sibi aut consilij 
+      <lb ed="#L" n="3"/>aut auctoritatis vendicat, cur plebem hi Christianam 
+      in<lb ed="#L" n="4" break="no"/>citant, vt suis nolit rectoribus se committere, sed per, 
+      <lb ed="#L" n="5"/>gat in consessum illum admittit vbi causae omnino 
+      publi<lb ed="#L" n="6" break="no"/>cae, non a priuatis hominibus, sed a publicis ecclesiae 
+      ma<lb ed="#L" n="7" break="no"/>gistratibus transipendae sunt? Non sumus, inquiunt,  
+      <lb ed="#L" n="8"/>adeo rudes &amp; tardi, vt velimus aut totam plebem in 
+      con<lb ed="#L" n="9" break="no"/>cilium cogi, quod esset amentiae, aut doctrinae quae 
+      <lb ed="#L" n="10"/>stiones ad indoctum vulgus referri, quod esset 
+      stulti<lb ed="#L" n="11" break="no"/>tiae. Sed id cupimus, quod &amp; merito &amp; optimo iure 
+      <lb ed="#L" n="12"/>cupimus, vt nec sacerdotes imperiti in concilium veniant.  
+      <lb ed="#L" n="13"/>&amp; si qui laici sacrarum literarum periti sint, sunt autem 
+      <lb ed="#L" n="14"/>plurimi, hi ad synodum euocentur: &amp; siue sacerdotes siue 
+      <lb ed="#L" n="15"/>laici, deligantur viri prudentia ac sapientia celebres, quorum 
+      <lb ed="#L" n="16"/>consilio res omnes ecclesiae publicaque negotia gerantur.  
+      </p>
+            <p xml:id="Z4Yt34-d1e489-d1e199">
+               <lb ed="#L" n="17"/>Quoniam non decet, vt in his, quae religionis sunt, 
+      ir<lb ed="#L" n="18" break="no"/>religiosus episcopus laico pio anteferatur, aut in his quae 
+      <lb ed="#L" n="19"/>sunt doctrinae, laico docto ante stet sacerdos indoctus. 
+      <lb ed="#L" n="20"/>Sed quod de ignaris episcopis calumniantur, id in 
+      confu<lb ed="#L" n="21" break="no"/>tatione argumentorum explic ibimus: nam &amp; hoc primo  
+      <lb ed="#L" n="22"/>iam capite inter caetera obiectum. Quod vero dicunt 
+      se<lb ed="#L" n="23" break="no"/>lectos e plebe viros in synodum cogendos esse, errant in 
+      <lb ed="#L" n="24"/>eo turpissime, nec intelligunt qualis sit reip. Christianae 
+      <lb ed="#L" n="25"/>facies &amp; forma a Christo instituta. Qua de re satis 
+      abun<lb ed="#L" n="26" break="no"/>danter multis voluminibus ab Alberto Pighio alijsque 
+      <lb ed="#L" n="27"/>Catholicis disputatum est. Nunc vero cum 
+      Luthera<lb ed="#L" n="28" break="no"/>nis ego non pugno, vtrum omnes fideles sacerdotes sint,  
+      <lb ed="#L" n="29"/>non, vtrum foeminae a Christo sint ad ecclesiae munia &amp;  
+      <lb ed="#L" n="30"/>sacrorum administrationem admissae: quoniam 
+      huiusmo<lb ed="#L" n="31" break="no"/>di quaestiones non sunt praesentis operis &amp; instituti. 
+      Tan<lb ed="#L" n="32" break="no"/>tum dico, non foeminas, non laicos, sed solos sacerdotes 
+      <lb ed="#L" n="33"/>&amp; episcopos oportere in concilium cogi. Veniam, inquit 
+      <lb ed="#L" n="34"/>dominus Moysi, ad te in caligine nubis, vt audiat me 
+      po<lb ed="#L" n="35" break="no"/>pulus loquentem ad te, &amp; credat tibi in perpetuum. 
+      De<lb ed="#L" n="36" break="no"/>scende &amp; contestare populum, ne forte velit 
+      transcende<lb ed="#L" n="37" break="no"/>re terminos, &amp; pereat ex eis pluiima multitudo. 
+      Sacerdo<lb ed="#L" n="38" break="no"/>tes quoque, qui accedunt ad Dominum, sanctificentur: 
+      <lb ed="#L" n="39"/>&amp; ascendes tu &amp; Aaron tecum, &amp;c. In hanc ergo formam  
+      <!--302.xml-->
+      <pb ed="#L" n="291"/>
+               <lb ed="#L" n="1"/>Christus per Episcopos &amp; Sacerdotes populum 
+      Chri<lb ed="#L" n="2" break="no"/>stianum instituit: nec plebei ascendere ad consultandum 
+      <lb ed="#L" n="3"/>cum sacerdotibus debent, sed piaescriptis terminis 
+      con<lb ed="#L" n="4" break="no"/>tineri. Sed ais, Moyses sacerdos non erat. Et tamen ille 
+      <lb ed="#L" n="5"/>docebat populum, relioionisque quaestiones finiebat. 
+      <lb ed="#L" n="6"/>At primum, nego Moysen sacerdotem non fuisse. 
+      Moy<lb ed="#L" n="7" break="no"/>ses, inquit, &amp; Aaron in sacerdotibus eius. Psalmo 
+      nona<lb ed="#L" n="8" break="no"/>gesimooctauo. Item non modo obtulit Deo munera 
+      <lb ed="#L" n="9"/>&amp; immolauit: verum etiam Aaron &amp; filios eius 
+      conse<lb ed="#L" n="10" break="no"/>crauit. Sacerdos igitur erat. Illud Leuitici octauo 
+      diser<lb ed="#L" n="11" break="no"/>te explicatum est. Deinde dato mihi legissatorem alium, 
+      <lb ed="#L" n="12"/>dato ducem &amp; prophetam a Deo constitutum. Dato 
+      ho<lb ed="#L" n="13" break="no"/>minem, cuius verbis Deus tantum auctoritatis dederit, &amp;  
+      <lb ed="#L" n="14"/>tunc ego fortasse dicam eiusmodi virum, etiam si laicus 
+      <lb ed="#L" n="15"/>sit, cum sacerdotibus consulendum. Sed illud vni Moysi 
+      <lb ed="#L" n="16"/>concessum est. Transferri itaque passim in alios non 
+      de<lb ed="#L" n="17" break="no"/>bet. Nam quid proprie in controuersijs finiendis 
+      legissa<lb ed="#L" n="18" break="no"/>tor ipse praescripserit, planum in lege &amp; expeditum est. 
+      <lb ed="#L" n="19"/>Si difficile, ait, &amp; ambiguum apud te iudicium esse 
+      pro<lb ed="#L" n="20" break="no"/>spexeris, venies ad sacerdotes Leuitici generis, &amp;c. 
+      se<lb ed="#L" n="21" break="no"/>querisque sententiam eorum, nec declinabis ad dexteram 
+      <lb ed="#L" n="22"/>nec ad sinistram. In ambiguis ergo quaestionibus ad sacer 
+      <lb ed="#L" n="23"/>dotes populus habet currere, in eorumque iudicio requie 
+      <lb ed="#L" n="24"/>scere. Adde huc illud Aggaei, interroga sacerdotes 
+      le<lb ed="#L" n="25" break="no"/>gem. Adde etiam illud Malachiae, labia sacerdotis 
+      custo<lb ed="#L" n="26" break="no"/>dient scientiam, &amp; legem requirent ex ore eius: quia 
+      an<lb ed="#L" n="27" break="no"/>gelus Domini exercituum est. Nec in veteri Testamento 
+      <lb ed="#L" n="28"/>olum ea praescripta forma est in controuersijs finiendis 
+      <lb ed="#L" n="29"/>praecipiendaque doctrina: sed in nouo etiam asseruatur, 
+      <lb ed="#L" n="30"/>vt in vtraque iuxta re populus ab episcoporum 
+      sacerdo<lb ed="#L" n="31" break="no"/>tumque lagijs &amp; iudicio pendeat. Nam, quod ab 
+      episco<lb ed="#L" n="32" break="no"/>pis percipienda euangeliij doctrina sit: testis est Paulus 
+      <lb ed="#L" n="33"/>ad Ephe. 4. inquiens: Et ipse dedit quosdam quidem 
+      Apo<lb ed="#L" n="34" break="no"/>stolos, quosdam autem Pruphetas, alias vero Euangelistas, 
+      <lb ed="#L" n="35"/>alios autem pastores &amp; doctores, &amp; c. Quo loco Paulus, cum 
+      <lb ed="#L" n="36"/>Apostolos, Prophetas, Euangelistas, quasi in tres classes di 
+      <lb ed="#L" n="37"/>stribuisset, pastores tamen &amp; doctores seuere sane atque 
+      <lb ed="#L" n="38"/>prudenter re ipsa confusos, sola cogitatione distinxit, vt 
+      ij<lb ed="#L" n="39" break="no"/>dem esse in ecclesia qui &amp;pasceret &amp; docerent intelligerent. 
+      <!--303.xml-->
+      <pb ed="#L" n="292"/>
+               <lb ed="#L" n="1"/>Sed in his verbis lapsa consuetudo deflexit de via, 
+      sen<lb ed="#L" n="2" break="no"/>simque eo deducta est, vt alios pastores, alios doctores 
+      <lb ed="#L" n="3"/>intelligeret, qua nulla pernicies maior Christianorum vi 
+      <lb ed="#L" n="4"/>tae potuit afferri. Apostolus autem penes Episcopos vt 
+      <lb ed="#L" n="5"/>regendi, ita quoque pascendi ac docendi auctoritatem  
+      <lb ed="#L" n="6"/>esse voluit. Attendite, inquit, vobis &amp; vniuerso gregi, in 
+      <lb ed="#L" n="7"/>quo vos Spiritus sanctus posuit episcopos regere 
+      eccle<lb ed="#L" n="8" break="no"/>siam Dei. Et rursum ad Timotheum, &amp; Titum, non alios 
+      <lb ed="#L" n="9"/>episcopos, alios doctores, sed eundum episcopum docto 
+      <lb ed="#L" n="10"/>remque, praescripsit. Ac per Hieremiam Dominus, dabo, in 
+      <lb ed="#L" n="11"/>quit, pastores, qui pascent vos scientia &amp; doctrina. 
+      Do<lb ed="#L" n="12" break="no"/>ctrina igitur euangelica a pastoribus ecclesiae 
+      expectan<lb ed="#L" n="13" break="no"/>da est, quos &amp; episcopos esse &amp; doctores tradidit 
+      Pau<lb ed="#L" n="14" break="no"/>lus. At vero, quod episcoporum ac sacerdotum etiam sit 
+      <lb ed="#L" n="15"/>de fidei controuersijs decernere, Actorum 15. capite tradit 
+      <lb ed="#L" n="16"/>Lucas. Cum enim venissent Paulus &amp; Barnabas &amp; quidam 
+      <lb ed="#L" n="17"/>alij Hierosolymam, suscepti quidem sunt ab ecclesia, quae 
+      <lb ed="#L" n="18"/>erat Hierosolymis, sed cum proposita esset quaestio, 
+      con<lb ed="#L" n="19" break="no"/>uenerunt, ait, non foeminae, non iuuenes, non laici: sed 
+      <lb ed="#L" n="20"/>apostoli &amp; presbyteri videre de verbo hoc. Quod si 
+      Pe<lb ed="#L" n="21" break="no"/>trus vt mentes Antiochenorum dubitantium Synodi 
+      <lb ed="#L" n="22"/>auctoritate firmarentur, non fideles omnes, sed solos 
+      pres<lb ed="#L" n="23" break="no"/>byteros cum Apostolis congregandos existimauit, quid 
+      <lb ed="#L" n="24"/>est, quod nos in ecclesiae grauissimum coetum 
+      muliercu<lb ed="#L" n="25" break="no"/>las, lanios, coquos, sartores, conuenire cupiamus? Scimus 
+      <lb ed="#L" n="26"/>enim apud Lutheranos, huiusmodi multos sacrarum sibi 
+      <lb ed="#L" n="27"/>literarum scientiam assumere. Praeterea, cum in dubium 
+      <lb ed="#L" n="28"/>venit, quaenam pascua sint ouibus permittenda, quae 
+      con<lb ed="#L" n="29" break="no"/>tra vetanda, pastorum ea consultatio est, non ouium. Ec 
+      <lb ed="#L" n="30"/>clesiae igitur pastoribus huiusmodi causas Dominus 
+      de<lb ed="#L" n="31" break="no"/>mandauit. Praeterea, claues regni coelestis Christus non  
+      <lb ed="#L" n="32"/>vulgo passim, sed Apostolis eorumque successoribus 
+      con<lb ed="#L" n="33" break="no"/>cessit, vt in cap. firmiter, de sum. tri. dicitur: nec enim quae 
+      <lb ed="#L" n="34"/>alterius &amp; loci &amp; temporis sunt, ea nunc probare 
+      debe<lb ed="#L" n="35" break="no"/>mus, in clauium autem potestate eaedem res sunt, aperire 
+      <lb ed="#L" n="36"/>&amp; soluere, claudere &amp; ligare, quemadmodum vel ipse Chri 
+      <lb ed="#L" n="37"/>stus Matth. 16. c. explicuit. Soluere ergo quaestiones 
+      cir<lb ed="#L" n="38" break="no"/>ca fidem exortas, ligareque fideles expleto iam iudicio ad 
+      <lb ed="#L" n="39"/>credendum, non quorumlibet est, sed eorum tantum, 
+      <!--304.xml-->
+      <pb ed="#L" n="293"/>
+               <lb ed="#L" n="1"/>qui vt claudendi &amp; aperiendi, ita ligandi soluendique au 
+      <lb ed="#L" n="2"/>ctoritatem habent. Confirmat autem hoc vel maxime, quoe 
+      <lb ed="#L" n="3"/>ea impedimenta tollere, quibus ianua regni coelorum clau 
+      <lb ed="#L" n="4"/>ditur, clauium munus est proprium. Ignorantiam igitur 
+      <lb ed="#L" n="5"/>fidei, quae sine dubio in eiusmodi impedimentis est, ij 
+      pro<lb ed="#L" n="6" break="no"/>prie tollent, quibus claues concessae sunt. Accedit ad haec, 
+      <lb ed="#L" n="7"/>quod Apostolus ad Rom. 1O. coelos esse intellexit 
+      Apo<lb ed="#L" n="8" break="no"/>stolos, cum eis illud aptauit, In omnem terram, &amp;c. 
+      Apo<lb ed="#L" n="9" break="no"/>stolorum ergo, &amp; eorum qui Apostolis successere, 
+      pro<lb ed="#L" n="10" break="no"/>prium erit illustrare caeteros, ac vi sua populum 
+      contine<lb ed="#L" n="11" break="no"/>re. Quod si coeli illustrationes tollis, quibus omnia, quae 
+      <lb ed="#L" n="12"/>terra parit, maturata pubescunt: infoecunda haec maneat 
+      <lb ed="#L" n="13"/>necesse est, ac vere iuxta nomen suum arida. Atqe etiam,  
+      <lb ed="#L" n="14"/>si tenebrae operient terram &amp; caligo populos, non has 
+      a<lb ed="#L" n="15" break="no"/>lij discutient, quam quibus a Christo dictum est, vos estis 
+      <lb ed="#L" n="16"/>lux mundi. Qui vero, quod superiorum est munium, 
+      infe<lb ed="#L" n="17" break="no"/>rioribus in ecclesia tribuunt, hi similes sunt, vt si qui aut  
+      <lb ed="#L" n="18"/>in terra vim illustrandi ponant, aut in pedibus vim 
+      cer<lb ed="#L" n="19" break="no"/>nendi. Sed quoniam de his fusius &amp; accuratius ab alijs 
+      <lb ed="#L" n="20"/>disputatum est, satis fuerit haec nos pauca breuiter 
+      atti<lb ed="#L" n="21" break="no"/>gisse. Nec est profecto cur maiorem in hac re lucem 
+      de<lb ed="#L" n="22" break="no"/>fideremus, quam non ratio modo, sed perpetuus etiam  
+      <lb ed="#L" n="23"/>ecclesiae vsus fecit esse perspicuam. Non enim patrum  
+      <lb ed="#L" n="24"/>memoria, nisi episcopi &amp; presbyteri in concilium 
+      vocan<lb ed="#L" n="25" break="no"/>tur. Nec hi omnes, sed qui pastores ecclesiae &amp; rectores 
+      <lb ed="#L" n="26"/>sunt. Episcopi enim, quos anulares nostri vocant, sine 
+      <lb ed="#L" n="27"/>causa aliquando in synodum sunt admissi. Sed nihil 
+      mi<lb ed="#L" n="28" break="no"/>rum. Nam &amp; sine causa in ecclesia sunt. Verum haec alias. 
+      <lb ed="#L" n="29"/>Nunc complectar quod proposui breui. Sane, nisi me 
+      <lb ed="#L" n="30"/>opinio fallit, sicut nec simplices presbyteri, ita nec anula 
+      <lb ed="#L" n="31"/>res isti Episcopi quidem in synodum cogendi sunt. 
+      To<lb ed="#L" n="32" break="no"/>tum quippe ecclesiastici concilij negocium non ordinis,  
+      <lb ed="#L" n="33"/>sed iurisdictionis potestate transigitur. Ferre namque, 
+      sen<lb ed="#L" n="34" break="no"/>tentiam, soluere aut ligare, absque iurisdictione nemo po 
+      <lb ed="#L" n="35"/>test. Constat autem patres in synodo aut leges de 
+      mori<lb ed="#L" n="36" break="no"/>bus dare populo, aut de fidei quaestionibus iudicare: quo 
+      <lb ed="#L" n="37"/>rum neutrum sine ligandi soluendique iure sacerdos 
+      fa<lb ed="#L" n="38" break="no"/>cit. Sed vtcunque haec habeant, errant certe in media 
+      <lb ed="#L" n="39"/>luce Lutherani, qui synodum aliter quam episcoporum 
+      <!--305.xml-->
+      <pb ed="#L" n="294"/>
+               <lb ed="#L" n="1"/>&amp; sacerdotum collectione definiunt. Errat quoque 
+      tur<lb ed="#L" n="2" break="no"/>piter pueriliterque Bucerus, cum ait, in synodum 
+      eccle<lb ed="#L" n="3" break="no"/>siae non debere cogi, nisi Dei filios. Primum enim, si 
+      so<lb ed="#L" n="4" break="no"/>lum Dei filij synodum ecclesiae faciunt, quaero an 
+      con<lb ed="#L" n="5" break="no"/>uenire debeant vltro non vocati, an potius futurus sit 
+      a<lb ed="#L" n="6" break="no"/>liquis, cuius euocentur imperio. Si vocati in concilium 
+      <lb ed="#L" n="7"/>veniant, ecquis, rogo, ille futurus est, qui veros Dei filios 
+      <lb ed="#L" n="8"/>internoscat? Sin vltro venient, quisque ergo de se 
+      iudi<lb ed="#L" n="9" break="no"/>cium feret, &amp; suae bonitatis opinione fretus in concilium 
+      <lb ed="#L" n="10"/>sese ingeret?: Sed vt de se coniecturam habeat, 
+      quomo<lb ed="#L" n="11" break="no"/>do reliquos iustos esse &amp; sanctos intelliget? Atque vt 
+      <lb ed="#L" n="12"/>huiusmodi hominum insaniam apertius deprehendas, finge 
+      <lb ed="#L" n="13"/>in Republica vnaqualibet ciues, qui sua &amp; sponte &amp; 
+      au<lb ed="#L" n="14" break="no"/>ctoritate se congregent ad censendum de legibus, de ma 
+      <lb ed="#L" n="15"/>gistratibus, de religione, idque eo quisque audacius, quo 
+      <lb ed="#L" n="16"/>magis virtuti suae &amp; studijs fidit. Num talis Reipub. 
+      for<lb ed="#L" n="17" break="no"/>ma &amp; species non a Solone dico aut Licurgo, sed ab 
+      vllo<lb ed="#L" n="18" break="no"/>omnino cordato homine probaretur? Non igitur ea 
+      con<lb ed="#L" n="19" break="no"/>fusio ac perturbatio in ecclesiae synodum inferenda est,  
+      <lb ed="#L" n="20"/>quam ne in vicis quidem &amp; oppidulis homo sanae mentis 
+      <lb ed="#L" n="21"/>admitteret. Nisi forte in illam insaniam recidamus, vt pu 
+      <lb ed="#L" n="22"/>temus, hominem, simul atque Dei filius esse desijt, 
+      pote<lb ed="#L" n="23" break="no"/>state quoque regendi, pascendi, iudicandi, ligandi, 
+      sol<lb ed="#L" n="24" break="no"/>uendi esse destitutum. Quod quidem quale sit, non est 
+      <lb ed="#L" n="25"/>huius operis ostendere, sed in Repub. prophana 
+      animad<lb ed="#L" n="26" break="no"/>uerti potest: vbi ciuium tamen vel probitas vel 
+      improbi<lb ed="#L" n="27" break="no"/>tas non adeo obscura est, vt non queat aliquando facile 
+      <lb ed="#L" n="28"/>deprehendi. Id quod in Christiana repub. non perinde 
+      <lb ed="#L" n="29"/>facile est, cuius scilicet praecipua virtus, qua filij Dei &amp;  
+      <lb ed="#L" n="30"/>nominatur &amp; sunt, occultissima est. Non enim qui in 
+      ma<lb ed="#L" n="31" break="no"/>nifesto Indaeus est, nec quae in manifesto in carne est 
+      cir<lb ed="#L" n="32" break="no"/>cuncisio, sed qui in abscondito Iudaeus est, &amp; circuncisio 
+      <lb ed="#L" n="33"/>cordis in spiritu non litera, cuius laus non ex hominibus, 
+      <lb ed="#L" n="34"/>sed ex Deo est. Quamobrem si charitate amissa, potestas 
+      <lb ed="#L" n="35"/>item publica amitteretur, dici non potest, quantis 
+      tene<lb ed="#L" n="36" break="no"/>bris ecclesia esset circumfusa. De quo argumento, &amp; nos 
+      <lb ed="#L" n="37"/>superiore libro disseruimus, &amp; alij plerique disseruerunt 
+      <lb ed="#L" n="38"/>multo copiosius, nos quasi praetereuntes haec diximus, vt 
+      <lb ed="#L" n="39"/>lectores intelligant, quod ad praesentem locum satis est,  
+      <!--306.xml-->
+      <pb ed="#L" n="295"/>
+               <lb ed="#L" n="1"/>episcopos etiam malos in synodum congregandos, vt qui 
+      <lb ed="#L" n="2"/>potestatem pascendi, iudicandi, ligandi, soluendi, non 
+      ami<lb ed="#L" n="3" break="no"/>serint. Lutheranos itaque ab hoc quidem sermone remo 
+      <lb ed="#L" n="4"/>ueamus: ipsi autem intelligamus, synodi ecclesiasticae no 
+      <lb ed="#L" n="5"/>men non quosuis, sed pastores &amp; pontifices ecclesiae 
+      com<lb ed="#L" n="6" break="no"/>plecti in vnum locum congregatos, vt de causis 
+      ecclesia<lb ed="#L" n="7" break="no"/>sticis, hoc est, de moribus, fide, religione pronuncient.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

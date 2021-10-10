@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="285"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e478"><!-- Z4Yt34-l5c1 -->
+            <head xml:id="Z4Yt34-d1e478-Hd1e106">Caput 1</head>
+            <p xml:id="Z4Yt34-d1e478-d1e109">
+      <!--296.xml-->
+               <pb ed="#L" n="285"/>
+               <lb ed="#L" n="1"/>DE AVCTORI 
+      <lb ed="#L" n="2"/>TATE COoRCILIORVM 
+      <lb ed="#L" n="3"/>OyAE OARTO LOCOEST 
+      <lb ed="#L" n="4"/>posita, Liber Quintus.
+    </p>
+            <p xml:id="Z4Yt34-d1e478-d1e125">
+               <lb ed="#L" n="5"/>caput primum argumentum continet, quibus haeretici 
+      <lb ed="#L" n="6"/>vtuntur, ad huius loci auctoritatem 
+      la<lb ed="#L" n="7" break="no"/>befactandam.
+    </p>
+            <p xml:id="Z4Yt34-d1e478-d1e134">
+               <lb ed="#L" n="8"/>POst ecclesiae auctoritatem auctoritas 
+      <lb ed="#L" n="9"/>conciliorum sequitur, quam heretici 
+      <lb ed="#L" n="10"/>plurimis argumentis oppugnant.
+    </p>
+            <p xml:id="Z4Yt34-d1e478-d1e143">
+               <lb ed="#L" n="11"/>Illud primum est, quod ecclesia 
+      co<lb ed="#L" n="12" break="no"/>sumna est &amp; firmamentum veritatis. 
+      <lb ed="#L" n="13"/>At in synodum soli cardinales &amp; 
+      epi<lb ed="#L" n="14" break="no"/>scopi veniunt, qui &amp; numero 
+      pauci<lb ed="#L" n="15" break="no"/>ores sunt, nec auctoritatis pondere,  
+      <lb ed="#L" n="16"/>hoc est, nec virtute nec sapientia grauiores: non ergo 
+      <lb ed="#L" n="17"/>synodus regula credendi ecclesiae est, sed contra 
+      eccle<lb ed="#L" n="18" break="no"/>sia synodo.  
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e164">
+               <lb ed="#L" n="19"/>Deinde pontifices &amp; Pharisaei collegerunt concilium, 
+      <lb ed="#L" n="20"/>cuius sententia impia fuit, vt Ioannis 11. capitulo legitur: 
+      <lb ed="#L" n="21"/>non eroo semper synodi sacerdotalis iudicium 
+      proban<lb ed="#L" n="22" break="no"/>dum est. Sicut enim principes sacerdotum &amp; omne 
+      con<lb ed="#L" n="23" break="no"/>cilium quaerebant falsum testimonium contra Iesum, Mat.  
+      <lb ed="#L" n="24"/>26. &amp; omnes princines sacerdotum, &amp; seniores populi 
+      <lb ed="#L" n="25"/>aduersus Iesum consilium inierunt Mantth. 27. ita &amp; 
+      epis<lb ed="#L" n="26" break="no"/>copi ac pontifices nostri contrariam Iesu Christo 
+      sen<lb ed="#L" n="27" break="no"/>tentiam ferre possunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e186">
+               <lb ed="#L" n="28"/>Praeterea si veritatem episcopi tenent &amp; falli non 
+      que<lb ed="#L" n="29" break="no"/>unt, id ex diuino aliquo pacto proficiscetur. At pactum  
+      <lb ed="#L" n="30"/>hoc nusquam apparet. Atque vt appareat, haud aliter 
+      in<lb ed="#L" n="31" break="no"/>terpretandum est, quam illud, quod cum Leui olim &amp; 
+      po<lb ed="#L" n="32" break="no"/>steris eius dominus iniit. Pactum, inquit, meum cum Leui. 
+      <lb ed="#L" n="33"/>Lex veritatis fuit in ore eius, &amp; iniquitas non est inuenta 
+      <lb ed="#L" n="34"/>in labiis eius: in pace &amp; aequitate ambulauit mecum, &amp;  
+      <!--297.xml-->
+      <pb ed="#L" n="286"/>
+               <lb ed="#L" n="1"/>multos auertit ab iniquitate. Labia enim sacerdotis 
+      cu<lb ed="#L" n="2" break="no"/>stodient scientiam, &amp; legem requirent ex ore eius: quia 
+      <lb ed="#L" n="3"/>Angelus Domini exercituum est. Vos autem recessistis 
+      <lb ed="#L" n="4"/>de via, &amp; scandalixastis plurimos in lege: irritum 
+      feci<lb ed="#L" n="5" break="no"/>stis pactum Leui, dicit Dominus exercituum. Item, 
+      <lb ed="#L" n="6"/>Obsecro Domine custodiens pactum custodientibus 
+      <lb ed="#L" n="7"/>mandata tua. In quorum verba Hieronymus, non ergo,  
+      <lb ed="#L" n="8"/>ait, quod pollicetur Dominus statim futurum est, sed in 
+      <lb ed="#L" n="9"/>eos sua promissa complet, qui custodiunt mandata 
+      il<lb ed="#L" n="10" break="no"/>lius. Vnde constat, pactum retinendae veritatis 
+      quon<lb ed="#L" n="11" break="no"/>dam cum sacerdotali tribu initum, per posterorum 
+      cul<lb ed="#L" n="12" break="no"/>pas irritari. Quo sit, vt ad eundem quoque modum, si 
+      <lb ed="#L" n="13"/>Apostolis, &amp; succedentibus omnino pontificibus, 
+      ve<lb ed="#L" n="14" break="no"/>ritas a Christo promissa est, eandem tandium sint 
+      serua<lb ed="#L" n="15" break="no"/>turi, quandiu id non suis peccatis egerint, vt 
+      verita<lb ed="#L" n="16" break="no"/>te destitui mereantur. Alioqui, vt Hieronymus in 
+      <lb ed="#L" n="17"/>hunc Malachiae locum ait, ad sacerdotum quidem 
+      per<lb ed="#L" n="18" break="no"/>tinet disciplinam interrogatos respondere de lege, 
+      <lb ed="#L" n="19"/>sed si ignorantiam in caeteris diligentem, in 
+      scriptu<lb ed="#L" n="20" break="no"/>ris sanctis obtenderint negligentem: frustra iactant 
+      <lb ed="#L" n="21"/>dignitatem, cuius opera non exhibent. Atque idem  
+      <lb ed="#L" n="22"/>etiam Hieronymus scribit, falso sacerdotes: illa 
+      ia<lb ed="#L" n="23" break="no"/>ctare. Non peribit lex a sacerdote, nec consilium a 
+      <lb ed="#L" n="24"/>sapiente, nec sermo a propheta, cum scriptura dicat,  
+      <lb ed="#L" n="25"/>in peruersam animam non intrabit sapientia. Et per 
+      <lb ed="#L" n="26"/>Ezechielem Dominus, quaerent, ait, visionem de 
+      pro<lb ed="#L" n="27" break="no"/>pheta: &amp; lex peribit a sacerdote, &amp; consilium a 
+      se<lb ed="#L" n="28" break="no"/>nioribus. In quae verba idem ipse Hieronymus, haec 
+      <lb ed="#L" n="29"/>autem, inquit non solum eo tempore, quando 
+      Baby<lb ed="#L" n="30" break="no"/>lonius contra Hierusalem veniebat exercitus, a 
+      prophe<lb ed="#L" n="31" break="no"/>tis, sacerdotibus &amp; senioribus quaerebantur, sed 
+      quo<lb ed="#L" n="32" break="no"/>tidie in ecclesiis requiruntur. Quae si visionem legem, 
+      <lb ed="#L" n="33"/>consiliumque perdiderint, frustra Prophetas &amp; 
+      sacer<lb ed="#L" n="34" break="no"/>dotes &amp; seniores habere se iactant. Adde huc illud 
+      <lb ed="#L" n="35"/>Hieremiae testimonium, Sacerdotes non dixerunt, vbi 
+      <lb ed="#L" n="36"/>est Dominus, &amp; tenentes legem meam nescierunt me: &amp;  
+      <lb ed="#L" n="37"/>pastores praeuaricati sunt in me: &amp; Prophetae 
+      propheta<lb ed="#L" n="38" break="no"/>uerunt in Baal. Quibus verbis vtendum esse aduersus 
+      <!--298.xml-->
+      <pb ed="#L" n="287"/>
+               <lb ed="#L" n="1"/>nostri ordinis magistros, Hieronymus in commentarijs 
+      <lb ed="#L" n="2"/>auctor est. Adde illud etiam, speculatores eius caeci 
+      <lb ed="#L" n="3"/>omnes nescierunt vniuersi : canes muti non valentes 
+      la<lb ed="#L" n="4" break="no"/>trare, videntes vana, dormientes &amp; amantes somnia. Ipsi 
+      <lb ed="#L" n="5"/>pastores ignorauerunt intelligentiam, omnes in viam  
+      <lb ed="#L" n="6"/>suam declinauerunt. Quibus ex rebus facile 
+      intelligi<lb ed="#L" n="7" break="no"/>tur, non esse fidendum pastorum sacerdotumque 
+      iudi<lb ed="#L" n="8" break="no"/>cijs, praesertim si illis Dominus iratus est. Si ergo illi 
+      <lb ed="#L" n="9"/>solum in concilium coguntur, concilium profecto errare 
+      <lb ed="#L" n="10"/>potest. 
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e316">
+               <lb ed="#L" n="11"/>Praeterea, conciliorum auctoritas illo potissimum 
+      <lb ed="#L" n="12"/>testimonio probari solet, si duo ex vobis consenserint 
+      <lb ed="#L" n="13"/>super terram, de omni re quamcunque petierint, fiet 
+      il<lb ed="#L" n="14" break="no"/>lis a patre meo. Vbi enim sunt duo vel tres 
+      congrega<lb ed="#L" n="15" break="no"/>ti in nomine meo, ibi sum in medio eorum. At hoc 
+      <lb ed="#L" n="16"/>testimonium probaret aequem, prouincialium synodorum  
+      <lb ed="#L" n="17"/>certa esse iudicia: quod a recta fide alienum esse cum ex 
+      <lb ed="#L" n="18"/>ilijs, tum vero magis ex concilio Carthaginense sub  
+      <lb ed="#L" n="19"/>Cypriano constat, in quo non duo vel tres, sed 
+      octo<lb ed="#L" n="20" break="no"/>ginta episcopi congregati contra orthodoxam de 
+      vni<lb ed="#L" n="21" break="no"/>co baptismo doctrinam errauere. Synodorum ergo 
+      <lb ed="#L" n="22"/>veritas infirmo aut nullo potius fundamento nititur. 
+      <lb ed="#L" n="23"/>Atque in eo testimonio his tantum concilijs se 
+      affutu<lb ed="#L" n="24" break="no"/>rum promisit Christus, quae in nomine ipsius 
+      conueni<lb ed="#L" n="25" break="no"/>tent. Primum ergo fidem faciant se coire in Christi 
+      <lb ed="#L" n="26"/>nomine nam fieri potest, vt improbi episcopi 
+      aduer<lb ed="#L" n="27" break="no"/>sus Christum conspirent. Deinde nihil verbo Dei 
+      <lb ed="#L" n="28"/>addant aut detrahant, illis enim haec lex praescripta est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e358">
+               <lb ed="#L" n="29"/>Ad haec, concilium Ariminense sexcentorum 
+      episco<lb ed="#L" n="30" break="no"/>rum errauit cum Ario, Ephesinum secundum etiam 
+      fre<lb ed="#L" n="31" break="no"/>quentissimum cum Dioscoro, Constantinopolitanum 
+      <lb ed="#L" n="32"/>rero trecentorum pontificum cum Leone Imperatore. 
+      <lb ed="#L" n="33"/>Concilia igitur quamlibet generalia nullum argumentum 
+      <lb ed="#L" n="34"/>firmum Theologis subministrant.  
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e374">
+               <lb ed="#L" n="35"/> Sexta item synodus apud Trullum celebrata non 
+      v<lb ed="#L" n="36" break="no"/>num, sed multa peccauit, vt videre est canone secundo,  
+      <lb ed="#L" n="37"/>tertio, decimotertio, quinquagesimoquinto, &amp; 
+      sexagesi<lb ed="#L" n="38" break="no"/>moseptimo. Errare igitur in fide &amp; moribus concilia 
+      <lb ed="#L" n="39"/>possunt. 
+      <!--299.xml-->
+      <pb ed="#L" n="288"/>
+               <lb ed="#L" n="1"/>Albertus insuper Pighius vir doctus &amp; pius multis 
+      <lb ed="#L" n="2"/>argumentis ostendit, acta, quae nomine sextae &amp; septimae 
+      <lb ed="#L" n="3"/>synodi circunferuntur, varios errores continere. Non 
+      <lb ed="#L" n="4"/>igitur conciliorum etiam generalium fides adeo certa est,  
+      <lb ed="#L" n="5"/>vt in dubium vocari non debeat. 
+      <lb ed="#L" n="6"/>Praeterea, concilium Constantien. definijt, concilium 
+      <lb ed="#L" n="7"/>esse supra Papa, Florentinum autem sub Eugenio quarto, &amp;  
+      <lb ed="#L" n="8"/>Lateranense sub Leone decimo, contrarium dogma finie 
+      <lb ed="#L" n="9"/>runt : conciliorum ergo auctoritas infirma est.  
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e411">
+               <lb ed="#L" n="10"/>Rursum concilium Basiliense definit, esse haereticum 
+      <lb ed="#L" n="11"/>qui negauerit, concilium esse supra Papam, aut asseruerit 
+      <lb ed="#L" n="12"/>Papam transferre in alium locum posse concilium, aut in 
+      <lb ed="#L" n="13"/>aliud tempus prorogare. Et tamen nemo tam insanus post 
+      <lb ed="#L" n="14"/>ea tempora fuit, vt sententiae contrariae auctores 
+      haereti<lb ed="#L" n="15" break="no"/>cos existimauerit : conciliorum ergo iudicia incertiora 
+      <lb ed="#L" n="16"/>sunt quam vt certam fidem facere possint.  
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e430">
+               <lb ed="#L" n="17"/> Praeterea Augustinus libro secundo de baptismo 
+      con<lb ed="#L" n="18" break="no"/>tra Donatistas capite tertio, plenaria concilia inquit, 
+      sae<lb ed="#L" n="19" break="no"/>pe priora a posterioribus emendari. Id quode certe non  
+      <lb ed="#L" n="20"/>fieret, si semper veritatem assequerentur. Sed &amp; lsidorus 
+      <lb ed="#L" n="21"/>quinquagesima distinctione, capite, Domino, 
+      quotiescum<lb ed="#L" n="22" break="no"/>que, inquit in gestis conciliorum discors sententia 
+      inue<lb ed="#L" n="23" break="no"/>nitur, illius sententia concilij magis teneatur, cuius 
+      anti<lb ed="#L" n="24" break="no"/>quior &amp; potior extet auctoritas. Non igitur conciliorum 
+      <lb ed="#L" n="25"/>decreta certa sunt omnia, sed interdum uaria sunt atque 
+      <lb ed="#L" n="26"/>adeo inter se pugnantias. 
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e454">
+               <lb ed="#L" n="27"/>Praeterea cum concilium dicitur errare non posse, aut  
+      <lb ed="#L" n="28"/>intelligitur mutilum sine capite, aut integrum 
+      interue<lb ed="#L" n="29" break="no"/>niente etiam capitis auctoritate. Si mutilum, errauit 
+      ali<lb ed="#L" n="30" break="no"/>quando, vt catholici vltro ipsi fatentur: sin integrum, 
+      fru<lb ed="#L" n="31" break="no"/>stra ad fidei quaestionem finiendam congregabitur, cum 
+      <lb ed="#L" n="32"/>Romanus pontifex sine generali concilio rite de fide 
+      pro<lb ed="#L" n="33" break="no"/>nuntiet: quemadmodum loco proximo sumus 
+      demonstratu<lb ed="#L" n="34" break="no"/>ri. Aut igitur conciliorum dogmata incerta sunt, aut vane 
+      <lb ed="#L" n="35"/>profecto congregantur. Id quod Gregorius Nazanzenus 
+      <lb ed="#L" n="36"/>in epistola ad Procopium, quae est numero, centesimo 
+      se<lb ed="#L" n="37" break="no"/>cundo, plane testatur in haec verba: Quodcunqe 
+      episco<lb ed="#L" n="38" break="no"/>porum concilium fugio, propterea quod hactenus nullius 
+      <lb ed="#L" n="39"/>omnino Synodi finem aliqua vtilitate praeditum, &amp; vnde 
+      <!--300.xml-->
+      <pb ed="#L" n="289"/>
+               <lb ed="#L" n="1"/>res male habentes non magis exacerbatae quam curata 
+      <lb ed="#L" n="2"/>fuerint, videre licuit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e478-d1e493">
+               <lb ed="#L" n="3"/>Postremo Oecolampadius argumentatur ex concilio 
+      <lb ed="#L" n="4"/>Romano sub Nicolao, vbi Berengarius, vt inquit, coactus 
+      <lb ed="#L" n="5"/>est adiurare in verba falsissima, quae nec Roffensis libro 
+      <lb ed="#L" n="6"/>tertio contra Oecolampadium capite duo decimo, nec 
+      <lb ed="#L" n="7"/>Caietanus in libello de Coena Domini ab errore liberarc 
+      <lb ed="#L" n="8"/>potuerunt. His atque alijs argumentis contra huius loci 
+      <lb ed="#L" n="9"/>auctoritatem haeretici pugnare solent. Lutherus autem 
+      <lb ed="#L" n="10"/>more suo, tem nulla argumentatione sed sola 
+      asseueratio<lb ed="#L" n="11" break="no"/>ne conficit inquiens: saepius errauerunt concilia, 
+      praeser<lb ed="#L" n="12" break="no"/>tim Constantiense, quod omnium impijssime errauit. Et 
+      <lb ed="#L" n="13"/>in quadam ad populum concione concilium primum, cui 
+      <lb ed="#L" n="14"/>Apostoli &amp; eorum discipuli interfuerunt, errasse ait, eo 
+      <lb ed="#L" n="15"/>quod senserint legem &amp; opera necessaria esse ad salutem. 
+      <lb ed="#L" n="16"/>med enim hunc nos locum &amp; confirmare &amp; tueri 
+      semper<lb ed="#L" n="17" break="no"/>oportet, nec ex vera ecclesiae sententia falsa vlla ratione 
+      <lb ed="#L" n="18"/>moueri.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

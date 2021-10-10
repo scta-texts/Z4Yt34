@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="553"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1004"><!-- Z4Yt34-l11c2 -->
+            <head xml:id="Z4Yt34-d1e1004-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e1004-d1e109">
+               <lb ed="#L" n="13"/>Caput secundum, De bistoriae humanae in 
+      Theo<lb ed="#L" n="14" break="no"/>logiam Atilitate. 
+    </p>
+            <p xml:id="Z4Yt34-d1e1004-d1e116">
+               <lb ed="#L" n="15"/>EMersi iam e vadis, &amp; scopulos praeteruecta est 
+      ora<lb ed="#L" n="16" break="no"/>Ptio mea. A rebus enim difficillimis ad res faciles 
+      de<lb ed="#L" n="17" break="no"/>lapsus sum, neque historiae humanae auctoritate 
+      explican<lb ed="#L" n="18" break="no"/>da potest aut ingenium aut Theologia mea periclitari. 
+      <lb ed="#L" n="19"/>Multo vero id minus, cum illud explico, quam sit 
+      Theo<lb ed="#L" n="20" break="no"/>logo humana historia vtilis &amp; necessaria. Nullos 
+      quippe<lb ed="#L" n="21" break="no"/>hic aduersarios habemus, nulla contra veritatem 
+      argu<lb ed="#L" n="22" break="no"/>menta sunt. Etenim viri omnes docti consentiunt, rudes 
+      <lb ed="#L" n="23"/>omnino Theologos illos esse, in quorum 
+      lucubrationi<lb ed="#L" n="24" break="no"/>bus historia muta est. Mihi quidem non Theologi solum, 
+      <lb ed="#L" n="25"/>sed hulli satis eruditi videntur, quibus res olim gestae 
+      <lb ed="#L" n="26"/>ignotae sunt. Multa enim nobis e thesauris suis historia 
+      <lb ed="#L" n="27"/>suppeditat, quibus si careamus, &amp; in Theologia &amp; in 
+      qua<lb ed="#L" n="28" break="no"/>cunque ferme alia facultate inopes saepenumero &amp; 
+      indo<lb ed="#L" n="29" break="no"/>cti reperiomur. Cum vero pateat, quandoque in re quon 
+      <lb ed="#L" n="30"/>dam gesta Theologicae disputationis cardinem verti, quis 
+      <lb ed="#L" n="31"/>est hic qui neget, interdum etiam in scholastica 
+      disputa<lb ed="#L" n="32" break="no"/>tione opus esse exannalium monumentis, testes excitare 
+      <lb ed="#L" n="33"/>clarissimos veritatis? Equidem historiam esse 
+      Theolo<lb ed="#L" n="34" break="no"/>go disserenti necessariam, cum saepe alias tum maxime in 
+      <lb ed="#L" n="35"/>hoc opere animaduerti: vbi quantus mihi fuerit historiae 
+      <lb ed="#L" n="36"/>humanae vsus, qui superiores libros attigerint, ii facile iu 
+      <lb ed="#L" n="37"/>dicabunt. Nam que magnus postoa futurus sit, non audeo 
+      <!--565.xml-->
+      <pb ed="#L" n="554"/>
+               <lb ed="#L" n="1"/>ego in praesentia dicere, ne montes aureos videa 
+      <lb ed="#L" n="2"/>ceri. Certe quantum historiae 
+      <lb ed="#L" n="3"/>indigeat, vel illi abunde magno ari 
+      <lb ed="#L" n="4"/>ius ignoratione sunt in varios errores lapsi. Hu 
+      <lb ed="#L" n="5"/>neris quidam exemplum ponunt, quod Traianum S 
+      <lb ed="#L" n="6"/>gorij precibus a gehenna liberatum, non vulgo s 
+      <lb ed="#L" n="7"/>sed Diuo etiam Thomae olim iuueni persuasum est. Pe 
+      <lb ed="#L" n="8"/>suasum est autem Ioannis Damasceni auctoritate, cui De 
+      <lb ed="#L" n="9"/>sane Thomas plurimum deferebat. Sed illius fabellae 
+      in<lb ed="#L" n="10" break="no"/>quiunt, argumento nemo adduceretur, si ex temporun 
+      <lb ed="#L" n="11"/>ratione intelligeret, Ioannem Damascenum rei eius, 
+      au<lb ed="#L" n="12" break="no"/>ctorem esse non posse, vt qui plus vno seculo iuxta 
+      ho<lb ed="#L" n="13" break="no"/>rum sententiam Gregorium antecesserit. Nam Raphac 
+      <lb ed="#L" n="14"/>Volaterranus, Vincentius Valuacensis, ac Diuus Antoni 
+      <lb ed="#L" n="15"/>nus illum tradunt sub Theodosio Hloruisse. Sed hoc exem 
+      <lb ed="#L" n="16"/>plum ineptum est, cum Ioannes ille Damascenus, qui qua 
+      <lb ed="#L" n="17"/>tuor de orthodoxa fide libros edidit, sub Constantino 
+      <lb ed="#L" n="18"/>&amp; Leone floruerit, hoc est. Diuo Gregorio iam 
+      defun<lb ed="#L" n="19" break="no"/>cto. Nec in re aperta opus est aut Ioannem patriarcham 
+      <lb ed="#L" n="20"/>Hierosolymitanum, aut rerum scriptorem Romanarum  
+      <lb ed="#L" n="21"/>lib. 21. &amp; 22. aut alios etiam historicos excitare, vbi Ioan 
+      <lb ed="#L" n="22"/>nes ipse Damascenus non obscure indicat, quo tempore 
+      <lb ed="#L" n="23"/>extiterit. Primum enim Cyrillum saepe refert, qui post 
+      <lb ed="#L" n="24"/>Theodosium fuit. Synodi quoque Chalcedon. aliquando 
+      <lb ed="#L" n="25"/>meminit. Quin lib. 3. c. 1O. Petri cuiusdam Gnaphaei fecit 
+      <lb ed="#L" n="26"/>mentionem, qui sub lustiniano in quinta synodo damna 
+      <lb ed="#L" n="27"/>tus est. Sed &amp; lib. 4. cap. 17. contra Iconomachos scribit, 
+      <lb ed="#L" n="28"/>eosdemque in libro haeres: Iconoclastas &amp; 
+      Thymolcon<lb ed="#L" n="29" break="no"/>tes appellat, a Leone scilicet, qui sectae illius praecipuus 
+      <lb ed="#L" n="30"/>&amp; auctor &amp; adiutor fuit. Eodem praeterea haeres. lib. 
+      Mo<lb ed="#L" n="31" break="no"/>nothelethas commemorat Cyrum, Sergium, &amp; 
+      Eusta<lb ed="#L" n="32" break="no"/>thium, qui damnati sunt in sexta synodo sub Agathonc 
+      <lb ed="#L" n="33"/>papa: aduersum quos copiose etiam scripsit libro 3. de 
+      <lb ed="#L" n="34"/>orthod. fid. cap. 14. &amp; 15. Quae omnia qui expendat, is 
+      <lb ed="#L" n="35"/>facile intelligat Ioannem Damascenum post Gregorium 
+      <lb ed="#L" n="36"/>extitisse. Nam quod Tritemius ait, duos fuisse huius, 
+      no<lb ed="#L" n="37" break="no"/>minis, alterum sub Theodosio, qui libros illos 
+      Theolo<lb ed="#L" n="38" break="no"/>giae composuerit, alterum sub Leone, qui pro 
+      imagini<lb ed="#L" n="39" break="no"/>bus depugnarit, id commentitium totum est, vt ex locis 
+      <!--566.xml-->
+      <pb ed="#L" n="555"/>
+               <lb ed="#L" n="1"/>modo excitatis apparuit. Nec vero historiam ego 
+      il<lb ed="#L" n="2" break="no"/>lam probo. Mirum enim est, hominem Graecum rem &amp;  
+      <lb ed="#L" n="3"/>nostram, &amp; toto, vt ipseinquit, orbe vulgatam, Graecis 
+      <lb ed="#L" n="4"/>suis prodidisse, quam historia tamen omnis Latinorum 
+      <lb ed="#L" n="5"/>ignorat. Sint ergo fabulae, non repugno, ea quae de 
+      Tra<lb ed="#L" n="6" break="no"/>iano &amp; Gregorio referuntur. At non ob illam causam  
+      <lb ed="#L" n="7"/>tamen, quia prior Gregorio Damascenus fuerit. Verum  
+      <lb ed="#L" n="8"/>hoc in genere Hispanus noster Gennesius Sepulueda nu 
+      <lb ed="#L" n="9"/>per errauit, homo neque meo iudicio imperitus, &amp; suo 
+      <lb ed="#L" n="10"/>valde doctus, certe &amp; cloquendi arte clarus, &amp; a 
+      Theo<lb ed="#L" n="11" break="no"/>logiae studio non abhorrens. Qui cum persuadere vellet, 
+      <lb ed="#L" n="12"/>barbaris noui orbis oppugnandis iustam esse belli 
+      cau<lb ed="#L" n="13" break="no"/>sam, in eam argumentationem incubuit: quod 
+      Grego<lb ed="#L" n="14" break="no"/>rius in epistola libri primi septuagesimatertia, id quod re 
+      <lb ed="#L" n="15"/>fertur 23. 4. 4. Si non Gennadium commendat, qui 
+      tan<lb ed="#L" n="16" break="no"/>tum Christianae dilatandae causa Reipu. bella susceperit: 
+      <lb ed="#L" n="17"/>quatenus Christi nomen per subditas gentes fidei praedi 
+      <lb ed="#L" n="18"/>catione circunquaque discurreret. Hoc vero Gregorij 
+      <lb ed="#L" n="19"/>testimonium quam sit ineptum ad rem propositam 
+      com<lb ed="#L" n="20" break="no"/>probandam, is quoque ipse Gennesius facile iudicasset: 
+      <lb ed="#L" n="21"/>si ex historijs didicisset, eos aduersum quos bella Genna 
+      <lb ed="#L" n="22"/>dius gessit, hostes non imperij Romani modo, 
+      verumeti<lb ed="#L" n="23" break="no"/>am ecclesiae Christique, fuisse. Id quod ex alia quadam ad 
+      <lb ed="#L" n="24"/>eundem Gennadium epistola, quae est in eodem libro nu 
+      <lb ed="#L" n="25"/>mero 72. luce clarius videre licet. Nec dubitari potest 
+      <lb ed="#L" n="26"/>Vandalos, quorum reliquiae eousque in Aphricana 
+      pro<lb ed="#L" n="27" break="no"/>uincia supererant, Arriana peste affectos: nec ignoratur 
+      <lb ed="#L" n="28"/>Donatistas, quibus Aphrica tum etiam plena erat, 
+      prae<lb ed="#L" n="29" break="no"/>mijs &amp; vi contra Catholicos, non solum disputatione pu 
+      <lb ed="#L" n="30"/>gnasse. Sed de his exemplis non est hic locus disserendi, 
+      <lb ed="#L" n="31"/>vbi breuiter &amp; in transcursu Theologum admonemus, 
+      <lb ed="#L" n="32"/>vt ne historiam ecclesiasticam negligat, cuius &amp;cognitio 
+      <lb ed="#L" n="33"/>magnos fructos parit, &amp; ignoratio parit errores. Iam 
+      ve<lb ed="#L" n="34" break="no"/>ro Augustinus lib. de doctri. Christ. 2. cap. 28. 
+      ethnico<lb ed="#L" n="35" break="no"/>rum etiam historias ad intelligentiam scripturae sacrae 
+      <lb ed="#L" n="36"/>plurimum conferre tradit, ostenditque ex earum 
+      ignora<lb ed="#L" n="37" break="no"/>tione quosdam circa scripturas errasse. Videlicet Irenaeus 
+      <lb ed="#L" n="38"/>&amp; Tertullianus circa aetatem, qua Christus passus est, vario 
+      <lb ed="#L" n="39"/>sunt quidem errore versati, sed ob eandem causam tamen. 
+      <!--567.xml-->
+      <pb ed="#L" n="556"/>
+               <lb ed="#L" n="1"/>Historias enim humanas hoc loco ueglexerunt, quibus 
+      <lb ed="#L" n="2"/>cognitis ea res facillime expeditur. Quanquam vterque 
+      <lb ed="#L" n="3"/>erroris sui ex euangelio quoque poterat admoneri. Atque 
+      <lb ed="#L" n="4"/>Erasmus, aquas tenebras super vniuersam terram factas pla 
+      <lb ed="#L" n="5"/>ne scribit Euangelista, 2 eas ipse super Iudaeam tantum 
+      fu<lb ed="#L" n="6" break="no"/>sas intelligit, falsaeque intelligentiae causam ponit neque 
+      <lb ed="#L" n="7"/>veram, neque si vera esset, satis idoneam, quo si hae tenebrae 
+      <lb ed="#L" n="8"/>tanto spatio contigissent per vniuersum orbem, aliquis 
+      <lb ed="#L" n="9"/>certe seu Latinus seu Graecus scriptor eius rei 
+      meminis<lb ed="#L" n="10" break="no"/>set. Nam epistolam, qua Dionysius astruit eclypsim illam 
+      <lb ed="#L" n="11"/>se diligentor &amp; vidisse oculis, &amp; animo considerasse, quasi 
+      <lb ed="#L" n="12"/>nomine Dionysij confictam deridendam propinat. At vero 
+      <lb ed="#L" n="13"/>nec quam Philosophiae &amp; doctrinae laudem Dionysio 
+      A<lb ed="#L" n="14" break="no"/>riopagitae eripere conatur Erasmus, eam ego in hoc 
+      ope<lb ed="#L" n="15" break="no"/>re asserere instituo, nec id etiam reprehendo, quod D. 
+      <lb ed="#L" n="16"/>Hieronymum eius interpretationis auctorem facit, cui 
+      <lb ed="#L" n="17"/>non alius qusquam scripturae interpres apertius 
+      contra<lb ed="#L" n="18" break="no"/>dicit. Illud ago, nisi humanas historias hic ignoraret Eras 
+      <lb ed="#L" n="19"/>mus, tenebras profecto illas aliter, ac vere quidem, 
+      inter<lb ed="#L" n="20" break="no"/>pretaturum. Phegon enim Olympiadarum egregius 
+      sup<lb ed="#L" n="21" break="no"/>putator, in quatuordecimo libro ita scribit. Quarto 
+      au<lb ed="#L" n="22" break="no"/>tem anno 2O2. olympiadis, magna &amp; excellens inter 
+      <lb ed="#L" n="23"/>omnes, quae ante eam acciderant, defectio solis est 
+      fa<lb ed="#L" n="24" break="no"/>cta. Dies hora sexta in tenebrosam noctem versus, vt stel 
+      <lb ed="#L" n="25"/>lae coelo visae sint, terraeque motus in Bithynia Nicaenae 
+      <lb ed="#L" n="26"/>vrbis multas aedes subuerterit. Quem annum cum passio 
+      <lb ed="#L" n="27"/>ne Dominica concurrisse Eusebius in chronicis 
+      patefe<lb ed="#L" n="28" break="no"/>cit. Lucianus quoqe presbyter Antiochenus, vir moribus 
+      <lb ed="#L" n="29"/>&amp; eruditione praecipuus, cum gentibus de fide 
+      Christia<lb ed="#L" n="30" break="no"/>na disputans, requirite, inquit, in annalibus vestris, &amp; 
+      in<lb ed="#L" n="31" break="no"/>uenietis temporibus Pilati, Christo patiente, fugato 
+      sole<lb ed="#L" n="32" break="no"/>interruptum tenebris diem. Auctor est Eusebius libr. 9. 
+      <lb ed="#L" n="33"/>eccle. hist. ca. 6. Tertullianus demum eodem, inquit, 
+      mo<lb ed="#L" n="34" break="no"/>mento dies medium orbem signante sole subducta est. 
+      De<lb ed="#L" n="35" break="no"/>liquium vtique, putauerunt, qui id super Christum 
+      praedi<lb ed="#L" n="36" break="no"/>catum non scierunt: &amp; tamen eum mundi casum relatum 
+      <lb ed="#L" n="37"/>in archiuis vestris habetis. Hactenus ille in Apoca. c. 21. 
+      <lb ed="#L" n="38"/>Quibus ex rebus facile intelligitur, sacris literis 
+      exponem<lb ed="#L" n="39" break="no"/>dis historias etiam gentilium esse necessarias. Quae quan¬ 
+      <!--568.xml-->
+      <pb ed="#L" n="557"/>
+               <lb ed="#L" n="1"/>quam ita sunt in promptu, vt res disputatione non egeat,  
+      <lb ed="#L" n="2"/>sunt tamen nobis in tertio decimo libro fusius 
+      explican<lb ed="#L" n="3" break="no"/>da. Cum igitur ibi haec simus exemplis manifestissimis 
+      illu<lb ed="#L" n="4" break="no"/>straturi, non est cur quae eius libri propria doctrina erit, 
+      <lb ed="#L" n="5"/>hoc nos eam loco importune anteuertamus. Atque vt 
+      <lb ed="#L" n="6"/>Geometrae solent non omnia argumentis ostendere, sed 
+      <lb ed="#L" n="7"/>postulare, vt quaedam sibi concedantur, quo facilius quae 
+      <lb ed="#L" n="8"/>velint explicent: sic ego interim a lectore postulo, vt 
+      mi<lb ed="#L" n="9" break="no"/>hi concedat esse in libris sacris loca plurima, quae sine hi 
+      <lb ed="#L" n="10"/>storiae humanae cognitione expediri non queunt. Quod 
+      <lb ed="#L" n="11"/>autem in disputatione aduersum fidei Christianae 
+      inimi<lb ed="#L" n="12" break="no"/>cos, rerum gestarum monumenta Theologo peropportu 
+      <lb ed="#L" n="13"/>na sint, clarissimorum virorum vsus aperte confirmat. 
+      <lb ed="#L" n="14"/>Tertulliants ex ipsis Romanorum historijs 
+      argumenta<lb ed="#L" n="15" break="no"/>tur, pessimos quosque saeuos Christianis crudelesque 
+      <lb ed="#L" n="16"/>fuisse. Bonum itaque esse id quod mali homines 
+      insectaren<lb ed="#L" n="17" break="no"/>tur. In libro vero ad Scapulam, quot rerum gestarum  
+      <lb ed="#L" n="18"/>exemplis vsus est, vt persuaderet ob vexatos 
+      Christia<lb ed="#L" n="19" break="no"/>nos, multos gentilium praesides tristes exitus habuisse? 
+      <lb ed="#L" n="20"/>Quamobrem qui cum nostris pugnauissent, eos cum peo 
+      <lb ed="#L" n="21"/>quoque fine dubio certasse. Cyprianus idolorum 
+      om<lb ed="#L" n="22" break="no"/>nium vanitatem, qua historiarum scientia &amp; commemora 
+      <lb ed="#L" n="23"/>tione coarguit? Hieronymus quot quamque varias ad 
+      <lb ed="#L" n="24"/>uersum Iouinianum historias in commendationem 
+      vir<lb ed="#L" n="25" break="no"/>ginitatis castitatisque commemorat? Lucianus 
+      presby<lb ed="#L" n="26" break="no"/>ter, quemadmodum supra diximus, ipsos gentium anna 
+      <lb ed="#L" n="27"/>les excitat, vt nostrae etiam fidei dogmata illorum 
+      testi<lb ed="#L" n="28" break="no"/>monijs asserat. Eusebius Iudaeos &amp; paganos saepe ex histo 
+      <lb ed="#L" n="29"/>rijs humanis refutat. Non ergo historia solum ecclesia 
+      <lb ed="#L" n="30"/>stica, sed ea etiam, quae est ab ethnicis auctoribus scripta, 
+      <lb ed="#L" n="31"/>Theologo contra aduersarios fidei vtilissima est. Qua 
+      <lb ed="#L" n="32"/>propter rudem esse omnino in historijs gentilium aut iner 
+      <lb ed="#L" n="33"/>tissimae segnitiae est, aut fastidij delicatissimi. Enimuero 
+      <lb ed="#L" n="34"/>quod commodem ac prudenter, non in concionibus dico,  
+      <lb ed="#L" n="35"/>sed etiam in disputationibus Theologus exempla 
+      prose<lb ed="#L" n="36" break="no"/>rat, dum quidpiam vel iustum esse suadet vel iniustum, 
+      <lb ed="#L" n="37"/>quoniam a viris, aut probis, aut improbis vsurpatum est:  
+      <lb ed="#L" n="38"/>Tertullianus, Hieronymus, alijque viri grauissimi satis 
+      <lb ed="#L" n="39"/>ostendunt, qui non raro huiuscemodi persuasionis genere 
+      <!--569.xml-->
+      <pb ed="#L" n="558"/>
+               <lb ed="#L" n="1"/>delectantur. At exempla probabilia sine historiae 
+      cogni<lb ed="#L" n="2" break="no"/>tione proferri qui possunt? Quam late igitur historiae 
+      <lb ed="#L" n="3"/>vtilitas fusa sit, apparet: si quidem quacunque Theologi 
+      <lb ed="#L" n="4"/>ingredimur siue concionando siue disputando, seu sacras 
+      <lb ed="#L" n="5"/>literas exponendo, in aliquam historiam vestigium poni 
+      <lb ed="#L" n="6"/>mus. Itaque cum ad has multas res Theologo perutiles 
+      <lb ed="#L" n="7"/>sint historiarum libri, studiose profecto ab eo legendi 
+      <lb ed="#L" n="8"/>sunt: ne turpiter in rebus ad se maxime pertinentibus 
+      <lb ed="#L" n="9"/>erret, eaque ignoret, quae ignorari non sine imprudentia 
+      <lb ed="#L" n="10"/>modo, sed ne sine imperitia quidem possunt. Historia 
+      <lb ed="#L" n="11"/>quippe, vt Cicero verissime dixit, cum magistra vitae est,  
+      <lb ed="#L" n="12"/>tum lux etiam veritatis. De historiae ergo vtilitate 
+      ha<lb ed="#L" n="13" break="no"/>ctenus dictum est, nunc de auctoritate videamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

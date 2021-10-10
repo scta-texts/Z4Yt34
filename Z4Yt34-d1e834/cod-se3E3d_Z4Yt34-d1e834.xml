@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="511"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e834"><!-- Z4Yt34-l9c6 -->
+            <head xml:id="Z4Yt34-d1e834-Hd1e106">Caput 6</head>
+            <p xml:id="Z4Yt34-d1e834-d1e109">
+               <lb ed="#L" n="12"/>Caput Sextum.
+    </p>
+            <p xml:id="Z4Yt34-d1e834-d1e114">
+               <lb ed="#L" n="13"/>SEd quoniam haereticis procliue est, veterum patrum  
+      <lb ed="#L" n="14"/>usum auctoritatemque contemnere, ostendam deinceps, 
+      ip<lb ed="#L" n="15" break="no"/>sorum quoque apostolorum doctrina, &amp; exemplis 
+      ratio<lb ed="#L" n="16" break="no"/>nes naturales in Theologiam inuectas. His adductos ex- 
+      <lb ed="#L" n="17"/>teros ad fidem, confirmatos fratres, inuitatos dociles, 
+      re<lb ed="#L" n="18" break="no"/>pulsos repugnantes. Adducuntur primum ratione exteri 
+      <lb ed="#L" n="19"/>ad fidem, &amp; quasi praeparantur. Deus quippe, fide in 
+      mor<lb ed="#L" n="20" break="no"/>talium mentes inducenda naturae incitamentis vtitur vt 
+      <lb ed="#L" n="21"/>primo loco fusius explicatum est. Hinc etenim &amp; 
+      resur<lb ed="#L" n="22" break="no"/>rectionis suae oculatos testes protulit, &amp; miracula 
+      do<lb ed="#L" n="23" break="no"/>ctrinae coniunxit. Nimirum, vt Apostoli non solum per 
+      <lb ed="#L" n="24"/>verbum, sed etiam per ipsum opus persuaderent fidem  
+      <lb ed="#L" n="25"/>audientibus, vt Epipha. lib. 2. haere. 51. docet. &amp; Ambr. in 
+      <lb ed="#L" n="26"/>commen, epist. ad Ro. ca. 1. testis, ait, doctrinae virtus est,  
+      <lb ed="#L" n="27"/>vt quia quod praedicatur incredibile mundo est, gestis 
+      fie<lb ed="#L" n="28" break="no"/>ret credibile. &amp; Beda lib. 3. in Luc. c. 7. concessa, inquit,  
+      <lb ed="#L" n="29"/>primo potestate signorum, misit praedicare regnum Dei, 
+      <lb ed="#L" n="30"/>vt fidem verbis daret virtus ostensa. Signis ergo &amp; 
+      mira<lb ed="#L" n="31" break="no"/>culis via fidei, per sensus &amp; rationem sternitur. Sic enim 
+      <lb ed="#L" n="32"/>Sergius Paulus vir prudens, cum Vidisset factum, credidit 
+      <lb ed="#L" n="33"/>admiras super doctrina Domini. Sic Centurio videns quod 
+      <lb ed="#L" n="34"/>factum fuerat, glorificauit Deum dicens, Vere filius Dei 
+      <lb ed="#L" n="35"/>erat iste. Petrus etiam ac Paulus quo suauius audientes ad 
+      <lb ed="#L" n="36"/>fidem resurrectionis allicerent, ratione naturae ostendunt 
+      <lb ed="#L" n="37"/>locum illum scripturae, non dabis sanctum tuum videre 
+      cor<lb ed="#L" n="38" break="no"/>ruptioneni, de Dauid intelligi non posse, ac proinde de 
+      <!--523.xml-->
+      <pb ed="#L" n="512"/>
+               <lb ed="#L" n="1"/>Christo intelligendum. Ac Petrus ipse alio iterum loco,  
+      <lb ed="#L" n="2"/>Christi resurrectionem insinuat audientibus, primum 
+      te<lb ed="#L" n="3" break="no"/>stium oculatorum certissimo testimonio, deinde 
+      euiden<lb ed="#L" n="4" break="no"/>tia miraculi editi. Nos ait, testes huius sumus. Et mox, in 
+      <lb ed="#L" n="5"/>nomine eius, inquit, hunc quem vos videtis &amp; nostis 
+      <lb ed="#L" n="6"/>Deus confirmauit, &amp; dedit integram sanitatem istam in 
+      <lb ed="#L" n="7"/>conspectu omnium vestrum. En Petrus, sensus ipsos 
+      ci<lb ed="#L" n="8" break="no"/>tando, testes clarissimos veritatis Christi resurrectionem 
+      <lb ed="#L" n="9"/>suadere conatur. Nec frustra tamen, multi enim 
+      audien<lb ed="#L" n="10" break="no"/>tium crediderunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e834-d1e199">
+               <lb ed="#L" n="11"/>Confirmantur deinde ratione naturae fratres. Non 
+      <lb ed="#L" n="12"/>enim ait, praecedentibus, sed sequentibus signis: nec 
+      ser<lb ed="#L" n="13" break="no"/>monem inferente, sed confirmante. Marci vltimo cap. 
+      <lb ed="#L" n="14"/>Ita Hieronymus in 8. Matth. caput annotat, Dominum,  
+      <lb ed="#L" n="15"/>post sermonem illum montis, egregium miraculum 
+      edi<lb ed="#L" n="16" break="no"/>disse, vt per hoc praeteritus apud audientes sermo 
+      firma<lb ed="#L" n="17" break="no"/>retur. Petrus insuper persuasurus fidelibus 
+      conclusio<lb ed="#L" n="18" break="no"/>nem illam de legalibus, de qua in concilio erat 
+      contro<lb ed="#L" n="19" break="no"/>uersia: Viri fratres, inquit, qui nouit cordam Deus 
+      testi<lb ed="#L" n="20" break="no"/>monium perhibuit, dans illis Spiritum sanctum, &amp;c. Et 
+      <lb ed="#L" n="21"/>protinus tacuit omnis multitudo, &amp; audiebant Barnabam 
+      <lb ed="#L" n="22"/>&amp; Paulum narrantes, quanta Deus fecisset signa in 
+      gen<lb ed="#L" n="23" break="no"/>tibus. En quae acciderant res externae &amp; sensuum 
+      testi<lb ed="#L" n="24" break="no"/>monia referuntur, in controuersia etiam fidei apud 
+      catho<lb ed="#L" n="25" break="no"/>licos dirimenda. Atque in concilio illo, legem de 
+      absti<lb ed="#L" n="26" break="no"/>nendo a sanguine &amp; suffocato, idolothito &amp; 
+      fornicatio<lb ed="#L" n="27" break="no"/>ne, apostoli nullo modo tulissent, nisi rationem naturae 
+      <lb ed="#L" n="28"/>sequerentur. Testimonia siquidem nulla suppetebant,  
+      <lb ed="#L" n="29"/>quae ea lege probanda idonea viderentur. Non modo 
+      <lb ed="#L" n="30"/>igitur ad externos, qui naturam ducem solam habent, sed 
+      <lb ed="#L" n="31"/>etiam ad eos, qui intra ecclesiam sunt, humanis rationibus 
+      <lb ed="#L" n="32"/>Theologo licet vti. Id vero eo loco magis, vt ante iam  
+      <lb ed="#L" n="33"/>diximus, vbi res naturae lumine cognoscibiles, siue alienis 
+      <lb ed="#L" n="34"/>seu nostris persuadere cupit. Hac enim via Barnabas &amp;  
+      <lb ed="#L" n="35"/>Paulus ingressi sunt, vt Acto. 14. legitur. Nam cum 
+      sacer<lb ed="#L" n="36" break="no"/>dos &amp; populus Barnabae &amp; Paulo sacrificare vellent, quod 
+      <lb ed="#L" n="37"/>erat naturae rationi contrarium, naturali quoque ratione ipsi 
+      <lb ed="#L" n="38"/>contradixerunt. Viri, inquiunt, quid haec facitis? &amp; nos 
+      <lb ed="#L" n="39"/>mortales sumus similes vobis homines, annunciantes vobis 
+      <!--524.xml-->
+      <pb ed="#L" n="513"/>
+               <lb ed="#L" n="1"/>conuerti ab his vanis ad Deum viuum, qui fecit caelum &amp;  
+      <lb ed="#L" n="2"/>terram, &amp; mare, &amp; omnia quae in eis sunt, &amp;c. Et quidem non 
+      <lb ed="#L" n="3"/>sine testimonio semetipsum reliquit, bene faciens de caelo, 
+      <lb ed="#L" n="4"/>dans pluuias &amp; tempora fructifera, &amp;c. Quia ergo res 
+      na<lb ed="#L" n="5" break="no"/>turales testimonium perhibent Deo, quemadmodum hoc 
+      <lb ed="#L" n="6"/>loco Apostolus asserit, non est absurdum, quin etiam  
+      <lb ed="#L" n="7"/>est maxime consentaneum, vt Theologus de diuinis quoque  
+      <lb ed="#L" n="8"/>disserens, huiusmodi etiam naturalium rerum 
+      testimo<lb ed="#L" n="9" break="no"/>niis vtatur. Nam &amp; Actor. 17. Paulus idem probat. Deum 
+      <lb ed="#L" n="10"/>non indigere aliquo, quod caeli &amp; terrae sit dominus, &amp;  
+      <lb ed="#L" n="11"/>det ipse omnibus vitam &amp; inspirationem &amp; omnia. 
+      Pro<lb ed="#L" n="12" break="no"/>bat item Deum non esse longe ab vnoquoque nostrum, 
+      <lb ed="#L" n="13"/>quoniam in ipso viuimus, mouemur &amp; sumus. Ac 
+      pro<lb ed="#L" n="14" break="no"/>pheta, Psalmo 138. ostendit Deum cognoscere nos &amp;  
+      <lb ed="#L" n="15"/>intima nostra, quia formauit nos, &amp; posuit super nos 
+      ma<lb ed="#L" n="16" break="no"/>num suam. Quod idem naturale argumentum habes, &amp;  
+      <lb ed="#L" n="17"/>psalm. 93. Quibus ex rebus breuiter disputatis 
+      intelli<lb ed="#L" n="18" break="no"/>gi potest, id quod ante ponebamus, dociles quidem, si 
+      <lb ed="#L" n="19"/>infideles sunt, ratione allici inuitarique ad fidem, sin vero 
+      <lb ed="#L" n="20"/>fideles, confirmari: vtrosque autem in his, quae naturalia 
+      <lb ed="#L" n="21"/>sunt, persuaderi. Quod si indociles sunt &amp; repugnantes,  
+      <lb ed="#L" n="22"/>vt euincantur, ratio quoque naturae valet. Principes enim 
+      <lb ed="#L" n="23"/>&amp; seniores videntes Petri constantiam &amp; Ioanis, comperto 
+      <lb ed="#L" n="24"/>quod homines essent sine literis &amp; idiotae, admirabantur: 
+      <lb ed="#L" n="25"/>hominem quoque videntes stantem cum eis, qui curatus fuerat,  
+      <lb ed="#L" n="26"/>nihil poterant contradicere. Caecus quoque ille apud 
+      Io<lb ed="#L" n="27" break="no"/>annem, Iudaeos Christo aduersos, naturae ratione eludit 
+      <lb ed="#L" n="28"/>inquiens. In hoc mirabile est, quia vos nescitis vnde sit, 
+      <lb ed="#L" n="29"/>&amp; aperuit meos oculos. Dominus item Matth. 12. eos qui 
+      <lb ed="#L" n="30"/>calumniantur, quod in sabbato curasset aegrotum, naturali 
+      <lb ed="#L" n="31"/>&amp; ratione &amp; exeplo refellit. &amp; Mat. 22. Saducaeos refutat 
+      <lb ed="#L" n="32"/>duobus principiis positis. Quorum vnum erat Exodi 
+      testi<lb ed="#L" n="33" break="no"/>monium illud, ego sum Deus Abraham, Isaac &amp; Iacob: quo 
+      <lb ed="#L" n="34"/>posito &amp; aduersariorum consensu approbato, alterum 
+      <lb ed="#L" n="35"/>Christus e ratione naturali assumpsit, nempe non esse 
+      <lb ed="#L" n="36"/>Deum mortuorum, sed viuentium. Quo syllogismo collegit 
+      <lb ed="#L" n="37"/>Abrahami, Isaachi, &amp; Iacobi animas viuere, quod 
+      Sadu<lb ed="#L" n="38" break="no"/>caei repellentes, resurrectionem mortuorum ex consequenti 
+      <lb ed="#L" n="39"/>negabant. Rationes itaque naturales contra fidei aduersarios 
+      <!--525.xml-->
+      <pb ed="#L" n="514"/>
+               <lb ed="#L" n="1"/>multum valent. Nec sunt arma Saulis, quae pugile 
+      Chri<lb ed="#L" n="2" break="no"/>sti magis grauent, quam iuuent, vt quidam inepte per 
+      al<lb ed="#L" n="3" break="no"/>legoriam argumentantur, sed, si allegoriis agendum est,  
+      <lb ed="#L" n="4"/>sunt potius gladius Goliad, quem cum ipsi e manibus 
+      ex<lb ed="#L" n="5" break="no"/>torseris, suo illum gladio iugulas. Sed aiunt. Si credo 
+      <lb ed="#L" n="6"/>quod traditum est, quid opus est operosa disputatione? 
+      <lb ed="#L" n="7"/>Si non credo, nullis humanis rationibus persuadebitur. 
+      <lb ed="#L" n="8"/>Egregio vero dilemmate rem alioqui lucidissimam 
+      ob<lb ed="#L" n="9" break="no"/>scurare volunt. Non credo: adducor, credo, confirmor.  
+      <lb ed="#L" n="10"/>Repugno: confundor. Ratione non domina, sed administra, 
+      <lb ed="#L" n="11"/>syllogismo non praesidente, sed subseruiente, Quid multa? 
+      <lb ed="#L" n="12"/>Nonne videmus, cum reliquorum apostolorum, tum vero 
+      <lb ed="#L" n="13"/>maxime Pauli epistolas, &amp; aduersarios concidere, &amp; fidei 
+      <lb ed="#L" n="14"/>domesticos instruere, non scripturarum modo 
+      testimo<lb ed="#L" n="15" break="no"/>niis, verumetiam naturae rationibus? Id quoniam dubium 
+      <lb ed="#L" n="16"/>non est, maneat, hunc disserendi morem a Christo 
+      Domi<lb ed="#L" n="17" break="no"/>no profectum ab Apostolis repetitum, a Sanctis 
+      auctori<lb ed="#L" n="18" break="no"/>bus confirmatum. Theologis non solum vtiliter, sed etiam  
+      <lb ed="#L" n="19"/>necessario vsurpari.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="9"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e113"><!-- Z4Yt34-l2c1 -->
+            <head xml:id="Z4Yt34-d1e113-Hd1e106">Caput 1</head>
+            <p xml:id="Z4Yt34-d1e113-d1e109">
+      <!--20.xml-->
+               <pb ed="#L" n="9"/>
+               <lb ed="#L" n="1"/>cap. primum. De sacrarum literarum solidissimo firmamento, 
+      <lb ed="#L" n="2"/> quatuor machinis quibus illud impetitur.
+    </p>
+            <p xml:id="Z4Yt34-d1e113-d1e120">
+               <lb ed="#L" n="3"/>AC primus quidem locus sine: controuersia firmus 
+      <lb ed="#L" n="4"/>est diuina eademque grauissima auctoritate. Nam 
+      <lb ed="#L" n="5"/>libros sacros &amp; Canonicos appellamus, quos 
+      spiri<lb ed="#L" n="6" break="no"/>tu sancto dictante sacri auctores exceperunt. Quos 
+      igi<lb ed="#L" n="7" break="no"/>tur tales esse constiterit, eos dubio procul certissimos 
+      <lb ed="#L" n="8"/>ac verissimos esse credemus. Quemadmodum 
+      Augusti<lb ed="#L" n="9" break="no"/>nus lib. de Ciuitate Dei. 11. cap. 3. &amp; libr. confes: cap. 15. 
+      <lb ed="#L" n="10"/>&amp; epist. 7. ad Marcellinum. &amp; epis. 19. ad Hieron7. &amp; li. 1. 
+      <lb ed="#L" n="11"/>de doct. Chri. cap. 37. &amp; lib. 2. de bapt. cont. Donat. ca. 3. 
+      <lb ed="#L" n="12"/>&amp; in prooemio. 3. lib. de Trinit. docet, resumit, inculcat. 
+      <lb ed="#L" n="13"/>Acrecte ille quidem. Nisi enim fundamentum hoc 
+      fide<lb ed="#L" n="14" break="no"/>liter ieceris, quicquid in Theologia superstruxeris, 
+      cor<lb ed="#L" n="15" break="no"/>ruet. Corruetque adeo ciuitas illa Dei, cuius fundamenta 
+      <lb ed="#L" n="16"/>in montibus sanctis, &amp; in scripturis principum qui fuerunt 
+      <lb ed="#L" n="17"/>in ea. Quarum scripturarum auctor est non homo, sed 
+      <lb ed="#L" n="18"/>Deus. Dominus enim narrabit in scripturis populorum, 
+      <lb ed="#L" n="19"/>&amp; principum horum qui fuerunt in ea. Dominus itaque 
+      hu<lb ed="#L" n="20" break="no"/>ius loci auctoritatem tuetur, tuentur &amp; principes. Turris 
+      <lb ed="#L" n="21"/>quippe Dauid est, &amp; mille clypei pendent ex ea, omnis 
+      <lb ed="#L" n="22"/>armatura fortium. Quam omnino rem, quoniam in 
+      ter<lb ed="#L" n="23" break="no"/>tio decimo libro sumus latius explicaturi, satis hic fuerit 
+      <lb ed="#L" n="24"/>breuiter attigisse. Verum enimuero turris haec tam alioqui 
+      <lb ed="#L" n="25"/>munita, arietibus quatuor concuti solet. Primo, quod 
+      <lb ed="#L" n="26"/>homines a Deo aliquando deceptos sacrae ipsae literae 
+      pro<lb ed="#L" n="27" break="no"/>didere: fieri igitur potest, vt auctores sacri ab spiritu 
+      san<lb ed="#L" n="28" break="no"/>cto fallantur, ita quodcumque ex huiusmodi auctoribus 
+      ar<lb ed="#L" n="29" break="no"/>gumentum sumas, incertum erit. Altero, quod nondum 
+      <lb ed="#L" n="30"/>videtur exploratum, quinam libri sint in canonem 
+      sancta<lb ed="#L" n="31" break="no"/>rum scripturarum referendi: cum ex veteri testamento 
+      se<lb ed="#L" n="32" break="no"/>ptem, ex nouo totidem a viris &amp; doctis &amp; catholicis 
+      re<lb ed="#L" n="33" break="no"/>liciantur. Quocirca si argumentum inde Theologus 
+      pro<lb ed="#L" n="34" break="no"/>mat, imbecilsum erit, carebitque diuina auctoritate. 
+      Ter<lb ed="#L" n="35" break="no"/>tio, quod vt certo constaret quinam essent huiusmodi 
+      <lb ed="#L" n="36"/>sacri libri: non tamen adhuc constat, an Latini codices 
+      <lb ed="#L" n="37"/>Graecis Hebraicisque concordent: quapropter 
+      argumen<lb ed="#L" n="38" break="no"/>tatio ex Latino exemplari ducta, infirma erit, cum solius 
+      <lb ed="#L" n="39"/>interpretis sensu intelligentiaque nitatur. Quarto, quod 
+      <!--21.xml-->
+      <pb ed="#L" n="10"/>
+               <lb ed="#L" n="1"/>vt perspicuum esset, quodnam exemplar potissimum 
+      se<lb ed="#L" n="2" break="no"/>quendum sit: tamen an Apostoli, vel Prophetae in 
+      testimo<lb ed="#L" n="3" break="no"/>niis, quae videlicet ex ipsis afferuntur, de spiritu Dei an 
+      <lb ed="#L" n="4"/>de suo loquantur, non perinde certum est : cum auctores 
+      <lb ed="#L" n="5"/>
+               <!-- line coord error -->
+               <lb ed="#L" n="6"/>sacri nonnulla humano more citra diuinam reuelationem 
+      <lb ed="#L" n="7"/>scribere videantur. Non itaque omnia malorum 
+      cano<lb ed="#L" n="8" break="no"/>nicorum testimonia Dei auctoritatem habent, vt certam  
+      <lb ed="#L" n="9"/>fidem facere possint. Nec vero in his argumentis 
+      expli<lb ed="#L" n="10" break="no"/>candis eam copiam, quam possumus, persequemur: ne hoc 
+      <lb ed="#L" n="11"/>vno in loco tota insumatur oratio. Sed quatuor hos arie 
+      <lb ed="#L" n="12"/>tes, quibus nostrae religionis moenia nonnulli quatere 
+      <lb ed="#L" n="13"/>&amp; diruere conantur, quanta maxima breuitate licebit, 
+      <lb ed="#L" n="14"/>repellere curabimus. Non enim materiam huc &amp; 
+      farra<lb ed="#L" n="15" break="no"/>ginem multarum rerum conamur inuchere: sed formam  
+      <lb ed="#L" n="16"/>Theologo disserendi praescribere. Quae nimirum quo 
+      <lb ed="#L" n="17"/>breuior, eo praestabilior erit.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

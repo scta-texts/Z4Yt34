@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 9</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 9</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="764"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1179"><!-- Z4Yt34-l12c9 -->
+            <head xml:id="Z4Yt34-d1e1179-Hd1e106">Caput 9</head>
+            <p xml:id="Z4Yt34-d1e1179-d1e109">
+               <lb ed="#L" n="6"/>De propositione erronea, sapiente haeresim, piarum 
+      au<lb ed="#L" n="7" break="no"/>rium ossensiua, temeraria, scandalosa.
+      <lb ed="#L" n="8"/>
+               <sic>Caput vndecimum</sic>.  
+    </p>
+            <p xml:id="Z4Yt34-d1e1179-d1e121">
+               <lb ed="#L" n="9"/>DEinceps vt erat propositum, de propositone 
+      erro<lb ed="#L" n="10" break="no"/>Inea videamus. Cuius notio ac de finitio non eadem  
+      <lb ed="#L" n="11"/>omnibus, sed sua cuique est vt hic etiam verum id 
+      <lb ed="#L" n="12"/>esse conprobes, Quot homines, tot sententiae. Illud autem 
+      <lb ed="#L" n="13"/>in primis definitum &amp; constitutum sit, propositionem 
+      er<lb ed="#L" n="14" break="no"/>roneam ab haeretica non cogitatione modo, sed re etiam  
+      <lb ed="#L" n="15"/>separari. Non enim, vt quidam existimant, concilium 
+      <lb ed="#L" n="16"/>Constantiense, vnde varia ista errorum genera accepimus,  
+      <lb ed="#L" n="17"/>propositonem erroneam vsurpat in significatione 
+      gene<lb ed="#L" n="18" break="no"/>rali, vt erroris haeretici &amp; caeterorum genus commune sit, 
+      <lb ed="#L" n="19"/>quae videtur esse eius nominis propria si gnificatio. 
+      Ec<lb ed="#L" n="20" break="no"/>quis enim credat quicquam aliud esse propositonem 
+      er<lb ed="#L" n="21" break="no"/>roneam quam errorem? Sed concilium, vt dixi, ab hac 
+      <lb ed="#L" n="22"/>vsurpatione longe abest, id quod statimplanum faciam,  
+      <lb ed="#L" n="23"/>si verba patrum adscribam. Compertum est, inquiunt, ex 
+      <lb ed="#L" n="24"/>praefatis articulis plures esse notorie haereticos, alios non  
+      <lb ed="#L" n="25"/>catholicos, sed erroneos, alios scandalosos, quosdam 
+      pia<lb ed="#L" n="26" break="no"/>rum aurium offensiuos, nonnullos temerarios. Quae 
+      for<lb ed="#L" n="27" break="no"/>ma sermonis esset &amp; falsa &amp; absurda, si propositio 
+      erro<lb ed="#L" n="28" break="no"/>nea pro quocunque errore communiter sumeretur. Iam 
+      <lb ed="#L" n="29"/>enim recte quoque dici posset post multas 
+      argumentatio<lb ed="#L" n="30" break="no"/>nes enumeratas, in his quasdam esse syllogismos, quasdam 
+      <lb ed="#L" n="31"/>inductiones, quasdam argumentationes, quod quam sit 
+      <lb ed="#L" n="32"/>ineptum, nemo est, qui non intelligat. Sine dubio igitur 
+      <lb ed="#L" n="33"/>erronea proposito ab haeretica secernitur, non tanquam  
+      <lb ed="#L" n="34"/>genus ab specie, quod esset discrimen rationis, sed 
+      tan<lb ed="#L" n="35" break="no"/>quam vna erroris species ab altera, quae vera rerum, non 
+      <lb ed="#L" n="36"/>modo vocabulorum, distinctio est. 
+      <lb ed="#L" n="37"/>Illud deinde constituere del emus, quod prius 
+      for<lb ed="#L" n="38" break="no"/>san dictum oportuit, sed doctrina sera non est reprehen¬ 
+      <!--776.xml-->
+      <pb ed="#L" n="765"/>
+               <lb ed="#L" n="1"/>denda, praesertim si in opportunum tempus reseruata sit. 
+      <lb ed="#L" n="2"/>Lonstituendum ergo catholicas veritates non singulari 
+      <lb ed="#L" n="3"/>modo, sed bipartito reperiri. Quaedam enim sunt 
+      catho<lb ed="#L" n="4" break="no"/>licae veritates, quae ita ad fidem pertinent, vt his sublatis, 
+      fi<lb ed="#L" n="5" break="no"/>des quoqe ipsa tollatur. Quas nos vsu frequenti, non solum 
+      <lb ed="#L" n="6"/>catholicas, sed fidei veritates appellauimus. Aliae 
+      verita<lb ed="#L" n="7" break="no"/>tes sunt etiam ipsae catholicae &amp; vniuersales, nempe quas 
+      <lb ed="#L" n="8"/>vniuersa ecclesia tenet, quibus licet euersis fides 
+      quati<lb ed="#L" n="9" break="no"/>tur, sed non euertitur tamen. Atque in huiusmodi veritatum 
+      <lb ed="#L" n="10"/>contrarijs erroribus supra dixi fidem obscurari, non ex- 
+      <lb ed="#L" n="11"/>tingui: infirmari, non perire. Has ego nunquam fidei 
+      verita<lb ed="#L" n="12" break="no"/>tes censui vocandas, quanuis doctrinae christianae 
+      verita<lb ed="#L" n="13" break="no"/>tes sint. Speciales orationes applicatas vni personae per 
+      <lb ed="#L" n="14"/>praelatos vel religiosos plus prodesse, eidem, quam 
+      genera<lb ed="#L" n="15" break="no"/>les, Fratres non teneri labore manuum victum quaerere, 
+      <lb ed="#L" n="16"/>sed licere eis esse mendicos, &amp; conplures alias similes 
+      pro<lb ed="#L" n="17" break="no"/>positiones, quas omnes catholici veras esse sine dubio 
+      <lb ed="#L" n="18"/>existimat, ideoqe veritates catholicae vocari possunt, atque 
+      <lb ed="#L" n="19"/>etiam debent. Quae igitur propositiones huius 
+      posterio<lb ed="#L" n="20" break="no"/>ris generis veritatibus contradicent, eas equidem 
+      erro<lb ed="#L" n="21" break="no"/>neas appello, quae quoniam doctrinae catholicae 
+      aduer<lb ed="#L" n="22" break="no"/>santur, errores sunt haeresi proximi, haereses non sunt. 
+      <lb ed="#L" n="23"/>Nec nostro, more nos ita loquimur, sod est etiam hoc in 
+      <lb ed="#L" n="24"/>more positum sermoneque maiorum, vt nomen generis 
+      spe<lb ed="#L" n="25" break="no"/>ciei illi absolute tribuant, quae est in eo genere 
+      imperfe<lb ed="#L" n="26" break="no"/>ctissima. Sic Aristoteles in praedicamentis dispositionem 
+      <lb ed="#L" n="27"/>seiunxit ab habitu: cum tamen dispositio alias habitus 
+      ip<lb ed="#L" n="28" break="no"/>sius genus sit. Virtus quippe, quam habitum esse nemo 
+      <lb ed="#L" n="29"/>est qui nesciat, dispositio est perfecti ad optimum. Ac ne 
+      <lb ed="#L" n="30"/>plura exempla, quae sunt prope innumera, referamus, 
+      il<lb ed="#L" n="31" break="no"/>lud est passim, vulgi etiam ore contritum, quo animalis 
+      vo<lb ed="#L" n="32" break="no"/>cem, cum omnium animantium communis sit, interdum pro 
+      <lb ed="#L" n="33"/>his solum accipiunt, in quibus nihil aliud quam vis 
+      ani<lb ed="#L" n="34" break="no"/>mantis apparet. Aqua consuetudine ne Paulus quidem 
+      <lb ed="#L" n="35"/>abhorruit, quum animalem hominem dixit, quasi brutum  
+      <lb ed="#L" n="36"/>expertemque rationis. Patres item concilij 
+      Constanti<lb ed="#L" n="37" break="no"/>ensis hoc sensu videntur esse locuti, si accurate eorum 
+      vo<lb ed="#L" n="38" break="no"/>ces expendamus. Ex quibus facile intelligimus, erroneas 
+      <lb ed="#L" n="39"/>propositiones contra: catholicas fuisse diuisas, &amp; inferiore 
+      <!--777.xml-->
+      <pb ed="#L" n="766"/>
+               <lb ed="#L" n="1"/>quodam graduquam haereticas fuisse locatas. Error itaque  
+      <lb ed="#L" n="2"/>qui &amp; minus quiddam quam aperta haeresis &amp; catholicae 
+      <lb ed="#L" n="3"/>doctrinae tamen contrarius ess, proposito erronea 
+      voca<lb ed="#L" n="4" break="no"/>tur. Theologi denique modestiores, quum in 
+      disputationi<lb ed="#L" n="5" break="no"/>bus suis quicquam sanae doctrines aduersum haereticum 
+      ap<lb ed="#L" n="6" break="no"/>pellare non audent, temperato vocabulo erroneum esse 
+      <lb ed="#L" n="7"/>confirmant. Quum vero in hunc sensum &amp; vulgari 
+      con<lb ed="#L" n="8" break="no"/>suetudine alliciar, &amp; compeliar maiore Philosophiae 
+      ra<lb ed="#L" n="9" break="no"/>tione: facile me patior in eum adduci libenteroue in eo 
+      <lb ed="#L" n="10"/>cupio retineri. Est &amp; propositionis erroneae alius item 
+      <lb ed="#L" n="11"/>gradus. Quum enim veritas aliqua, sapientum quidem  
+      <lb ed="#L" n="12"/>opinione vebementi, fidei veritas est, sed non est plans 
+      <lb ed="#L" n="13"/>ab ecclesia definita, nec certo argumento demonstrata, 
+      <lb ed="#L" n="14"/>tunc veritati illi aduerst ri non est haereticum, sed 
+      erro<lb ed="#L" n="15" break="no"/>ncum. Videlicet haeresis, quemadmodum supra 
+      dixi<lb ed="#L" n="16" break="no"/>mus, a voluntate quoque errantium pendet, nedum ab  
+      <lb ed="#L" n="17"/>intellectu. Error autem sicut &amp; falsitas, e rebus ipsis 
+      <lb ed="#L" n="18"/>significatis perpenditur, nulla asserentis habita ratione. 
+      <lb ed="#L" n="19"/>Ita licet veritas illa ad fidem suapte natura pertineat,  
+      <lb ed="#L" n="20"/>quia tamen nec hoc certum nec expeditum est, 
+      haereti<lb ed="#L" n="21" break="no"/>ca pertinacia abest, error grauis &amp; periculosus non abest.  
+      <lb ed="#L" n="22"/>Similiter &amp; propositio erronea tertio quodam gradu 
+      <lb ed="#L" n="23"/>vocari potest, quae certae veritati catholicae fidei 
+      ad<lb ed="#L" n="24" break="no"/>uersatur, non manifeste quidem, sed sapientum 
+      omni<lb ed="#L" n="25" break="no"/>um longe probabili ac ferme necessaria sententia. Eius 
+      <lb ed="#L" n="26"/>quippe erratio grauis est, qui hoc defendit 
+      contuma<lb ed="#L" n="27" break="no"/>citer, quod viri omnes docti sentiunt periculum grande 
+      <lb ed="#L" n="28"/>catholicae fidei confsare. Quicunqe ergo vel doctrinam  
+      <lb ed="#L" n="29"/>fidei appendicem liquido euertit, vel fidem ipsam in 
+      di<lb ed="#L" n="30" break="no"/>scrime adducit, vehementer ille sane in Christiana 
+      disci<lb ed="#L" n="31" break="no"/>plina errat, atque adeo eius dicta iure appellantur erroneas. 
+      <lb ed="#L" n="32"/>Verum de erronea propositione plus quam satis dictum est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1179-d1e351">
+               <lb ed="#L" n="33"/>Propositio vero sapiens haeresim a quibusdam 
+      defini<lb ed="#L" n="34" break="no"/>tur ea, quae in significatione, quam verba prima facie 
+      <lb ed="#L" n="35"/>ostendunt, sensum habet haereticum, quanuis pie 
+      intelle<lb ed="#L" n="36" break="no"/>cta sensum aliquem habeat verum, vt sunt, inquiunt, istae 
+      pro<lb ed="#L" n="37" break="no"/>positiones, Pater est maior filio, Christus est creatura. Tres 
+      <lb ed="#L" n="38"/>sunt dij. Quae definitio nec vocabuli potestatem exprimit,  
+      <lb ed="#L" n="39"/>uec rei diffinitae vim naturamque declarat, nec mutuo nexum 
+      <!--778.xml-->
+      <pb ed="#L" n="767"/>
+               <lb ed="#L" n="1"/>cum illa est copulata. Quis enim dubitet, illam 
+      proposi<lb ed="#L" n="2" break="no"/>tionem, Ridiculum est eucharistiae sacramentum solenni 
+      <lb ed="#L" n="3"/>ritu per vias publicas cirounferre. Lutheranorum haeresim 
+      <lb ed="#L" n="4"/>sapere, qua negant in Eucharistia corpus Christi verum  
+      <lb ed="#L" n="5"/>contineri? &amp; tamen in nullo pio sensu vera est. 
+      Huiusmo<lb ed="#L" n="6" break="no"/>di propositones multas in Erasmo, Ioane Carione, alijsque 
+      <lb ed="#L" n="7"/>quibusdam huius seculi scriptoribus passim leges, quae nec 
+      <lb ed="#L" n="8"/>apertas hereses pre se ferant, nec sanum aliquem habeant 
+      sen<lb ed="#L" n="9" break="no"/>sum, sed quia haereseos saporem quendam &amp; odorem 
+      re<lb ed="#L" n="10" break="no"/>ferunt, merito eas quidem dicimus haeresim sapere, qui 
+      <lb ed="#L" n="11"/>vero illas proferunt, hos haereticorum &amp; saporem 
+      habe<lb ed="#L" n="12" break="no"/>re &amp; proferre odorem. Nec exempla illa placent, quibus 
+      <lb ed="#L" n="13"/>hi suam definitionem illustrant. Veriora equidem 
+      exem<lb ed="#L" n="14" break="no"/>pla desiderio &amp; magis ad rem, de qua igitur, 
+      accommo<lb ed="#L" n="15" break="no"/>data, quamuis in hoc genere nihil ab ijs requirendum est,  
+      <lb ed="#L" n="16"/>qui omnes istos propositionum gradus permixtos esse ac 
+      <lb ed="#L" n="17"/>confusos opinantur. Sed primum exemplum e Ioannis 
+      <lb ed="#L" n="18"/>Euangelio Christique doctrina fumprum est. Quod 
+      ve<lb ed="#L" n="19" break="no"/>ro Christi doctrina &amp; Euangelium haeresim sapiat, 
+      scri<lb ed="#L" n="20" break="no"/>bere ego non auderem. Illudi secundum exemplum 
+      <lb ed="#L" n="21"/>congruens atque aptum est, si eis assentimur, qui 
+      existi<lb ed="#L" n="22" break="no"/>mant, illam orationem, Christus est creatura, simpliciter 
+      <lb ed="#L" n="23"/>veram esse, sed eam Theologos refutasse, quod foetorem 
+      <lb ed="#L" n="24"/>quendam ab Ario contraxerit. In quam sententiam 
+      Di<lb ed="#L" n="25" break="no"/>uus Thomas multa dixit. Ac Sophronius in sexta 
+      syno<lb ed="#L" n="26" break="no"/>do plane fatetur, Christum creatum &amp; increatum, 
+      idem<lb ed="#L" n="27" break="no"/>que in tertio libro Ioannes Damascenus. Sed &amp; 
+      Hiero<lb ed="#L" n="28" break="no"/>nymus creaturae nomen in Christo non horret. Ego 
+      ve<lb ed="#L" n="29" break="no"/>ro semper habui persuasum, enunciationem illam &amp; 
+      sim<lb ed="#L" n="30" break="no"/>pliciter falsam esse, &amp; catholicae fidei absolute 
+      contra<lb ed="#L" n="31" break="no"/>riam. Est enim in creaturae voce negatio intus inclusa, 
+      <lb ed="#L" n="32"/>quae Christi supposito absolute diuinitatem tollit. Nam 
+      <lb ed="#L" n="33"/>qui dicit rem aliquam factam ex nihilo, is negat eam de 
+      <lb ed="#L" n="34"/>lubstantia generantis extitisse, hoc enim discrimine, id 
+      <lb ed="#L" n="35"/>quod vere &amp; proprie factum est, ab eo, quod vere &amp; 
+      pro<lb ed="#L" n="36" break="no"/>prie est genitum, separatur. Quemadmodum igitur illud,  
+      <lb ed="#L" n="37"/>Christus coepit esse, fidei aduersum est, quoniam inde 
+      per<lb ed="#L" n="38" break="no"/>spicua argumentatione sequitur, filium Dei esse coepisse, 
+      <lb ed="#L" n="39"/>atque adeo aliquando non fuisse, sic &amp; illud, Christus 
+      <!--779.xml-->
+      <pb ed="#L" n="768"/>
+               <lb ed="#L" n="1"/>factus est ex nihilo, fidei quoque aduersatur, quod 
+      impli<lb ed="#L" n="2" break="no"/>cite silius Dei de natura eius, a quo extitit, esse negatur. 
+      <lb ed="#L" n="3"/>Siue igitur incipere, siue factum esse, seu esse creaturam, de 
+      <lb ed="#L" n="4"/>silio Dei vere enunciari non possunt, quoniam 
+      inficiatio<lb ed="#L" n="5" break="no"/>nem abditam &amp; latentem continent, quae a filio Dei, pro 
+      <lb ed="#L" n="6"/>quo nomen Christi accipitur, vel perpetuum esse vel esse 
+      <lb ed="#L" n="7"/>a patre depellat. Itaque, vt mea fert opinio, 
+      propositio<lb ed="#L" n="8" break="no"/>nes illae ac caeterae eiusmodi non tanquam sapientes 
+      hae<lb ed="#L" n="9" break="no"/>resim, sed tanquam haereticae a Nicaenis patribus sunt 
+      <lb ed="#L" n="10"/>damnatae. At prositionem haereticam &amp; sapientem 
+      haere<lb ed="#L" n="11" break="no"/>sim eandem esse, mihi quidem non sit verosimile. 
+      Stul<lb ed="#L" n="12" break="no"/>tus nempe haberetur is, qui quam rem vinum esse 
+      consta<lb ed="#L" n="13" break="no"/>ret, hanc vinum sapere, nisi per iocum &amp; ridiculum, 
+      dice<lb ed="#L" n="14" break="no"/>ret. Iam patrem &amp; filium &amp; spiritum sanctum tres Deos 
+      <lb ed="#L" n="15"/>esse, cum fide aperte pugnat. Nam sensus ille, qui pius 
+      di<lb ed="#L" n="16" break="no"/>citur, impius est, Pari certe ratione illa proposito. 
+      Dei<lb ed="#L" n="17" break="no"/>tas est crucifixa, haeresim sapere diceretur, quam tamen, vt 
+      <lb ed="#L" n="18"/>haereticam manifeste quinta synodus condemnauit. 
+      Illa<lb ed="#L" n="19" break="no"/>item, Essentia generat essentiam, in gradu sapientium 
+      hae<lb ed="#L" n="20" break="no"/>resim locaretur, quam in haereticarum numero poni opor 
+      <lb ed="#L" n="21"/>tere, Concilium Lateranense definit. Quid illae? Essentia 
+      <lb ed="#L" n="22"/>diuina non est persona patris, In tribus personis tres sunt 
+      <lb ed="#L" n="23"/>Deitates, aliaeque plures huiuscemodi, quas in sensu 
+      noui<lb ed="#L" n="24" break="no"/>tio, &amp; nuper a se excogitato, quidam veras esse dixerunt.  
+      <lb ed="#L" n="25"/>Sane nihil tam absurdum dici aut excogitari poterit, quod 
+      <lb ed="#L" n="26"/>in sensum aliquem fictum si detorqueas, verum non sit, ac 
+      <lb ed="#L" n="27"/>rationi tum humanae tum diuinae consentaneum. Sed 
+      con<lb ed="#L" n="28" break="no"/>sentaneum non est, sensa eiusmodi commentitia, ab vsuque  
+      <lb ed="#L" n="29"/>sanctorum &amp; ecclesiae aliena, pia nuncupare, &amp; homines fu 
+      <lb ed="#L" n="30"/>tiles talium sensorum excogitatione defendere. Ego 
+      cer<lb ed="#L" n="31" break="no"/>te, vt quod sentio loquar, harum propositionum auctores 
+      <lb ed="#L" n="32"/>nihil minus quam hereticorum sapore habuisse arbitror. 
+      <lb ed="#L" n="33"/>Sed si in eis aliquem meo gustu percipio, inscitiae sapor 
+      <lb ed="#L" n="34"/>ille est, non haereseos. Quum vero loquendi vim &amp;  
+      <lb ed="#L" n="35"/>consuetudinem verborum teneo, propositones ipsas, de 
+      <lb ed="#L" n="36"/>quibus loquimur, non sapientes haeresim dico, sed fidei 
+      <lb ed="#L" n="37"/>manifeste contrarias. Sermones porro istos per 
+      meta<lb ed="#L" n="38" break="no"/>phoram figuratos, considerata intelligentia magis 
+      perci<lb ed="#L" n="39" break="no"/>pere possumus, quam circunscripta definitione explicare. 
+      <!--780.xml-->
+      <pb ed="#L" n="769"/>
+               <lb ed="#L" n="1"/>Quamobrem quid haeresim sapiat, quid non sapiat, non 
+      <lb ed="#L" n="2"/>tam definitione &amp; argumentatione speculatricis 
+      discipli<lb ed="#L" n="3" break="no"/>nae, quam sensu quodam gustuque prudentiae iudicatur. 
+      Vi<lb ed="#L" n="4" break="no"/>deas hominem in Lutheranorum dogmatis expugnandis 
+      <lb ed="#L" n="5"/>&amp; internoscenda mente exercitatum, qui, vt canes venatici, 
+      <lb ed="#L" n="6"/>in libro, quem legendum suscipit, haereses odore quodam 
+      <lb ed="#L" n="7"/>suspicionis quam sagacissime peruestiget, eiusque libri au 
+      <lb ed="#L" n="8"/>ctorem corruptum esse acutissime sentiat. Leget eum 
+      li<lb ed="#L" n="9" break="no"/>brum fortasse alius stipes sine sensu, qui nihil omnino 
+      in<lb ed="#L" n="10" break="no"/>dagare, nihil olfacere, nihil ne suspicione quidem possit 
+      <lb ed="#L" n="11"/>attingere. Quales sunt hodie non pauci, qui Baptistam Cre 
+      <lb ed="#L" n="12"/>mensem, Henricum Herpp. Ioannem Taulerum, aliosque 
+      <lb ed="#L" n="13"/>huius farinae auctores quotidie habentes in manibus, 
+      quo<lb ed="#L" n="14" break="no"/>tidie in ore, eorum errata tamen, mentem, animum, non 
+      o<lb ed="#L" n="15" break="no"/>dore vllo, non vestigijs, non sapore capiunt. Videlicet,  
+      <lb ed="#L" n="16"/>abstulit Dominus a Iuda &amp; Hierusalem iudicem &amp; 
+      prophe<lb ed="#L" n="17" break="no"/>tam, &amp; ariolum, &amp; senem, &amp; sapientem, de architectis, &amp; pru 
+      <lb ed="#L" n="18"/>dentem, non solum eloquij mystici, sed haeresis occultae 
+      <lb ed="#L" n="19"/>dijudicandae. Quid ni muti sint canes &amp; latrare non 
+      va<lb ed="#L" n="20" break="no"/>leant, quibus ad inuestigandum nulla iam est sagatitas na 
+      <lb ed="#L" n="21"/>rium? Et cum tot signis lupi declarent, qui sint ac velint,  
+      <lb ed="#L" n="22"/>quid quaerant ac desiderent, canes tamen fere stupor 
+      op<lb ed="#L" n="23" break="no"/>pressit, pastores vero caecutiunt &amp; obsurdescunt nescio 
+      <lb ed="#L" n="24"/>quo modo, vt nec ea, quae a viris sagacibus monentur, 
+      au<lb ed="#L" n="25" break="no"/>diant, neque ea, quae a lupis geruntur, videant, nisi forte 
+      <lb ed="#L" n="26"/>omnes &amp; pastores &amp; canes stupidi timore obmutuerunt. 
+      <lb ed="#L" n="27"/>Atqui vnde libet stupiditas accidat, ad ecclesiae pernicie 
+      <lb ed="#L" n="28"/>idem est. Securi enim iam potuerunt viri improbi non  
+      <lb ed="#L" n="29"/>modo ad aurem admouere sermonem, qui vt cancer 
+      ser<lb ed="#L" n="30" break="no"/>pat, sed patetius venenum spargere, atque euomere virus 
+      <lb ed="#L" n="31"/>pestilentissimum erroris sui. Quod, si mens non laeua 
+      fuis<lb ed="#L" n="32" break="no"/>set, etiam occultum atque in venis inclusum, a sano humo 
+      <lb ed="#L" n="33"/>re secerni &amp; internosci tam poterat adhibita diligetia &amp;  
+      <lb ed="#L" n="34"/>cura, grauique &amp; acri iudicio, quam potest color albus a 
+      <lb ed="#L" n="35"/>nigro, aut dulcis sapor ab amaro distingui. Sed non est hu 
+      <lb ed="#L" n="36"/>ius loci ecclesiae calamitatem deplorare. Nunc enim id so 
+      <lb ed="#L" n="37"/>lum agitur, propositonum sapores magis sentiendi &amp; gu 
+      <lb ed="#L" n="38"/>standi viribus discernendos, quam speculandi. Causa 
+      quip<lb ed="#L" n="39" break="no"/>pe hos non natura distinguit. Itaque non praeceptis &amp; regulis, 
+      <!--781.xml-->
+      <pb ed="#L" n="770"/>
+               <lb ed="#L" n="1"/>sed prudentia &amp; sagacitate dijudicantur. Expediam 
+      bre<lb ed="#L" n="2" break="no"/>ui rem hanc, &amp; planam exemplo vno faciam. Leges illam  
+      <lb ed="#L" n="3"/>propositonem. Pater maior me est, in Euangelio. Habet 
+      <lb ed="#L" n="4"/>illius doctrinae auctorem cognitum &amp; perspectum: 
+      antece<lb ed="#L" n="5" break="no"/>dentia &amp; consequentia in Euangelio verba diligenter 
+      at<lb ed="#L" n="6" break="no"/>tendis, eius doctrinae principia resiqua memoria tenes. Iam 
+      <lb ed="#L" n="7"/>experiere, nisi habes humore aliquo malo affectum gustum,  
+      <lb ed="#L" n="8"/>propositonem illam, Pater maior me est, non heresim tibi 
+      <lb ed="#L" n="9"/>sapere sed modestiam. Legebat eandem in Arianorum 
+      li<lb ed="#L" n="10" break="no"/>bris Athanasius, auctores intus &amp; in cute nouerat, Arianae 
+      <lb ed="#L" n="11"/>disciplinae causas &amp; effecta, principia &amp; connexa perspexe 
+      <lb ed="#L" n="12"/>rat, &amp; quae in Euangelio Christi dulcis erat super mel &amp; 
+      <lb ed="#L" n="13"/>fauum, eadem proposito in Arij libros transfusa sapiebat 
+      <lb ed="#L" n="14"/>haeresim, eratque eius gustui vel amarissima. Atque vt idem 
+      <lb ed="#L" n="15"/>vinum ex vase vno sapit picem, ex altero non sapit, &amp; res 
+      <lb ed="#L" n="16"/>eadem illud olet, vnde sit, e coeno male, ex arcula 
+      mulie<lb ed="#L" n="17" break="no"/>bri bene, sic vna &amp; eadem oratio ex vno corde &amp; ore 
+      o<lb ed="#L" n="18" break="no"/>dorem spirat iucundissimum, ex altero teterrimum, ex vno 
+      <lb ed="#L" n="19"/>saporem suauem seruat, ex altero insuauem. 
+      Quemadmo<lb ed="#L" n="20" break="no"/>dum etiam videmus, aquam e radicibus &amp; canalibus, per 
+      <lb ed="#L" n="21"/>quas transit, aliud atque aliud &amp; olere &amp; sapere. Non 
+      ita<lb ed="#L" n="22" break="no"/>que e rerum ipsarum orationumque natura, saporodorye 
+      <lb ed="#L" n="23"/>omnis existimandus est, sed tum res tum orationes ipsae 
+      <lb ed="#L" n="24"/>a venis aliquando &amp; vijs, per quas permeant, saporem &amp;  
+      <lb ed="#L" n="25"/>odorem accipiunt. Saporem igitur propositionum, vt 
+      di<lb ed="#L" n="26" break="no"/>xi, non tam scientia quam prudentia dijudicat. Quocirca 
+      <lb ed="#L" n="27"/>quae proposito haeresim sapiat, quae contram non sapiat, non 
+      <lb ed="#L" n="28"/>Theologi quiuis, sed prudentes solum atque experientes 
+      <lb ed="#L" n="29"/>poterunt iudicare. 
+      <lb ed="#L" n="30"/>Idem vero de propositone male sonante seu piarum 
+      <lb ed="#L" n="31"/>aurium ossensiua dixerim. Est enim, vt linguae nariumque, 
+      <lb ed="#L" n="32"/>ita &amp; aurium, iudicium suum, absurdos &amp; abhorrentes 
+      so<lb ed="#L" n="33" break="no"/>nos respuentium. Quemadmodum autem non solum res 
+      <lb ed="#L" n="34"/>falsae atque perabsurdae, sed graues quoque ac verae 
+      sen<lb ed="#L" n="35" break="no"/>tentiae inconditis verbis elatae offendunt aures, acres 
+      <lb ed="#L" n="36"/>praesertim &amp; acutas, sic Theologorum aures teretes, &amp;  
+      <lb ed="#L" n="37"/>religiosae, non a sententijs modo falsis &amp; haereticis, sed 
+      <lb ed="#L" n="38"/>ab eis etiam abhorrent, quas intelligenti iudicio 
+      perci<lb ed="#L" n="39" break="no"/>piunt male atque absurdem sonare, quamuis nullam in eis 
+      <!--782.xml-->
+      <pb ed="#L" n="771"/>
+               <lb ed="#L" n="1"/>falsitatem haereseos deprehendant. Dupliciter ergo de 
+      <lb ed="#L" n="2"/>propositone male sonante loqui possumus: vno modo 
+      <lb ed="#L" n="3"/>generaliter, quo omnis proposito fidei contraria 
+      fide<lb ed="#L" n="4" break="no"/>lium aures offendit, eoque magis, quo apertius illam 
+      vi<lb ed="#L" n="5" break="no"/>dent fidei catholicae esse contrariam. Alio modo 
+      specia<lb ed="#L" n="6" break="no"/>liter, quo gradum quendam propositonum constituimus 
+      <lb ed="#L" n="7"/>ab illo haereticarum supremo distantem. Qua ratione eas 
+      <lb ed="#L" n="8"/>proprie male sonantes propositones &amp; piarum aurium 
+      <lb ed="#L" n="9"/>offensiuas dicimus, in quibus nullus error fidei aduersus 
+      <lb ed="#L" n="10"/>manifeste notari potest, sed absonum nescio quid atque 
+      <lb ed="#L" n="11"/>absurdum, quod indignum esse pijs &amp; religiosis auribus 
+      <lb ed="#L" n="12"/>videatur. Enimuero in hisce absonis &amp; absurdis 
+      propo<lb ed="#L" n="13" break="no"/>sitionibus discernendis, nollem equidem imperito atque  
+      <lb ed="#L" n="14"/>imprudenti vulgo aures dedere, quarum est iudicium 
+      <lb ed="#L" n="15"/>pinguissimum. Sane quanquam nonnullis in rebus, quae 
+      <lb ed="#L" n="16"/>fidelium omnium scilicet communes sunt, iudicium 
+      re<lb ed="#L" n="17" break="no"/>ctum adeo doctis, atque indoctis, est i&amp; promiscue &amp; 
+      <lb ed="#L" n="18"/>communiter a fide datum, vt quae propositones 
+      vul<lb ed="#L" n="19" break="no"/>gi opinione male sonantes habentur, intelligentium 
+      <lb ed="#L" n="20"/>quoque iudicio male sonantes fere sint: at promiscuum 
+      <lb ed="#L" n="21"/>vulgus auditum plerunque hebetiorem habet, 
+      inter<lb ed="#L" n="22" break="no"/>dum etiam teneriorem quam opus est, &amp; multa saepe 
+      <lb ed="#L" n="23"/>tum auribus accipit, tum animo sert, quae tritae atque 
+      <lb ed="#L" n="24"/>intelligentes aures aspernantur: quaedam contra 
+      refu<lb ed="#L" n="25" break="no"/>tat quasi absona, quae Theologos peritos &amp; sapientes 
+      <lb ed="#L" n="26"/>non modo non lacessunt, sed ne mouent quidem. 
+      <lb ed="#L" n="27"/>Theologos, inquam, peritos &amp; sapientes. Nam in 
+      <lb ed="#L" n="28"/>quibusdam aurium sensus fastidiosissimus est, in 
+      qui<lb ed="#L" n="29" break="no"/>busdam etiam superbissimus. Quia igitur vel 
+      Theo<lb ed="#L" n="30" break="no"/>logi quidam nonnulla respuunt, quae aures clementes 
+      <lb ed="#L" n="31"/>&amp; modestas minime osfendunt, necessarium est, si res 
+      <lb ed="#L" n="32"/>has recte &amp; sapienter dijudicare volumus, aurium habere 
+      <lb ed="#L" n="33"/>sensum politum, tersum, subtilem, prudentem. Quod 
+      <lb ed="#L" n="34"/>si propositonum absonarum consonarumque iudicium 
+      <lb ed="#L" n="35"/>ecclesia in vulgi auribus collocasset, illam certe 
+      proposi<lb ed="#L" n="36" break="no"/>tionem, Beata virgo peccatum originis a primo parente 
+      <lb ed="#L" n="37"/>contraxit, male sonare, &amp; pias aures offendere 
+      iudicare<lb ed="#L" n="38" break="no"/>mus. Illa enim audita vulgus sine dubio perstringitur, per 
+      <lb ed="#L" n="39"/>cutitur, torquetur. At piarum aurium offensio crime est.  
+      <!--783.xml-->
+      <pb ed="#L" n="772"/>
+               <lb ed="#L" n="1"/>Id autem in crimine ponere, quod ecclesia ab omni 
+      alie<lb ed="#L" n="2" break="no"/>num crimine censuit, temerariae insolentiae est. Euangelij 
+      <lb ed="#L" n="3"/>item verba quaedam, si turba nobis lex est, male sonantia 
+      <lb ed="#L" n="4"/>fuissent, &amp; piarum etiam aurium offensiua. Turbas 
+      quip<lb ed="#L" n="5" break="no"/>pe aliquando Dominus vocibus ambiguis obscurisque 
+      <lb ed="#L" n="6"/>turbauit. Quin insigniter atque aspere discipulorum 
+      quan<lb ed="#L" n="7" break="no"/>doque teneras auriculas perculit, nam Pharisaeorum 
+      au<lb ed="#L" n="8" break="no"/>res mordaci solebat radere vero. Pharisaei audito Christi 
+      <lb ed="#L" n="9"/>verbo scandalixabantur: plerisque discipulis durus erat 
+      <lb ed="#L" n="10"/>illius sermo: turbis habere demonium videbatur. Nec 
+      <lb ed="#L" n="11"/>est ambiguum hoc tempore esse Pharisaeos quosdam, esse 
+      <lb ed="#L" n="12"/>stolidam turbam &amp; multitudinem falsis opinionibus 
+      ob<lb ed="#L" n="13" break="no"/>tusam, certos demum esse discipulos, quibus est sermo 
+      <lb ed="#L" n="14"/>veritatis durissimus. Hi, si abusus reprehendas, qui in 
+      <lb ed="#L" n="15"/>imaginibus &amp; colendis, &amp; ornandis, in sacellis, templis, mo 
+      <lb ed="#L" n="16"/>nasterijs, sepulchrorum monumentis, sempiternisque 
+      me<lb ed="#L" n="17" break="no"/>morijs condendis sunt plurimi: si affirmes, in 
+      huiusce<lb ed="#L" n="18" break="no"/>modi interdum, vel potius nimium saepe plus vanitatem 
+      <lb ed="#L" n="19"/>valere quam religionem, diabolum quam Christum: hi, 
+      <lb ed="#L" n="20"/>inquam fortasse dicent, te Lutheranis opinionibus 
+      occu<lb ed="#L" n="21" break="no"/>patum intolerabiles sonos fundere. Non est igitur 
+      ha<lb ed="#L" n="22" break="no"/>benda ratio vulgi promiscui, imbecilli, perturbati, 
+      impru<lb ed="#L" n="23" break="no"/>dentis, sed prudentis, synceri, pij, incorrupti. Nec 
+      Theo<lb ed="#L" n="24" break="no"/>logia modo requirenda est, sed pietas &amp; prudentia, sine 
+      <lb ed="#L" n="25"/>qua nullae aures possunt consentaneos sonos 
+      abhorten<lb ed="#L" n="26" break="no"/>tesque discernere. Itaque, vt semel finiamus, cum non sit 
+      <lb ed="#L" n="27"/>cuiusuis male sonantem propositionem a bene sonante 
+      <lb ed="#L" n="28"/>distinguere, prudentissimi Theologi, quod iam iterum 
+      <lb ed="#L" n="29"/>ac saepe dixi, consulendi a iudicibus ecclesiae sunt: nisi 
+      <lb ed="#L" n="30"/>volunt in harum rerum iudicijs yehementer errare. Et 
+      <lb ed="#L" n="31"/>quamuis nullam nos quidem comprehensionem 
+      habea<lb ed="#L" n="32" break="no"/>mus, definitionem nullam, qua iudices valeant singulas in 
+      <lb ed="#L" n="33"/>specie inale sonantes propositiones iudicare: illud tamen 
+      <lb ed="#L" n="34"/>speciatim admonere possumus, huiusmodi propositonum 
+      <lb ed="#L" n="35"/>duos esse gradus. Vnum earum, quas ante diximus, 
+      haere<lb ed="#L" n="36" break="no"/>sim sapere. Videlicet, quae fidelium gustatui male sapiunt, 
+      <lb ed="#L" n="37"/>eaedem male sonant auditui. Verum quia gustatus sensus 
+      <lb ed="#L" n="38"/>pinquior &amp; crassior est, auditus subtilior &amp; acutior, alter 
+      <lb ed="#L" n="39"/>gradus male sonantium propositonum est, quae licet hae¬ 
+      <!--784.xml-->
+      <pb ed="#L" n="773"/>
+               <lb ed="#L" n="1"/>resim non sapiant, sonum tamen quendam absurdum &amp;  
+      <lb ed="#L" n="2"/>peregrinum referunt, qui a doctrina sana synceroque &amp;  
+      <lb ed="#L" n="3"/>solido ecclesiae sermone discrepare videatur. Qua 
+      ratio<lb ed="#L" n="4" break="no"/>ne pias illae aures feriunt &amp; aspere &amp; grauiter, tametsi cur 
+      <lb ed="#L" n="5"/>ita feriant, causa saepe occultissima est. Huius generis illa 
+      <lb ed="#L" n="6"/>exempla videntur appositissima, quae Concilium 
+      Constan<lb ed="#L" n="7" break="no"/>tien, notauit, Graduationes &amp; magisteria vniuersitatum  
+      <lb ed="#L" n="8"/>esse vana gentilitate intro ducta, &amp; tantum prodesse 
+      ec<lb ed="#L" n="9" break="no"/>clesiae quantum diabolum, Syluestrum &amp; Constantinim 
+      <lb ed="#L" n="10"/>errasse ecclesiam dotando, Ecclesiam Romanam esse 
+      sy<lb ed="#L" n="11" break="no"/>nagogam Sathanae, Electionem Papae a Cardinalibus per 
+      <lb ed="#L" n="12"/>diabolum fuisse introductam. Item, Papam non debere 
+      <lb ed="#L" n="13"/>dici sanctissimum propter officium. Alioqui diabolus di 
+      <lb ed="#L" n="14"/>ceretur sanctus, quia est officialis Dei, Item, plures Romae 
+      <lb ed="#L" n="15"/>nunc saluari ex coniugatis quam ex clericis, Item, 
+      mona<lb ed="#L" n="16" break="no"/>chatum non esse pietatem, Item Romani episcopi monar  
+      <lb ed="#L" n="17"/>chiam post Diui Hieronymi tempus exortam esse, Item, 
+      <lb ed="#L" n="18"/>Phocam instituisse Romanam ecclesiam omnium esse 
+      ec<lb ed="#L" n="19" break="no"/>clesiarum caput: &amp; alia innumera, quae, ne longum faciam, 
+      <lb ed="#L" n="20"/>praetermitto. Quod siquis adeo tenui palato est, vt has 
+      e<lb ed="#L" n="21" break="no"/>tiam propositiones haereseos saporem referre iudicet, cum 
+      <lb ed="#L" n="22"/>eo equidem non magnopere contenderim, praesertim si 
+      <lb ed="#L" n="23"/>de harum vna &amp; item altera sermo sit. Quanquam mihi, 
+      <lb ed="#L" n="24"/>fateor, palatum torpet quandoque ac iacet, auris subtilior 
+      <lb ed="#L" n="25"/>&amp; erectior est. Ita mihi videor facilius posse 
+      proposito<lb ed="#L" n="26" break="no"/>nes auditu quam gustatu percipere. Sed, vt dixi, neuter 
+      <lb ed="#L" n="27"/>sensus regulis instituitur, si defuerit prudentia &amp; spiritus 
+      <lb ed="#L" n="28"/>quidam diiudicandi: si vero haec affuerint, sine praeceptis 
+      <lb ed="#L" n="29"/>nostris theologi iudicium poterit esse vel rectissimum.  
+      <lb ed="#L" n="30"/>Ac de propositone male sonante hactenus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1179-d1e971">
+               <lb ed="#L" n="31"/>Propositio vero temeraria duobus itidem modis 
+      v<lb ed="#L" n="32" break="no"/>surpari solet: &amp; communiter &amp; proprie. Communiter, 
+      <lb ed="#L" n="33"/>vt omnis proposito a fide auersa temeraria quoque 
+      ap<lb ed="#L" n="34" break="no"/>pelletur, etiam si haeresis manifesta sit. Ecquid enim 
+      incon<lb ed="#L" n="35" break="no"/>sideratissima ac dementissima temeritate plenius quam  
+      <lb ed="#L" n="36"/>Christi ecclesiam contradicere? Proprie autem ea vox 
+      <lb ed="#L" n="37"/>vsurpatur, quum asseueratio, vt temeraria notari potest: 
+      <lb ed="#L" n="38"/>vt haeretica vel erronea vel sapiens haeresim non potest. 
+      <lb ed="#L" n="39"/>In quem sensum post istos propositonum gradus postro 
+      <!--785.xml-->
+      <pb ed="#L" n="774"/>
+               <lb ed="#L" n="1"/>mum locum proposito temeraria tenet. Temeritas 
+      por<lb ed="#L" n="2" break="no"/>ro non vno &amp; simplici modo intelligitur. Temere enim 
+      <lb ed="#L" n="3"/>ea quandoque fieri dicimus, quae non consilio, sed 
+      for<lb ed="#L" n="4" break="no"/>tuito geruntur. Quo modo ea temeraria sunt, quae 
+      tur<lb ed="#L" n="5" break="no"/>bulente &amp; inconsulte effutita sunt. In hoc vero 
+      signifi<lb ed="#L" n="6" break="no"/>catu temeritas, quae nullo delectu aut discrimine 
+      duci<lb ed="#L" n="7" break="no"/>tur ad iudicandum, sapientiae contraria est, in qua non  
+      <lb ed="#L" n="8"/>casus &amp; fortuna, sed ratio &amp; consilium valet. Qui ergo 
+      <lb ed="#L" n="9"/>nulla aut ratione aut auctoritate impulsus res ipsas 
+      affir<lb ed="#L" n="10" break="no"/>mat, sed temere scribit &amp; dictitat, vel quod in buecam  
+      <lb ed="#L" n="11"/>venit, iure is tanquam stultus &amp; temerarius 
+      reprehendi<lb ed="#L" n="12" break="no"/>tur. Nam quamuis vera aliquando dicat, sed vt vera 
+      di<lb ed="#L" n="13" break="no"/>cat tamen, non id consilium &amp; ratio, sed fors &amp; casus 
+      ef<lb ed="#L" n="14" break="no"/>ficit. Qualia sunt nonnulla, quae viri quidam pij in vita 
+      <lb ed="#L" n="15"/>rebusque gestis Christi Domini magis comminiscuntur 
+      <lb ed="#L" n="16"/>quam contemplantur, quae etiam scribunt, non tam vere 
+      <lb ed="#L" n="17"/>&amp; prudenter, quam deuots &amp; feruenter. Quorum est 
+      in<lb ed="#L" n="18" break="no"/>terdum caeca ac temeraria quidem, &amp; in assentiendo crea 
+      <lb ed="#L" n="19"/>dulitas, &amp; in asserendo facilitas: sed temeritas haec tamen 
+      <lb ed="#L" n="20"/>non est eiusmodi, vt a fidei iudicibus coerceri debeat,  
+      <lb ed="#L" n="21"/>qui grauiorum errorum censuram assumere suo iure 
+      pos<lb ed="#L" n="22" break="no"/>aunt, leuioris huius Vel imprudentiae vel stultitiae non 
+      pos<lb ed="#L" n="23" break="no"/>sunt. Fidei quippe cognitio illis mandata est, non 
+      pru<lb ed="#L" n="24" break="no"/>dentiae, eius praesertim, quae viros pios saepe destituit. 
+      <lb ed="#L" n="25"/>Videmus autem illiusmodi, seu meditationes, seu 
+      contem<lb ed="#L" n="26" break="no"/>plationes, licet inconsiderate atque imprudenter, sine 
+      ra<lb ed="#L" n="27" break="no"/>tione &amp; graui testimonio editas, cum pietate fere atque 
+      <lb ed="#L" n="28"/>adeo cum sanctitate esse coniunctas. Non decet igitur, 
+      <lb ed="#L" n="29"/>vt simplicitas columbina seuerissimi tribunalis iudicio 
+      <lb ed="#L" n="30"/>vexetur: quantumuis illa sit inconsulta &amp; imprudens. 
+      <lb ed="#L" n="31"/>Dicitur rursum &amp; id temere asseri, quod insolenter, 
+      ni<lb ed="#L" n="32" break="no"/>miumque audacter asseritur. Quo modo omnibus in 
+      re<lb ed="#L" n="33" break="no"/>bus asseuerandi temeritas pronunciandique audacia 
+      tur<lb ed="#L" n="34" break="no"/>pis est quidem, sed in his, quae ad ecclesiae doctrinam 
+      at<lb ed="#L" n="35" break="no"/>tinent, est periculosa vel maxime. Habet enim 
+      contem<lb ed="#L" n="36" break="no"/>ptionem superbam ecclesiasticae regulae: quam 
+      contem<lb ed="#L" n="37" break="no"/>ptionem, nisi fidei iudices coerceant &amp; comprimant, dici 
+      <lb ed="#L" n="38"/>non potest quantum discriminis omnis ecclesiae doctrina 
+      <lb ed="#L" n="39"/>sit habitura. Quae igitur non inconsulta oratione modo,  
+      <!--786.xml-->
+      <pb ed="#L" n="775"/>
+               <lb ed="#L" n="1"/>sed, vt verbis vtar grauioribus, confidenti audacia, 
+      inso<lb ed="#L" n="2" break="no"/>lentia proterua, exultatione impudenti, iactatione 
+      super<lb ed="#L" n="3" break="no"/>ba, non contra fidem dico, sed contra ecclesiasticae 
+      mode<lb ed="#L" n="4" break="no"/>stiae regulam asseruntur: ea Theologi in praesenti 
+      teme<lb ed="#L" n="5" break="no"/>raria censent, atque inter errorum gradus constituunt &amp; 
+      <lb ed="#L" n="6"/>locant, qui, quoniam haeresum appendices sunt, a fidei 
+      iu<lb ed="#L" n="7" break="no"/>dicibus sunt animaduertendi. Vt, Beatam virginem non  
+      <lb ed="#L" n="8"/>esse in caelos cum corpore assumpta, quod licet fidei 
+      mi<lb ed="#L" n="9" break="no"/>nime aduersum sit, sed quia communi ecclesiae consensioni 
+      <lb ed="#L" n="10"/>repugnat, petulanti temeritate diceretur. Item, in 
+      baptis<lb ed="#L" n="11" break="no"/>mo non infundi paruulis informantem gratiam &amp; 
+      virtu<lb ed="#L" n="12" break="no"/>tes: cum concilium Viennense contrariam opinionem 
+      <lb ed="#L" n="13"/>duxerit eligendam. Item, Angelum non esse simul cum 
+      <lb ed="#L" n="14"/>mundo corporeo creatum, aut ipsum etiam non esse 
+      in<lb ed="#L" n="15" break="no"/>corporeum: cuius vtrinsque rei contrarium concilium 
+      <lb ed="#L" n="16"/>Lateranense sub Innocentio tertio nos docuit. Item, Die 
+      <lb ed="#L" n="17"/>iudicij ad certum quendam diem, mensem annum ve 
+      fu<lb ed="#L" n="18" break="no"/>turum. vt verbi causa, ab hinc quinto vel sexto: quod a 
+      <lb ed="#L" n="19"/>concilio Lateranen. sub Leone decimo diligenter 
+      prae<lb ed="#L" n="20" break="no"/>cautum atque prouisum est. Nec enim est parua 
+      temeri<lb ed="#L" n="21" break="no"/>tas eius rei praesagitionem vsurpare, quam inclusam 
+      di<lb ed="#L" n="22" break="no"/>uinitus pater in sua posuit potestate, &amp; neque Apostolis, 
+      <lb ed="#L" n="23"/>neque angelis reuelauit Item, Ioanes euangelista fuit in vtero 
+      <lb ed="#L" n="24"/>sanctificatus, atque in summa omnes illae propositones, in 
+      <lb ed="#L" n="25"/>quibus a fidei &amp; scripturarum lege vniuersali quispiam sine 
+      <lb ed="#L" n="26"/>idoneo testimonio, aut probabili ratione eximitur. Nam 
+      <lb ed="#L" n="27"/>huius generis exceptiones, temerariae fidei leges, tametsi 
+      <lb ed="#L" n="28"/>non tollant, praecidunt tamen. Est demum &amp; ea temeraria 
+      pro<lb ed="#L" n="29" break="no"/>positio, quae in doctrina fidei cum celebris vniuersitatis con 
+      <lb ed="#L" n="30"/>muni decreto ac definitione pugnat. Quanquam enim 
+      cir<lb ed="#L" n="31" break="no"/>cunferuntur articuli Parisienses, qui non sunt articuli fidei 
+      <lb ed="#L" n="32"/>omnes: quoniam ne hanc quidem vel longissime tangunt: sed 
+      <lb ed="#L" n="33"/>eius academiae tamen de fide &amp; religione fixa constantiaque 
+      <lb ed="#L" n="34"/>decreta semper Christi ecclesia suspexit. Qui vere 
+      con<lb ed="#L" n="35" break="no"/>tepserunt, inaniaque &amp; leuia, ac pro nihilo existimarut, omnes 
+      <lb ed="#L" n="36"/>ad vnum periclitati sunt, &amp; i1 qui manifeste ab ecclesia 
+      dis<lb ed="#L" n="37" break="no"/>cessere, &amp; ij qui ecclesiae fuere suspecti: postremo ij, qui in 
+      <lb ed="#L" n="38"/>occulto adhuc latent, sed suo se tempore, vt caeteri prodent.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1179-d1e1170">
+               <lb ed="#L" n="39"/>Propositionem autem scandalosam quidam cum piarum  
+      <!--787.xml-->
+      <pb ed="#L" n="776"/>
+               <lb ed="#L" n="1"/>aurium offensiua confundunt, vt verbis distinguantur, re 
+      <lb ed="#L" n="2"/>eaedem prorsus sint. Atque huius generis exempla illa po 
+      <lb ed="#L" n="3"/>nunt. Tyranum potest quilibet illius subditus occidere, 
+      <lb ed="#L" n="4"/>Ieiunare impertinens est Christianae perfectioni, Nullum 
+      <lb ed="#L" n="5"/>est praeceptum de baptismo suscipiendo. At ijs ita 
+      per<lb ed="#L" n="6" break="no"/>turbati sunt &amp; confusi errorum gradus, nullus vt sit 
+      pri<lb ed="#L" n="7" break="no"/>mus, nullus vt secundus, nullus vt tertius aut quartus. 
+      <lb ed="#L" n="8"/>Propositio igitur scandalosa duobus similiter modis 
+      ap<lb ed="#L" n="9" break="no"/>pellari solet. Prius vsurpatione communi, qua omnis 
+      o<lb ed="#L" n="10" break="no"/>ratio, quae occasionem ruines praestet, quamuis haeretica 
+      a<lb ed="#L" n="11" break="no"/>perte sit, scandalosa dicitur. Quo sensu Concilium 
+      Con<lb ed="#L" n="12" break="no"/>stantiense 15. illam propositonem, Quilibet tyrannus po 
+      <lb ed="#L" n="13"/>test licite a quocunque subdito occidi, &amp;c. tanquam 
+      hae<lb ed="#L" n="14" break="no"/>reticam &amp; scandalosam condemnauit. Quales sunt item 
+      <lb ed="#L" n="15"/>reliquae duae, quae ab his in exemplum sunt positae. At 
+      ve<lb ed="#L" n="16" break="no"/>ro posterius scandalosa illa proprie oratio vocatur, in 
+      <lb ed="#L" n="17"/>qua scandalum notari potest, haeresis non potest. Qualis 
+      <lb ed="#L" n="18"/>illa fuit enumeratio incommodorum auricularis 
+      confes<lb ed="#L" n="19" break="no"/>sionis, in qua incommodorum enumeratione tanto cum 
+      <lb ed="#L" n="20"/>Germaniae scandalo. Erasmus versatus est. Tales illae sunt 
+      <lb ed="#L" n="21"/>siue commentitiae fabulae seu narrationes etiam verae, 
+      qui<lb ed="#L" n="22" break="no"/>bus monachorum occulta vitia, vel finguntur, vel 
+      dete<lb ed="#L" n="23" break="no"/>guntur. Id quod sine dubio sine imbecillium 
+      offendicu<lb ed="#L" n="24" break="no"/>lo fieri non potest. Non enim hic scandalum more vulgi 
+      <lb ed="#L" n="25"/>vsurpamus, pro eo, quod aures offendit, quod ve fidelis 
+      <lb ed="#L" n="26"/>populus horret: sed pro eo, quod infirmis causam ruinae 
+      <lb ed="#L" n="27"/>praestat, &amp; quod ante fidelium pedes positum eos facit in illud 
+      <lb ed="#L" n="28"/>incurrere, irruere, offendere. Sic ecclesiae Romanae abusus 
+      <lb ed="#L" n="29"/>plebi rudi obijcere atque in vulgus edere, scandalum est. 
+      <lb ed="#L" n="30"/>Sic propositones illae scandalosae sunt. Praelatus malus 
+      <lb ed="#L" n="31"/>est vere fur &amp; latro, Per censuras ecclesiasticas clerus 
+      po<lb ed="#L" n="32" break="no"/>pulum suppeditat &amp; auaritiam multiplicat, Sacerdotes 
+      <lb ed="#L" n="33"/>criminose viuentes sacerdotij polluunt potestatem, 
+      Cle<lb ed="#L" n="34" break="no"/>rici epistolis decretalibus studentes stulti sunt. Dantes 
+      <lb ed="#L" n="35"/>eleemolynam fratribus mendicantibus sunt 
+      excommu<lb ed="#L" n="36" break="no"/>nicati, Confirmatio iuuenum, clericorum ordinatio, 
+      lo<lb ed="#L" n="37" break="no"/>corum consecratio, reseruantur episcopis propter 
+      cupi<lb ed="#L" n="38" break="no"/>ditatem lucri temporalis &amp; honoris, Vniuersitates &amp; col 
+      <lb ed="#L" n="39"/>legia vanitate hominum sunt inducta, Leguminibus. &amp; 
+      <!--788.xml-->
+      <pb ed="#L" n="777"/>
+               <lb ed="#L" n="1"/>giscibus venter inflatur &amp; turget, atque adeo ad 
+      concu<lb ed="#L" n="2" break="no"/>bitum ac venereas voluptates aptissimus redditur. 
+      Qua<lb ed="#L" n="3" break="no"/>rum nonnullae haeresim sapiunt, non inficior, sed quamuis 
+      <lb ed="#L" n="4"/>in verum sensum deflectantur, non solum error, sed ipsa 
+      <lb ed="#L" n="5"/>etiam isthaec veritas, qualiscunque illa sit, quae forte in 
+      <lb ed="#L" n="6"/>his dictis inueniri potest, scandalum affert idiotis &amp; 
+      infir<lb ed="#L" n="7" break="no"/>mis. Non enim solum falsa scandalum faciunt, sed 
+      ali<lb ed="#L" n="8" break="no"/>quando etiam vera. Ac de propositione scandalosa 
+      sa<lb ed="#L" n="9" break="no"/>tis fere diximus. Propositionem autem schismaticam, 
+      se<lb ed="#L" n="10" break="no"/>ditiosam, maledicam, &amp; contumeliosam, quorsum attinet 
+      <lb ed="#L" n="11"/>definire? Quis est enim, cui non perspicua sint illa, quae 
+      <lb ed="#L" n="12"/>pluribus verbis a quibusdam explicantur? Res itaque 
+      fa<lb ed="#L" n="13" break="no"/>ciles &amp; cuique per se satis expositas consulto praetereo. 
+      <lb ed="#L" n="14"/>Quoniam liber hic noster non pollicetur, quae passim 
+      vul<lb ed="#L" n="15" break="no"/>gata &amp; contrita sunt, sed ea conatur exponere, quae &amp; sunt 
+      <lb ed="#L" n="16"/>obscura, nec statim omnibus occurrentia &amp; obuia. Sed ne 
+      <lb ed="#L" n="17"/>Amalthaeam quidem edimus, &amp; bibliothecam rebus 
+      vni<lb ed="#L" n="18" break="no"/>uersis instructam. Breuitati quippe studemus, atque 
+      vti<lb ed="#L" n="19" break="no"/>nam non hoc decipiat nos breuitatis studium. Decepit 
+      <lb ed="#L" n="20"/>enim multos, quosdam, qui cum se breues esse putarent, 
+      <lb ed="#L" n="21"/>fuere longissimi, alios, qui cum se breues esse 
+      labora<lb ed="#L" n="22" break="no"/>rent, fuere obscurissimi. Sed haec hactenus, iam 
+      perga<lb ed="#L" n="23" break="no"/>mus ad reliqua. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

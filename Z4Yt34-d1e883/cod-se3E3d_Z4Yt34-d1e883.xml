@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="529"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e883"><!-- Z4Yt34-l10c1 -->
+            <head xml:id="Z4Yt34-d1e883-Hd1e106">Caput 1</head>
+            <p xml:id="Z4Yt34-d1e883-d1e109">
+      <!--540.xml-->
+               <pb ed="#L" n="529"/>
+               <lb ed="#L" n="1"/>DE PHILOS0. 
+      <lb ed="#L" n="2"/>PHORVI NLTVRAM 
+      <lb ed="#L" n="3"/>DVC EM S EGVEVTIVu AVCTo¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e883-d1e122">
+               <lb ed="#L" n="4"/>RITTTE QAE NONO L0. 
+      </p>
+            <p xml:id="Z4Yt34-d1e883-d1e127">
+               <lb ed="#L" n="5"/>cO Pos ITAESTLIBBR 
+      </p>
+            <p xml:id="Z4Yt34-d1e883-d1e132">
+               <lb ed="#L" n="6"/>DRCIMVS
+    </p>
+            <p xml:id="Z4Yt34-d1e883-d1e138">
+               <lb ed="#L" n="7"/>caput primum.
+    </p>
+            <p xml:id="Z4Yt34-d1e883-d1e143">
+               <lb ed="#L" n="8"/>QVemadmodum argumenta 
+      Theolo<lb ed="#L" n="9" break="no"/>go ducerentur a Philosophia atque 
+      <lb ed="#L" n="10"/>ib omni omnino ratione uaturae, 
+      sa<lb ed="#L" n="11" break="no"/>tis explicatum arbitror loco 
+      supe<lb ed="#L" n="12" break="no"/>riore. Sequitur, vt caetera persequar, 
+      <lb ed="#L" n="13"/>quae pertinent ad Philosophorum &amp;  
+      <lb ed="#L" n="14"/>historiae humanae auctoritatem. Hi 
+      <lb ed="#L" n="15"/>namque soli duo restant ex locis, qui 
+      <lb ed="#L" n="16"/>sunt inanitio propositi: de quibus dicere aggrediar, si 
+      <lb ed="#L" n="17"/>pauca prius de instituto ac iudicio meo dixero. Quamuis 
+      <lb ed="#L" n="18"/>enim libri nostri non modo in scholastica pugna &amp; 
+      con<lb ed="#L" n="19" break="no"/>certatione versentur, sed multa etiam alia contineant ijs 
+      <lb ed="#L" n="20"/>vtilissima, qui interiores serutantur &amp; reconditas 
+      lite<lb ed="#L" n="21" break="no"/>ras, tamen interdum vereor, ne quibusdam bonis viris 
+      <lb ed="#L" n="22"/>scholae nomen sit inuisum, mirenturque in ea illustranda 
+      <lb ed="#L" n="23"/>tantum me operae &amp; temporis ponere. Ego autem 
+      quan<lb ed="#L" n="24" break="no"/>diu res scholastica per eos gerebatur, qui iuuentutem ad 
+      <lb ed="#L" n="25"/>scholae Theologiam incitare sunt soliti, meas curas cogi 
+      <lb ed="#L" n="26"/>tationesque omneis in id conferebam, vt me quauis via &amp;  
+      <lb ed="#L" n="27"/>ratione ab scholasticis conflictationibus liberarem. Non 
+      <lb ed="#L" n="28"/>enim existimabam, meam operam scholae Theologis quo 
+      <lb ed="#L" n="29"/>quo modo necessariam. Cum autem Academia viros 
+      il<lb ed="#L" n="30" break="no"/>los summos amiserit, &amp; quidam ex reliquis, qui huius rei 
+      <lb ed="#L" n="31"/>tuendae socij esse deberent, studia haec vel tanquam arida 
+      <lb ed="#L" n="32"/>contentiosaque dimiserint, vel certe vt laboriosa &amp; 
+      mo<lb ed="#L" n="33" break="no"/>lesta declinauerint, Lutherani vero quasi noxia quoque 
+      <lb ed="#L" n="34"/>reprehenderint: indignum iudicaui illi me otio dare, 
+      <lb ed="#L" n="35"/>quod multis ante mihi magnisque, desiderijs optaram. Itaque  
+      <!--541.xml-->
+      <pb ed="#L" n="530"/>
+               <lb ed="#L" n="1"/>in his studijs ab initio versatus aetatis, existimaui hon 
+      <lb ed="#L" n="2"/>stissime me Christianae reipub. inseruire posse, si animu 
+      <lb ed="#L" n="3"/>in schola meum, vel repugnantem continerem. Cui cum 
+      <lb ed="#L" n="4"/>multum adolescens discendi causa, temporis tribuissem, 
+      <lb ed="#L" n="5"/>posteaquam Theologiam publice profiteri coepi, meque 
+      <lb ed="#L" n="6"/>ipsum discipulis tradidi, tempus fere totum 
+      consumeba<lb ed="#L" n="7" break="no"/>tur in docendo, scribendi otium non erat. Sustinebam  
+      <lb ed="#L" n="8"/>enim magnum onus, non discipulos modo quotidianis &amp;  
+      <lb ed="#L" n="9"/>lectionibus &amp; disputationibus instituendi, verumetiam  
+      <lb ed="#L" n="10"/>de multis &amp; verbo &amp; scripto respondendi. Accedebant 
+      <lb ed="#L" n="11"/>etiam non infrequentes ad populum conciones, quibus 
+      <lb ed="#L" n="12"/>me, vel necessitas adiudicabat vel volutas. Plures autem 
+      <lb ed="#L" n="13"/>res praesertim magnas, eodem simul tempore non modo 
+      <lb ed="#L" n="14"/>agare, sed ne cogitare quidem possumus. Quamobre de 
+      <lb ed="#L" n="15"/>hoc opere absoluendo, in quo tantam difficultatem inesse 
+      <lb ed="#L" n="16"/>videbamus, vt viro indigeret, non solum egregie docto,  
+      <lb ed="#L" n="17"/>sed nullis alijs negotijs praepedito, omnem omnino spem 
+      <lb ed="#L" n="18"/>saepius abiecimus. Sed partim discipulorum precibus 
+      ef<lb ed="#L" n="19" break="no"/>flagitati, partim amicorum conuicijs euicti, tuo vero iussu 
+      <lb ed="#L" n="20"/>potius Pater optime, cuius studijs, praesertim in re tam iu 
+      <lb ed="#L" n="21"/>sta, cum difficile est, tum ne aequum quidem obsistere, 
+      sub<lb ed="#L" n="22" break="no"/>cisiuis, vt aiunt, horis opus hoc informare decreuimus, vt 
+      <lb ed="#L" n="23"/>si quo forte casu nequeamus absoluere, certe instituisse 
+      <lb ed="#L" n="24"/>videamur. Eo vero me minus instituti mei poenitet, quod 
+      <lb ed="#L" n="25"/>facile sentio, vt nihil aliud agam, excitare me homines non 
+      <lb ed="#L" n="26"/>socordes ad rei magnae inuestigandae cupiditatem. Nos 
+      <lb ed="#L" n="27"/>enim si non assecuti, at id secuti profecto sumus, vt ea his 
+      <lb ed="#L" n="28"/>libris explicaremus, quae nec satis erant nota nostris, &amp;  
+      <lb ed="#L" n="29"/>erant cognitione dignissima. Sed iam ad instituta perga 
+      <lb ed="#L" n="30"/>mus. Danda enim opera est, vt etiam si ad alia aberrare ali 
+      <lb ed="#L" n="31"/>quando coeperit, ad haec reuocetur oratio.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="536"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e914"><!-- Z4Yt34-l10c4 -->
+            <head xml:id="Z4Yt34-d1e914-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e914-d1e109">
+               <lb ed="#L" n="4"/>Caput quartum.
+    </p>
+            <p xml:id="Z4Yt34-d1e914-d1e114">
+               <lb ed="#L" n="5"/>PHilosophorum omnium vna eademque consensio 
+      <lb ed="#L" n="6"/>certam fidem facit Philosophici dogmatis. Quod enim 
+      <lb ed="#L" n="7"/>in alijs artibus valet, vt auctores probati tantum apud eos,  
+      <lb ed="#L" n="8"/>qui eam artem sequuntur, auctoritatis habeant, vt inde 
+      <lb ed="#L" n="9"/>non nisi temere discedi soleat, id in Philosophia, ac 
+      mul<lb ed="#L" n="10" break="no"/>to etiam magis ualere debet, ne in rerum naturalium 
+      co<lb ed="#L" n="11" break="no"/>gnitione vario discipuli versentur errore, nec habeant 
+      vn<lb ed="#L" n="12" break="no"/>quam quos sequantur. Bene, inquit Aristoteles libro 
+      se<lb ed="#L" n="13" break="no"/>cundo de coelo, sese habet quemque, sibi persuadere, 
+      vete<lb ed="#L" n="14" break="no"/>res &amp; maiorum maxime nostrorum sententias veras esse. 
+      <lb ed="#L" n="15"/>Atque si in omni disciplina &amp; arte, oportet addiscentem 
+      <lb ed="#L" n="16"/>credere, vt &amp; Aristoteles idem prudenter admonuit, &amp; 
+      <lb ed="#L" n="17"/>Theodoritus magna exemplorum vi ostendit &amp; patefecit: 
+      <lb ed="#L" n="18"/>in Philosophia certe perdiscenda scientiae huius 
+      profes<lb ed="#L" n="19" break="no"/>soribus, in eandem praesertim sententiam concurrentibus, 
+      <lb ed="#L" n="20"/>fidem habeamus oportet. Quanta vero arrogantia erit, 
+      <lb ed="#L" n="21"/>quanta temeritas, non cum Platone dicam, Aristotele, 
+      <lb ed="#L" n="22"/>Hippocrate, Galeno. Theophrasto. Themistio, 
+      Alexan<lb ed="#L" n="23" break="no"/>dro. Dioscoride caeteris que, huius chori Philosophis, vnum 
+      <lb ed="#L" n="24"/>idemque, concinentibus dissentire, quorum scripta &amp; magna 
+      <lb ed="#L" n="25"/>cura studioque elaborata, &amp; posterorum non examinatio 
+      <lb ed="#L" n="26"/>ne, modo expensa, verum etiam consensione probata sunt: 
+      <lb ed="#L" n="27"/>sed contra sui temporis doctos homines dicere, &amp; 
+      singu<lb ed="#L" n="28" break="no"/>laria placita communibus anteponere. Nempe, id est, vt 
+      <lb ed="#L" n="29"/>ille inquit, bellare cum dijs, id est naturae repugnare, 
+      ma<lb ed="#L" n="30" break="no"/>ior enim pars eo deferri solet, quo a natura ipsa de 
+      duci<lb ed="#L" n="31" break="no"/>tur. Ex quo intelligitur, non esse alienum. Theologicis 
+      <lb ed="#L" n="32"/>institutis ad ea coniectanda, quae in natura dubitationem 
+      <lb ed="#L" n="33"/>afferunt, adhibere doctos homines, &amp; si morum quaestio 
+      <lb ed="#L" n="34"/>est, vsu peritos: &amp; quid nnis de vno quolibet quaestionis 
+      <lb ed="#L" n="35"/>genere placeat, exquirere. Quod si Pictores, &amp; ij qui signa 
+      <lb ed="#L" n="36"/>fabricantur, &amp; veri etiam poetae suum quisque, opus a vulgo 
+      <lb ed="#L" n="37"/>etiam considerari vult, vt si quid reprehensum sit a pluribus, 
+      <!--548.xml-->
+      <pb ed="#L" n="537"/>
+               <lb ed="#L" n="1"/>corrigatur: quanto magis Theologo prudenti non vulgi, 
+      <lb ed="#L" n="2"/>sed sapientum Philosophorum iudicio, permultae de 
+      re<lb ed="#L" n="3" break="no"/>bus naturae sententiae, mut andae &amp; corrigendae sunt, licet 
+      <lb ed="#L" n="4"/>illi verae esse videantur? At enim in rebus, quae ad mores 
+      <lb ed="#L" n="5"/>pertinent, non doctissimorum Philosophorum modo, sed 
+      <lb ed="#L" n="6"/>virorum quoque optimorum, nulla etiam causa reddita, valebit 
+      <lb ed="#L" n="7"/>auctoritas. Nam, quod Aristoteles docte, vt omnia fere, 
+      <lb ed="#L" n="8"/>tradidit, quemadmodum de saporibus palatum sanum recte 
+      <lb ed="#L" n="9"/>iudicat, infectum non item: sic vir bonus &amp; iustus bonum 
+      <lb ed="#L" n="10"/>a malo rectumque a prauo egregie discernit, contra autem 
+      <lb ed="#L" n="11"/>omneis affectus animi perturbati, tollit iudicium veri, idque  
+      <lb ed="#L" n="12"/>adulterat. Adeo illud verum est, qualis vnusquisque, erit, ta 
+      <lb ed="#L" n="13"/>le etiam iudicium proferet. Atque ipse idem Aristoteles 
+      pla<lb ed="#L" n="14" break="no"/>ne testatur, non minus eorum qui sunt experti, &amp; seniorum 
+      <lb ed="#L" n="15"/>prudentiumque sententijs, quam ipsis demonstrationibus 
+      <lb ed="#L" n="16"/>adhibere animum oportere. Tanquam oculum enim, ait 
+      <lb ed="#L" n="17"/>per experientiam, habentes principia ipsa rerum 
+      agenda<lb ed="#L" n="18" break="no"/>rum cernunt, &amp; abijs perinde atque a natura acti recte di 
+      <lb ed="#L" n="19"/>fcernunt. Quamobrem sancte ac prudenter Innocentius, 
+      <lb ed="#L" n="20"/>in morum iudicijs sanctorum exempla nos sequi voluit. 
+      <lb ed="#L" n="21"/>Grauissime quoque Plato in Timaeo, fieri, inquit, non po 
+      <lb ed="#L" n="22"/>test, vt deorum filijs fides non habeatur, etiam si absque 
+      <lb ed="#L" n="23"/>prohabilibus, &amp; necessarijs dicant demonstrationibus. Et 
+      <lb ed="#L" n="24"/>Ecclesiasticus, cor ait boni consilij statue tecum, Anima 
+      <lb ed="#L" n="25"/>enim viri sancti enunciat aiiquando vera, melius quam 
+      se<lb ed="#L" n="26" break="no"/>ptem circunspectores sedentes in excelso ad speculandum. 
+      <lb ed="#L" n="27"/>Quae causa mihi semper fuit pater sanctissime, atque 
+      opti<lb ed="#L" n="28" break="no"/>me, vt in rebus huiusmodi grauissimum iudicium tuum non 
+      <lb ed="#L" n="29"/>minus expectarem, quam alterius cuiusque eruditissimi Phi 
+      <lb ed="#L" n="30"/>Iosophi atque Theologi. Intelligebam enim virtutes illas 
+      <lb ed="#L" n="31"/>omnes, quas expertus fueram in te, nullo etiam dialectico 
+      <lb ed="#L" n="32"/>syllogismo interueniente, id quod rectum esset secuturas 
+      <lb ed="#L" n="33"/>declinaturasque contrarium. Mihi autem haec oratio 
+      su<lb ed="#L" n="34" break="no"/>scepta non de te est, sed de proborum genere toto. 
+      Ne<lb ed="#L" n="35" break="no"/>que illam de scientiae dogmatis, sed de prudentiae 
+      iudi<lb ed="#L" n="36" break="no"/>cijs potissimum intellectam velim. Iudicia quippe 
+      pru<lb ed="#L" n="37" break="no"/>dentiae, mutatis moribus permutantur, scientiae vero 
+      de<lb ed="#L" n="38" break="no"/>creta, non item. Ab his autem longe dissentio, qui 
+      decer<lb ed="#L" n="39" break="no"/>nendis conscientiae casibus, sic enim vocant, relictis do¬ 
+      <!--549.xml-->
+      <pb ed="#L" n="538"/>
+               <lb ed="#L" n="1"/>ctissimis Philosophis ac Theologis spirituales nescio 
+      <lb ed="#L" n="2"/>quos homines consulunt, qui visionem cordis sui loquuntur, 
+      <lb ed="#L" n="3"/>non de ore domini. Multa quoque perfectione exercitationeque.  
+      <lb ed="#L" n="4"/>virtutum opus est, quemadmodum ait in 4. cap. Ioannis 
+      <lb ed="#L" n="5"/>Origenes, vt bona &amp; mala vera &amp; falsa: dijudicare 
+      possi<lb ed="#L" n="6" break="no"/>mus, Rari autem illi sunt, qui quod Apostolus ait, 
+      exerci<lb ed="#L" n="7" break="no"/>tatos habeant sensus ad discretionem boni &amp; mali. Sed 
+      <lb ed="#L" n="8"/>haec hactenus. Nunc eo redeamus, vnde huc digressi 
+      su<lb ed="#L" n="9" break="no"/>mus. Constitutum est igitur Philosophorum iudicium,  
+      <lb ed="#L" n="10"/>eorum scilicet, qui magna doctrina excellentique 
+      inge<lb ed="#L" n="11" break="no"/>nio valuerunt, in magno pretio esse nobis habendum, si 
+      <lb ed="#L" n="12"/>nolumus haberi temerarij. Omnino si quicquam est 
+      pro<lb ed="#L" n="13" break="no"/>babile, nihil est profecto magis, quam naturae principem, 
+      <lb ed="#L" n="14"/>naturalis disciplinae doctores aliquos mortalium generi 
+      <lb ed="#L" n="15"/>prouidisse. Quis enim adeo esset insipiens, vt a cademiam  
+      <lb ed="#L" n="16"/>vnam quamlibet sine praeceptoribus institueret? Certe, 
+      <lb ed="#L" n="17"/>quoniam notus in Iudea Deus, quasi diuinae scientiae 
+      Gym<lb ed="#L" n="18" break="no"/>nasium erexit, Rabbinos ibi etiam procurauit. Et 
+      quo<lb ed="#L" n="19" break="no"/>niam apud Christianos Euangelicae doctrinae academias 
+      <lb ed="#L" n="20"/>esse voluit, Apostolos quoque, Prophetas. Euangelistas,  
+      <lb ed="#L" n="21"/>Doctores dedit, qui eam in Christi repub. doctrinam 
+      pro<lb ed="#L" n="22" break="no"/>fiterentur. Quapropter, cum vniuersis gentibus 
+      edocen<lb ed="#L" n="23" break="no"/>dis naturae leges ac disciplinuas ediderit, non fit vero 
+      simi<lb ed="#L" n="24" break="no"/>le, nullos huiusmodi legum ac disciplinarum magistros 
+      insti<lb ed="#L" n="25" break="no"/>tuisse. Atqe etiam, si ab alia similitudine argumentari conue 
+      <lb ed="#L" n="26"/>nit, Clemens Alexand. Philosophiam ait Graecis a Deo 
+      <lb ed="#L" n="27"/>veluti proprium testamentum esse datam. 
+      Quemadmo<lb ed="#L" n="28" break="no"/>dum ergo nec Iudaeorum, nec Christianorum 
+      testamen<lb ed="#L" n="29" break="no"/>ta, ita ne Graecorum testamentum quidem absque 
+      inter<lb ed="#L" n="30" break="no"/>prete dereliquit. Quocirca diuinae hic quoque 
+      procu<lb ed="#L" n="31" break="no"/>rationis erat, vt non omnes simul Philosophi aut in Dei 
+      <lb ed="#L" n="32"/>cognitione, aut in morum &amp; vitae regula, aut etiam in 
+      re<lb ed="#L" n="33" break="no"/>rum uaturalium intelligentia, quae, quidem esset ad illa  
+      <lb ed="#L" n="34"/>duo priora necessaria, hallucinarentur. Quae res effecit, 
+      <lb ed="#L" n="35"/>vt iuxta Pauli sententiam Graeci fuerint inexcusabiles.  
+      <lb ed="#L" n="36"/>Qui tamen excusari possent, si eorum praeceptores non ad 
+      <lb ed="#L" n="37"/>veritatem bonitatis instructi satis informatique essent,  
+      <lb ed="#L" n="38"/>auctore naturae optimo duce atque magistro. Id vero 
+      <lb ed="#L" n="39"/>scripturae etiam diuinae testantur. De Deo enim in Psalmo 
+      <!--550.xml-->
+      <pb ed="#L" n="539"/>
+               <lb ed="#L" n="1"/>scriptum est. Quod docet hominem scientiam. Et rursum 
+      <lb ed="#L" n="2"/>in libro Iob. Quod docet nos super iumenta terrae, &amp; 
+      su<lb ed="#L" n="3" break="no"/>per volucres coeli erudit nos. Nimirum sicut quibusdam ani 
+      <lb ed="#L" n="4"/>mantibus, qui tanquam principes, &amp; duces reliquorum a 
+      <lb ed="#L" n="5"/>natura dati sunt, concessi sunt quidam instinctus, 
+      qui<lb ed="#L" n="6" break="no"/>bus ad gregis quisque, sui ducatum rectum vtilemque 
+      fera<lb ed="#L" n="7" break="no"/>tur, ab obliquo retrahantur &amp; noxio: ita in hominum 
+      eo<lb ed="#L" n="8" break="no"/>rum mentibus, qui natura duces sunt caeterorum, inditas esse 
+      <lb ed="#L" n="9"/>notiones credendum est, quibus in illa, quae ad imperitorum 
+      <lb ed="#L" n="10"/>&amp; rudium populorum doctrinam spectant, inducantur. Nec 
+      <lb ed="#L" n="11"/>enim melior est belluarum conditio quam nostra. Atque 
+      <lb ed="#L" n="12"/>Boetius magno vir ingenio in primisque, doctus, communes 
+      <lb ed="#L" n="13"/>sapientum conceptiones, sic enim appellat, non minoris 
+      <lb ed="#L" n="14"/>facit, quam si communes essent omnium hominum. Nosque  
+      <lb ed="#L" n="15"/>ipsi sexto ac septimo loco, ad eandem quoque rationem 
+      <lb ed="#L" n="16"/>ostendimus, communia doctorum ecclenasticorum preiu 
+      <lb ed="#L" n="17"/>dicia non aliter esse accipienda, ac si omnium fidelium essent 
+      <lb ed="#L" n="18"/>communes conspirantesque sententiae. Quamobre id 
+      qui<lb ed="#L" n="19" break="no"/>dem non est dubium, quin verum &amp; exploratum illud sit, de 
+      <lb ed="#L" n="20"/>quo omnium philosophorum ratio consentit. Quomodo 
+      <lb ed="#L" n="21"/>enim homines, &amp; ambitiosi honoris &amp; gloriae, &amp; caeci fere 
+      <lb ed="#L" n="22"/>auiditate carpendi, &amp; plurimis seculis maximisque 
+      loco<lb ed="#L" n="23" break="no"/>rum interuallis seiuncti, in vnam sententiam conuenirent,  
+      <lb ed="#L" n="24"/>nisi in hanc quasi conspirationem naturae impulsu quodam 
+      <lb ed="#L" n="25"/>agerentur? Ex quo rursum intelligi perspicique licet, id 
+      <lb ed="#L" n="26"/>quod paulo ante dictum est, Philosophos ab vno aliquo  
+      <lb ed="#L" n="27"/>mortalium magistro excepisse ea, quae populis ac getibus 
+      <lb ed="#L" n="28"/>vniuersis communi consensione conscripserint. 
+      Veris<lb ed="#L" n="29" break="no"/>sima ergo sunt communia Philosophorum placita, nec 
+      <lb ed="#L" n="30"/>ab illis licet, si omnes ad vnum idem sentiant, dissentiro. 
+      <lb ed="#L" n="31"/>At Hieronymus libro. 1. aduersus Pelagianos, cum 
+      aduer<lb ed="#L" n="32" break="no"/>sarius eam Philosophorum communem sententiam 
+      ob<lb ed="#L" n="33" break="no"/>iecisset, qui vnam habeat, eum omnes habere virtutes: 
+      re<lb ed="#L" n="34" break="no"/>spondet eam quidem Philosophorum fuisse sententiam,  
+      <lb ed="#L" n="35"/>sed non apostolorum, neque esse illi curae quid 
+      Aristote<lb ed="#L" n="36" break="no"/>les, sed quid Paulus doceat. Sane quis sit Hieronymi in 
+      <lb ed="#L" n="37"/>dialogo mos, quae in argumentis eludendis figura, no 
+      <lb ed="#L" n="38"/>longum faciam, hoc loco praeteream. Huic enim 
+      argumen<lb ed="#L" n="39" break="no"/>to facile respondetur Hieronymum sententiam hanc 
+      <!--551.xml-->
+      <pb ed="#L" n="540"/>
+               <lb ed="#L" n="1"/>eandem &amp; veram consensisse, &amp; Philosophorum 
+      auctori<lb ed="#L" n="2" break="no"/>tate probasse, vt in Esa. ca. 16. Philosophorum ait sententia 
+      <lb ed="#L" n="3"/>est, &amp; Apostoli Iacobi, herere sibi virtutes, vt cui vna 
+      de<lb ed="#L" n="4" break="no"/>fuerit, huic omnes desint. Et in. 56. caput eiusdem 
+      Pro<lb ed="#L" n="5" break="no"/>phetae, virtutes, inquit, inuicem se sequuntur, ita vt qui 
+      v<lb ed="#L" n="6" break="no"/>nam habuerit, omnes habeat, &amp; qui vna caruerit, cunctis 
+      <lb ed="#L" n="7"/>careat. In dialogo igitur illo non vult Hieronymus se in 
+      <lb ed="#L" n="8"/>dogmate fidei auctoritate Philosophorum vrgeri, quam  
+      <lb ed="#L" n="9"/>tamen ipse idem alijs locis vsurpat.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

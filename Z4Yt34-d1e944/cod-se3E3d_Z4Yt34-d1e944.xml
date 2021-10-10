@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="546"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e944"><!-- Z4Yt34-l10c7 -->
+            <head xml:id="Z4Yt34-d1e944-Hd1e106">Caput 7</head>
+            <p xml:id="Z4Yt34-d1e944-d1e109">
+               <lb ed="#L" n="23"/>Caput septimum.
+    </p>
+            <p xml:id="Z4Yt34-d1e944-d1e114">
+               <lb ed="#L" n="24"/>QVoniam vero pertinet quidem ad hunc locum 
+      iu<lb ed="#L" n="25" break="no"/>ris ciuilis auctoritas, &amp; ita pertinet, vt non 
+      recon<lb ed="#L" n="26" break="no"/>dita quadam ratione cernatur, sed sit in promptu: necesse 
+      <lb ed="#L" n="27"/>est vt de illa quoque pauca dicantur. Est. n. sine dubio iu 
+      <lb ed="#L" n="28"/>ris legumque peritia, recta morum &amp; vitae disciplina: philoso 
+      <lb ed="#L" n="29"/>phia autem lex vitae est ac ratio. Quo sit, vt legum ciuilium 
+      <lb ed="#L" n="30"/>periti philosophi censendi sint, scilicet qui veram, vt ille 
+      <lb ed="#L" n="31"/>ait, philosophia, profitentur. Ius vero ciuile nulla in parte 
+      <lb ed="#L" n="32"/>Theologis prodesse posse, ex eo primum suadetur, quod 
+      <lb ed="#L" n="33"/>huiusmodi iura discere presbyteris atque adeo monachis 
+      <lb ed="#L" n="34"/>est interdictum. Repugnat ergo Theologiae illa facultas,  
+      <lb ed="#L" n="35"/>a qua vt clerici abhorreant, lege canonica praescribitur. 
+      <lb ed="#L" n="36"/>Cumque Theologia rursum de rebus diuinis sit, ius vero 
+      <lb ed="#L" n="37"/>ciuile in rerum humanarum earumque temporalium 
+      administra<lb ed="#L" n="38" break="no"/>tione versetur, vix intelligi potest, quem vsum Theologo 
+      <!--558.xml-->
+      <pb ed="#L" n="547"/>
+               <lb ed="#L" n="1"/>de rebus aeternis disserenti, scientia, quae res temporarias 
+      <lb ed="#L" n="2"/>administrat, praestare queat. Ac Cyprianus, fatetur quidem 
+      <lb ed="#L" n="3"/>pontifices legibus imperatorum vti, sed pro cursu rerum 
+      <lb ed="#L" n="4"/>tantummodo temporalium. Non igitur viri ecclesiastici, 
+      <lb ed="#L" n="5"/>cum res Theologicas, hoc est, diuinas sempiternasque 
+      tra<lb ed="#L" n="6" break="no"/>ctare volunt, leges imperiales vsurpare debent. 
+      Impera<lb ed="#L" n="7" break="no"/>torum quoque edicta, quae ius ciuile continet, Dei 
+      quan<lb ed="#L" n="8" break="no"/>doque legibus aduersantur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e944-d1e171">
+               <lb ed="#L" n="9"/>Non ergo Theologus, ex illis argumentum aliquod 
+      ido<lb ed="#L" n="10" break="no"/>neum accipiet ad conclusiones theologiae conprobandas.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

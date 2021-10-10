@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 6</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 6</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="386"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e610"><!-- Z4Yt34-l6c6 -->
+            <head xml:id="Z4Yt34-d1e610-Hd1e106">Caput 6</head>
+            <p xml:id="Z4Yt34-d1e610-d1e109">
+               <lb ed="#L" n="35"/>Caput sextum, Abi conciliorum clarissima testimonia 
+      re<lb ed="#L" n="36" break="no"/>feruntnr: quibus ecclesiae Romanae vis, o 
+      au<lb ed="#L" n="37" break="no"/>ctoritas comprobatur.
+    </p>
+            <p xml:id="Z4Yt34-d1e610-d1e118">
+               <lb ed="#L" n="38"/>HIs duobus capitibus superioribus nec summorum om 
+      <lb ed="#L" n="39"/>Lnium verba pontificum, nec veterum sanctorum 
+      adscri<lb ed="#L" n="40" break="no"/>psimus, ne logior atque adeo molestior fieret oratio,  
+      <!--398.xml-->
+      <pb ed="#L" n="387"/>
+               <lb ed="#L" n="1"/>Tantum loca indicauimus, quae quum videat lector tum  
+      <lb ed="#L" n="2"/>plane intelligat, nihil nos obscurum, nihil ineptum, aut 
+      <lb ed="#L" n="3"/>quod ad rem non faceret, attulisse. Nunc synodica hac 
+      <lb ed="#L" n="4"/>de re non iudicia solum, sed verba quoque referemus: vt 
+      <lb ed="#L" n="5"/>aduersarii nube etiam horum testium grauius opprimatur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e142">
+               <lb ed="#L" n="6"/>Primum igitur sit concilii Nicaeni testimonium, quod 
+      <lb ed="#L" n="7"/>quoniam capite quarto adscriptum est, non est 
+      operae<lb ed="#L" n="8" break="no"/>pretium hic resumere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e151">
+               <lb ed="#L" n="9"/>Alterum sit concilii Chalcedonensis, quod retulit D. 
+      <lb ed="#L" n="10"/>Thomas in opusculo contra errores Graecorum, in haec 
+      <lb ed="#L" n="11"/>verba. Veneramur secundum scripturas &amp; canonum 
+      dif<lb ed="#L" n="12" break="no"/>finitionem sanctissimum antiquae Romae episcopum, 
+      pri<lb ed="#L" n="13" break="no"/>mum esse &amp; maximum episcoporum. Et infra. Si quis 
+      epi<lb ed="#L" n="14" break="no"/>scopus praedicatur infamis, liberam habeat sententiam  
+      <lb ed="#L" n="15"/>appellandi ad Beatissimum episcopum antiquae Romae: 
+      <lb ed="#L" n="16"/>quia habemus Petrum petram resugii, &amp; ipsi soni libera 
+      po<lb ed="#L" n="17" break="no"/>testate loco Dei sit ius discernendi, secundum claues a 
+      <lb ed="#L" n="18"/>Domino sibi datas: &amp; omnia ab eo diffinita: teneantur, 
+      <lb ed="#L" n="19"/>tanquam a vicario apostolici throni, Ac re vera in 
+      hu<lb ed="#L" n="20" break="no"/>ius synodi actione i. Leo dicitur Apostolicum 
+      guberna<lb ed="#L" n="21" break="no"/>re thronum, &amp; sedes Romana caput omnium 
+      ecclesia<lb ed="#L" n="22" break="no"/>rum. Et actio. 2. cum esset lecta epistola Leonis, Patres 
+      <lb ed="#L" n="23"/>clamauerunt, Anathema qui ita non credit: Petrus per 
+      <lb ed="#L" n="24"/>Leonem locutus est. Et in acti. 3. Romanum episcopum 
+      <lb ed="#L" n="25"/>dominum nostrum vocant, eique acclamantes, apostolicum 
+      <lb ed="#L" n="26"/>&amp; vniuersalem appellant: &amp; eius doctrinam vt beati 
+      Pe<lb ed="#L" n="27" break="no"/>tri amplectuntur, atque vniuersa concilii dogmata 
+      op<lb ed="#L" n="28" break="no"/>tant sedis Apostolicae auctoritate confirmari. Et cum Leo 
+      <lb ed="#L" n="29"/>Dioscorum condemnasset, synodus ait, Sanctissimus 
+      ar<lb ed="#L" n="30" break="no"/>chiepiscopus magnae Romae vna cum ter beatissimo 
+      Pe<lb ed="#L" n="31" break="no"/>rro, qui est, petra &amp; crepido, catholicae ecclesiae, &amp; ille, 
+      <lb ed="#L" n="32"/>qui est rectae fidei fundamentum, nudauit eum 
+      episcopa<lb ed="#L" n="33" break="no"/>tus dignitate. Et in epistola synodali ad Leonem gratu 
+      <lb ed="#L" n="34"/>lantur patres, quod tantum antistitem apostolicae sedi, 
+      <lb ed="#L" n="35"/>vnde religionis nostrae fons &amp; origo manat, Dominus 
+      <lb ed="#L" n="36"/>dederit. Atque haec in conci. Chalced, quidem, ea vero,  
+      <lb ed="#L" n="37"/>quae D. Thomas refert, in huius temporis exemplaribus 
+      <lb ed="#L" n="38"/>non habentur. Sed ab haereticis erasa Gregorius 
+      queri<lb ed="#L" n="39" break="no"/>tur, li. 5. epist. epist. 14. ad Narsem comitem. 
+      <!--399.xml-->
+      <pb ed="#L" n="388"/>
+               <lb ed="#L" n="1"/>Tertium testimonium extat in synodo quinta 
+      genera<lb ed="#L" n="2" break="no"/>li apud Constantinopolim celebrata. In sententia 
+      siqui<lb ed="#L" n="3" break="no"/>dem illa, quam contra Anthymum pronunciauit Mennas 
+      <lb ed="#L" n="4"/>Constantinop. archiepiscopus, cul videlicet omnes 
+      con<lb ed="#L" n="5" break="no"/>cilii patres subscripserunt, haec verba ipse idem Mennas 
+      <lb ed="#L" n="6"/>adiecit. Nos apostolicam sedem sequimur, &amp; obedimus,  
+      <lb ed="#L" n="7"/>sicut charitas vestra scit, &amp; ipsius communicatores communicato 
+      <lb ed="#L" n="8"/>res habemus, &amp; condemnatos ab ipsa &amp; nos condemnamus. 
+      <lb ed="#L" n="9"/>Synodus ergo quinta generalis, Mennae iudicio 
+      subscri<lb ed="#L" n="10" break="no"/>bens, apostolicae sedis decreta tanquam certa 
+      amplecti<lb ed="#L" n="11" break="no"/>tur. Non enim aliter eos in vniuersum catholicos 
+      habe<lb ed="#L" n="12" break="no"/>ret, qui Romanae apostolicaeque fidei communicassent,  
+      <lb ed="#L" n="13"/>nec illos damnaret omneis, quos apostolica sedes 
+      dam<lb ed="#L" n="14" break="no"/>nauisset. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e256">
+               <lb ed="#L" n="15"/>Aliud testimonium grauissimum habes, in sexta 
+      syno<lb ed="#L" n="16" break="no"/>do generali actione quarta. Vbi scribitur professio fidei, 
+      <lb ed="#L" n="17"/>quam Agatho Romanus episcopus ad concilium misit. 
+      <lb ed="#L" n="18"/>Quam etiam repetit Agatho idem in suggestione 
+      syno<lb ed="#L" n="19" break="no"/>dica, sic enim ibi appellatur, cui innumerabiles episcopi 
+      <lb ed="#L" n="20"/>subscripserunt. Atque haec suggestio, ne quis 
+      calumnie<lb ed="#L" n="21" break="no"/>tur, probata est ab omnibus concilii patribus actione 
+      <lb ed="#L" n="22"/>8. 13. &amp; 17. Verba autem professionis synodicae hoc 
+      mo<lb ed="#L" n="23" break="no"/>do habent. Beati apostoli adnitente praesidio, haec 
+      Apo<lb ed="#L" n="24" break="no"/>stolica eius ecclesia, nunquam a via veritatis in qualibet 
+      <lb ed="#L" n="25"/>erroris parto deflexa est. Huius auctoritatem, vtpote 
+      <lb ed="#L" n="26"/>Apostolorum omnium principis, semper, omnis 
+      catholi<lb ed="#L" n="27" break="no"/>ca Christi ecclesia, &amp; vniuersales synodi fideliter 
+      ample<lb ed="#L" n="28" break="no"/>ctentes, in cunctis secutae sunt: omnesqe venerabiles 
+      pa<lb ed="#L" n="29" break="no"/>tres Apostolicam eius doctrinam sunt amplexi, per quam  
+      <lb ed="#L" n="30"/>&amp; probatissima Christi luminaria claruerunt, quam &amp; 
+      san<lb ed="#L" n="31" break="no"/>cti doctores orthodoxi venerati &amp; secuti sunt : haeretici 
+      <lb ed="#L" n="32"/>autem falsis criminationibus ac derogationum odiis 
+      in<lb ed="#L" n="33" break="no"/>secuti. Haec enim Apostolica Christi ecclesia per Dei 
+      <lb ed="#L" n="34"/>gratiam a tramite apostolicae traditionis nunquam errasse 
+      <lb ed="#L" n="35"/>probabitur, nec haereticis nouitatibus deprauata 
+      succu<lb ed="#L" n="36" break="no"/>buit: sed vt ab exordio Christianae fidei percepit ab 
+      au<lb ed="#L" n="37" break="no"/>ctoribus suis Apostolorum Christi principibus, illibata 
+      <lb ed="#L" n="38"/>finetenus permanet: secundum ipsius Domini saluatoris 
+      <lb ed="#L" n="39"/>diuinam pollicitationem, Petre Petres ecce Sathan ex- 
+      <!--400.xml-->
+      <pb ed="#L" n="389"/>
+               <lb ed="#L" n="1"/>petiuit vos, &amp;c. Ego autem pro te rogaui, vt non 
+      defi<lb ed="#L" n="2" break="no"/>ciat fides tua. Et tu confirma fratres tuos. Quod 
+      aposto<lb ed="#L" n="3" break="no"/>licos pontifices, meos praedecessores, confidenter fecisse 
+      <lb ed="#L" n="4"/>semper est cognitum. Hactenus Agatho. Rom. 
+      episco<lb ed="#L" n="5" break="no"/>pus. Et actione i8. ipsa synodus aperte profitetur, 
+      Ro<lb ed="#L" n="6" break="no"/>manum episcopum Agathonem successorem esse in sede 
+      <lb ed="#L" n="7"/>principis apostolorum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e332">
+               <lb ed="#L" n="8"/>In septima etiam synodo generali act. 2. lecta est 
+      epi<lb ed="#L" n="9" break="no"/>stola synodica Adriani primi, qua definit ecclesiam 
+      Ro<lb ed="#L" n="10" break="no"/>manam caput esse omnium ecclesiarum. Recepta vere 
+      <lb ed="#L" n="11"/>epistola est atque probata a concilio generali, vt patet 
+      <lb ed="#L" n="12"/>ead. actio. 2. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e345">
+               <lb ed="#L" n="13"/>In octaua quoque synodo generali habetur libellus 
+      A<lb ed="#L" n="14" break="no"/>driani huius nominis secundi, ab ipsa synodo acceptus &amp; 
+      <lb ed="#L" n="15"/>confirmatus, qui illam fidei confessionem continet, quam  
+      <lb ed="#L" n="16"/>in capitis quarti fine posuimus. Patres vero huius 8. 
+      sy<lb ed="#L" n="17" break="no"/>nodi, Romani pontificis doctrinae in haec verba 
+      consen<lb ed="#L" n="18" break="no"/>tiunt. Sequentes in omnibus Apostolicam sedem spera 
+      <lb ed="#L" n="19"/>mus, vt in vna communione, quam sedes apostolica prae 
+      <lb ed="#L" n="20"/>dicat, esse mereamur: in qua est vera &amp; integra Christia 
+      <lb ed="#L" n="21"/>nae religionis soliditas. Quare non consentientes sed 
+      <lb ed="#L" n="22"/>apostolicae, eorum nomina inter sacra mysteria non sunt 
+      <lb ed="#L" n="23"/>recitanda. Hactenus Patres. In eadem rursum synodo 
+      ap<lb ed="#L" n="24" break="no"/>probata est epistola lgnatii Constantinop. Patriarchae ad 
+      <lb ed="#L" n="25"/>Adrianum, vbi eadem haec res aperte docetur. 
+      Appro<lb ed="#L" n="26" break="no"/>batus quoque est libellus ecclesiae Romanae, &amp; synodus. 
+      <lb ed="#L" n="27"/>item Nicolai, in quibus eadem doctrina est. Sed &amp; in 
+      po<lb ed="#L" n="28" break="no"/>strema sessione canone. 21. Romanam sedem vocat 
+      sy<lb ed="#L" n="29" break="no"/>nodus sedem Petri principis apostolorum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e384">
+               <lb ed="#L" n="30"/>Synodus Romana insuper sub Symmacho assentitur, 
+      <lb ed="#L" n="31"/>Romanae sedis praesulem, merito beati Petri apostoli pe 
+      <lb ed="#L" n="32"/>vniuersum orbem primatum obtinere sacerdotii, &amp; 
+      sta<lb ed="#L" n="33" break="no"/>tutis synodalibus solere tribuere firmitatem. 
+      <lb ed="#L" n="34"/>Praeterea synodus alia vniuersalis, cui Nicolaus prae 
+      <lb ed="#L" n="35"/>sedit, siquis, ait, dogmata, vel decreta pro catholica fide 
+      <lb ed="#L" n="36"/>aut ecclesiastica disciplina, a sedis apostolicae presule 
+      pro<lb ed="#L" n="37" break="no"/>mulgata contempserit, anathema sit. Quam fere 
+      senten<lb ed="#L" n="38" break="no"/>tiam Lucius. 3. accepit c. Ad abolendam. de haereticis. 
+      <lb ed="#L" n="39"/>Leo quoque huius nominis nonus in epistola Synodi¬ 
+      <!--401.xml-->
+      <pb ed="#L" n="390"/>
+               <lb ed="#L" n="1"/>ca ad Petrum Antiochenum Patriarcham astruit, sanctant 
+      <lb ed="#L" n="2"/>Romanam &amp; apostolicam ecclesiam caput esse omnium 
+      <lb ed="#L" n="3"/>ecclesiarum, ad quam maiores causas esse referendas, 
+      com<lb ed="#L" n="4" break="no"/>cilia inquit omnia, &amp; sanctus sanctorum rex regum 
+      con<lb ed="#L" n="5" break="no"/>firmant. Praeterea concilium Lateranen. sub Inno. 3. sic 
+      <lb ed="#L" n="6"/>habet. Nolumus quicquam abbati Ioachim derogari, cum 
+      <lb ed="#L" n="7"/>omnia scripta sua assignari mandauerit, apostolicae sedis, 
+      <lb ed="#L" n="8"/>iudicio approbanda, vel etiam corrigenda, firmiter 
+      con<lb ed="#L" n="9" break="no"/>fitens se illam fidem tenere, quam Romana tenet ecclesia, 
+      <lb ed="#L" n="10"/>quae disponente domino cunctorum fidelium mater est, &amp;  
+      <lb ed="#L" n="11"/>magistra. Quod idem concilium Lugdunense sub 
+      Gre<lb ed="#L" n="12" break="no"/>gorio docuit. Ex domini itaque institutione Romana 
+      ec<lb ed="#L" n="13" break="no"/>clesia fidelium magistra est, ac proinde Romanus 
+      episco<lb ed="#L" n="14" break="no"/>pus Petro succedit in ecclesiae magisterio. Idem tradit 
+      <lb ed="#L" n="15"/>concilium Lugdunense sub Inno. 4. Idemque, omnino tradit 
+      <lb ed="#L" n="16"/>concilium Tridentinum Sess. 7. in haec verba. Si quis 
+      dixe<lb ed="#L" n="17" break="no"/>rit, in ecclesia Romana, quae omnium ecclesiarum mater 
+      <lb ed="#L" n="18"/>est &amp; magistra, non esse veram de baptismi sacramento 
+      <lb ed="#L" n="19"/>doctrinam, Anathema sit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e454">
+               <lb ed="#L" n="20"/>Concilium vero Lugdunense sub Gregorio dicit 
+      Ro<lb ed="#L" n="21" break="no"/>manum pontificem esse vicarium Iesu Christi, successorum 
+      <lb ed="#L" n="22"/>Petri, rectorem ecclesiae vniuersalis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e610-d1e463">
+               <lb ed="#L" n="23"/>At concilium Viennense sub Clemente asserit, dubia 
+      fi<lb ed="#L" n="24" break="no"/>dei declarare, ad sedem Apostolicam duntaxat pertinere. 
+      <lb ed="#L" n="25"/>Praeterea patres concilii Florentini, definimus 
+      Cinqui<lb ed="#L" n="26" break="no"/>unto sanctam Apostolicam sedem, &amp; Romanum 
+      pontifi<lb ed="#L" n="27" break="no"/>cem in vniuersum orbem tenere primatum: &amp; ipsum 
+      pon<lb ed="#L" n="28" break="no"/>tificem Romanum successorem esse Beati Petri principis 
+      <lb ed="#L" n="29"/>apostolorum, &amp; verum Christi vicarium, totiusque 
+      eccle<lb ed="#L" n="30" break="no"/>siae caput, &amp; omnium Christianorum patrem ac 
+      docto<lb ed="#L" n="31" break="no"/>rem existere: &amp; ipsi in beato Petro pascendi &amp; 
+      guber<lb ed="#L" n="32" break="no"/>nandi vninersalem ecclesiam, a Domino nostro Iesu 
+      Chri<lb ed="#L" n="33" break="no"/>sto plenam potestatem traditam esse: sicut in gestis 
+      oecu<lb ed="#L" n="34" break="no"/>menicorum conciliorum continetur. Hactenus: concilium 
+      <lb ed="#L" n="35"/>Florentinum. Sed conciliorum testimonia satis multa 
+      re<lb ed="#L" n="36" break="no"/>tulimus, rationibus modo Theologicis ea, quae 
+      posui<lb ed="#L" n="37" break="no"/>mus, corroboranda sunt : idque magis Romanum 
+      ponti<lb ed="#L" n="38" break="no"/>ficem, cum de fide iudicat, errare non posse.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="6"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e103"><!-- Z4Yt34-l2cproem -->
+            <head xml:id="Z4Yt34-d1e103-Hd1e106">Prooemium</head>
+            <p xml:id="Z4Yt34-d1e103-d1e109">
+               <lb ed="#L" n="6"/>QVanquam plures in illa esse 
+      <lb ed="#L" n="7"/>sententia video, qui 
+      oratio<lb ed="#L" n="8" break="no"/>nis splendore illustrare 
+      co<lb ed="#L" n="9" break="no"/>gitationes suas nesciat, eum 
+      <lb ed="#L" n="10"/>si scribat, impudenter abuti 
+      <lb ed="#L" n="11"/>&amp; scientia &amp; literis: ego 
+      ta<lb ed="#L" n="12" break="no"/>men, si Theologus non afferat eloquentiam, 
+      <lb ed="#L" n="13"/>tatum abest vt asperner, vt ne flagitem 
+      qui<lb ed="#L" n="14" break="no"/>dem. Nam de rebus obscuris atque ad 
+      intel<lb ed="#L" n="15" break="no"/>ligendum difficilibus dilucide dicere, nec 
+      <lb ed="#L" n="16"/>sentetijs solum argute, sed verbis etiam 
+      or<lb ed="#L" n="17" break="no"/>nate, adeo est operosum &amp; arduum, vt 
+      ini<lb ed="#L" n="18" break="no"/>quus futurus sit, qui voluerit efflagitare. 
+      <lb ed="#L" n="19"/>Atque id equidem paucis adhue video 
+      con<lb ed="#L" n="20" break="no"/>tigisse, vt sidem vtroque in genere 
+      labora<lb ed="#L" n="21" break="no"/>rent, simulque in Theologiae controuersijs 
+      <lb ed="#L" n="22"/>sequerentur &amp; elegans illud dicendi &amp; hoc 
+      <lb ed="#L" n="23"/>argutum disputadi genus. Nos autmem 
+      quan<lb ed="#L" n="24" break="no"/>tum in vtroque profecerimus, aliorum sit 
+      iu<lb ed="#L" n="25" break="no"/>dicium, vtruqe certe sequuti sumus. Elumen 
+      <lb ed="#L" n="26"/>enim nobis inanium verborum displicet,  
+      <!--18.xml-->
+      <pb ed="#L" n="7"/>
+               <lb ed="#L" n="1"/>quibus sententia deest, nec sententiarum 
+      sub<lb ed="#L" n="2" break="no"/>tilitate capimur, si orationis est siccitas. Ac 
+      <lb ed="#L" n="3"/>de sermonis cultu nostra legens suo quisque, 
+      <lb ed="#L" n="4"/>iudicio libere vtatur, nihil enim impedio, in 
+      <lb ed="#L" n="5"/>rerum autem earum tractatione, quas his 
+      li<lb ed="#L" n="6" break="no"/>bris multas &amp; graues &amp; vtiles accurate 
+      co<lb ed="#L" n="7" break="no"/>pioseque disputaturi sumus, magnum, vt 
+      vi<lb ed="#L" n="8" break="no"/>demur, afferemus adiumentum Theologis 
+      <lb ed="#L" n="9"/>nostris, vt non modo rudes, sed etiam docti 
+      <lb ed="#L" n="10"/>aliquantum fortasse adepturi sint, &amp; ad 
+      dis<lb ed="#L" n="11" break="no"/>serendum, &amp; ad iudicandum. Nec vero hoc 
+      <lb ed="#L" n="12"/>arroganter dictu existimari velim, nam 
+      elo<lb ed="#L" n="13" break="no"/>quendi scientiam concedens multis, quod 
+      <lb ed="#L" n="14"/>est scholae proprium, strictim presseque 
+      dis<lb ed="#L" n="15" break="no"/>serere, &amp; quasi ad viuum omnia resecare, 
+      <lb ed="#L" n="16"/>quoniam in eo studio aetatem consumpsi, non 
+      <lb ed="#L" n="17"/>sum ini fallor, arrogans, si id iure quodam  
+      <lb ed="#L" n="18"/>meo vedicarim. Nec vsqe adeo ineptus ego 
+      <lb ed="#L" n="19"/>sum, vt non verear me in rebus, quoque ipsis 
+      <lb ed="#L" n="20"/>saepe etiam allucinatu. Sed aliud est, nunquam 
+      <lb ed="#L" n="21"/>falsum sentire, quod mihi non tribui, aliud res 
+      <lb ed="#L" n="22"/>tum grauissimas tum difficillimas via &amp; 
+      ra<lb ed="#L" n="23" break="no"/>tione premere, quod vtique assumpsi iure, vt 
+      <lb ed="#L" n="24"/>mihi videor, at falli possum, condonetur 
+      in<lb ed="#L" n="25" break="no"/>iuria. Etenim quae dixi eo pertinent omnia, 
+      <lb ed="#L" n="26"/>non vt rerum mihi scientiam arrogem, quid enim 
+      <lb ed="#L" n="27"/>a viro modesto alienius esse potest? sed vt 
+      <lb ed="#L" n="28"/>nemo politioris literaturae candidatus in scho 
+      <!--19.xml-->
+      <pb ed="#L" n="8"/>
+               <lb ed="#L" n="1"/>lastica disputatione orationem a me tersam  
+      <lb ed="#L" n="2"/>postulet, nedum rhetorum phaleris adornatam. 
+      <lb ed="#L" n="3"/>Scholam enim ego placare volo, scholae 
+      <lb ed="#L" n="4"/>propria verba peculiaresque loquendi formas 
+      <lb ed="#L" n="5"/>submouere non audeo. Nam &amp; si disputare 
+      <lb ed="#L" n="6"/>cupio ornatius quam solent nostri, at non  
+      <lb ed="#L" n="7"/>debeo tamen labores duos afferre 
+      Theolo<lb ed="#L" n="8" break="no"/>gis, vnum in rerum, alterum in verborum 
+      <lb ed="#L" n="9"/>intelligentia. Breuiter lectoribus ego meae 
+      <lb ed="#L" n="10"/>mentis fateor arcanum, qui per me formam  
+      <lb ed="#L" n="11"/>in Theologia disserendi habiturus est, nolo 
+      <lb ed="#L" n="12"/>vt is mea scripta difficulter intelligat, &amp; ad 
+      <lb ed="#L" n="13"/>Theologum cognoscendum grammaticum 
+      <lb ed="#L" n="14"/>quaerat interpretem. Sed de his satis. Iam 
+      e<lb ed="#L" n="15" break="no"/>nim tempus est, vt ea persequamur, quae sunt 
+      <lb ed="#L" n="16"/>deinceps explicanda. Quae quidem vt 
+      ma<lb ed="#L" n="17" break="no"/>gnum negotium nobis, ita quoqe prolixam  
+      <lb ed="#L" n="18"/>disputationem exhibebunt. Sed prolixitas 
+      <lb ed="#L" n="19"/>vtilitate pensabitur. Nihil autem vtilius 
+      scho<lb ed="#L" n="20" break="no"/>lae Theologorum tradi potest, quam vt 
+      di<lb ed="#L" n="21" break="no"/>seant, quisnam locus argumenta firma, 
+      <lb ed="#L" n="22"/>&amp; quis contram infirma subministret. 
+      <lb ed="#L" n="23"/>Qua re vel maxime 
+      Theo<lb ed="#L" n="24" break="no"/>logiae nerui afque artus 
+      <lb ed="#L" n="25"/>pressi solidique 
+      <lb ed="#L" n="26"/>consistunt.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

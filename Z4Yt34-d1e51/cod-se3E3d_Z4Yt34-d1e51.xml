@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="1A"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e51"><!-- Z4Yt34-proem -->
+            <head xml:id="Z4Yt34-d1e51-Hd1e106">Prooemium</head>
+            <p xml:id="Z4Yt34-d1e51-d1e109">
+      <!--9.xml-->
+               <pb ed="#L" n="1A"/>
+               <lb ed="#L" n="1"/>FRATRI MEL 
+      <lb ed="#L" n="2"/>CHiORIS CAMI ORDI 
+      <lb ed="#L" n="3"/>NIS PRAEOICAVORVI 
+      ETSA<lb ed="#L" n="4" break="no"/>CRaE VHEOLOGIAR PROVESSORIS 
+      EpI<lb ed="#L" n="5" break="no"/>scopique Canariensis, ac primariae 
+      ca<lb ed="#L" n="6" break="no"/>thedrae in academia Salmanticensi 
+      <lb ed="#L" n="7"/>olim praefecti, de locis 
+      Theo<lb ed="#L" n="8" break="no"/>logicis Libri 
+      duo<lb ed="#L" n="9" break="no"/>decim.  
+      <lb ed="#L" n="10"/>In libros de locis Theologicis Prooemium.
+    </p>
+            <p xml:id="Z4Yt34-d1e51-d1e138">
+               <lb ed="#L" n="11"/>SAEpE mecum cogitaui 
+      <lb ed="#L" n="12"/>Lector optime boni ne 
+      <lb ed="#L" n="13"/>plus is, attulerit 
+      homini<lb ed="#L" n="14" break="no"/>bus, qui multarum rerum 
+      <lb ed="#L" n="15"/>copiam in disciplinas 
+      in<lb ed="#L" n="16" break="no"/>uexit, anqui rationem parauit &amp; viam,  
+      <lb ed="#L" n="17"/>qua disciplinae ipsae facilius &amp; 
+      commo<lb ed="#L" n="18" break="no"/>dius ordine traderentur. Nam &amp; reru 
+      <lb ed="#L" n="19"/>inuentoribus nos debere multum 
+      ne<lb ed="#L" n="20" break="no"/>gare non possumus: &amp; debemus certe 
+      <lb ed="#L" n="21"/>ijs multum, qui ratione atque arte res 
+      inuem<lb ed="#L" n="22" break="no"/>tas ad communem vsum accomodarunt.  
+      <!--10.xml-->
+      <pb ed="#L" n="1B"/>
+               <lb ed="#L" n="1"/>Equidem cum veterum eruditionem 
+      <lb ed="#L" n="2"/>considero, &amp; variam in eis 
+      doctrinessup<lb ed="#L" n="3" break="no"/>pellectilem animocolligo, non minimam  
+      <lb ed="#L" n="4"/>video per eos inuectam esse partem 
+      com<lb ed="#L" n="5" break="no"/>modorum. Cum autem iunioris 
+      scho<lb ed="#L" n="6" break="no"/>laeoperam &amp; curam repetere instituo,  
+      <lb ed="#L" n="7"/>plurimas vtilitates intelligo nouae 
+      hu<lb ed="#L" n="8" break="no"/>iusartis subsidio &amp; diligentia 
+      compara<lb ed="#L" n="9" break="no"/>tas. Ac me sane diu cogitantem ratio 
+      <lb ed="#L" n="10"/>ipsa in hanc potissimum sententiam 
+      du<lb ed="#L" n="11" break="no"/>cit, vt existimem vtrosque de bonis 
+      ar<lb ed="#L" n="12" break="no"/>tibus iuxta esse bene meritos. Quoniam  
+      <lb ed="#L" n="13"/>&amp; si prisci doctrinarum auctores 
+      doctis<lb ed="#L" n="14" break="no"/>simis quibusque ac diligentissimis 
+      ma<lb ed="#L" n="15" break="no"/>gnam diuitiarum copiam suppeditauem, 
+      <lb ed="#L" n="16"/>re:at recentiorum inopia docendi 
+      facili<lb ed="#L" n="17" break="no"/>tate pensatur: qua in rudium &amp; 
+      iner<lb ed="#L" n="18" break="no"/>tium animos artificiosius influunt, &amp; 
+      <lb ed="#L" n="19"/>quaefuse olim disputabantur ac libere,  
+      <lb ed="#L" n="20"/>ea nunc articulatim presseque dicentes,  
+      <lb ed="#L" n="21"/>lucem non paruam inuentis priscorum 
+      <lb ed="#L" n="22"/>obscurioribus afferant. Atque hac vna 
+      <lb ed="#L" n="23"/>in re, quantum animi mei coniectura 
+      <!--11.xml-->
+      <pb ed="#L" n="1C"/>
+               <lb ed="#L" n="1"/>colligere possum, iuniores vel pares 
+      an<lb ed="#L" n="2" break="no"/>tiquis, vel etiam superiores, reperientur 
+      <lb ed="#L" n="3"/>caeteris omnibus loge inferiores. Certe 
+      <lb ed="#L" n="4"/>post priores illos, in rerum inuentione 
+      <lb ed="#L" n="5"/>tribuere sibi posteriores vix quicquam  
+      <lb ed="#L" n="6"/>possunt. Ordinem vero, dispositionem, 
+      <lb ed="#L" n="7"/>perspicuitatem, sibi si assumunt, 
+      viden<lb ed="#L" n="8" break="no"/>tur ea iure suo quodammodo vendicare. 
+      <lb ed="#L" n="9"/>Quapropter vtrisque legendis efficiet 
+      <lb ed="#L" n="10"/>Theologus scholasticam disputationem 
+      <lb ed="#L" n="11"/>sine dubiopleniore. Nam ex illis quasi 
+      <lb ed="#L" n="12"/>materiam, ex his tamquam forma 
+      disseren<lb ed="#L" n="13" break="no"/>di mutuatus, potens nimirum erit 
+      exhor<lb ed="#L" n="14" break="no"/>tari in doctrina sana, &amp; eos qui 
+      contradi<lb ed="#L" n="15" break="no"/>cunt arguere. Quod est CTvt Paulus ad 
+      <lb ed="#L" n="16"/>Titum ait, Christiani doctoris praecipuum 
+      <lb ed="#L" n="17"/>institutum. Cuius explicandi desiderium 
+      <lb ed="#L" n="18"/>omnino me mouit, vt de locis 
+      Theolo<lb ed="#L" n="19" break="no"/>gicis disputationem instituerem, viris do 
+      <lb ed="#L" n="20"/>ctis inisi me opinio fallitj non prorsus 
+      in<lb ed="#L" n="21" break="no"/>eptam, indoctis vero magnopere neces 
+      <lb ed="#L" n="22"/>sariam. Id autem eo libetius feci, quemd 
+      <lb ed="#L" n="23"/>nemo Theologorum adhuc, quod equi 
+      <!--12.xml-->
+      <pb ed="#L" n="1"/>
+               <lb ed="#L" n="1"/>dem sciam, genus hoc argumenti 
+      tractan<lb ed="#L" n="2" break="no"/>dum sumplit. cum praeter commune illam 
+      <lb ed="#L" n="3"/>artendisserendi, quam a Dialecticis 
+      acce<lb ed="#L" n="4" break="no"/>pimus, aliam Theoloous habeat necesse 
+      <lb ed="#L" n="5"/>sit, aliosqgeitem ad disputandum locos: vn 
+      <lb ed="#L" n="6"/>de argumenta non quasi communia &amp;  
+      <lb ed="#L" n="7"/>aliena, sed tamquam propria ducat &amp; suis 
+      <lb ed="#L" n="8"/>dogmatis confirmandis &amp; aduersariorum 
+      <lb ed="#L" n="9"/>sententiis refellendis. Hoc vero opus, 
+      ar<lb ed="#L" n="10" break="no"/>duum quidem illud, statim exordior, si 
+      <lb ed="#L" n="11"/>prius animo demisso atque humili ad 
+      <lb ed="#L" n="12"/>ope Iesu Christisupplexabiectusque 
+      con<lb ed="#L" n="13" break="no"/>fugio. Non enim ego illud aut ingenio,  
+      <lb ed="#L" n="14"/>aut eruditione mea fretus aggredior, sed 
+      <lb ed="#L" n="15"/>spiritus sancti auxilio atque fauore. Quem 
+      <lb ed="#L" n="16"/>si pater &amp; filius mihi adhuc librum 
+      com<lb ed="#L" n="17" break="no"/>ficiendum impertierint, 
+      operaepre<lb ed="#L" n="18" break="no"/>tium haud mediocre, vt spero, 
+      <lb ed="#L" n="19"/>Theologis facturus sum: in 
+      <lb ed="#L" n="20"/>quorum gratiam vel 
+      ma<lb ed="#L" n="21" break="no"/>Ame opusculum 
+      <lb ed="#L" n="22"/>aeditur. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

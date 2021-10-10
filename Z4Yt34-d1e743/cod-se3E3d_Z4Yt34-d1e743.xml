@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="471"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e743"><!-- Z4Yt34-l8c5 -->
+            <head xml:id="Z4Yt34-d1e743-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e743-d1e109">
+               <lb ed="#L" n="33"/>Caput Quintum.
+    </p>
+            <p xml:id="Z4Yt34-d1e743-d1e114">
+               <lb ed="#L" n="34"/>C primo quidem argumento refellendo non est 
+      <lb ed="#L" n="35"/>Lopus quicquam, praeter ea quae sunt dicta, adiicere. 
+      <lb ed="#L" n="36"/>Ostendimus enim vt opinor, scholasticae theologiae 
+      <lb ed="#L" n="37"/>asserendae non deesse ecclesiae scripturaeque sanctae testimo  
+      <lb ed="#L" n="38"/>nium. Quae testimonia nos habuimus, ea iam protulimus: 
+      <lb ed="#L" n="39"/>ab aliis forte post &amp; plura &amp; grauiora proferentur. 
+      <!--483.xml-->
+      <pb ed="#L" n="472"/>
+               <lb ed="#L" n="1"/>Secundum etiam argumentum nihil minus confutatum 
+      <lb ed="#L" n="2"/>est. Diximus enim, id quod etsi saepe dictum est, 
+      dicen<lb ed="#L" n="3" break="no"/>dum est tamen saepius, factiones in schola, quasi iuratas,  
+      <lb ed="#L" n="4"/>studium contradicendi, &amp; si quae sunt similia mala: non  
+      <lb ed="#L" n="5"/>scholae, sed hominum vitio contigisse. Alioqui decreta 
+      <lb ed="#L" n="6"/>multa sunt inter scholasticos certa &amp; firma, eoque magis, 
+      <lb ed="#L" n="7"/>quo nulla vnquam factio ea in quaestionem reuocauit. 
+      <lb ed="#L" n="8"/>At tertium argumentum difficillimum est, egetque 
+      di<lb ed="#L" n="9" break="no"/>squisitione non parua. 
+    </p>
+            <p xml:id="Z4Yt34-d1e743-d1e153">
+               <lb ed="#L" n="10"/>Quare si longiorem orationem huius argumenti 
+      diffi<lb ed="#L" n="11" break="no"/>cultas exigit, non debet Lectori molestum esse: nam &amp;  
+      <lb ed="#L" n="12"/>orationis longitudo magnitudine vtilitatis pensabitur. 
+      <lb ed="#L" n="13"/>Principio autem theologos omnes admonitos esse 
+      ve<lb ed="#L" n="14" break="no"/>lim, vt sepositis non affectibus modo, sed opinionum 
+      <lb ed="#L" n="15"/>etiam praeiudiciis, de causis fidei prudenter grauiterque  
+      <lb ed="#L" n="16"/>decernant. Non enim si quidquam in schola bonis etiam 
+      <lb ed="#L" n="17"/>temporibus inueterauit, mox fidei dogma 
+      existiman<lb ed="#L" n="18" break="no"/>dum est. Sunt autem nonnulli qui per eas persuasiones, 
+      <lb ed="#L" n="19"/>quibus a principio sunt imbuti, de rebus grauissimis 
+      sen<lb ed="#L" n="20" break="no"/>tentiam ferunt, temeritate quadam sine iudicio, 
+      repen<lb ed="#L" n="21" break="no"/>tino quasi vento incitati, quae longe alia esset, si iudicio 
+      <lb ed="#L" n="22"/>considerate constanterque lata fuisset. Hi autem in eo 
+      <lb ed="#L" n="23"/>primum errant, quod scholae opiniones a certis 
+      constan<lb ed="#L" n="24" break="no"/>tibusque decretis non separant. Deinde errant in eo, 
+      <lb ed="#L" n="25"/>quod duo rerum genera confundunt, vnum earum, quae 
+      <lb ed="#L" n="26"/>ad religionem attinent, earum alterum, quae hanc ne 
+      at<lb ed="#L" n="27" break="no"/>tingunt quidem, Ac si sanctorum veterum consensio, vt 
+      <lb ed="#L" n="28"/>libro superiore definitum est, non in omnibus legis 
+      que<lb ed="#L" n="29" break="no"/>stionibus sequenda nobis &amp; tenenda est, sed solum in 
+      fi<lb ed="#L" n="30" break="no"/>dei regula: nec quaeuis illorum etiam in re graui 
+      com<lb ed="#L" n="31" break="no"/>munis opinio fideles astringit, sed firmum constansque 
+      <lb ed="#L" n="32"/>iudicium: ecquid de recentioribus scholae theologis 
+      di<lb ed="#L" n="33" break="no"/>cere oportet, quos veteres illi longe &amp; vitae merito, &amp;  
+      <lb ed="#L" n="34"/>scripturarum vsu &amp; auctoritatis pondere superarunt? 
+      <lb ed="#L" n="35"/>Verum his de rebus non necesse habeo dicere ea, quae 
+      <lb ed="#L" n="36"/>me viri multi pii cupiunt commemorare, tametsi causa 
+      <lb ed="#L" n="37"/>postulat, tamen quia postulat non flagitat, praeteribo.  
+      <lb ed="#L" n="38"/>Quoniam vero vtriusque erroris exempla cum alias saepe 
+      po<lb ed="#L" n="39" break="no"/>sui, tum in duo decimo libro varia etiam adiuncturus sum. 
+      <!--484.xml-->
+      <pb ed="#L" n="473"/>
+               <lb ed="#L" n="1"/>Vno nunc exemplo contentus ero, quod satis erit tamen, 
+      <lb ed="#L" n="2"/>vt ij, qui in censuris Theologicis praecipites esse solent, 
+      <lb ed="#L" n="3"/>suae temeritatis admoneantur. Magister ergo 
+      sententia<lb ed="#L" n="4" break="no"/>rum dixit baptismi sacramentum fuisse ante Christi 
+      mor<lb ed="#L" n="5" break="no"/>tem, &amp; a Christo ipso institutum, &amp; ab apostolis 
+      mini<lb ed="#L" n="6" break="no"/>stratum. Huic D. Thomas, caeterique scholae Theologi 
+      <lb ed="#L" n="7"/>assensi sunt. Nimirum Diuum Augustinum Magister 
+      se<lb ed="#L" n="8" break="no"/>cutus est, cuius opiniones schola libenter amplectitur. At 
+      <lb ed="#L" n="9"/>enim si quispiam forte contra fuerit opinatus, baptisma 
+      <lb ed="#L" n="10"/>nouae legis verum &amp; proprium, idemque primum 
+      sacra<lb ed="#L" n="11" break="no"/>mentum, non prius a Christo. editum, quam in cruce 
+      pas<lb ed="#L" n="12" break="no"/>sus sit: non statim vexare eum graui Theologiae 
+      censu<lb ed="#L" n="13" break="no"/>ra debemus. Sed primum illud expendere, num 
+      Theo<lb ed="#L" n="14" break="no"/>logi hoc loco, quasi re certa &amp; confecta, quicquam plane 
+      <lb ed="#L" n="15"/>suo iudicio definiant, an potius re nondum satis ad 
+      li<lb ed="#L" n="16" break="no"/>quidum explorata probabiliter opinentur. Deinde id 
+      <lb ed="#L" n="17"/>etiam vestigare, pertineat ne ad catholicam fidem, Christum 
+      <lb ed="#L" n="18"/>sacramentum hoc ante passionem suam edidisse, an non.  
+      <lb ed="#L" n="19"/>Ac magister sententiatum quidem nihil certo statuit, sed 
+      <lb ed="#L" n="20"/>probabiliorem opinionem elegit. Commodius, inquit,  
+      <lb ed="#L" n="21"/>dicitur, &amp;c. Augustinus quoque, baptizabat Christus, 
+      in<lb ed="#L" n="22" break="no"/>quit, non per seipsum, sed per discipulos suos. Quos 
+      in<lb ed="#L" n="23" break="no"/>telligimus iam fuisse baptixatos, siue baptismo Ioannis,  
+      <lb ed="#L" n="24"/>sicut nonnulli arbitrantur, siue quod magis credibile est,  
+      <lb ed="#L" n="25"/>baptismo Christi. En Augustinus non certo 
+      pronun<lb ed="#L" n="26" break="no"/>ciat, Apostolos prius esse baptismo Christi baptixatos,  
+      <lb ed="#L" n="27"/>quam illud baptisma administrarent, cuius Ioannis tertio 
+      <lb ed="#L" n="28"/>&amp; quarto capite mentio fit. Quin vbique docet, nos ig. 
+      <lb ed="#L" n="29"/>norare quando Apostoli fuerint baptixati. Nullo autem 
+      <lb ed="#L" n="30"/>pacto sit verisimile, si Apostoli veri sacramenti 
+      baptis<lb ed="#L" n="31" break="no"/>matis iam inde administri erant, eos non prius idem 
+      sa<lb ed="#L" n="32" break="no"/>cramentum accepisse. Quo sit, vt vtrunque iuxta in 
+      opi<lb ed="#L" n="33" break="no"/>nione, non in firmo constantique decreto situm sit. 
+      Praete<lb ed="#L" n="34" break="no"/>rua &amp; in forma baptismatis illius scholastici dissident. Na 
+      <lb ed="#L" n="35"/>Magister &amp; Adrianus existimant, Apostolos tum etiam in 
+      <lb ed="#L" n="36"/>nomine trinitatis baptizasse, id quod ego mihi 
+      persuade<lb ed="#L" n="37" break="no"/>re non possum. Alii vero tradunt, eos baptixasse in 
+      nomi<lb ed="#L" n="38" break="no"/>ne sesu Christi, id quod verosimilius est. Sed haec in 
+      ba<lb ed="#L" n="39" break="no"/>ptismi forma tanta dissensio a certitudine dogmatis alie¬ 
+      <!--485.xml-->
+      <pb ed="#L" n="474"/>
+               <lb ed="#L" n="1"/>na est. Non itaque certum quippiam Theologi de hac re 
+      <lb ed="#L" n="2"/>statuere voluerunt. Nec D. Thomae verba, si quis attente 
+      <lb ed="#L" n="3"/>legat, aliud prae se ferunt. Videtur, inquit, quod baptismus 
+      <lb ed="#L" n="4"/>ante Christi passionem fuit institutus, &amp;c. Quo scilicet, 
+      <lb ed="#L" n="5"/>verbo Diuus Thomas vti fere solet, cum res non est 
+      pla<lb ed="#L" n="6" break="no"/>na &amp; definita. Itaque existimo D. Thomam, cum dixerit 
+      <lb ed="#L" n="7"/>videri, hoc ipsum sensisse quod dixerit, videri modo,  
+      <lb ed="#L" n="8"/>non etiam oportere. Quid autem definisset vir alioqui 
+      <lb ed="#L" n="9"/>prudens &amp; grauis in ea re, quam rem ad fidem nihil 
+      atti<lb ed="#L" n="10" break="no"/>nere intelligeret? Non enim aut e literis sacris, aut ex 
+      <lb ed="#L" n="11"/>apostolorum institutis colligi certo potest baptisma, 
+      <lb ed="#L" n="12"/>quod apostolis statim a conuersione sua in vsu erat, 
+      pec<lb ed="#L" n="13" break="no"/>cata remittere, gratiam conferre. Nam quod 
+      Augusti<lb ed="#L" n="14" break="no"/>nus refert, qui lotus est, non indiget nisi vt pedes lauet, 
+      <lb ed="#L" n="15"/>sed est mundus totus, id non oportet de baptismi 
+      mun<lb ed="#L" n="16" break="no"/>dicie intelligi, sed de ea, de qua postea, iam vos mundi 
+      <lb ed="#L" n="17"/>estis propter sermonem, quem locutus sum vobis. Quod 
+      <lb ed="#L" n="18"/>vero a quibusdam refertur, Ego nesciebam eum, Sed qui 
+      <lb ed="#L" n="19"/>misit me baptizare in aqua, ille mihi dixit, super quem 
+      <lb ed="#L" n="20"/>videris spiritum descendentem &amp; manentem super eum, 
+      <lb ed="#L" n="21"/>hic est qui baptixat Spiritu sancto, id nihil etiam cogere, 
+      <lb ed="#L" n="22"/>vltro quoque ipsi fatentur, qui eo testimonio abutuntur. 
+      <lb ed="#L" n="23"/>At constat apostolos baptizasse, Ioannis tertio &amp; 
+      quar<lb ed="#L" n="24" break="no"/>to, &amp; non baptismo Ioannis, vt notum est, ergo baptismo  
+      <lb ed="#L" n="25"/>Christi. Sic enim Magister argumentatur. Sed hoc 
+      argu<lb ed="#L" n="26" break="no"/>mentum infirmius &amp; incertius est, quam vt quid firmum  
+      <lb ed="#L" n="27"/>certumque conficiat. Baptismus enim Ioannis 
+      duplici<lb ed="#L" n="28" break="no"/>ter vocari potest, aut Ioannis instituto &amp; auctoritate ex- 
+      <lb ed="#L" n="29"/>hibitus, aut baptismus aquae, quale baptisma Ioannis erat,  
+      <lb ed="#L" n="30"/>qui videlicet nihil aliud esset, quam meditatio quaedam &amp;  
+      <lb ed="#L" n="31"/>praeparatio ad nouae legis sacramentum. Baptismus item 
+      <lb ed="#L" n="32"/>Christi, aut sic vocari potest, quia Christo iubente &amp; 
+      au<lb ed="#L" n="33" break="no"/>ctore ministratus est, aut quia institutus a Christo ad 
+      ab<lb ed="#L" n="34" break="no"/>luenda peccata. Dicetur ergo, nec absurdem id quidem,  
+      <lb ed="#L" n="35"/>illud apostolorum baptisma, cuius Ioani3. &amp; 4. capite 
+      <lb ed="#L" n="36"/>mentio sit, non fuisse Ioannis Baptistae in priore sensu, 
+      <lb ed="#L" n="37"/>sed in posteriore tantum. Euisse autem baptismum 
+      Chri<lb ed="#L" n="38" break="no"/>sti, quoniam illius praecepto &amp; auctoritate apostoli 
+      bapti<lb ed="#L" n="39" break="no"/>xabant. Vnde si quis colligat, iam tum illum fuisse verum  
+      <!--486.xml-->
+      <pb ed="#L" n="475"/>
+               <lb ed="#L" n="1"/>nouae legis sacramentum, pari ratione argumentabitur,  
+      <lb ed="#L" n="2"/>vnctionem, qua apostoli ante passionem vsi sunt, iam inde 
+      <lb ed="#L" n="3"/>a principio fuisse verum &amp; proprium extremae vnctionis 
+      <lb ed="#L" n="4"/>sacramentum. Quod tametsi nonnulli Theologi 
+      asserue<lb ed="#L" n="5" break="no"/>rint, non tamen expeditum est. Apud veros sane 
+      gra<lb ed="#L" n="6" break="no"/>uesque Theologos, Vnctionem extremam sacramentum 
+      <lb ed="#L" n="7"/>esse, fidei dogma est: an ante Christi passionem, an post 
+      fue<lb ed="#L" n="8" break="no"/>rit institutum, nihil ad rem existimant pertinere. Quod 
+      <lb ed="#L" n="9"/>idem &amp; de sacramentis confirmationis &amp; poenitentiae 
+      <lb ed="#L" n="10"/>sentiunt. Nec video cur de baptismo nos aliter 
+      sentia<lb ed="#L" n="11" break="no"/>mus, putemus Ve fidei quaestionem esse, num ante 
+      passio<lb ed="#L" n="12" break="no"/>nem Christi hoc sacramentum fuerit institutum. Institutum 
+      <lb ed="#L" n="13"/>enim esse dictu quidem est procliue. Itaqe fere Theologi 
+      <lb ed="#L" n="14"/>loquuntur: sed quis est tandem, qui hoc esse verum idoneis 
+      <lb ed="#L" n="15"/>argumentis ostenderit? Quid? quod Theophilactus in 
+      ca<lb ed="#L" n="16" break="no"/>put Ioannis tertium, &amp; Chrysostomus homilia in 
+      Ioan<lb ed="#L" n="17" break="no"/>nem 28. deserte negant, illud baptisma, de quo agimus,  
+      <lb ed="#L" n="18"/>sacramentum esse, quod peccata remitteret, gratiamque 
+      <lb ed="#L" n="19"/>conferret? Quid? quod Hieronymus in dialogo aduersus 
+      <lb ed="#L" n="20"/>Luciferianos, cum duplex baptisma distinxisset, perfectum 
+      <lb ed="#L" n="21"/>&amp; imperfectum, non obscure docet, nisi in eruce &amp; 
+      resur<lb ed="#L" n="22" break="no"/>rectione nullum baptisma perfectum esse? Quamobrem 
+      Io<lb ed="#L" n="23" break="no"/>annis baptisma fuisse imperfectum. Quid ? quod Leo in 
+      <lb ed="#L" n="24"/>epistola ad episcopos Siciliae inscripta, eorum omnino 
+      <lb ed="#L" n="25"/>videtur sententiae subscribere, qui contenderent baptismi 
+      <lb ed="#L" n="26"/>sacramentum, non quando Christus a Ioanne baptixatus 
+      <lb ed="#L" n="27"/>est, sed post resurrectionem editum &amp; constitutum? Quae 
+      <lb ed="#L" n="28"/>non eo dixi candide. Lector, quo scholae communes 
+      <lb ed="#L" n="29"/>opinationes improbarem. Nos enim ea Theologia plus 
+      <lb ed="#L" n="30"/>vtimur, in qua dicuntur ea, quae non multum discrepat 
+      <lb ed="#L" n="31"/>ab opinione communi. Quid ergo est? Primum 
+      opi<lb ed="#L" n="32" break="no"/>nionem a dogmate secerni &amp; internosci volumus. 
+      De<lb ed="#L" n="33" break="no"/>indem Theologos admoneri, ne affectu animi, qui 
+      ple<lb ed="#L" n="34" break="no"/>runque breuis est, &amp; ad tempus, sed maturo iudicio de 
+      <lb ed="#L" n="35"/>rebus hisce pronuncient, in quibus praesertim non ita 
+      <lb ed="#L" n="36"/>facile expediri potest, ad fidem pertineant nec ne. Nam 
+      <lb ed="#L" n="37"/>si in exemplo, quod modo posuimus, eas rationes scriptu 
+      <lb ed="#L" n="38"/>raeque testimonia liberet adiungere, quibus a contraria 
+      par<lb ed="#L" n="39" break="no"/>te aduersus. commune scholae opinationem pugnari potest: 
+      <!--487.xml-->
+      <pb ed="#L" n="476"/>
+               <lb ed="#L" n="1"/>quaestio forte in vtranque partem adeo ambigua i 
+      edde<lb ed="#L" n="2" break="no"/>retur, vt difficile esset iudicare, vtra cum fide magis &amp; 
+      re<lb ed="#L" n="3" break="no"/>ligione consentiat. Sed, vt dixi, non disputo nunc, 
+      scho<lb ed="#L" n="4" break="no"/>lae communis opinio vera ne an falsa sit: quanqe ab instituto 
+      <lb ed="#L" n="5"/>nostro, non adeo fortassis alienum, sed id ago, 
+      schola<lb ed="#L" n="6" break="no"/>sticas opiniones oportere a decretis seiungere, fideique 
+      <lb ed="#L" n="7"/>quaestiones ab his, quae modo huc, modo iliuc 
+      transferum<lb ed="#L" n="8" break="no"/>tur, &amp; sine pietatis iactura possunt in vtranqe partem 
+      dispu<lb ed="#L" n="9" break="no"/>tari. Decreta, arcte tenere debemus, accurateque 
+      defende<lb ed="#L" n="10" break="no"/>re: opiniones non item, sed si non cum Academicae, at cum 
+      <lb ed="#L" n="11"/>Christianae modesticae temperamento. Pro fide, etiam cum 
+      <lb ed="#L" n="12"/>vitae discrimine pugna sit: pro his, quae fidei non sunt, sit 
+      <lb ed="#L" n="13"/>pugna, si ita placet, sed incruenta sit tamen. Haec 
+      praescri<lb ed="#L" n="14" break="no"/>pta seruantem licet magnifice, grauiter, animostque 
+      dissere<lb ed="#L" n="15" break="no"/>re, licet iudicare constanter, vere, doctisque &amp; indoctis 
+      vti<lb ed="#L" n="16" break="no"/>liter. Quorsum haec, inquies, non solum lenge, sed longis etiam 
+      <lb ed="#L" n="17"/>ambagibus repetita? Nepe vt explicaremus, id quod 
+      ca<lb ed="#L" n="18" break="no"/>superiore in conclusionibus breuiter significatum est, nos 
+      <lb ed="#L" n="19"/>no in scholae opiniones, sed in certa constantiaque de fide 
+      <lb ed="#L" n="20"/>moribusque, iudicia iurasse. Haec huius loci est defendere, 
+      <lb ed="#L" n="21"/>illas alterius &amp; loci &amp; temporis. His igitur expositis, 
+      fa<lb ed="#L" n="22" break="no"/>cile, vt opinor, tertium illud argumentum refelli potest. 
+      Ne<lb ed="#L" n="23" break="no"/>go enim scholae certo constantique, decreto finitum, Matrimo 
+      <lb ed="#L" n="24"/>nium sine ecclesiae ministro contractum, esse vere &amp; 
+      pro<lb ed="#L" n="25" break="no"/>prie sacramentum. Nego eam rem ad fidem &amp; 
+      religio<lb ed="#L" n="26" break="no"/>nem attinere. Nego omnes scholae Theologos id 
+      asse<lb ed="#L" n="27" break="no"/>ruisse. Haec tria cum docuero, argumentum positum omni 
+      <lb ed="#L" n="28"/>ex parte refutatum erit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e743-d1e552">
+               <lb ed="#L" n="29"/>Ostendam ergo primum opinionem communem illam 
+      <lb ed="#L" n="30"/>&amp;e2 
+      <lb ed="#L" n="31"/>esse, non scholae dogma firmumque iudicium. Qui hoc 
+      <lb ed="#L" n="32"/>intelligi potest? Quia de hac re Theologi videlicet ita 
+      <lb ed="#L" n="33"/>disserunt, vt nihil fuisse velle videantur. Lege Magistrum, 
+      <lb ed="#L" n="34"/>D. Tho. Scotum, Bona. Ricar. Palu. Duran. caeterosque 
+      scho<lb ed="#L" n="35" break="no"/>lae Theologos, &amp; nisi statim eorum pendentes ac 
+      vacil<lb ed="#L" n="36" break="no"/>lantes animos deprehenderis: tum vero me aut stultum, 
+      <lb ed="#L" n="37"/>aut temerarium iudicato. Nam &amp; cum quaerunt, an 
+      ma<lb ed="#L" n="38" break="no"/>trimonium conferat gratiam, id quod eo loco maxime 
+      fi<lb ed="#L" n="39" break="no"/>niendum erat, non definiunt tame: sed in his referunt, quae 
+      <lb ed="#L" n="40"/>in hominum opinione, sunt posita. In materia item &amp;  
+      <!--488.xml-->
+      <pb ed="#L" n="477"/>
+               <lb ed="#L" n="1"/>forma huius sacramenti statuenda, adeo sunt 
+      inconstan<lb ed="#L" n="2" break="no"/>tes &amp; varii, adeo incerti &amp; ambigui, vt ineptus futurus 
+      <lb ed="#L" n="3"/>sit, qui in tanta illorum varietate ac discrepantia rem 
+      ali<lb ed="#L" n="4" break="no"/>quam certam, constantem, exploratam, conetur efficere. 
+      <lb ed="#L" n="5"/>Quod si in forma &amp; materia sacramenti, quae res in 
+      sacra<lb ed="#L" n="6" break="no"/>mentorum tractatione, vel grauissima est, ambigue 
+      The<lb ed="#L" n="7" break="no"/>ologi inconstanterque loquuntur, nec definiunt 
+      omni<lb ed="#L" n="8" break="no"/>no quicquam: cur in ea quaestione, quae &amp; leuior est &amp;  
+      <lb ed="#L" n="9"/>minus ad sacramenti huius constitutionem necessaria, 
+      <lb ed="#L" n="10"/>aliquid eos certi praescripsisse fateamur? Concilium 
+      cer<lb ed="#L" n="11" break="no"/>te Florentinum de materia, forma, ministro sacramenti 
+      <lb ed="#L" n="12"/>matrimonii, praestituit nihil, id quod sine dubio faceret, 
+      <lb ed="#L" n="13"/>cum hoc in caeteris omnibus ecclesiae sacramentis 
+      fecis<lb ed="#L" n="14" break="no"/>set, si de iis rebus videret quidpiam esse a Theologis in 
+      <lb ed="#L" n="15"/>schola definitum. Praeterea, num Matrimonium sine 
+      eccle<lb ed="#L" n="16" break="no"/>siastico administro nouae legis sacramentum esset, nec 
+      pro<lb ed="#L" n="17" break="no"/>prie &amp; expresse in quaestionem Theologi vocarunt, nec 
+      <lb ed="#L" n="18"/>via &amp; ratione, vt solent, vestigarunt, nec argumentis 
+      <lb ed="#L" n="19"/>vllis concluserunt. Qui igitur vult, eos sine 
+      disquisitio<lb ed="#L" n="20" break="no"/>ne attenta, sine diligenti tractatu, sine idoneis 
+      argumen<lb ed="#L" n="21" break="no"/>tationibus, certo de rebus Theologicis pronunciasse: 
+      <lb ed="#L" n="22"/>hic videat, ne eadem opera illis &amp; iniurius sit, &amp; in rebus 
+      <lb ed="#L" n="23"/>quoque grauissimis deroger fidem. Adde quod in conciliorum 
+      <lb ed="#L" n="24"/>scriptis, ac summorum Pontificum epistolis decretalibus id 
+      <lb ed="#L" n="25"/>obseruandum est, vt non quaeuis simplex aut affirmatio aut  
+      <lb ed="#L" n="26"/>negario certum sit exploratumque iudicium. Sed sunt notae 
+      <lb ed="#L" n="27"/>quedam peculiares, quibus certas conciliorum Pontificumque 
+      <lb ed="#L" n="28"/>definitiones internoscimus: quemadmodum libro 
+      quin<lb ed="#L" n="29" break="no"/>to latius explicatum est. His ergo notis ac multo etiam  
+      <lb ed="#L" n="30"/>magis schola quoque decretis secernendis vti debemus. 
+      <lb ed="#L" n="31"/>Alioqui si quaecunque scholasticorum simplex assertio 
+      <lb ed="#L" n="32"/>dogma fidei certum est: maior est profecto horum, quam  
+      <lb ed="#L" n="33"/>Pontificum &amp; conciliorum auctoritas. Quod si probari 
+      <lb ed="#L" n="34"/>nemini potest, illud certe probari omnibus necesse est,  
+      <lb ed="#L" n="35"/>Theologos hoc loco &amp; quaestione nihil omnino 
+      definis<lb ed="#L" n="36" break="no"/>se. Etenim nec sententiam aduersam haereticam 
+      erroneam<lb ed="#L" n="37" break="no"/>ve dixerunt, nec quod dixerunt, id firmiter catholicis 
+      <lb ed="#L" n="38"/>amplectendum, breuiter nullam notam interposuere earum, 
+      <lb ed="#L" n="39"/>quae certa constantiaque iudicia indicare solet. Quae cum ita 
+      <!--489.xml-->
+      <pb ed="#L" n="478"/>
+               <lb ed="#L" n="1"/>sint, id quod primum conficiendum erat, confectum est?, 
+      <lb ed="#L" n="2"/>Theologos ea de re, quam modo versamus, nihil certo 
+      <lb ed="#L" n="3"/>&amp; constanter decreuisse, sed incerta inconstantique 
+      opi<lb ed="#L" n="4" break="no"/>nione probabilem vnius sensum caeteros esse insecutos. 
+      <lb ed="#L" n="5"/>Ita casu quodam communis forte consensio facta est. Cum 
+      <lb ed="#L" n="6"/>contra vsu quoque venire potuerit, vt si primus 
+      asseru<lb ed="#L" n="7" break="no"/>isset, non omne fidelium coniugium sacramentum esse, 
+      <lb ed="#L" n="8"/>sed quod religiose sacrateque fuisset constitutum, 
+      secun<lb ed="#L" n="9" break="no"/>dus, tertius, ac deinceps reliqui, quoniam probabile 
+      <lb ed="#L" n="10"/>etiam id esset, eandem sententiam sequerentur. 
+      Sequi<lb ed="#L" n="11" break="no"/>tur, vt ostendam, quicquid Theologos opinari 
+      conti<lb ed="#L" n="12" break="no"/>gerit, nihil tamen ad fidem spectare, an eiusmodi 
+      matri<lb ed="#L" n="13" break="no"/>monium ecclesiae sacramentum sit, an non sit. Quod, vt 
+      <lb ed="#L" n="14"/>mihi videor, vno hoc argumento facile &amp; euidenter ex- 
+      <lb ed="#L" n="15"/>pedio. Tres sunt res, quibus efficitur, aliquid ad fidem  
+      <lb ed="#L" n="16"/>pertinere: aut enim in sacris libris habetur scriptum, aut  
+      <lb ed="#L" n="17"/>apostolicis institutis est traditum, aut ex vtrislibet 
+      pla<lb ed="#L" n="18" break="no"/>ne certa complexione &amp; consecutione colligitur. Nulla 
+      <lb ed="#L" n="19"/>autem harum rerum efficere potest, matrimonium sine 
+      <lb ed="#L" n="20"/>ministro prophane contractum, esse nouae legis 
+      sacramen<lb ed="#L" n="21" break="no"/>tum. Vbi ego, si Thomistae omnes cum Scotistis existant,  
+      <lb ed="#L" n="22"/>si cum antiquis iuniores volent contra me pugnare, 
+      ta<lb ed="#L" n="23" break="no"/>men saperior sim necesse est. Non enim, 
+      quemadmo<lb ed="#L" n="24" break="no"/>dum nonnulli putant, omnia sunt in Theologorum 
+      auctorita<lb ed="#L" n="25" break="no"/>to. Est quaedam tamen ita perspicua veritas, vt eam 
+      in<lb ed="#L" n="26" break="no"/>firmare nulla res possit. Experiantur hic quantum 
+      pos<lb ed="#L" n="27" break="no"/>sunt vires suas, fiqui forte contra voluerint dicere, &amp; cum 
+      <lb ed="#L" n="28"/>in hac eos causa sacrae literae, apostolorum traditiones, 
+      <lb ed="#L" n="29"/>Scholae syllogismi destituerint: tum vero nisi rudes &amp;  
+      <lb ed="#L" n="30"/>tardi sunt, mecum omnino intelligant, eam quaestionem 
+      <lb ed="#L" n="31"/>minime ad fidem attinere. At argumentabitur quispiam,  
+      <lb ed="#L" n="32"/>fidelium matrimonium esse nouae legis sacramentum, non 
+      <lb ed="#L" n="33"/>autem esse maiorem rationem de vno quam de alio,  
+      <lb ed="#L" n="34"/>omne igitur fidelium matrimonium esse sacramentum. 
+      <lb ed="#L" n="35"/>Appelletur vero hic Theologus, aut hoc etiam nomine 
+      <lb ed="#L" n="36"/>dignus putetur? Dum quidem ita argumentabitur, non 
+      <lb ed="#L" n="37"/>modo Theologus, sed Philosophus, aut etiam 
+      Dialecti<lb ed="#L" n="38" break="no"/>cus omnino habendus non erit. Anne ad hunc modum 
+      <lb ed="#L" n="39"/>granes Theologi ratiocinantur? Anne hisce argumentis 
+      <!--490.xml-->
+      <pb ed="#L" n="479"/>
+               <lb ed="#L" n="1"/>adducti de rebus fidei pronunciant? Equidem baptisma 
+      <lb ed="#L" n="2"/>sacramentum esse scio, sed si formam sacram ministrum Ve 
+      <lb ed="#L" n="3"/>non habeat: baptismus erit, sacramentum non erit. 
+      Vnctio<lb ed="#L" n="4" break="no"/>nis quoque sacramentum agnosco: sed sine sacra forma, 
+      <lb ed="#L" n="5"/>sine ecclesiae ministro, vnctio quidem esse poterit, 
+      sacra<lb ed="#L" n="6" break="no"/>mentum vero esse non poterit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e743-d1e776">
+               <lb ed="#L" n="7"/>Poenitentiae demum sacramentum amplector: at sino 
+      <lb ed="#L" n="8"/>forma sacra &amp; ministro poenitentiam reperio, 
+      sacramen<lb ed="#L" n="9" break="no"/>tum reperire nec debeo nec vero possum. Sic igitur, 
+      ta<lb ed="#L" n="10" break="no"/>metsi matrimonium sacramentum est, non ideo 
+      tamen<lb ed="#L" n="11" break="no"/>coniugium quodcunque venerari cogimur, sed id quod 
+      <lb ed="#L" n="12"/>formam sacram habeat, &amp; a vero ecclesiae ministro 
+      con<lb ed="#L" n="13" break="no"/>secratum sit. Alioqui, si quodlibet fidelium coniugium 
+      <lb ed="#L" n="14"/>Theologis necessario sacramentum est, quis Scotum tue 
+      <lb ed="#L" n="15"/>bitur, qui coniugia, quae solis nutibus contrahuntur, 
+      ne<lb ed="#L" n="16" break="no"/>gat esse sacramenta? Ac nisi me fallit animus, recte negat. 
+      <lb ed="#L" n="17"/>Etenim non Magister &amp; Diuus Tho. modo, verum etiam  
+      <lb ed="#L" n="18"/>concilium Florentinum docet, omnia sacramenta verbis 
+      <lb ed="#L" n="19"/>constare, quae si desint, nullum omnino confici 
+      sacramen<lb ed="#L" n="20" break="no"/>tum. Quod si semel admittimus, formam sacramenti esse 
+      <lb ed="#L" n="21"/>posse aliquando, nutus verborum loco substitutos, nullo 
+      <lb ed="#L" n="22"/>pacto effugere poterimus, quin &amp; mutus sacerdos a 
+      <lb ed="#L" n="23"/>peccatis absoluere, &amp; mutus episcopus sacris initiare 
+      pos<lb ed="#L" n="24" break="no"/>sit. Atque matrimonium non alijs quandoque nutibus 
+      <lb ed="#L" n="25"/>contrahitur quam carnali copula. Cum enim post 
+      spon<lb ed="#L" n="26" break="no"/>salia sponsus &amp; sponsa affectu maritali cocunt, fatentur 
+      <lb ed="#L" n="27"/>omnes &amp; iurisperiti &amp; Theologi verum matrimonium 
+      <lb ed="#L" n="28"/>confici. At carnis commixtionem nouae legis proprie 
+      sa<lb ed="#L" n="29" break="no"/>cramentum dicere absurdum est. Spiritus quippe sanctus  
+      <lb ed="#L" n="30"/>&amp; sacramenti gratia per coitum non datur. 32. quaest. 2. c. 
+      <lb ed="#L" n="31"/>connubia. Non igitur ecclesia docet, quodlibet fidelium 
+      <lb ed="#L" n="32"/>matrimonium sacramentum esse. Nisi quis adeo desipit, vt 
+      <lb ed="#L" n="33"/>Caietanum damnet, qui &amp; probabilissime, &amp; me quidem iu 
+      <lb ed="#L" n="34"/>dice verissime matrimonium, quod inter absentes per 
+      li<lb ed="#L" n="35" break="no"/>teras procuratoresque contrahitur, sacramentum esse 
+      in<lb ed="#L" n="36" break="no"/>ficiatus est. Nam qui in hoc Caietanum errasse clamant,  
+      <lb ed="#L" n="37"/>hi non intelligunt nec quae loquuntur, nec de quibus 
+      af<lb ed="#L" n="38" break="no"/>firmant. Quod si nullo idoneo &amp; necessario argumento, 
+      <lb ed="#L" n="39"/>sed stultis turbulentisque, clamoribus enas refellere sfi¬ 
+      <!--491.xml-->
+      <pb ed="#L" n="480"/>
+               <lb ed="#L" n="1"/>tentias pergunt, atque adeo damnare quae probabiliter 
+      <lb ed="#L" n="2"/>&amp; vere dicta sunt, tum nos in quiete &amp; silentio taciti 
+      illo<lb ed="#L" n="3" break="no"/>rum stultitiam amentiamque ridebimus. Concedant illi, 
+      <lb ed="#L" n="4"/>vnum pro altero sacramentum sumere, cum pro altero 
+      <lb ed="#L" n="5"/>contrahit. Concedant, sacramenta Christi abseritibus 
+      <lb ed="#L" n="6"/>administrari, eisdemque &amp; gratiam conferre &amp; peccata re 
+      <lb ed="#L" n="7"/>mittere. Nos enim, quoniam haec absurda sunt, 
+      concede<lb ed="#L" n="8" break="no"/>re potius volumus, eiusmodi contractus, qui inter 
+      absen<lb ed="#L" n="9" break="no"/>tes transiguntur, matrimonia quidem verissima esse, vera 
+      <lb ed="#L" n="10"/>sacramenta nullo modo. Quibus ex rebus breuiter 
+      dispu<lb ed="#L" n="11" break="no"/>tatis intelligi potest, non solum non esse dogma fidei, 
+      o<lb ed="#L" n="12" break="no"/>mne fidelium matrimonium sacramentum esse: sed etiam  
+      <lb ed="#L" n="13"/>contrariam omnino sententiam probabiliorem esse. Quod 
+      <lb ed="#L" n="14"/>si licuit Scoto ac Caietano, vt vere licuit, matrimonia, 
+      <lb ed="#L" n="15"/>quae vel non verborum sed rerum notis, vel per procurato 
+      <lb ed="#L" n="16"/>res conficerentur, ab ecclesiae sacramentis eximere: ecqua re 
+      <lb ed="#L" n="17"/>ligio nos astringit, vt matrimonium, quod ciuiliter &amp; 
+      pro<lb ed="#L" n="18" break="no"/>phane Iudaeorum, Saracenorum, Ethnicorum more, sine 
+      <lb ed="#L" n="19"/>sacris caeremonijs, sineque ecclesiae ministro contrahitur, 
+      <lb ed="#L" n="20"/>sacramentum esse proprie fateamur? Praesertim cum 
+      con<lb ed="#L" n="21" break="no"/>traria sententia non modo probabilior, sed &amp; ad 
+      catho<lb ed="#L" n="22" break="no"/>licam fidem tuendam facilior, &amp; ad Lutheranorum 
+      tela<lb ed="#L" n="23" break="no"/>depellenda solidior sit. Age vero, quando me in hunc lo 
+      <lb ed="#L" n="24"/>cum deduxit oratio, quibus ego argumentis persua sus 
+      <lb ed="#L" n="25"/>sum, eisdem Lectori persuadere conemur, matrimonium 
+      <lb ed="#L" n="26"/>eiusmodi sacramentum proprie non esse, quod scilicet &amp; 
+      <lb ed="#L" n="27"/>signum sanctificationis sit, &amp; eiusdem sanctificationis in 
+      <lb ed="#L" n="28"/>sumentibus digne causa sit. Quem laborem spero me 
+      <lb ed="#L" n="29"/>non frustra suscepturum, cum videam mecum &amp; rationes 
+      <lb ed="#L" n="30"/>&amp; testimonia, &amp; sacramentorum demum naturam totam  
+      <lb ed="#L" n="31"/>mirifice consentire. Illud vero mihi persuasi primum, 
+      quo<lb ed="#L" n="32" break="no"/>niam sacramenta preprie dicta sacrae sunt religionis 
+      caere<lb ed="#L" n="33" break="no"/>moniae. Sacrorum enim vsus ad religionem, qua Deum 
+      <lb ed="#L" n="34"/>colimus pertinet. Quocirca sacramentum opus est 
+      reli<lb ed="#L" n="35" break="no"/>gionis. In sacramentis quoque profitemur, nos salutem 
+      <lb ed="#L" n="36"/>a Deo salutari quaerere, haec vero professio, quae fidei 
+      in<lb ed="#L" n="37" break="no"/>terioris externa restatio est, ad eam virtutem attinet, qua 
+      <lb ed="#L" n="38"/>Deo cultum exhibemus. Atque peccata, quae in 
+      sacramen<lb ed="#L" n="39" break="no"/>torum abusu sunt, virtuti religionis aduersantur. Et 
+      <!--492.xml-->
+      <pb ed="#L" n="481"/>
+               <lb ed="#L" n="1"/>Augustinus non quodlibet signum rei sacrae definit 
+      es<lb ed="#L" n="2" break="no"/>se sacramentum, sed quod sit sacrum signum. Quibus 
+      <lb ed="#L" n="3"/>rebus efficitur, vt sacramenta diuini cultus ac religio 
+      <lb ed="#L" n="4"/>nis, sacra quaedam opera sint. Cum igitur matrimonium 
+      <lb ed="#L" n="5"/>solis verbis viri &amp; foeminae, ciuiliter prophaneque 
+      con<lb ed="#L" n="6" break="no"/>tractum, licet rei sacrae signaculum sit, non sit tamen 
+      o<lb ed="#L" n="7" break="no"/>pus religionis sacrum : certe non est proprie 
+      sacramen<lb ed="#L" n="8" break="no"/>tum. Alioqui si rebus satis est significationem affigere, vt 
+      <lb ed="#L" n="9"/>sacramenta dicantur, serpens aeneus atque manna 
+      pro<lb ed="#L" n="10" break="no"/>prie sint sacramenta, atque adeo in vniuersum omnia, quae 
+      <lb ed="#L" n="11"/>gratia significandi res sacras instituta sunt. Id quoniam  
+      <lb ed="#L" n="12"/>absurdum est, consentiamus, verum illud esse quod 
+      po<lb ed="#L" n="13" break="no"/>suimus, connubia sine sacro ministro, sineque aliqua 
+      reli<lb ed="#L" n="14" break="no"/>gionis, sacra caeremonia inita, non esse Christianae 
+      reli<lb ed="#L" n="15" break="no"/>gionis sacramenta. 
+      </p>
+            <p xml:id="Z4Yt34-d1e743-d1e976">
+               <lb ed="#L" n="16"/>Deinde, concilium Florentinum enumeratis septem 
+      <lb ed="#L" n="17"/>nouae legis sacramentis, haec omnia sacramenta, inquit, 
+      <lb ed="#L" n="18"/>tribus perficiuntur, videlicet rebus tanquam materia, ver 
+      <lb ed="#L" n="19"/>bis tanquam forma, &amp; persona ministri conferentis 
+      sa<lb ed="#L" n="20" break="no"/>cramentum. Quorum si aliquod desit, non perficitur 
+      sa<lb ed="#L" n="21" break="no"/>cramentum. At in matrimonio, quod modo versamus,  
+      <lb ed="#L" n="22"/>nullus est sacramenti minister, nullum ergo conficitur 
+      <lb ed="#L" n="23"/>sacramentum. Nec vero audiendi sunt illi, qui putabunt,  
+      <lb ed="#L" n="24"/>virum ac foeminam esse sibi vicissim sacramenti ministros. 
+      <lb ed="#L" n="25"/>Quos ego manifestis argumentis euincerem, nisi ad alia 
+      <lb ed="#L" n="26"/>grauiora festinaret oratio.  
+      </p>
+            <p xml:id="Z4Yt34-d1e743-d1e1002">
+               <lb ed="#L" n="27"/>Praeterea, fideles non se existimant esse sacrilegos, si non 
+      <lb ed="#L" n="28"/>sunt in gratia quo tempore sic prophanc contrahunt, in 
+      <lb ed="#L" n="29"/>animis ergo fidelium inscriptum est, eiusmodi contractum 
+      <lb ed="#L" n="30"/>non esse ecclesiae sacramentum. Nam si sacramentum esset, 
+      <lb ed="#L" n="31"/>sacrilegium haud dubie committeret is, qui in peccato mor 
+      <lb ed="#L" n="32"/>tali coniugem duceret. Atque si excommunicatus 
+      matri<lb ed="#L" n="33" break="no"/>monium huiusmodi contraheret, sacrilegus quoque bis 
+      es<lb ed="#L" n="34" break="no"/>set, vtpote qui sacramentis ecclesiae se indigne ingereret, 
+      <lb ed="#L" n="35"/>quibus priuatus per ecclesiam est. Quae omnia quam 
+      ab<lb ed="#L" n="36" break="no"/>horreant a fidelium communi sensu, facile, etiam si ego 
+      <lb ed="#L" n="37"/>non admoneam, intelligitur. Adhaec, Augustinus in 
+      epi<lb ed="#L" n="38" break="no"/>stola ad Bonifacium tradit, oportere res ipsas corporeas,  
+      <lb ed="#L" n="39"/>quibus sacramenta constant, imaginem &amp; similitudinem 
+      <!--493.xml-->
+      <pb ed="#L" n="482"/>
+               <lb ed="#L" n="1"/>gerere eius sanctificationis, cuius signa &amp; causae esse c 
+      <lb ed="#L" n="2"/>cuntur. Vt baptismus lotione exterius administrata 
+      spi<lb ed="#L" n="3" break="no"/>ritualis ablutionis, quam efficit, imaginem &amp; figuram habet. 
+      <lb ed="#L" n="4"/>Eucharistia refectione potus cibique, visibilis, inuisibilem 
+      <lb ed="#L" n="5"/>refectionem adumbrat. Eodemque, omnino modo in caeteris 
+      <lb ed="#L" n="6"/>sacramentis, externa quadam actione &amp; representatione 
+      <lb ed="#L" n="7"/>sanctificatio interior deliniatur, &amp; quasi ob oculos 
+      poni<lb ed="#L" n="8" break="no"/>tur. Matrimonium autem huiusmodi ciuile &amp; prophanum, 
+      <lb ed="#L" n="9"/>nec sanctificationis imaginem gerit, nec ad sanctificandum 
+      <lb ed="#L" n="10"/>sub quadam exteriore sanctitatis specie exhibetur: Non 
+      <lb ed="#L" n="11"/>est itaque proprie sacramentum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e743-d1e1061">
+               <lb ed="#L" n="12"/>Praeterea concilium Florentinum docet, idque 
+      Theo<lb ed="#L" n="13" break="no"/>logorum omnium decretum est, omnia sacramenta 
+      ver<lb ed="#L" n="14" break="no"/>bis, constare tanquam forma, qua perficitur sacramentum. 
+      <lb ed="#L" n="15"/>Incredibile est autem nisi a forma sacra sacramentum 
+      per<lb ed="#L" n="16" break="no"/>fici. Quemadmodum enim humana forma hominem 
+      ef<lb ed="#L" n="17" break="no"/>ficit, &amp; albedo facit album, ita prorsus necesse est a forma 
+      <lb ed="#L" n="18"/>sacra quodcunque sacramentum existere. Atqui in ma 
+      <lb ed="#L" n="19"/>trimonio, quod ciuili more prophaneque contrahitur, 
+      <lb ed="#L" n="20"/>nulla verba sacra sunt: nulla igitur est ibi sacramenti ne 
+      <lb ed="#L" n="21"/>facies quidem. Nec vero dici potest, verba, quibus 
+      vtun<lb ed="#L" n="22" break="no"/>tur contrahentes, nempe, ego te accipio in meam, &amp;c. esse 
+      <lb ed="#L" n="23"/>huius sacramenti formam. Primo, quia verba eius, qui 
+      <lb ed="#L" n="24"/>suscipit sacramentum, materia sacrameti esse possunt, 
+      for<lb ed="#L" n="25" break="no"/>ma esse non possunt. Forina siquidem ab agente existit 
+      <lb ed="#L" n="26"/>in passum, mediantibus causis administris. Sacramentorum 
+      <lb ed="#L" n="27"/>ergo formae a Deo per sacrorum ministros in eos prodeunt,  
+      <lb ed="#L" n="28"/>qui sacramenta recipiunt. Id quod inductione 
+      manife<lb ed="#L" n="29" break="no"/>stissima liquet in omnibus sacramentis, quae sine 
+      contro<lb ed="#L" n="30" break="no"/>uersia sacramenta sunt. Tum quia in omnibus 
+      sacramen<lb ed="#L" n="31" break="no"/>tis, licet materia sit res aliqua naturalis, &amp; quae ante in 
+      hu<lb ed="#L" n="32" break="no"/>manos vsus conferri soleat, forma tamen supernaturalis sit 
+      <lb ed="#L" n="33"/>oportet, cuius scilicet &amp; vis &amp; significatus non a natura, 
+      <lb ed="#L" n="34"/>sed a causa quadam superiore oriatur. Cum enim 
+      sacra<lb ed="#L" n="35" break="no"/>mentum quiddam supernaturale sit, forma, qua 
+      constitui<lb ed="#L" n="36" break="no"/>tur, per fidem accipienda est, non item per natura. At illa 
+      ver<lb ed="#L" n="37" break="no"/>ba, ego te accipio in meam, vndique naturalia sunt atque 
+      om<lb ed="#L" n="38" break="no"/>nibus vsurpata getibus, quae etiam sine fide contrahunt. 
+      Ad<lb ed="#L" n="39" break="no"/>de, quo forma sacramenti significat eum spiritalem effectum. 
+      <!--494.xml-->
+      <pb ed="#L" n="483"/>
+               <lb ed="#L" n="1"/>cuius causa sacramentum esse dicitur. Nam sacramenta 
+      <lb ed="#L" n="2"/>vt in scholae prouerbio est, efficiunt quod figurant. Signi 
+      <lb ed="#L" n="3"/>ficatio autem sacramenti in forma vel maxime elucet. 
+      Il<lb ed="#L" n="4" break="no"/>la vero verba, ego te accipio in meam, nullius effecti 
+      spi<lb ed="#L" n="5" break="no"/>ritalis signa sunt. Verba insuper, quae sunt sacramentorum 
+      <lb ed="#L" n="6"/>formae, diuina institutione praescripta &amp; determinata 
+      <lb ed="#L" n="7"/>sunt, neque possunt hominum arbitrio immutari, 
+      quem<lb ed="#L" n="8" break="no"/>admodum D. Thom: in tertia parte demonstrat. At 
+      ver<lb ed="#L" n="9" break="no"/>ba, quibus matrimonium contrahendum sit, nulla sunt 
+      <lb ed="#L" n="10"/>omnino definita: sed innumeris verborum formis, non 
+      sy<lb ed="#L" n="11" break="no"/>nonymis, sed varijs &amp; dissimilibus, eiusmodi contractus 
+      <lb ed="#L" n="12"/>fieri potest. Non ergo verba illa, quibus vtuntur 
+      spon<lb ed="#L" n="13" break="no"/>sus &amp; sponsa ad contrahendum, forma sacramenti 
+      Chri<lb ed="#L" n="14" break="no"/>stiani sunt. Praeterea, quando verba aliqua sunt forma 
+      sa<lb ed="#L" n="15" break="no"/>cramenti, si nutus Vel scriptura, vel aliud 
+      vnumquodli<lb ed="#L" n="16" break="no"/>bet signum, eorum loco verborum substituitur, inanis ni 
+      <lb ed="#L" n="17"/>mirum actio est. At si contrahentes loco verborum 
+      nu<lb ed="#L" n="18" break="no"/>tus vel scripturam supponant, aeque conficiunt matrimo  
+      <lb ed="#L" n="19"/>nium, ac si verborum millibus vterentur. Quod 
+      profe<lb ed="#L" n="20" break="no"/>cto, si quis recte consideret, non leue argumentum est, cur 
+      <lb ed="#L" n="21"/>verba contrahentium huius sacramenti materia sint. Nam 
+      <lb ed="#L" n="22"/>praeterquam quo materiam sacramenti is, qui suscipit, 
+      ad<lb ed="#L" n="23" break="no"/>ministrare potest, formam non potest: cum in idem forte 
+      <lb ed="#L" n="24"/>sacramentum verba loco materiae formaeque recurrunt,  
+      <lb ed="#L" n="25"/>pro verbis, quae materiae vicem habent, nutus aliaque signa 
+      <lb ed="#L" n="26"/>poni possunt, pro verbis autem, quae formae vice sunt poni 
+      <lb ed="#L" n="27"/>non possunt. Quae res in poenitentiae sacramento facile 
+      <lb ed="#L" n="28"/>cernitur. Verba igitur contrahentium, pro quibus 
+      omni<lb ed="#L" n="29" break="no"/>no verbis signa quaeuis alia substituere licet, materia 
+      sa<lb ed="#L" n="30" break="no"/>cramenti esse forsitan queant, forma non queant. Id quod 
+      <lb ed="#L" n="31"/>hoc etiam argumento confirmari potest. Nomen enim 
+      <lb ed="#L" n="32"/>sacramenti pro materia accipi solet, pro forma non item: 
+      <lb ed="#L" n="33"/>quemadmodum D. Thomas egregie diserteque docet 
+      <lb ed="#L" n="34"/>4. sent. d. 1. 4. 1. art. 1. 4. 5. ad 1. &amp; dist. 3. 4. 1. art. 1. 4. 1. ad 2. 
+      <lb ed="#L" n="35"/>Baptismus enim, id est ablutio, sacramentum est, non illa 
+      <lb ed="#L" n="36"/>verba: Ego te baptixo, &amp;c. Vnctio, confirmatio, 
+      poeniten<lb ed="#L" n="37" break="no"/>tiaque similiter. Verba autem contrahentium sunt 
+      sacramen<lb ed="#L" n="38" break="no"/>tum, vt idem auctor testis est additionum q. 44. artic. 1. 
+      <lb ed="#L" n="39"/>ad I. Dicimus nanque matrimonium esse sacramentum. 
+      <!--495.xml-->
+      <pb ed="#L" n="484"/>
+               <lb ed="#L" n="1"/>Matrimonium autem contractus ille est, qui ex amborun 
+      <lb ed="#L" n="2"/>verbis constituitur. Verba igitur contrahentium mate 
+      <lb ed="#L" n="3"/>ria sacramenti sunt, forma non sunt. Iam illa falsa &amp; 
+      com<lb ed="#L" n="4" break="no"/>mentitia esse quis non videt, quae iuniores Theologi 
+      <lb ed="#L" n="5"/>confinxere, vt ciuilem hunc humanumque contractum  
+      <lb ed="#L" n="6"/>Christi &amp; ecclesiae sacramentum esse tuerentur? Quae 
+      qui<lb ed="#L" n="7" break="no"/>dem plaeraque infidelibus valde nugatoria sunt, fidelibus 
+      <lb ed="#L" n="8"/>autem parum solida. Hic tibi dicit contrahentes 
+      ipso<lb ed="#L" n="9" break="no"/>esse materiam sacramenti, hic, non ipsos, sed consensum, 
+      <lb ed="#L" n="10"/>alius, gestus &amp; nutus, qui a viro foeminaque exceptis ver 
+      <lb ed="#L" n="11"/>bis adhibentur, alius, prioris loquentis verba 
+      materian<lb ed="#L" n="12" break="no"/>esse affirmat, posterioris formam. Quae vtinam grauiter 
+      <lb ed="#L" n="13"/>vere, probabiliter dicerentur: ne iure ab haereticis ride 
+      <lb ed="#L" n="14"/>remur. Quorsum autem attinet, in re grauissima tenui. 
+      <lb ed="#L" n="15"/>ter, ne dicam ridicule, philosophari? Quorsum in re ac 
+      <lb ed="#L" n="16"/>fidem &amp; religionem necessaria tanta varietas &amp; 
+      inc<lb ed="#L" n="17" break="no"/>stantia? Non enim, vt Hieronymus ait, potest vnquan 
+      <lb ed="#L" n="18"/>verum asseri, quod diuersum est. Et rursum, verum, inquit,  
+      <lb ed="#L" n="19"/>non esse quod variat, etiam maledicorum testimonio 
+      <lb ed="#L" n="20"/>comprobatur. Quid ? quod materiam nos &amp; formam sa 
+      <lb ed="#L" n="21"/>cramenti quaerimus, hoc est res quasdam religione sacras 
+      <lb ed="#L" n="22"/>hi vero de forma materiaque contractus prophani 
+      natura<lb ed="#L" n="23" break="no"/>lisque respondent. Nam, si apud Ethnicos de pacti illius 
+      <lb ed="#L" n="24"/>cenuentionisque, materia &amp; forma controuersia esset, non 
+      <lb ed="#L" n="25"/>aliter profecto illi ac nostri Theologi loquerentur. Ita 
+      <lb ed="#L" n="26"/>Lutherus more suo Theologos satis iocose lusit, quod 
+      <lb ed="#L" n="27"/>religionis nostrae sacramentum ex his, vel integrum &amp;  
+      <lb ed="#L" n="28"/>perfectum constituissent, quae penitus omnia in matrimo  
+      <lb ed="#L" n="29"/>nijs paganorum reperirentur. Ac certe materiam &amp; 
+      for<lb ed="#L" n="30" break="no"/>mam ciuilis naturalisque contractus, quibus in omni 
+      sem<lb ed="#L" n="31" break="no"/>per lege omnes vsi sunt, quaeque perpetuo &amp; fidelibus &amp; 
+      <lb ed="#L" n="32"/>infidelibus fuere communes, easdem omnino esse 
+      mate<lb ed="#L" n="33" break="no"/>riam &amp; formam, quibus integra &amp; perfecta nostrae 
+      reli<lb ed="#L" n="34" break="no"/>gionis constituantur sacramenta, non Luthero dicam, sed 
+      <lb ed="#L" n="35"/>vix cuiquam persuaderi poterit, nisi ei, apud quem 
+      tan<lb ed="#L" n="36" break="no"/>tum opinio praeiudicata potest, vt etiam sine ratione 
+      va<lb ed="#L" n="37" break="no"/>leat. Equidem cum ad respondendum argumentis Luthe 
+      <lb ed="#L" n="38"/>ri me comparo, quibus ille multipliciter sacramentum hoc 
+      <lb ed="#L" n="39"/>conatur euertere, non id defendendum sumo, matrimonium 
+      <!--496.xml-->
+      <pb ed="#L" n="485"/>
+               <lb ed="#L" n="1"/>eiusmodi sacramentum esse, in quo nulla sacri facies 
+      ap<lb ed="#L" n="2" break="no"/>pareat, quodque vniuoce cum caeteris sacramentum esse, 
+      <lb ed="#L" n="3"/>ne cogitatione quidem informari posse videatur. Sed 
+      <lb ed="#L" n="4"/>siue nostra opinio vera siue falsa sit, nihil enim moror, si 
+      <lb ed="#L" n="5"/>Lutherani de hoc matrimoniorum genere disceptare vo 
+      <lb ed="#L" n="6"/>luerint, intelligant se in scholae disceptationes incurrisse, 
+      <lb ed="#L" n="7"/>Nec oportere catholicum ad eorum argumenta 
+      respon<lb ed="#L" n="8" break="no"/>dere. Sin vero argumententur, mati imonium cum sacris 
+      <lb ed="#L" n="9"/>caeremonijs, cum sacra materia, cum sacra forma, a sacro 
+      <lb ed="#L" n="10"/>ministro administratum, quemadmodum in ecclesia 
+      Ro<lb ed="#L" n="11" break="no"/>mana semper vsque ab Apostolis administratum est, si hoc,  
+      <lb ed="#L" n="12"/>inquam, argumententur: sacramentum ecclesiae non esse, 
+      <lb ed="#L" n="13"/>tunc cathosicus respondeat fidenter, animose defendat,  
+      <lb ed="#L" n="14"/>secure contra pugnet. Poterit enim consentaneas causas 
+      <lb ed="#L" n="15"/>omni poscenti reddere de ea, quae est in ecclesia, firma, 
+      <lb ed="#L" n="16"/>perpetua, constansque doctrina. Poterit fidem quoque non 
+      <lb ed="#L" n="17"/>stram &amp; suauiter insinuare fidelibus, &amp; grauiter ab 
+      infi<lb ed="#L" n="18" break="no"/>delium calumnijs vindicare. Quam ego cum Lutheranis 
+      <lb ed="#L" n="19"/>disputationem libentissimo nunc animo aggrederer, si 
+      <lb ed="#L" n="20"/>id huius libri institutum pateretur. Video autem me, plus 
+      <lb ed="#L" n="21"/>quam ratio argumenti positi postulabat, digressum esse. 
+      <lb ed="#L" n="22"/>Si digressio tamen dicenda est, vbi quod in vtranqe 
+      par<lb ed="#L" n="23" break="no"/>tem adeo probabiliter disputari potest, hoc nos 
+      conten<lb ed="#L" n="24" break="no"/>dimus non ad catholicam fidem, sed ad scholae opiniones 
+      <lb ed="#L" n="25"/>referendum. At ea res verbis paucioribus addici 
+      pote<lb ed="#L" n="26" break="no"/>rat. Poterat sane. Verum difficile est, vt in omni loco ver 
+      <lb ed="#L" n="27"/>pa rebus quasi paria &amp; demensa respondeant. Et libuit 
+      <lb ed="#L" n="28"/>tandem quamplurimis argumentis addicere, sine ecclesiae 
+      <lb ed="#L" n="29"/>ministro coniugij sacramentum nullum esse, vt inde pate 
+      <lb ed="#L" n="30"/>ret eam questionem nullo modo ad fidem attinere, quod 
+      <lb ed="#L" n="31"/>secundo loco pollicitus sum. Attende nunc Lector, dum 
+      <lb ed="#L" n="32"/>illud, quod postremum erat absoluimus. Non omnes, 
+      in<lb ed="#L" n="33" break="no"/>quam, scholae Theologi, in eam sententiam conuenerunt, 
+      <lb ed="#L" n="34"/>quemadmodum in argumento sumitur. Quin etiam non  
+      <lb ed="#L" n="35"/>nulli graues auctores nobiscum sentiunt. Atque in 
+      pri<lb ed="#L" n="36" break="no"/>mis Quillermus Parisien: in libro de sacrament. tracta. de 
+      <lb ed="#L" n="37"/>Matrimonio, c. 9. 4. 1. negat, matrimonium veri nominis 
+      <lb ed="#L" n="38"/>sacramentum esse, &amp; sacramentalem virtutem habere, nisi 
+      <lb ed="#L" n="39"/>sacerdotali ministerio consecratum fuerit. Nam Magistrum 
+      <!--497.xml-->
+      <pb ed="#L" n="486"/>
+               <lb ed="#L" n="1"/>&amp; Durandum non refero, qui in vniuersum opinantur,  
+      <lb ed="#L" n="2"/>matrimonium gratiam non conferre. Qui profecto hoc 
+      <lb ed="#L" n="3"/>loco non errassent, nisi communis opinio in extremo posita 
+      <lb ed="#L" n="4"/>eis vehementer improbaretur. Patres item concilij 
+      Colo<lb ed="#L" n="5" break="no"/>niensis aperte inficiantur, clandestinum matrimonium esse 
+      <lb ed="#L" n="6"/>proprie sacramentum, atque iidem quoque non obscure 
+      as<lb ed="#L" n="7" break="no"/>serunt, aliud esse verbum, quo contrahitur matrimonium, 
+      <lb ed="#L" n="8"/>aliud, quod efficit matrimonij sacramentum. Nec satis 
+      <lb ed="#L" n="9"/>esse ad sacramentum ea verba, quibus mutuus consensus 
+      <lb ed="#L" n="10"/>exprimitur. Sed aliud verbum requirendum, quod, vt in 
+      <lb ed="#L" n="11"/>caeteris sacramentis, accedens ad elementum faciat 
+      sacra<lb ed="#L" n="12" break="no"/>mentum. Quod vtiqe verbum fidei sit, non naturae. 
+      Quo<lb ed="#L" n="13" break="no"/>rum in hoc sententiam difficile est factu non probare. In 
+      <lb ed="#L" n="14"/>eo non probo, quod verbum illud, quo sacramenti 
+      for<lb ed="#L" n="15" break="no"/>ma continetur, non inde petunt, vnde semper catholicis 
+      <lb ed="#L" n="16"/>petitum est. Enimuero quibus ritibus quibusque, 
+      omnino<lb ed="#L" n="17" break="no"/>verbis sacramenta ecclesiae conficienda sint, non aliunde 
+      <lb ed="#L" n="18"/>verius, tutius, constantius peti potest, que ab ecclesiae 
+      Ro<lb ed="#L" n="19" break="no"/>manae perpetua consuetudine. Sed de his non est hic 
+      lo<lb ed="#L" n="20" break="no"/>cus disserendi. Alio forte opportunius propriam huius 
+      <lb ed="#L" n="21"/>sacramenti materiam &amp; formam explicabimus. Nunc ad id, 
+      <lb ed="#L" n="22"/>quod instituimus. No ij solum, quos diximus, nostrae 
+      sen<lb ed="#L" n="23" break="no"/>tentiae assentiuntur, sed Petrus Palud. 4. sent. dist. 5. 4. 2. 
+      <lb ed="#L" n="24"/>imprudens in eam quoque descendit. Nam quum vir &amp; 
+      foe<lb ed="#L" n="25" break="no"/>mina ciuiliter contrahunt, etiam si peccatores sint, nec 
+      <lb ed="#L" n="26"/>poenitentiam agant, non credit eos esse reos sacrilegij. 
+      <lb ed="#L" n="27"/>Id quod nullo modo probabile esset, si eiusmodi 
+      matri<lb ed="#L" n="28" break="no"/>monium esset verum ecclesie sacramentum. Omnes quippe 
+      <lb ed="#L" n="29"/>sine controuersia sacrilegi sunt, qui post peccatum 
+      mor<lb ed="#L" n="30" break="no"/>tale sine poenitentia Christi sacramenta percipiunt. 
+      Di<lb ed="#L" n="31" break="no"/>uus Vero Thomas licet in scriptis communes fere 
+      opinio<lb ed="#L" n="32" break="no"/>nes sequeretur, sed a veritate tandem rationeque coactus 
+      <lb ed="#L" n="33"/>nostrae opinioni subscripsit. Cum enim in 4. distin. 1. 4. 1. 
+      <lb ed="#L" n="34"/>art. 3. docuisset, verba in omni sacramento necessaria esse, 
+      <lb ed="#L" n="35"/>quinto id argumento impugnauit in hunc modum. 
+      Poe<lb ed="#L" n="36" break="no"/>nitentia &amp; matrimonium sunt sacramenta: sed de 
+      in<lb ed="#L" n="37" break="no"/>tegritate eorum non sunt verba aliqua, &amp;c. Cui 
+      argumen<lb ed="#L" n="38" break="no"/>to ille quidem respondit, o matrimonium secundum quo 
+      <lb ed="#L" n="39"/>est in officium, &amp; poenitentia secundum quod est virtus,  
+      <!--498.xml-->
+      <pb ed="#L" n="487"/>
+               <lb ed="#L" n="1"/>non habent aliquam formam verborum. Sed secundum 
+      <lb ed="#L" n="2"/>quod vtrunque est sacramentum, in dispensatione 
+      mini<lb ed="#L" n="3" break="no"/>strorum ecclesiae consistens, vtrunque habet aliqua 
+      ver<lb ed="#L" n="4" break="no"/>oa. Hactenus D. Thomas. Et 4. lib. aduersus gent. c. 78. 
+      <lb ed="#L" n="5"/>non aliter docet, nuptias sacramentum esse, nisi ad modum 
+      <lb ed="#L" n="6"/>quem diximus, per ecclesiae ministros populo 
+      dispensen<lb ed="#L" n="7" break="no"/>tur. Ea, inquit, quae per ministros ecclesiae populo 
+      dispen<lb ed="#L" n="8" break="no"/>santur, sacramenta dicuntur. Mati imonium igitur, secun 
+      <lb ed="#L" n="9"/>dum quod consistit in coniunctione maris &amp; foeminae, 
+      <lb ed="#L" n="10"/>intendentem prolem ad cultum Dei generare &amp; 
+      educa<lb ed="#L" n="11" break="no"/>re, est ecclesiae sacramentum. Vnde &amp; quaedam 
+      benedi<lb ed="#L" n="12" break="no"/>ctio nubentibus per ministros ecclesiae adhibetur. Haec 
+      <lb ed="#L" n="13"/>ille. Ac patrum quidem memoria matrimonium proprie 
+      <lb ed="#L" n="14"/>esse sacramentum, ita demum proditum est, si sacerdotis 
+      <lb ed="#L" n="15"/>ministerium interueniat. Sic Calixtus in epistola ad 
+      om<lb ed="#L" n="16" break="no"/>nes Galliarum episcopos prodit. Sic Cyricius ad Cume 
+      <lb ed="#L" n="17"/>rium Tarraconen. episcopum c. 4. Sic Nicolaus 31. 4. 2. 
+      <lb ed="#L" n="18"/>c. Lotharius. Sic Hormisda, Euaristus, lsidorus, quos 
+      re<lb ed="#L" n="19" break="no"/>fert Gratianus 30. 4. 5. prodidere. Sic concilium 
+      Car<lb ed="#L" n="20" break="no"/>thaginen. 4. c. 13. referturque 30. 4. 5. c. sponsus. Sic 
+      con<lb ed="#L" n="21" break="no"/>cilium Lugdunense, &amp; refertur 35. 4. 3. c. nulli. Sic 
+      con<lb ed="#L" n="22" break="no"/>cilium Lateranense de symo. c. cum in ecclesiae corpore. 
+      <lb ed="#L" n="23"/>Sic concilium Constantiense sub Martino 5. in fine 
+      con<lb ed="#L" n="24" break="no"/>cilij. Sic Clemens de priuileg. Religiosi. Sic Ambro. lib.  
+      <lb ed="#L" n="25"/>1. epistolarum, epist. 1. quae scribitur ad Vigilium. Quorum 
+      <lb ed="#L" n="26"/>ego testimonia, nec adscribo, nec expendo, quoniam, vt 
+      <lb ed="#L" n="27"/>dixi, alterius &amp; loci &amp; temporis est disputatio. Certe Eua 
+      <lb ed="#L" n="28"/>ristus matrimonium clandestinum sine sacerdote contra 
+      <lb ed="#L" n="29"/>ctum, tantum abest, vt sacramentum ecclesiae fateatur, vt 
+      <lb ed="#L" n="30"/>adulterinum etiam contubernium appellet. His adde, qo nostrae 
+      <lb ed="#L" n="31"/>etiam opinioni subscribunt iurisperiti propemodum vniuersi, 
+      <lb ed="#L" n="32"/>Qui, quum negant matrimonium gratiam conferre, sine 
+      du<lb ed="#L" n="33" break="no"/>bio id intelligunt de contractu ciuili, quem sacramentum 
+      <lb ed="#L" n="34"/>latius vsurpato vocabulo appellant. At cum 
+      administra<lb ed="#L" n="35" break="no"/>tio sacerdotalis accedit, non obscure iurisperiti tradunt, 
+      <lb ed="#L" n="36"/>per actum sacerdotis consecrantis coniugium, gratiam 
+      con<lb ed="#L" n="37" break="no"/>ferri. Ideoque non licere pro eo pecuniam accipere: quia 
+      <lb ed="#L" n="38"/>sacramentum ecclesiasticum est. Vbi iureconsulti 
+      pro<lb ed="#L" n="39" break="no"/>babilius, vt equidem sentio, quam Theologi loquuntur. 
+      <!--499.xml-->
+      <pb ed="#L" n="488"/>
+               <lb ed="#L" n="1"/>Tamet si Theologi etiam quidam docti sane &amp; graues 
+      in<lb ed="#L" n="2" break="no"/>uenti sunt, quibus communis illa reliquorum sententia 
+      <lb ed="#L" n="3"/>displiceret. Pro qua si qui adhuc contra nos steterint, non 
+      <lb ed="#L" n="4"/>habent statim nostra placita damnare, sed idonea aliqua  
+      <lb ed="#L" n="5"/>argumentatione refellere. Ego enim etsi non is sum, qui 
+      <lb ed="#L" n="6"/>nihil vnquam falsi approbem, sed ea quae dissero tamen, 
+      <lb ed="#L" n="7"/>non arroganter preiudico, nec reuoco ad arbitrium meum, 
+      <lb ed="#L" n="8"/>sed vel sanctorum testimonijs, yel ratione probabili 
+      con<lb ed="#L" n="9" break="no"/>sentaneaque confirmo. Sic iure ac merito possum a viris 
+      <lb ed="#L" n="10"/>doctis postulare, vt de me non nisi causa cognita iudicent. 
+      <lb ed="#L" n="11"/>Quod si rationibus, quibus ego ducor, falsam me habere 
+      <lb ed="#L" n="12"/>sententiam doceant, gratissime accepturus sum. vt vero 
+      <lb ed="#L" n="13"/>sine argumentis quisquam sola me asseueratione vincat,  
+      <lb ed="#L" n="14"/>fieri certe vix potest. Sed de scholae auctoritate dictum 
+      <lb ed="#L" n="15"/>est satis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

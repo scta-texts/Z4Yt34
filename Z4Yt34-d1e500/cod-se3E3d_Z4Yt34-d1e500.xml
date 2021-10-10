@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="295"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e500"><!-- Z4Yt34-l5c3 -->
+            <head xml:id="Z4Yt34-d1e500-Hd1e106">Caput 3</head>
+            <p xml:id="Z4Yt34-d1e500-d1e109">
+               <lb ed="#L" n="8"/>Caput tertium, in quo Pnodorum varia genera 
+      <lb ed="#L" n="9"/>ponuntur.
+    </p>
+            <p xml:id="Z4Yt34-d1e500-d1e116">
+               <lb ed="#L" n="10"/>PTVorum hominum conuentum synodus 
+      ecclesiasti<lb ed="#L" n="11" break="no"/>m ca prae se ferat, satis explicatum arbitror capite su 
+      <lb ed="#L" n="12"/>periore. Nunc vocabulum partiendum est, vt singula 
+      conci<lb ed="#L" n="13" break="no"/>liorum genera quidnam veritatis &amp; auctoritatis habeant videa 
+      <lb ed="#L" n="14"/>mus. Et quidem Gratianus 3. dist. c. Regula, synodus 
+      bifa<lb ed="#L" n="15" break="no"/>riam partitur, in generales &amp; prouinciases. Hac autem diuisio 
+      <lb ed="#L" n="16"/>ne, cum praeterire aliquid, maximum vitium in diuidendo 
+      <lb ed="#L" n="17"/>sit, vnum praetermissum est. Nec enim solum generales &amp;  
+      <lb ed="#L" n="18"/>prouinciales synodi sunt, sed etiam episcopales. Ita si pla 
+      <lb ed="#L" n="19"/>cet nominemus, fabricemurque si opus erit, verba. Sunt 
+      <lb ed="#L" n="20"/>enim rebus nouis, vt Cicero tradit, noua ponenda 
+      nomi<lb ed="#L" n="21" break="no"/>na. Quamuis hoc, recens quidem illud, sed perceptum 
+      ta<lb ed="#L" n="22" break="no"/>men vsu a nostris, tritumque non a barbaris modo, verum  
+      <lb ed="#L" n="23"/>etiam a Latinis. Concilia equidem generalia voco, quae 
+      <lb ed="#L" n="24"/>omnium Christianorum pontificum conuocatione 
+      cele<lb ed="#L" n="25" break="no"/>brantur. Inter multos autem saepe disceptatum est, an 
+      <lb ed="#L" n="26"/>generalis conuocatio satis sit, an etiam sit necessaria con 
+      <lb ed="#L" n="27"/>gregatio generalis. Si enim Summus pontifex concilium 
+      <lb ed="#L" n="28"/>generale indiceret, non congregarentur tamen nisi 
+      soli<lb ed="#L" n="29" break="no"/>decem ex Italia pontifices, huiusmodi profecto synodus 
+      <lb ed="#L" n="30"/>non est, cur generalis videatur. At contra, si necesse est,  
+      <lb ed="#L" n="31"/>episcopos omnes congregari, primum nullum forte in 
+      <lb ed="#L" n="32"/>Ecclesia tale adhuc concilium fuit, in quod Episcopi 
+      v<lb ed="#L" n="33" break="no"/>niuersi conuenerint. Deinde, pessimus quisque 
+      episco<lb ed="#L" n="34" break="no"/>pus, dum non solum per negligentiam, sed per malitiam  
+      <lb ed="#L" n="35"/>synodo adesse contempserit, generalem non esse 
+      calum<lb ed="#L" n="36" break="no"/>niabitur. Et princeps in repub. quilibet, si illi 
+      syno<lb ed="#L" n="37" break="no"/>dus displicuerit, interturbare eam minimo negotio 
+      po<lb ed="#L" n="38" break="no"/>terit, causarique Episcopos suos vel morborum vel 
+      <!--307.xml-->
+      <pb ed="#L" n="296"/>
+               <lb ed="#L" n="1"/>tumultuum causa concilio interesse non posse. Verum,  
+      <lb ed="#L" n="2"/>quoniam omnes huiusmodi controuersias persequi non  
+      <lb ed="#L" n="3"/>est operis instituti, huic quaestioni breuiter respondemus. 
+      <lb ed="#L" n="4"/>Non satis est quidem ad concilium generale, si euocatio 
+      <lb ed="#L" n="5"/>generalis est, quando adeo pauci congregantur, vt 
+      ma<lb ed="#L" n="6" break="no"/>ior meliorque prouinciarum pars relicta esse videatur: 
+      pre<lb ed="#L" n="7" break="no"/>sertim si causa legitima sit, cur episcopi synodo non al 
+      <lb ed="#L" n="8"/>fuerint. At si per malitiam hominum pessimorum vna &amp;  
+      <lb ed="#L" n="9"/>item altera prouincia desit, non propterea concilij 
+      ge<lb ed="#L" n="10" break="no"/>neralis nomen amittitur. Sed ne si per negligentiam 
+      qui<lb ed="#L" n="11" break="no"/>dem, aut aliam occasionem quamlibet episcopi aliquot 
+      <lb ed="#L" n="12"/>desint, nominis sui iacturam generale concilium faciet, 
+      <lb ed="#L" n="13"/>nisi in dubium vertimus an Concilia illa quatuor, 
+      Nicae<lb ed="#L" n="14" break="no"/>num, Ephesinum, Constantinopolitanum, Chalcedonense, 
+      <lb ed="#L" n="15"/>peneralia sint. Quamobrem, vt fideles, ita nos hoc loco 
+      <lb ed="#L" n="16"/>soquimur, vt synodum generalem omnium episcoporum 
+      <lb ed="#L" n="17"/>euocatione legitima finiamus, licet non sit omnium 
+      con<lb ed="#L" n="18" break="no"/>gregatio. Communi enim fidelium sensu agendum est,  
+      <lb ed="#L" n="19"/>cum de rebus vocibusque ecclesiae loquimur. Idque eodem  
+      <lb ed="#L" n="20"/>modo fecerunt sapientes. Nec satis est tamen ad 
+      genera<lb ed="#L" n="21" break="no"/>le concilium euocatio generalis, nisi sit etiam generalis 
+      <lb ed="#L" n="22"/>congregatio. Sed ad generalem congregationem, omnium 
+      <lb ed="#L" n="23"/>episcoporum congregatio non requiritur. Neque hic 
+      <lb ed="#L" n="24"/>definimus nisi id quod frequens in ecclesia est. Scimus 
+      <lb ed="#L" n="25"/>enim concilia generalia sine euocatione celebrari 
+      ali<lb ed="#L" n="26" break="no"/>quando posse, sed id perrarum atque adeo praeter artem 
+      <lb ed="#L" n="27"/>est. Verum de his postea diligentius. Nunc ad reliquas 
+      <lb ed="#L" n="28"/>partes propositae diuisionis reuertamur. Prouincialia 
+      con<lb ed="#L" n="29" break="no"/>cilia sunt, cum a Metropolitano vel Primate omnes 
+      vni<lb ed="#L" n="30" break="no"/>us prouinciae aut etiam regni Pontifices euocantur. Episco 
+      <lb ed="#L" n="31"/>palia sunt, synodi sacerdotum, quae ab episcopis singulis 
+      <lb ed="#L" n="32"/>in sua dicecesi haberi modo solent, ob priuatas singularum 
+      <lb ed="#L" n="33"/>ecclesiarum causas. Nam synodi huiusmodi, praesertim in 
+      <lb ed="#L" n="34"/>Hispania, non erant in vsu olim, nisi ob eam causam, quae 
+      <lb ed="#L" n="35"/>decimaoctaua distinct. cap. postremo exprimitur.  
+      </p>
+            <p xml:id="Z4Yt34-d1e500-d1e261">
+               <lb ed="#L" n="36"/>Hac diuisione posita &amp; omnium assensu approbata, 
+      al<lb ed="#L" n="37" break="no"/>tera assumitur, Conciliorum siue generalium, siue 
+      prouin<lb ed="#L" n="38" break="no"/>cialium sen episcopalium, quaedam esse: congregata 
+      Ro<lb ed="#L" n="39" break="no"/>mani pontificis auctoritate, alia vero non item. Rursum, 
+      <!--308.xml-->
+      <pb ed="#L" n="297"/>
+               <lb ed="#L" n="1"/>alia confirmata ab eodem Romano Pontifice, alia vero 
+      <lb ed="#L" n="2"/>non ab eo confirmata. Nam concilium Ephesinum 
+      secum<lb ed="#L" n="3" break="no"/>dum auctore Leone coactum est quidem, sed non est a 
+      <lb ed="#L" n="4"/>Leone aut alio quouis summo Pontifice comprobatum. 
+      <lb ed="#L" n="5"/>Basiliense quoque Eugenius quartus indixit, nec 
+      tamen<lb ed="#L" n="6" break="no"/>confirmauit. At Constantiense, quamuis a principio 
+      <lb ed="#L" n="7"/>nullius Romani episcopi auctoritate congregatum 
+      fue<lb ed="#L" n="8" break="no"/>rit, confirmauit illud tamen Martinus quintus, Pontifex 
+      <lb ed="#L" n="9"/>maximus. Concilium item Mileuitanum, quod &amp; 
+      Inno<lb ed="#L" n="10" break="no"/>centius &amp; Celestinus probauerunt, sine auctoritate 
+      sum<lb ed="#L" n="11" break="no"/>mi Pontificis coactum fuit. Cum ergo quam 
+      Gratia<lb ed="#L" n="12" break="no"/>nus duplicem putauit esse rationem, in tres partes 
+      distri<lb ed="#L" n="13" break="no"/>bui debere reperiatur, &amp; singulae trium, bis 
+      distribuun<lb ed="#L" n="14" break="no"/>tur in duas: primum est de generali concilio, sed 
+      dupli<lb ed="#L" n="15" break="no"/>citer: tum pari ratione de prouinciali, post de 
+      episco<lb ed="#L" n="16" break="no"/>pali disserendum. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

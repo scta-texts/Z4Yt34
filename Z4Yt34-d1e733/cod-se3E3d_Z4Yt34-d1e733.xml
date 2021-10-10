@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="466"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e733"><!-- Z4Yt34-l8c4 -->
+            <head xml:id="Z4Yt34-d1e733-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e733-d1e109">
+               <lb ed="#L" n="37"/>caput quartum.  
+      <lb ed="#L" n="38"/>QVod fuerit Academiae theologicae initium, quis 
+      <lb ed="#L" n="39"/>progressus, quos institutores habuerit, quos ve au¬ 
+      <!--478.xml-->
+      <pb ed="#L" n="467"/>
+               <lb ed="#L" n="1"/>ctores, tametsi ad scholae commendationem attinet, non 
+      <lb ed="#L" n="2"/>est tamen huius loci dicere: vbi hoc solum conamur ex- 
+      <lb ed="#L" n="3"/>plicare, quantum habeat virium ad faciendam fidem, 
+      ar<lb ed="#L" n="4" break="no"/>gumentum ex scholae auctoritate depromptum. Ea igitur 
+      <lb ed="#L" n="5"/>re explicanda, sit prima conclusio. 
+      <lb ed="#L" n="6"/>Theologorum scholasticorum etiam multorum 
+      testi<lb ed="#L" n="7" break="no"/>monium, si alii contra pugnant viri docti, non plus valet 
+      <lb ed="#L" n="8"/>ad faciendam fidem, quam vel ratio ipsorum, vel 
+      gra<lb ed="#L" n="9" break="no"/>uior etiam auctoritas comprobarit. Videlicet in 
+      scho<lb ed="#L" n="10" break="no"/>lastica disputatione plurium, auctoritas obruere 
+      theolo<lb ed="#L" n="11" break="no"/>gum non debet: sed si paucos viros modo graues secum 
+      <lb ed="#L" n="12"/>habeat, poterit sane aduersum plurimos stare. Non enim 
+      <lb ed="#L" n="13"/>numero haec iudicantur, sed pondere. Hanc vero 
+      conclu<lb ed="#L" n="14" break="no"/>sionem probare argumentis non debeo. Nam si quid 
+      <lb ed="#L" n="15"/>est euidens, de quo inter, omnes conueniat, 
+      argumenta<lb ed="#L" n="16" break="no"/>ti non soleo: perspicuitas enim, vt ait Cicero, 
+      argumen<lb ed="#L" n="17" break="no"/>tatione eleuatur. Certe vbi variae sunt doctissimorum  
+      <lb ed="#L" n="18"/>hominum discrepantesque, sententiae, academicorum 
+      <lb ed="#L" n="19"/>temperamentum imitari, &amp; a rebus incertis certam 
+      assen<lb ed="#L" n="20" break="no"/>sionem cohibere debemus. Quid enim tam remerarium, 
+      <lb ed="#L" n="21"/>tamque, indignum sapientis grauitate atque constantia, vt 
+      <lb ed="#L" n="22"/>idem Cicero, elegantissime. tradit, quam quod non satis 
+      <lb ed="#L" n="23"/>explorate perceptum sit &amp; cognitum, id sine vlla 
+      dubita<lb ed="#L" n="24" break="no"/>tione defendere? Quo loco sane arguendi sunt 
+      schola<lb ed="#L" n="25" break="no"/>stici nonnulli, qui ex opinionum, quas in schola 
+      accepe<lb ed="#L" n="26" break="no"/>runt praeiudicuiis, viros alias catholicos notis 
+      grauiori<lb ed="#L" n="27" break="no"/>bus inurunt, idque tanta facilitate, vt merito rideantur. 
+      <lb ed="#L" n="28"/>Nobis autem schola nostra magnam quidem licentiam dat, vt 
+      <lb ed="#L" n="29"/>quodeunque maxime probabile occurrat, id nostro iure 
+      <lb ed="#L" n="30"/>liceat defendere: sed non licet tamen eos qui nobis sunt 
+      <lb ed="#L" n="31"/>aduersi, temere ac leuiter condemnare. Alia sunt scholae 
+      <lb ed="#L" n="32"/>placita, de quibus mox dicturi sumus, alia sunt praecepta 
+      <lb ed="#L" n="33"/>sectae, de quibus modo loquimur. Quae abilslis dissident,  
+      <lb ed="#L" n="34"/>ea notam, habent, quae ab his, non habent. Nec enim siquid 
+      <lb ed="#L" n="35"/>aut Scoticis aut Thomisticis pronunciatis contrarium est,  
+      <lb ed="#L" n="36"/>error illico, est. Sed haec hactenus. 
+      <lb ed="#L" n="37"/>Secunda: conclusio, Ex auctorum omnium 
+      scholastico<lb ed="#L" n="38" break="no"/>rum communi sententia, in re quidem, graui, vsqueadeo 
+      <lb ed="#L" n="39"/>probabilia sumuutur argumenta, vt illis refragari teme¬ 
+      <!--479.xml-->
+      <pb ed="#L" n="468"/>
+               <lb ed="#L" n="1"/>rarium sit. Nam in quacunque arte peritis credendum 
+      <lb ed="#L" n="2"/>esse ratio monstrat. Nec enim sanus haberetur, qui 
+      nau<lb ed="#L" n="3" break="no"/>tis innauigandi ratione non crederet. Qui igitur in arte 
+      <lb ed="#L" n="4"/>hac, de Theologiae dogmatibus disserendi, 
+      experienti<lb ed="#L" n="5" break="no"/>bus &amp; exercitis nullam fidem habet, aut parum sanus, aut  
+      <lb ed="#L" n="6"/>certe temerarius est. Deinde in Clemen. Vni. de sum 
+      <lb ed="#L" n="7"/>ma Trinitate. Patres concilii Vien. Opinionem illam  
+      <lb ed="#L" n="8"/>inquiunt, quae dicit, tam paruulis quam adultis conferri 
+      <lb ed="#L" n="9"/>in baptismo informantem gratiam, &amp; virtutes, tanquam  
+      <lb ed="#L" n="10"/>probabiliorem, &amp; doctorum modernorum Theologiae 
+      <lb ed="#L" n="11"/>magis consonam &amp; concordem, fore a catholicis 
+      eligem<lb ed="#L" n="12" break="no"/>dam. Si ergo in re, quae olim inter ipsos etiam 
+      schola<lb ed="#L" n="13" break="no"/>sticos theologos controuersa fuerat, opihro: concors 
+      iu<lb ed="#L" n="14" break="no"/>niorum tanti apud patres in concilio fuit, quantommugis 
+      <lb ed="#L" n="15"/>nos res omni tempore ab schola praescriptas tenere ac 
+      <lb ed="#L" n="16"/>reuereri debemus? Et si opmatio ipsa: theologorum 
+      re<lb ed="#L" n="17" break="no"/>centiorum communis fidem facitconcilio: sisfudque 
+      in<lb ed="#L" n="18" break="no"/>clinat, vt definiat huiusmodi opifrationemsesse tenendam, 
+      <lb ed="#L" n="19"/>quid si non ex opinione, sed ex certo &amp; mninime 
+      circum<lb ed="#L" n="20" break="no"/>ductili animo quicquam: theologi omies praefinierint e 
+      <lb ed="#L" n="21"/>An non existimas concilium Viennense pro eiusmodi 
+      do<lb ed="#L" n="22" break="no"/>gmatis firmiter in scholareceptis grauiorecensura 
+      iudi<lb ed="#L" n="23" break="no"/>caturum? Scholae igitur communem consensum, non nisi 
+      <lb ed="#L" n="24"/>impudenter, &amp; temere reticiemus: Pfaeterea cum inter 
+      <lb ed="#L" n="25"/>ipsos theologos scholasticos magna fere vbique 
+      dissent<lb ed="#L" n="26" break="no"/>sione certetur ita vt in hac parte iure forsitan 
+      reprehen<lb ed="#L" n="27" break="no"/>dantur, certe non idem omnes assererent, nisi eodem 
+      diui<lb ed="#L" n="28" break="no"/>no spiritu permouerentur. Nec minus mirandum est 
+      va<lb ed="#L" n="29" break="no"/>tias scholae factiones doctoresque, tam inter se 
+      diserepa<lb ed="#L" n="30" break="no"/>tes in vnam eapdemque sententiam concurrisse? quam  
+      <lb ed="#L" n="31"/>eptuaginta interpretes diuersis Cvt feruntocellulis 
+      in<lb ed="#L" n="32" break="no"/>clusos, in, vnum eandemque conuenisse interpretationem. 
+      <lb ed="#L" n="33"/>Rupigitur poterit esse verum illud, quod 
+      scholastico<lb ed="#L" n="34" break="no"/>rum, theologorum choro idem concinenti fuerit 
+      con<lb ed="#L" n="35" break="no"/>frarium. 
+      </p>
+            <p xml:id="Z4Yt34-d1e733-d1e287">
+               <lb ed="#L" n="36"/>Tertia conclusio. Concordem omnium theologorum 
+      <lb ed="#L" n="37"/>scholae de fide aut moribus sententiam conntradicere, si 
+      <lb ed="#L" n="38"/>haeresis non est, at haeresi proximum est : Scolae porro 
+      pla<lb ed="#L" n="39" break="no"/>cita, si ita vocare libet, in duplici sunt differuntia. Altera¬ 
+      <!--480.xml-->
+      <pb ed="#L" n="469"/>
+               <lb ed="#L" n="1"/>ad philosophiae magis rationem expediunt quam fidei. 
+      <lb ed="#L" n="2"/>Altera ad fidem pertinent moresque christiano 
+      populo<lb ed="#L" n="3" break="no"/>necessarios. Quae ab illis dissonant, ea scholastico 
+      theo<lb ed="#L" n="4" break="no"/>logo non sunt haeretica. Quae vero huic posteriorum 
+      re<lb ed="#L" n="5" break="no"/>rum generisunt aduersa, ea nos hic tanquam venena 
+      re<lb ed="#L" n="6" break="no"/>fugimus. Nam iis haereseos crimen, vt quod sit ipsum 
+      <lb ed="#L" n="7"/>per se atrocissimum, impingere aperte &amp; simpliciter non 
+      <lb ed="#L" n="8"/>audemus. In quo equidem saepe theologorum requiro 
+      pru<lb ed="#L" n="9" break="no"/>dentiam. Absurdum est enim, vt crimen grauissimum nisi 
+      <lb ed="#L" n="10"/>rebus quoque grauissimis impingatur. Sed ad rem. 
+      Illa<lb ed="#L" n="11" break="no"/>conclusio, vt est a me posita, primum ostenditur, quod 
+      <lb ed="#L" n="12"/>nullum dogma reperietur, quod eadem mente oreque 
+      scho<lb ed="#L" n="13" break="no"/>lastici omnes certo ac firmiter asseruerint, quin idem in 
+      <lb ed="#L" n="14"/>vniuersum ecclesia teneat, eorum auctoritate mota. Nam  
+      <lb ed="#L" n="15"/>si aliquod inuenire haeretici possunt, proferant, &amp; 
+      tace<lb ed="#L" n="16" break="no"/>bimus. Quod si nullum proferri potest, sine dubio, 
+      ve<lb ed="#L" n="17" break="no"/>lint nolint, id quod scholae totius auctoritate firmatur,  
+      <lb ed="#L" n="18"/>verum est, si ad fidem, vt dixi, moresqe pertineat. Adde 
+      <lb ed="#L" n="19"/>quod nullum tam proprium scholae decretum est, quod 
+      <lb ed="#L" n="20"/>vel ex sacris literis, vel ex apostolorum traditione, vel ex 
+      <lb ed="#L" n="21"/>conciliorum, aut pontificum definitionibus non habeat 
+      <lb ed="#L" n="22"/>certam originem. Ita qui scholae decreta refutarunt, hi 
+      <lb ed="#L" n="23"/>semper inuenti sunt &amp; fontem, vnde illa manant, 
+      repu<lb ed="#L" n="24" break="no"/>diasse. Atque, vt vno verbo dicam, nemo qui in 
+      catho<lb ed="#L" n="25" break="no"/>licis habeatur, omnes sine discrimine theologos 
+      explo<lb ed="#L" n="26" break="no"/>sit. Quod abundem satis magnum argumentum est, sine 
+      fi<lb ed="#L" n="27" break="no"/>dei discrimine huiusmodi scholae placita negari non  
+      <lb ed="#L" n="28"/>posse. 
+      </p>
+            <p xml:id="Z4Yt34-d1e733-d1e363">
+               <lb ed="#L" n="29"/>Praeterea si qua in quaestione vniuer si Theologi eadem 
+      <lb ed="#L" n="30"/>inter se concinunt, profecto si in eo errant, ecclesiam item 
+      <lb ed="#L" n="31"/>errandi periculo exponunt. Siue enim qui confessiones 
+      <lb ed="#L" n="32"/>audiunt, siue qui ad populum habent conciones, vtrique 
+      <lb ed="#L" n="33"/>plebem instituunt, vt a theologis acceperunt. Ita sit, vt 
+      <lb ed="#L" n="34"/>Ecclesia eorum in fide communem errorem dissimulado,  
+      <lb ed="#L" n="35"/>Christi fideles suo silentio deciperet. Error enim, cui non 
+      <lb ed="#L" n="36"/>resistitur, approbatur: &amp; veritas, cum non defenditur, 
+      <lb ed="#L" n="37"/>opprimitur, vt Iunocentius ait. 83. dist. error. Atque Deus 
+      <lb ed="#L" n="38"/>ipse: si theologorum omnium errorem non aperiret, in 
+      ne<lb ed="#L" n="39" break="no"/>cessariis Christiano populo deesset. Quid enim facturus 
+      <!--481.xml-->
+      <pb ed="#L" n="470"/>
+               <lb ed="#L" n="1"/>est populus imperitus nisi eos sequi, quos pro illo 
+      tem<lb ed="#L" n="2" break="no"/>pore ecclesiasticae doctrinae magistros accepit: An post 
+      <lb ed="#L" n="3"/>haec omnia scholae Theologia contemnenda est? Crede 
+      <lb ed="#L" n="4"/>rem, nisi eius auctoritate ecclesia res plurimas definisset, 
+      <lb ed="#L" n="5"/>Quippe trecentos ab hinc annos, si quas ecclesia haereses 
+      <lb ed="#L" n="6"/>condemnauit, si quae de fide &amp; moribus decreta tulit, in 
+      <lb ed="#L" n="7"/>vtrisque, scholasticorum subsidio &amp; diligentia vehementet 
+      <lb ed="#L" n="8"/>adiuta est. Id quoniam constat inter omnes, quibus vel 
+      <lb ed="#L" n="9"/>conciliorum gesta, vel negotia cognitionis fidei sunt 
+      <lb ed="#L" n="10"/>cognita, fateamur necesse est, doctores scholasticos simul 
+      <lb ed="#L" n="11"/>omnes in fide &amp; moribus errare non posse. 
+      </p>
+            <p xml:id="Z4Yt34-d1e733-d1e417">
+               <lb ed="#L" n="12"/>Praeterea, Cum Dominus dixit, qui vos audit, ine 
+      au<lb ed="#L" n="13" break="no"/>dit, &amp; qui vos spernit me spernit, non modo ad primos 
+      <lb ed="#L" n="14"/>Theologos, hoc est, Apostolos verba illa referebat: sed 
+      <lb ed="#L" n="15"/>ad doctores etiam in ecclesia futuros, quandiu pascendae 
+      <lb ed="#L" n="16"/>essent oues in scientia &amp; doctrina. Quemadmodum igitur 
+      <lb ed="#L" n="17"/>qui theologos Christo succedentes contemnebat, 
+      Chri<lb ed="#L" n="18" break="no"/>stum is etiam dominum contemnebat, ita qui theologos 
+      iu<lb ed="#L" n="19" break="no"/>niores antiquis succedentes despicit, hic Christum quoque 
+      <lb ed="#L" n="20"/>ipsum despiciat necesse est. Vnde Chrysostomus, siue 
+      <lb ed="#L" n="21"/>quis alius fuerit, in commentariis super Matthaeum 
+      im<lb ed="#L" n="22" break="no"/>perfectis, homi. 42. Cum audieris, inquit, aliquem 
+      bea<lb ed="#L" n="23" break="no"/>tificantem antiquos doctores, proba qualis est circa suos 
+      <lb ed="#L" n="24"/>doctores. Si enim illos, cum quibus viuit, sustinet &amp; 
+      ho<lb ed="#L" n="25" break="no"/>norat, sine dubio illos, si cum illis vixisset, 
+      honoras<lb ed="#L" n="26" break="no"/>set. Si autem suos contemnit, si cum illis vixisset, illos 
+      <lb ed="#L" n="27"/>contempsisset. Hactenus ille in ea verba Christi, Ve 
+      vo<lb ed="#L" n="28" break="no"/>bis qui aedificatis sepulchra prophetarum, &amp; ornatis 
+      mo<lb ed="#L" n="29" break="no"/>numenta iustorum, &amp; dicitis, si fuissemus in diebus 
+      pa<lb ed="#L" n="30" break="no"/>trum nostrorum, non essemus socii eorum in sanguine 
+      <lb ed="#L" n="31"/>prophetarum. Itaque testimonio estis vobis metipsis, quod 
+      <lb ed="#L" n="32"/>filii estis eorum, qui prophetas occiderunt. Et vos 
+      im<lb ed="#L" n="33" break="no"/>plete mensuram patrum vestrorum. Nimirum 
+      pharisae<lb ed="#L" n="34" break="no"/>orum instar haeretici ratiocinantur. Si essent scholastici 
+      <lb ed="#L" n="35"/>doctores, quales erant Hilarius, Hieronymus, Basilius, 
+      <lb ed="#L" n="36"/>sequeremur eos: si in diebus Augustini, Ambrosii, 
+      Hie<lb ed="#L" n="37" break="no"/>ronymi fuissemus, non essemus socii Manichaei, Nouati, 
+      <lb ed="#L" n="38"/>Vigilatii, Pelagii, Iouiniani. Itaque testimonio sunt, quod 
+      <lb ed="#L" n="39"/>filii sunt eorum qui sanctos antiquos contempserunt: cum 
+      <!--482.xml-->
+      <pb ed="#L" n="471"/>
+               <lb ed="#L" n="1"/>iuniores scholae Theologos pro nihilo putat. Postremo,  
+      <lb ed="#L" n="2"/>vt ad Ephes. 4. Apostolus docet, alios dedit Christus in 
+      <lb ed="#L" n="3"/>ecclesia apostolos, quosdam prophetas, alios vero 
+      Euan<lb ed="#L" n="4" break="no"/>gelistas, alios autem pastores &amp; doctores, ad 
+      consumma<lb ed="#L" n="5" break="no"/>tionem sanctorum in opus ministerii, in aedificationem 
+      <lb ed="#L" n="6"/>corporis Christi, donec occurramus omnes in vnitatem 
+      <lb ed="#L" n="7"/>fidei in virum perfectum: vt iam non simus paruuli fluctuantes, 
+      <lb ed="#L" n="8"/>&amp; circumferamur omni veto doctrines. Quadiu igitur 
+      Chri<lb ed="#L" n="9" break="no"/>sti corpus, hoc est ecclesia, fuerit, ad diuinam 
+      procura<lb ed="#L" n="10" break="no"/>tionem pertinebit, vt ij qui in ecclesia sacrae doctrinae 
+      do<lb ed="#L" n="11" break="no"/>ctores habentur, tanquam a Deo dati veritatem in fide 
+      te<lb ed="#L" n="12" break="no"/>neant, ne populus paruulorum more circumferatur. Nec 
+      <lb ed="#L" n="13"/>vero si hoc Apostoli testimonium aeque pro antiquis &amp;  
+      <lb ed="#L" n="14"/>iunioribus facere dicimus, iuniores Theologos priscis 
+      <lb ed="#L" n="15"/>illis mox aequamus: sscimus enim quantum antiquitati 
+      de<lb ed="#L" n="16" break="no"/>ferendum est, quantum etiam sanctitati sed firmum esse hunc 
+      <lb ed="#L" n="17"/>etiam locum, tum ex multis aliis, tum ex hoc apostoli 
+      te<lb ed="#L" n="18" break="no"/>stimonio, pro nostra quidem virili contendimus. Recte 
+      <lb ed="#L" n="19"/>ne an secus, aliorum esto iudicium. Nos enim in 
+      argumen<lb ed="#L" n="20" break="no"/>to nouo, vbi nullum, quem imitaremur, habebamus, quae 
+      <lb ed="#L" n="21"/>nobis probabilissima visa sunt, ea lectoribus 
+      exposui<lb ed="#L" n="22" break="no"/>mus. Si quis vero sic nostra reiiciat, vt adducat meliora, 
+      <lb ed="#L" n="23"/>volentes ac libentes amplectemur. Nihil autem necesse 
+      <lb ed="#L" n="24"/>est, de me ipso dicere mihi. Quanquam non est verendum, 
+      <lb ed="#L" n="25"/>ne vera &amp; aperta de me praedicans, nimis videar aut 
+      in<lb ed="#L" n="26" break="no"/>solens, aut loquax. Sed vtcunque hunc scholae locum ego 
+      <lb ed="#L" n="27"/>tractaui: gratissimum, vt puto, Theologis feci. Quoniam 
+      <lb ed="#L" n="28"/>eum explicatissime de ea re disseruerim, discent hodie a 
+      <lb ed="#L" n="29"/>me, quibus facillime rationibus scholasticae Theologiae 
+      <lb ed="#L" n="30"/>asserere &amp; grauitatem possint, &amp; auctoritatem. Atque haec 
+      <lb ed="#L" n="31"/>hactenus. Nunc obiectiones a principio contra positas 
+      <lb ed="#L" n="32"/>repellamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

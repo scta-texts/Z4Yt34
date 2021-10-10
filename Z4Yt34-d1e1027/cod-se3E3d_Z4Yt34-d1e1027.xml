@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="566"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1027"><!-- Z4Yt34-l11c4 -->
+            <head xml:id="Z4Yt34-d1e1027-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e1027-d1e109">
+               <lb ed="#L" n="14"/>Caput Quartum, quod auctoritas humane historiae aliquando 
+      <lb ed="#L" n="15"/>probabilis, quandoque etiam certa sit.
+    </p>
+            <p xml:id="Z4Yt34-d1e1027-d1e116">
+               <lb ed="#L" n="16"/>SEquitur vt explanemus, qualis quantaque sit humanae 
+      <lb ed="#L" n="17"/>historiae apud Theologos auctoritas: nam hoc 
+      secun<lb ed="#L" n="18" break="no"/>do loco nos acturos pollicebamur. Quod quo 
+      ma<lb ed="#L" n="19" break="no"/>gis intelligi possit, illud principio ponendum est: 
+      Ne<lb ed="#L" n="20" break="no"/>cessarium esse homines hominibus credere, nisi vita 
+      pe<lb ed="#L" n="21" break="no"/>cudum more degenda sit. Eam rem quoniam 
+      Theodore<lb ed="#L" n="22" break="no"/>tus in opere de cura Graec. affect. libro primo, 
+      Augu<lb ed="#L" n="23" break="no"/>stinus item in libro de vtili. cred. ad Honora. cap. 12. &amp;  
+      <lb ed="#L" n="24"/>de fide rerum inuisibilium. cap. 1. &amp; 2. diligentissime 
+      <lb ed="#L" n="25"/>persecuti sunt: non erit nobis hic magnopere 
+      laboran<lb ed="#L" n="26" break="no"/>dum. Atque Augustinus quidem plane asserit, non 
+      ami<lb ed="#L" n="27" break="no"/>citiam modo, verum omnem omnino humanam 
+      socie<lb ed="#L" n="28" break="no"/>tatem interire: nisi amicus amico, maritus vxori, 
+      paren<lb ed="#L" n="29" break="no"/>tibus filii, fratres fratribus, ciuibus ciues, sociis socii 
+      fi<lb ed="#L" n="30" break="no"/>dem habeant. Multa ille affert, quibus. ostendat, 
+      neces<lb ed="#L" n="31" break="no"/>situdinem &amp; pietatem duo generis humani sanctissima 
+      vin<lb ed="#L" n="32" break="no"/>cula violari atque dissoluti, nihilque prorsus in hominum 
+      <lb ed="#L" n="33"/>consociatione incolume remanere: si nihil credere 
+      statue<lb ed="#L" n="34" break="no"/>rimus, quod non idem possumus, quasimanu tangere ac 
+      <lb ed="#L" n="35"/>tenere perceptum. Humanae itaque vitae necessarium esse, 
+      ho<lb ed="#L" n="36" break="no"/>minum dictis homines sine vlla etiam dubitatione credere. 
+      <lb ed="#L" n="37"/>Theodorotus vero fidem esse ceu primariam artium basim  
+      <!--578.xml-->
+      <pb ed="#L" n="567"/>
+               <lb ed="#L" n="1"/>disciplinarumque, omnium crepidine probat etiam manifeste. 
+      <lb ed="#L" n="2"/>Nec enim, vt caetera taceamus, pueri elementarii vllam 
+      om<lb ed="#L" n="3" break="no"/>nino possunt disciplinae puerilis facultatem adipisci, nisi &amp;  
+      <lb ed="#L" n="4"/>nomina literarum &amp; syllabarum nexus fide a praeceptoribus 
+      <lb ed="#L" n="5"/>acceperint. Vt illud Isaiae in omni etiam &amp; arte &amp; aetate 
+      <lb ed="#L" n="6"/>verissimum comprobetur, Nisi credideritis, non 
+      intelli<lb ed="#L" n="7" break="no"/>getis. Praeclarum est igitur Aristotelis illud, in omni 
+      fa<lb ed="#L" n="8" break="no"/>cultate atque doctrina oportere addiscentes credere, 
+      <lb ed="#L" n="9"/>experimentis quippe cotidianis, hoc nos nullo 
+      admo<lb ed="#L" n="10" break="no"/>nente discimus, quod cognitionem ac rerum 
+      intelligen<lb ed="#L" n="11" break="no"/>tiam praecedit fides, subsequitur autem fidem scientia 
+      <lb ed="#L" n="12"/>quaecunqe veri. Qua ex re sit, vt naturae auctor in hominum 
+      <lb ed="#L" n="13"/>mentibus inclinationem ad credendum naturalem 
+      im<lb ed="#L" n="14" break="no"/>presserit: siquidem non minus fides necessaria est 
+      homi<lb ed="#L" n="15" break="no"/>nis &amp; vitae &amp; disciplinae, quam aut igni locus supremus, aut  
+      <lb ed="#L" n="16"/>terrae imus, vt bene habeant, necessarius est. His autem 
+      pro<lb ed="#L" n="17" break="no"/>pensiones quasdam &amp; quasi appetitiones natura indidit 
+      <lb ed="#L" n="18"/>ad fines &amp; perfectiones necessarias. Quamobrem qui 
+      hu<lb ed="#L" n="19" break="no"/>manam fidem ex hominum animis euellere conantur, ij 
+      <lb ed="#L" n="20"/>non solum stulti sunt, sed gigantum more cum diis 
+      bel<lb ed="#L" n="21" break="no"/>lant, hoc est, cum natura pugnant. An vero quicquam tam 
+      <lb ed="#L" n="22"/>puerile &amp; stultum dici potest, quam si ea, quae viderunt alij, 
+      <lb ed="#L" n="23"/>negemus esse: quia ipsi non vidimus? Credere igitur 
+      ne<lb ed="#L" n="24" break="no"/>cesse est, nisi pueris stultiores esse volumus. Quibus 
+      posi<lb ed="#L" n="25" break="no"/>tis sit prima conclusio. 
+      <lb ed="#L" n="26"/>Praeter auctores sacros nullus historicus certus esse 
+      po<lb ed="#L" n="27" break="no"/>test, id est, idoneus ad faciendam certam in Theologia 
+      <lb ed="#L" n="28"/>fidem. Haec, quoniam cuique per se est obuia &amp; manifesta,  
+      <lb ed="#L" n="29"/>non est nostris argumentationibus comprobanda. 
+      Flaui<lb ed="#L" n="30" break="no"/>us porro Vopiscus vere falseque dixit, neminem 
+      historico<lb ed="#L" n="31" break="no"/>rum non aliquid esse mentitum: vnde fidenter se 
+      histori<lb ed="#L" n="32" break="no"/>am aggredi habiturus mendaciorum comites. 
+      <lb ed="#L" n="33"/>Secunda conclusio. Historici graues ac fide digni, 
+      qua<lb ed="#L" n="34" break="no"/>les nonnulli sino dubio, &amp; in ecclesiasticis &amp; in 
+      seculari<lb ed="#L" n="35" break="no"/>bus fuere, probabile argumentum Theologo seppeditat, 
+      <lb ed="#L" n="36"/>cum ad ea quae sua sunt corroboranda, tum ad falsas 
+      aduer<lb ed="#L" n="37" break="no"/>sariorum opiniones refellendas. Quae conclusio satis per se 
+      <lb ed="#L" n="38"/>etiam videtur exposita. Nec enim est hominis bene 
+      insti<lb ed="#L" n="39" break="no"/>tuti, &amp; ad vitam humanam recte compositi, viro graui rem 
+      <!--579.xml-->
+      <pb ed="#L" n="568"/>
+               <lb ed="#L" n="1"/>credibilem asserenti non credere. Rem credibilem dixi, 
+      <lb ed="#L" n="2"/>quoniam quaedam a Plinio aliisque historicis vel 
+      grauissi<lb ed="#L" n="3" break="no"/>mis referuntur, quae cum vix credibilia sint, si ea fuisse 
+      <lb ed="#L" n="4"/>negemus: non ideo historiae auctoritatem labefacimus. 
+      <lb ed="#L" n="5"/>Vterque igitur &amp; qui cito credit, &amp; qui ad credendum 
+      ni<lb ed="#L" n="6" break="no"/>mium est tardus, iure reprehenditur. Multo vero hic 
+      ma<lb ed="#L" n="7" break="no"/>gis si cum pluribus historicis probatis grauibusque 
+      dissen<lb ed="#L" n="8" break="no"/>ierit. Si nanque in duorum ore, vel trium stat omne verbum, 
+      <lb ed="#L" n="9"/>cur aduersus hanc legem plurimis testibus rem eandem  
+      <lb ed="#L" n="10"/>olim gestam contestantibus fidem Theologus abrogabit? 
+      <lb ed="#L" n="11"/>Praesertim cum testimonia ex vetustate desumpta hoc 
+      <lb ed="#L" n="12"/>potentiora ad probandum sint, quod ea sola, vt Fabius 
+      <lb ed="#L" n="13"/>ait, criminibus odii gratiaeque vacant. Nimirum 
+      innocen<lb ed="#L" n="14" break="no"/>tius auctor est grauis, in humanis historiis nonnihil 
+      pro<lb ed="#L" n="15" break="no"/>pabilitatis inesse: cum lege edita praecepit, vt in causis 
+      ec<lb ed="#L" n="16" break="no"/>clesiae finiendis illarum auctoritate, quanuis caetera 
+      argu<lb ed="#L" n="17" break="no"/>menta deessent, ecclesiastici iudices vterentur. Sed 
+      ple<lb ed="#L" n="18" break="no"/>rique nostra hac aetate peruerse, ne dicam impudenter, 
+      <lb ed="#L" n="19"/>res, quas esse gestas grauissimi auctores testati sunt, in du 
+      <lb ed="#L" n="20"/>bium vocant. Qui si idoneas causas probabilesque redderent, 
+      <lb ed="#L" n="21"/>audiendi fortasse essent. Cum vero reddant nullas, 
+      contem<lb ed="#L" n="22" break="no"/>nendi sunt : vt qui communem hominum sensum exuerint, 
+      iu<lb ed="#L" n="23" break="no"/>diciorum humanorum potissima instrumenta, hoc est, 
+      te<lb ed="#L" n="24" break="no"/>stimonia reiecerint, vitae magistram, prudetie subsidium,  
+      <lb ed="#L" n="25"/>lucem veritatis historiam neglexerint.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1027-d1e314">
+               <lb ed="#L" n="26"/>Tertia conclusio. Si omnes probati ac graues historici 
+      <lb ed="#L" n="27"/>in eandem rem gestam concurrant, tunc ex horum 
+      aucto<lb ed="#L" n="28" break="no"/>ritate certum argumentum promitur, vt theologiae 
+      do<lb ed="#L" n="29" break="no"/>gmata firma etiam ratione constituantur. Exempla sunt 
+      <lb ed="#L" n="30"/>cius rei multa, sed pauca subiiciam. Petrum Romae &amp; col 
+      <lb ed="#L" n="31"/>locasse sedem, &amp; pro Christo martyrii gloria coronatum 
+      <lb ed="#L" n="32"/>esse, omnes graues historiae tradunt: vnde nos certa in 
+      quin<lb ed="#L" n="33" break="no"/>to libro argumentatione confecimus, Romanum 
+      episco<lb ed="#L" n="34" break="no"/>pum Petro in pontificatu succedere. Item, concilium 
+      Ni<lb ed="#L" n="35" break="no"/>caenum tempore Constantini, a Syluestro vero ecclesiae 
+      <lb ed="#L" n="36"/>pontifice esse coactum, historici quique, grauissimi 
+      prodi<lb ed="#L" n="37" break="no"/>dere. Ea nos e re colligimus concilii Niceni definitiones 
+      <lb ed="#L" n="38"/>certas esse. Quod certum sit, synodum ecclesiae generalam 
+      <lb ed="#L" n="39"/>Romano Pontifici conprobatam errare non posse : certum 
+      <!--580.xml-->
+      <pb ed="#L" n="569"/>
+               <lb ed="#L" n="1"/>quoque Nicenam eiusmodi esse, cui nec vniuersitas 
+      pasto<lb ed="#L" n="2" break="no"/>rum ecclesiae defuerit, nec Romani episcopi 
+      comproba<lb ed="#L" n="3" break="no"/>tio. Plurima sunt eiusmodi, quae communi historicorum 
+      com<lb ed="#L" n="4" break="no"/>sensione traduntur. Haec non modo negare, sed in his etiam 
+      <lb ed="#L" n="5"/>ad dubitare stultissimum est. Quid enim stultius esse 
+      po<lb ed="#L" n="6" break="no"/>test, vt eundem locum diutius vrgeam, quam si ea 
+      genera<lb ed="#L" n="7" break="no"/>pelluarum, quae in rubro mari Indianue gignuntur, nulla 
+      <lb ed="#L" n="8"/>esse dicamus: quia nuno vidimus? Omnia tollamus ergo,  
+      <lb ed="#L" n="9"/>si ita placet, quae aut historia nobis, aut testes graues &amp;  
+      <lb ed="#L" n="10"/>probati adferunt. Ita sit, vt mediterranei mare esse non 
+      cre<lb ed="#L" n="11" break="no"/>dant, nec in insula nati, in qua lepusculos vulpeculasque 
+      <lb ed="#L" n="12"/>solum viderint, credant leones &amp; pantheras esse: si vero 
+      <lb ed="#L" n="13"/>de elephanto quis dicat, etiam rideri se putent. Historiae 
+      <lb ed="#L" n="14"/>igitur fides vel certa fauenda est, cum in idem auctores 
+      vni<lb ed="#L" n="15" break="no"/>uersi consentiunt. Certa quippe apud homines ea sunt, quae 
+      <lb ed="#L" n="16"/>negari sine peruicacia &amp; stultitia non possunt. Praeclare 
+      <lb ed="#L" n="17"/>itaque Iosephus 1. contra Appionem lib. illud veritatis 
+      hi<lb ed="#L" n="18" break="no"/>storiae signum certum esse dixit, si de iisdem rebus eadem  
+      <lb ed="#L" n="19"/>omnes conscribant. Verum de his, licet breuiter, diximus 
+      <lb ed="#L" n="20"/>tamen quod satis est. Nam his paucis expositis, nisi ego 
+      <lb ed="#L" n="21"/>fallor, qualis quantaque sit historiae humanae auctoritas 
+      fa<lb ed="#L" n="22" break="no"/>cile intelligetur. Historia nimirum &amp; si, vt Quintilianus 
+      <lb ed="#L" n="23"/>ait, scripta est non ad probandum, sed ad narrandum: 
+      ali<lb ed="#L" n="24" break="no"/>quid tamen sine dubio probat, probabiliter fere: nam 
+      <lb ed="#L" n="25"/>aliquando etiam necessarie. Nunc argumenta contra 
+      hi<lb ed="#L" n="26" break="no"/>storiae fidem posita diluamus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

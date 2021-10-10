@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 12</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 12</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="859"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e1212"><!-- Z4Yt34-l12c12 -->
+            <head xml:id="Z4Yt34-d1e1212-Hd1e106">Caput 12</head>
+            <p xml:id="Z4Yt34-d1e1212-d1e109">
+               <lb ed="#L" n="10"/>Exemplum secundum, vbi Theologiae conclusio 
+      <lb ed="#L" n="11"/>in quaestionem vertitur. <sic>Caput 
+      <lb ed="#L" n="12"/>quartum decimum</sic>. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e121">
+               <lb ed="#L" n="13"/>Vanquam in singulis praecedentibus libris 
+      Luthera<lb ed="#L" n="14" break="no"/>Qnorum nos, malitia coegit, de vno aliquo Theolo¬ 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e128">
+               <lb ed="#L" n="15"/>giae principio disserere, atque adeo quaestionum, quae 
+      <lb ed="#L" n="16"/>praeter naturae ac disciplinae ordinem in controuersiam  
+      <lb ed="#L" n="17"/>veniunt multa exempla ponere, sed capite superiore tam  
+      <lb ed="#L" n="18"/>in eo pugnae, genere stulum. diligentius exercuimus, &amp; 
+      <lb ed="#L" n="19"/>quasi ad spectaculum liberiore disputatione lusimus. 
+      Ta<lb ed="#L" n="20" break="no"/>metsi non ludicrum hoc sed verum certamen fuit, quod 
+      <lb ed="#L" n="21"/>pectante orbe in Tridentino concilio certauimus. Vbi 
+      <lb ed="#L" n="22"/>patribus magnum lumen accendimus, tenebras 
+      aduersa<lb ed="#L" n="23" break="no"/>riorum dispulimus, Theologi visi sumus, audacius vero 
+      <lb ed="#L" n="24"/>fecimus quam, scholae auctores caeteri. Illi enimaeiune 
+      so<lb ed="#L" n="25" break="no"/>lent nullis ornamentis oratorijs adhibitis haereticorum 
+      <lb ed="#L" n="26"/>iensa rationesque referre: nos autem illa ipsa 
+      haeretico<lb ed="#L" n="27" break="no"/>rum, argumenta ita amplificauimus, auximus ornauimus,  
+      <lb ed="#L" n="28"/>1. &amp; quae arma inimici habent, acuisse videamur: &amp; quae 
+      <lb ed="#L" n="29"/>non habent, suppeditasse. Sed, quod alias sepe dixi, 
+      ve<lb ed="#L" n="30" break="no"/>xisas mendacium superat miris licet modis instructum &amp;  
+      <lb ed="#L" n="31"/>ornatum. Verum ne plus iusto volumen excrescat, non 
+      <lb ed="#L" n="32"/>ad eum moren reliqua copiose, exempla persequemur: sed 
+      <lb ed="#L" n="33"/>anguste &amp; contracte disputabimus, atque vtriusque 
+      par<lb ed="#L" n="34" break="no"/>tis argumenta pon omnia sed praecipua breuiter 
+      perstrin<lb ed="#L" n="35" break="no"/>gemus. 
+      <lb ed="#L" n="36"/>Agedum ergo illa sit nobis secundam questio, An Christi 
+      <lb ed="#L" n="37"/>anma statim abrnitio. creationis suae Deum clare viderit? 
+      <lb ed="#L" n="38"/>gunt enim invpranqe partum argumenta adeo probabilia, 
+      <!--871.xml-->
+      <pb ed="#L" n="860"/>
+               <lb ed="#L" n="1"/>vt neutra firme stabilita videatur. Bucerus porro negat 
+      <lb ed="#L" n="2"/>Christi animam fuisse a principio perfectam, Erasmus in 
+      <lb ed="#L" n="3"/>dubium Vocat, Theologi vix ostendunt. Qui vero 
+      infi<lb ed="#L" n="4" break="no"/>ciantur, ij huiusmodi argumentis vti possunt. Primum in 
+      <lb ed="#L" n="5"/>Christo fuit fides: sicut scriptum est, erit fides cinctorium 
+      <lb ed="#L" n="6"/>renum eius. Non ergo mens eius Videbat Deum, quoniam  
+      <lb ed="#L" n="7"/>fides argumentum est non apparentium. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e202">
+               <lb ed="#L" n="8"/>Dinde Christus spem habuit, quemadmodum ipse patri 
+      <lb ed="#L" n="9"/>loquens ait, spes mea ab vberibus matris meae. Quod autem 
+      <lb ed="#L" n="10"/>videt quis, quid sperat. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e212">
+               <lb ed="#L" n="11"/>Praeterea timuit, vt videre est apud Maccum, timor 
+      au<lb ed="#L" n="12" break="no"/>tem futuri &amp; incerti mali est Aristoteli. 2. Rhetoric. libr.  
+      <lb ed="#L" n="13"/>Non igitur videbat clare Deum, in quo nihil vt futurum 
+      <lb ed="#L" n="14"/>incertum ve cognoscitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e223">
+               <lb ed="#L" n="15"/>Praeterea creuit gratia non solum apud homines, sed 
+      e<lb ed="#L" n="16" break="no"/>tiam apud Deum. No itaque erat beatus nec videbat Deum, 
+      <lb ed="#L" n="17"/>quia beaticrescere in gratia non queunt. 
+      <lb ed="#L" n="18"/>In notitia insuper &amp; visione beata nulla rerum cognita 
+      <lb ed="#L" n="19"/>rum successio est. At Deus Christi animae quaedam 
+      demon<lb ed="#L" n="20" break="no"/>strabat, alia celabat postea demonstraturus, iuxta illud, 
+      <lb ed="#L" n="21"/>Pater omnia demonstrat filio, quae ipse facit, &amp; maiora his 
+      <lb ed="#L" n="22"/>demonstrabit ei opera. Et rursum de die illa nemo scit 
+      <lb ed="#L" n="23"/>nec filius. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e245">
+               <lb ed="#L" n="24"/>Praestantius item &amp; iucundius est gloriam &amp; honorem 
+      <lb ed="#L" n="25"/>consequi per opera digna, quam sine vllo omnino 
+      meri<lb ed="#L" n="26" break="no"/>to. Christus ergo animae suae felicitatem tanquam virtutis 
+      <lb ed="#L" n="27"/>praemium accepit. Quare non est in primo instanti 
+      visio<lb ed="#L" n="28" break="no"/>nem Dei consecutus. Meritum enim praemium accedit 
+      la<lb ed="#L" n="29" break="no"/>borque mercedem. Nec fieri potest, vt simul quis &amp; 
+      me<lb ed="#L" n="30" break="no"/>reatur beatitudinem &amp; beatus sit, nisssimul sit anima &amp; in 
+      <lb ed="#L" n="31"/>via &amp; in viae termino. Confirmant autem aroumentum hoc 
+      <lb ed="#L" n="32"/>sacrarum literarum testimonia plurima. Vt illud, Pro eo 
+      <lb ed="#L" n="33"/>quod laborauit anima eius Videbit &amp; saturabitur. 
+      Satia<lb ed="#L" n="34" break="no"/>bimur autem, cum apparuerit gloria Dei: Item. Dilexisti 
+      <lb ed="#L" n="35"/>ustitiam &amp; odisti iniquitatem, propterea vnxit te Deus 
+      <lb ed="#L" n="36"/>oleo laetitiae prae consortibus tuis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e276">
+               <lb ed="#L" n="37"/>Item, cum dixisset, Caro mea requiescet in spe: &amp; non  
+      <lb ed="#L" n="38"/>derelinques animam meam in inferno : subijcit Christus 
+      <lb ed="#L" n="39"/>ipse, Notas mihi fecistr vias vstae, adifsipsebis mne laetitia 
+      <!--872.xml-->
+      <pb ed="#L" n="861"/>
+               <lb ed="#L" n="1"/>cum vultu tuo. Non igitur ante mortem adimpleuerat 
+      <lb ed="#L" n="2"/>eum Deus laetitia vultus sui: qua de re ne ad faciem 
+      qui<lb ed="#L" n="3" break="no"/>dem videbat Deum. Item. Dignus est agnus, qui occisus 
+      <lb ed="#L" n="4"/>est accipere diuinitatem &amp; sapientiam: non ergo ante 
+      mor<lb ed="#L" n="5" break="no"/>tem acceperat, sed meritus est eas accipere moriendo.  
+      <lb ed="#L" n="6"/>Item, Ecce saluator tuus Venit, ecce merces eius cum 
+      <lb ed="#L" n="7"/>eo, &amp; opus illius coram illo. En merces, en opus, gloriam  
+      <lb ed="#L" n="8"/>ergo animae commeruit. Nam gloria corporis, tametsi 
+      mer<lb ed="#L" n="9" break="no"/>ces fuit operis sui Christo, non tamen fuit simul cum eo. 
+      <lb ed="#L" n="10"/>Item, Decebat, eum, propter quem omnia &amp; per quem 
+      o<lb ed="#L" n="11" break="no"/>mnia, qui multos filios in gloriam adduxerat, auctorem sa 
+      <lb ed="#L" n="12"/>lutis eorum per passionem consummari. Quid autem per 
+      <lb ed="#L" n="13"/>consummationem intelligat Paulus, quanquam nomen 
+      <lb ed="#L" n="14"/>ipsum prae se fert, in eadem epistola exponit inquiens, vt 
+      <lb ed="#L" n="15"/>non sine nobis consummarentur. Finem ergo suum 
+      Chri<lb ed="#L" n="16" break="no"/>stus per passionem adeptus est. 
+      <lb ed="#L" n="17"/> Postremo, non potest esse cum summo gaudio summa 
+      <lb ed="#L" n="18"/>tristitia coniuncta, at qui videt Deum, is maxime gaudet, 
+      <lb ed="#L" n="19"/>Christus vero maxime tristatus est, iuxta illud. Tristis 
+      <lb ed="#L" n="20"/>est anima mea, &amp; caetera. &amp; iterum, Repleta est malis 
+      ani<lb ed="#L" n="21" break="no"/>ma mea. Non ergo Deum videbat, nisi velis duo simul 
+      <lb ed="#L" n="22"/>contraria in eodem subiecto extitisse, eandemque animam 
+      <lb ed="#L" n="23"/>pariter &amp; repletam malis &amp; repletam laetitia cum Vultu 
+      <lb ed="#L" n="24"/>Dei. Haec videlicet sunt argumenta potissima, quaee 
+      <lb ed="#L" n="25"/>locis Theologiae contra veram Theologiae 
+      conclusio<lb ed="#L" n="26" break="no"/>nem depromuntur. Nam si quae sunt alia, vel facilia 
+      <lb ed="#L" n="27"/>sunt &amp; cuique in promptu parata, vel ad ea, quae posuimus,  
+      <lb ed="#L" n="28"/>omnia referuntur. Sed nihil mouere nos debet, vt ab 
+      scho<lb ed="#L" n="29" break="no"/>lae decreto recedamus. 
+      <lb ed="#L" n="30"/>Omnes autem Theologi definiunt, Christum ab instan 
+      <lb ed="#L" n="31"/>ti conceptiones Dei essentiam vidisse. Quae conclusio, licet 
+      <lb ed="#L" n="32"/>sola Theologorum auctoritate probaretur, satis firma 
+      ha<lb ed="#L" n="33" break="no"/>benda esset, quemadmodum libr. 8. constituimus, sed his 
+      <lb ed="#L" n="34"/>quoque argumentis demonstratur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e363">
+               <lb ed="#L" n="35"/>Primum ex illo, vidimus gloriam eius, gloriam quasi 
+      <lb ed="#L" n="36"/>vnigeniti a patre. Quo loco Diuus Thomas aduertit, 
+      <lb ed="#L" n="37"/>gloriam animae Christi ex personali vnione verbi &amp; 
+      ani<lb ed="#L" n="38" break="no"/>mae esse deriuatam. Id enim Euangelista non obscure 
+      si<lb ed="#L" n="39" break="no"/>gnificat, cum Voce eadem repetita ait, Gloriam quasi 
+      <!--873.xml-->
+      <pb ed="#L" n="862"/>
+               <lb ed="#L" n="1"/>vnigeniti a patre. Illani sane animam talem existimemus 
+      <lb ed="#L" n="2"/>necesse est, qualem decebat eam esse? quae esset Deo 
+      <lb ed="#L" n="3"/>coniuncta vel maxime. Nimirum vndecunque perfectam,  
+      <lb ed="#L" n="4"/>omnibusque omnino numeris absolutam. Quod qui non  
+      <lb ed="#L" n="5"/>sentiat, hic de vnione personali Dei &amp; hominis 
+      stultis<lb ed="#L" n="6" break="no"/>sime sentiat. Iam si anima Christi vnita verbo non 
+      fuis<lb ed="#L" n="7" break="no"/>set glorificata, fuisset profecto imperfecta. Magna 
+      quip<lb ed="#L" n="8" break="no"/>pe humanae menti perfectio deest, si felicitas deest. Ac 
+      <lb ed="#L" n="9"/>videre Deum per speculum in aenigmate imperfecti homi 
+      <lb ed="#L" n="10"/>nis esse, testis est Paulus in haec verba, Cum Venerit quod 
+      <lb ed="#L" n="11"/>perfectum est euacumabitur quod ex parte est. Cum 
+      es<lb ed="#L" n="12" break="no"/>sem paruulus, loquebar vt paruulus, sapiebam vt 
+      paruu<lb ed="#L" n="13" break="no"/>lus: quando autem factus sum vir, euacuaui quae erant 
+      <lb ed="#L" n="14"/>paruuli. Videmus nunc per speculum in aenigmate, tunc 
+      <lb ed="#L" n="15"/>autem facie ad faciem. Nunc cognosco ex parte, &amp; caet. 
+      <lb ed="#L" n="16"/>Quia igitur ab vtero Christus non sapiebat vt paruulus, 
+      <lb ed="#L" n="17"/>sed vir omnino perfectus erat, ab vtero quoque Deum 
+      fa<lb ed="#L" n="18" break="no"/>cie ad faciem videbat. Id quod Hieremias praedixit 
+      in<lb ed="#L" n="19" break="no"/>quiens, Nouum creauit dominus super terram: foemina 
+      <lb ed="#L" n="20"/>circundabit virum. Adde, quod cui communicator esse, 
+      <lb ed="#L" n="21"/>ei etiam communicatur propria rei operatio, quae 
+      conse<lb ed="#L" n="22" break="no"/>quitur esse. Vt cui datur esse ignitum, eidem quoque 
+      da<lb ed="#L" n="23" break="no"/>tur vt calefaciat, &amp; cui daretur esse solis, is sine dubio 
+      il<lb ed="#L" n="24" break="no"/>luminaret. At propria Dei actio est videre seipsum : hac 
+      <lb ed="#L" n="25"/>enim visione beatus est: ergo cum anima Christi haberet 
+      <lb ed="#L" n="26"/>esse diuinum, habebat item suo modo diuinae naturae 
+      <lb ed="#L" n="27"/>propriam actionem, atque adeo videbat Deum. Adde 
+      e<lb ed="#L" n="28" break="no"/>tia, quod maior erat vnio animae Christi cum verbo, quam  
+      <lb ed="#L" n="29"/>vnio beatorum, sed ex hac existit claritas in intellectu, bea 
+      <lb ed="#L" n="30"/>ti vt Deum videat: ergo multo magis ex illa talis claritas 
+      <lb ed="#L" n="31"/>orietur. Id. D. Thom. hac ratione confirmat. Quanto 
+      re<lb ed="#L" n="32" break="no"/>ceptiuum propinquius est causae influenti, tanto abundan 
+      <lb ed="#L" n="33"/>tius &amp; plenius recipit influentiam eius. Sed mens 
+      Chri<lb ed="#L" n="34" break="no"/>sti propinquior erat causae luminis gloriae quam omnes 
+      <lb ed="#L" n="35"/>angeli beati: plenius ergo atque perfectius cognoscebat 
+      <lb ed="#L" n="36"/>Deum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e459">
+               <lb ed="#L" n="37"/>Argumentatur praeterea. D. Tho. gloriam in anima fie 
+      <lb ed="#L" n="38"/>ri ex eo quod diuinitas sit praesens intellectui, sicut lume 
+      <lb ed="#L" n="39"/>in aere ex praesentia solis. Quia enim gloria Dei ingre¬ 
+      <!--874.xml-->
+      <pb ed="#L" n="863"/>
+               <lb ed="#L" n="1"/>diebatur per viam orientalem, terra splendebat a 
+      maie<lb ed="#L" n="2" break="no"/>state eius. Cum ergo lux ipsa non solum ingressa fuerit 
+      <lb ed="#L" n="3"/>in animam Christi, sed ei fuerit in idem esse personale 
+      <lb ed="#L" n="4"/>coniuncta: claritas gloriosa inde secuta est, vt splendor 
+      <lb ed="#L" n="5"/>sequitur solem. Praeterea Deus attingitur a natura 
+      intel<lb ed="#L" n="6" break="no"/>lectuali per cognitionem &amp; amore, at anima Christi 
+      pro<lb ed="#L" n="7" break="no"/>pinquissime attingebat Deum, quia erat Deo 
+      propinquis<lb ed="#L" n="8" break="no"/>sima, ergo eius propriae actiones, notitia &amp; amor, non 
+      <lb ed="#L" n="9"/>longe sed proxime Deum attingebant. Mens vero cum 
+      <lb ed="#L" n="10"/>est viatrix, peregrinatur a domino a longeque 
+      repromis<lb ed="#L" n="11" break="no"/>siones aspicit: cum autem videt per specie, praesens est &amp; 
+      pro<lb ed="#L" n="12" break="no"/>pinqua, vt ad Corinthios &amp; Hebr. tradit Apostolus. Si 
+      <lb ed="#L" n="13"/>ergo anima Christi peregrina &amp; hospes erat super 
+      ter<lb ed="#L" n="14" break="no"/>ram, certe non erat Deo per cognitionem proxima: sed 
+      <lb ed="#L" n="15"/>angeli erant Deo proximiores. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e506">
+               <lb ed="#L" n="16"/>Nec me fugit posse a calumniantibus obiici, aliud esse 
+      <lb ed="#L" n="17"/>quod res sit praesens animae secundum esse reale, aliud 
+      <lb ed="#L" n="18"/>quod sit praesens secundum esse intelligibile. Anima 
+      <lb ed="#L" n="19"/>enim nostra intellectui nostro coniunctissima est, si esse 
+      <lb ed="#L" n="20"/>reale consideres. Sed quia coniuncta non est secundum 
+      <lb ed="#L" n="21"/>esse intelligibile, videre eam in se, quamdiu mortali 
+      cor<lb ed="#L" n="22" break="no"/>pore circundamur, non valemus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e524">
+               <lb ed="#L" n="23"/>At haec obiectio haberet fortasse locum, si filius Dei 
+      <lb ed="#L" n="24"/>animae rationali perinde vt lapidi aut stipiti fuisset 
+      vni<lb ed="#L" n="25" break="no"/>tus, nec in vnione illa esse inteliectuale primo spectatum 
+      <lb ed="#L" n="26"/>exquisitumque fuisset. Verum patres ecclesiae veteres 
+      <lb ed="#L" n="27"/>mentem potissime assumptam credidere, per mentem 
+      <lb ed="#L" n="28"/>animam, per animam vel ipsam carnem. Augustinus in 
+      li<lb ed="#L" n="29" break="no"/>de ago. Christia. Inuisibilis, ait &amp; incommutabilis 
+      veri<lb ed="#L" n="30" break="no"/>tas per spiritum animam, &amp; per animam corpus accepit. 
+      <lb ed="#L" n="31"/>Et in epist. ad Volusianum, ipsa magnitudo, inquit, 
+      diui<lb ed="#L" n="32" break="no"/>nae virtutis animam sibi rationalem, &amp; per eandem 
+      cor<lb ed="#L" n="33" break="no"/>pus humanum totumque omnino hominem in melius 
+      <lb ed="#L" n="34"/>mutandum coaptauit. Ac Damasce. in 3. lib. vnitum esse 
+      <lb ed="#L" n="35"/>ait carni per medium intellectum verbum Dei. Quam  
+      <lb ed="#L" n="36"/>rem D. Tho. 3. p. 4. 6. diuine, vt omnia explicauit. Atque 
+      <lb ed="#L" n="37"/>haec causa, ni fallor, euangelistae fuit, cur non diceret, aut 
+      <lb ed="#L" n="38"/>filium, aut vitam aut lucem, sed verbum carnem factum  
+      <lb ed="#L" n="39"/>esse. Verbum enim prolem mentis aperte significat, &amp;  
+      <!--875.xml-->
+      <pb ed="#L" n="864"/>
+               <lb ed="#L" n="1"/>naturam intellectualem prae se fert. Quorsum autem 
+      Io<lb ed="#L" n="2" break="no"/>annes diceret, primum intelligibile, hoc est, verbum ex- 
+      <lb ed="#L" n="3"/>tremo illi, id est, carni se iunxisse, nisi vt moneret, 
+      Sapi<lb ed="#L" n="4" break="no"/>entiam Dei attigisse quidem a fine vsque ad finem 
+      forti<lb ed="#L" n="5" break="no"/>ter, sed disposuisse tamen omnia suauiter, &amp; carnem sibi 
+      <lb ed="#L" n="6"/>propter animam vniuisse. Etenim quod per se 
+      intelligi<lb ed="#L" n="7" break="no"/>bile erat, id cui se prius quam intellectui mentique, 
+      coniun<lb ed="#L" n="8" break="no"/>peret? Nempe ex fine assumptionis liquido apparet, quid 
+      <lb ed="#L" n="9"/>Dei verbum in ea coniunctione expetierit. De qua re 
+      <lb ed="#L" n="10"/>quoniam non ita multo post latius dicturus sum, nunc 
+      <lb ed="#L" n="11"/>illud satis est, finem hominis Dei notitia constare. Qui 
+      <lb ed="#L" n="12"/>ergo factus est homo, vt hominem ad finem suum, id est,  
+      <lb ed="#L" n="13"/>claram Dei cognitionem duceret, is mentem sibi praecipue 
+      <lb ed="#L" n="14"/>coniunxit, qua finis praenoscitur, quaeritur, possidetur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e598">
+               <lb ed="#L" n="15"/>Hoc vero illa etiam argumentatio confirmat, Filius 
+      <lb ed="#L" n="16"/>Dei in hoc natus est, &amp; ad hoc venit in mundum, vt 
+      testi<lb ed="#L" n="17" break="no"/>monium perhiberet veritati. Ecce, ait, testem populis dedi 
+      <lb ed="#L" n="18"/>eum, ducem ac praeceptorem gentibus. Vt autem testis 
+      <lb ed="#L" n="19"/>perfectus sit, illa res in eo prima quaeritur: vt hoc probe 
+      <lb ed="#L" n="20"/>cognoscat &amp; teneat, de quo testimonium est laturus. Si 
+      <lb ed="#L" n="21"/>dux itidem &amp; praeceptor consummatus quispiam 
+      haben<lb ed="#L" n="22" break="no"/>dus est, scire illum oportet &amp; finem, quo ducat, &amp; 
+      veri<lb ed="#L" n="23" break="no"/>tatem omnino, quam doceat. At Christus testis veritatis 
+      <lb ed="#L" n="24"/>erat a patre dux &amp; praeceptor constitutus, quocirca 
+      ne<lb ed="#L" n="25" break="no"/>cesse erat, vt a Dei verbo mens potissimum &amp; ratio homi 
+      <lb ed="#L" n="26"/>nis in ipsa vnione perficerentur. Nec laborare diu opus 
+      <lb ed="#L" n="27"/>est, vt inuenias, quando apostoli gloriam quasi 
+      vnigeni<lb ed="#L" n="28" break="no"/>ti a patre viderint, cum Petrus id significantissimis 
+      ver<lb ed="#L" n="29" break="no"/>bis patefaciat. Non indoctas fabulas secuti, ait, notam  
+      <lb ed="#L" n="30"/>facimus domini nostri Iesu Christi virtutem &amp; 
+      praesen<lb ed="#L" n="31" break="no"/>tiam, sed speculatores facti illius magnitudinis. 
+      Accipi<lb ed="#L" n="32" break="no"/>ens enim a Deo patre honorem &amp; gloriam voce delapsa 
+      <lb ed="#L" n="33"/>ad eum huiuscemodi a magnifica gloria. Hic est filius 
+      <lb ed="#L" n="34"/>meus dilectus, in quo mihi complacui, ipsum audite: &amp;  
+      <lb ed="#L" n="35"/>hanc vocem nos audiuimus de caelo allatam, cum 
+      esse<lb ed="#L" n="36" break="no"/>mus in monte sancto cum ipso. Virtutem &amp; potentiam  
+      <lb ed="#L" n="37"/>vocat, qua verbum caro factum est: praesentiam vero, qua 
+      <lb ed="#L" n="38"/>habitauit in nobis, at virtutem &amp; praesentiam simul, quia 
+      <lb ed="#L" n="39"/>filius hominis erat in caelo, hoc est, eius anima videbat 
+      <!--876.xml-->
+      <pb ed="#L" n="865"/>
+               <lb ed="#L" n="1"/>Deum, &amp; uiuebat tamen in mortali corpore super 
+      ter<lb ed="#L" n="2" break="no"/>rami Ita enim praenunciauerat Dauid in paucissima 
+      ver<lb ed="#L" n="3" break="no"/>ba, Beatum faciet eum in terra. Nam quod beatus aliquis 
+      <lb ed="#L" n="4"/>quasi transiens fuerit in terra, in scripturis saepe legimus. 
+      <lb ed="#L" n="5"/>Sed quod habitauerit in nobis quasi colonus &amp; quasi 
+      vi<lb ed="#L" n="6" break="no"/>ator declinans ad manendum, haec praesentia potentiae 
+      <lb ed="#L" n="7"/>miraculum est. Sane viderunt gloriam animae in corpore 
+      <lb ed="#L" n="8"/>tanquam in speculo, ideo apte dixit, speculantes, gloriam 
+      <lb ed="#L" n="9"/>autem quasi vnigeniti in voce delapsa a magnifica gloria, 
+      <lb ed="#L" n="10"/>Hic est, &amp;c. Testis oculatus est, Ipsum audite: doctor 
+      ve<lb ed="#L" n="11" break="no"/>ritatis exploratae ac visae est, Ipsum audite: dux est, qui 
+      <lb ed="#L" n="12"/>&amp; viam sciat &amp; terminum sciat, Ipsum audite atque adeo 
+      <lb ed="#L" n="13"/>videte &amp; contrectate: nam habitat in vobis, quanuis 
+      glo<lb ed="#L" n="14" break="no"/>ria ea sit apud me, quam in praesentia cernitis. Sed de 
+      pri<lb ed="#L" n="15" break="no"/>mo Ioannis testimonio nimium multa. Secundum 
+      prin<lb ed="#L" n="16" break="no"/>cipale testimonium pro ea conclusione comprobanda 
+      <lb ed="#L" n="17"/>illud est, Verbum habitauit in nobis plenum gratiae &amp;  
+      <lb ed="#L" n="18"/>veritatis. Vnde D. Tho. bifariam colligit. Siue enim 
+      ple<lb ed="#L" n="19" break="no"/>nitudinem gratiae in Christi anima ponas siue 
+      plenitudi<lb ed="#L" n="20" break="no"/>nem veritatis: vtrinque conficitur, eam Dei essentiam 
+      vi<lb ed="#L" n="21" break="no"/>disse. Gratia quippe viae in ordine ad gratiam patriae 
+      im<lb ed="#L" n="22" break="no"/>perfecta est, tantumque deficit a plenitudine, quantum a 
+      <lb ed="#L" n="23"/>perfectione deficit. Quare si imperfecta gratia in Christo 
+      <lb ed="#L" n="24"/>fuit, non fuit nimirum gratia plenus. Obiicit autem, 
+      Bea<lb ed="#L" n="25" break="no"/>tam virginem, dum vitam etiam mortalem degeret, 
+      ple<lb ed="#L" n="26" break="no"/>nam gratia fuisse, nec vidisse tamen Deum. Verum hunc 
+      <lb ed="#L" n="27"/>scrupulum eximit. 3. p. 4. 7. ar. 10. Non enim fuit 
+      Chri<lb ed="#L" n="28" break="no"/>stus gratia plenus ex parte, sed omni modo, vt arti. 1. &amp; 9. 
+      <lb ed="#L" n="29"/>eiusdem quaestionis ostenderat. Nempe in ipso 
+      compla<lb ed="#L" n="30" break="no"/>cuit omnem plenitudinem inhabitare pacificans, &amp;c. Et 
+      <lb ed="#L" n="31"/>iterum, In ipso inhabitat omnis plenitudo diuinitatis 
+      <lb ed="#L" n="32"/>corporaliter. Nulla ergo ei gratiae perfectio aut 
+      plenitu<lb ed="#L" n="33" break="no"/>do defuit. Ita habuit gratiam consummatam, cum qua 
+      <lb ed="#L" n="34"/>gloria animae coniuncta &amp; colligata est. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e733">
+               <lb ed="#L" n="35"/>Quod autem anima illa habuerit scientiae ac veritatis 
+      <lb ed="#L" n="36"/>plenitudinem, probat 3. p. 4. 9. ar. 1. &amp; 2. q. item 1O. ar. 4. 
+      <lb ed="#L" n="37"/>Videlicet non in Christo omnis plenitudo inhabitasse, 
+      <lb ed="#L" n="38"/>quia plenitudo ei scientiae defuisset. Iam, cum Venit 
+      <lb ed="#L" n="39"/>quod plenum &amp; perfectum est, euacuatur quod ex parte 
+      <!--877.xml-->
+      <pb ed="#L" n="866"/>
+               <lb ed="#L" n="1"/>est. Non igitur cognoscebat ex parte anima Christi 
+      <lb ed="#L" n="2"/>Deum, sed plenem atque perfecte. Quocirca non erat in 
+      <lb ed="#L" n="3"/>ca fides, sed visio.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e757">
+               <lb ed="#L" n="4"/>Atqui huius argumenti vim &amp; neruos omneis 
+      Caieta<lb ed="#L" n="5" break="no"/>nus frangit, cum probabili ratione contendit, legi 
+      opor<lb ed="#L" n="6" break="no"/>tere: Plenus gratiae &amp; veritatis Ioannes testimonium 
+      <lb ed="#L" n="7"/>perhibet de his. Frangeret sane, si probabilis sententia 
+      <lb ed="#L" n="8"/>esset. Veruin vulgata editione reprehensa, graecis 
+      lati<lb ed="#L" n="9" break="no"/>nisque exemplaribus reiectis, interpretibus suggillatis,  
+      <lb ed="#L" n="10"/>sanctis expositoribus explosis, quid probabile fore 
+      <lb ed="#L" n="11"/>putamus? Ecclesia certe melius intellexit verba illa,  
+      <lb ed="#L" n="12"/>Et vidimus gloriam eius gloriam quasi vnigeniti a 
+      pa<lb ed="#L" n="13" break="no"/>tre, per parenthesim fuisse interiecta: cum ait, 
+      Ver<lb ed="#L" n="14" break="no"/>bum caro factum est, &amp; habitauit in nobis, cuius 
+      glo<lb ed="#L" n="15" break="no"/>riam vidimus quasi vnigeniti a patre plenum gratiae &amp;  
+      <lb ed="#L" n="16"/>veritatis. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e788">
+               <lb ed="#L" n="17"/>Tertium pro illa conclusione testimonium mox in 
+      <lb ed="#L" n="18"/>eodem euangelio sequitur, Et de plenitudine eius nos 
+      <lb ed="#L" n="19"/>omnes accepimus, quia gratia &amp; veritas per Iesum 
+      Chri<lb ed="#L" n="20" break="no"/>stui facta est. Quae sententia superiori connexa, nisi 
+      <lb ed="#L" n="21"/>caeci sumus, apertissime ostendit, verba ea, Plenum 
+      gra<lb ed="#L" n="22" break="no"/>tiae &amp; veritatis, ad Christum esse referenda. Sed hac re 
+      <lb ed="#L" n="23"/>missa, id, quod instat, agamus. Accepit igitur Christus 
+      <lb ed="#L" n="24"/>gratiam &amp; veritatem, vt ex eo gratia in omnes &amp; veritas 
+      <lb ed="#L" n="25"/>emanarent. Habuit itaque maximam &amp; perfectissimam  
+      <lb ed="#L" n="26"/>gratiam ac veritatem. Quia enim sol lucem habuit, vt inde 
+      <lb ed="#L" n="27"/>omnia lumen acciperent, habuit nimirum maximam &amp;  
+      <lb ed="#L" n="28"/>perfectissimam lucem. Quare sicut perfectissima lux 
+      <lb ed="#L" n="29"/>omnes lucis effectus edere potest perfectissimaque 
+      iusti<lb ed="#L" n="30" break="no"/>tia omnes effectus iustitiae, sic Christi gratia &amp; veritas 
+      <lb ed="#L" n="31"/>omnes habebant gratiae &amp; veritatis effectus. Vnde 
+      Dio<lb ed="#L" n="32" break="no"/>nysius ait, solem, quia vniuersalis causa generationis est,  
+      <lb ed="#L" n="33"/>ad ea omnia sua virtute se extendere, quae sub 
+      genera<lb ed="#L" n="34" break="no"/>tione cadunt. At effectus praecipuus gratiae &amp; veritatis 
+      <lb ed="#L" n="35"/>consummatae est videre Deum. 
+      <lb ed="#L" n="36"/>Praeterea, salus humanae naturae finis fuit humanitatis 
+      <lb ed="#L" n="37"/>assumptae. Per hanc enim tanquam per instrumentum 
+      <lb ed="#L" n="38"/>operatus est Deus salutem in medio teriae. Vnde &amp; 
+      Chri<lb ed="#L" n="39" break="no"/>stum Apostolus scribit multos filios in gloriam adduxisse 
+      <!--878.xml-->
+      <pb ed="#L" n="867"/>
+               <lb ed="#L" n="1"/>auctorem salutis eorum. Et alio loco, Misit Deus filium 
+      <lb ed="#L" n="2"/>suum, inquit, vt adoptionem filiorum reciperemus. 
+      In<lb ed="#L" n="3" break="no"/>strumenti vero dispositio &amp; qualitas praecipue quidem  
+      <lb ed="#L" n="4"/>pensatur ex fine. Salus autem animae intellectu sano 
+      con<lb ed="#L" n="5" break="no"/>stat &amp; voluntate sana. At voluntas per gratiam sanatur,  
+      <lb ed="#L" n="6"/>intellectus per veritatem. Perfectam igitur oportuit 
+      ha<lb ed="#L" n="7" break="no"/>buisse &amp; gratiam &amp; veritatem eum, per quem caeteris 
+      o<lb ed="#L" n="8" break="no"/>mnibus salus futura erat, omnisque, omnino &amp; gratia &amp; 
+      ve<lb ed="#L" n="9" break="no"/>ritas. Quia principium in vnoquoque genere oportet esse 
+      <lb ed="#L" n="10"/>perfectum, sicut solem Videmus in genere lucidorum, 
+      <lb ed="#L" n="11"/>lgnem in genere calidorum. Aprincipio ergo Christi 
+      <lb ed="#L" n="12"/>voluntas perfecte amabat Deum ex gratia perfecta, &amp;  
+      <lb ed="#L" n="13"/>perfecte cognoscebat ex perfecta veritate. Iam 
+      felici<lb ed="#L" n="14" break="no"/>tas animae in perfectis Dei &amp; amore &amp; cognitione sita 
+      <lb ed="#L" n="15"/>est. Felix itaque erat ab initio Christi anima ideoque 
+      vi<lb ed="#L" n="16" break="no"/>debat Deum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e880">
+               <lb ed="#L" n="17"/>Praeterea illud quod est in potentia reducitur in actum, 
+      <lb ed="#L" n="18"/>per id quod est in actu, oportet enim esse lucidum, per 
+      <lb ed="#L" n="19"/>quod illustrantur alia. 
+      <lb ed="#L" n="20"/>Cum ergo per Christum gratiam, veritatem, gloriam  
+      <lb ed="#L" n="21"/>caeteri essent habituri, ipse profecto simulatque caeteros 
+      il<lb ed="#L" n="22" break="no"/>lum ad finem mouere coepit, &amp; gratiam habuit, &amp; 
+      verita<lb ed="#L" n="23" break="no"/>tem, &amp; gloriam. Eam vero motionem ab initio nimirum 
+      <lb ed="#L" n="24"/>inchoauit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e900">
+               <lb ed="#L" n="25"/>Ea demum, quae a primis causis mouentur in finem, 
+      <lb ed="#L" n="26"/>quadam solent, temporis successione perfici: at causae 
+      <lb ed="#L" n="27"/>ipsae mouentes a principio statim suam largiente 
+      proui<lb ed="#L" n="28" break="no"/>denteque natura perfectionem habent. Vt ignis cum 
+      sub<lb ed="#L" n="29" break="no"/>stantia calorem accepit, aqua paulatim fit calida. Coelestia 
+      <lb ed="#L" n="30"/>quoque corpora mox omnino suas virtutes accepere, 
+      <lb ed="#L" n="31"/>quibus in tempore res terrestres inferioresque perficerent. 
+      <lb ed="#L" n="32"/>Deus ergo, qui per Christi humanitatem, &amp; gratiam, &amp;  
+      <lb ed="#L" n="33"/>gloriam erat omnibus communicaturus, eas licet res 
+      cae<lb ed="#L" n="34" break="no"/>teris in tempore largiatur, at Christi animae ab initio 
+      sta<lb ed="#L" n="35" break="no"/>tim contulit. Nam cur non corpori gloriam ab intio 
+      da<lb ed="#L" n="36" break="no"/>ret, causae sunt in promptu expeditae. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e929">
+               <lb ed="#L" n="37"/>Quartum pro illa conclusione testimonium euestigio 
+      <lb ed="#L" n="38"/>subditur. Deum nemo vidit vnquam: vnigenitus, qui 
+      <lb ed="#L" n="39"/>est in sinu patris, ipse enarrauit. Vbi in homine piscatore 
+      <!--879.xml-->
+      <pb ed="#L" n="868"/>
+               <lb ed="#L" n="1"/>videre licet, &amp; rerum contextum admirabilem, &amp; 
+      com<lb ed="#L" n="2" break="no"/>positonem disciplinae incredibilem. Quod vt perspicias 
+      <lb ed="#L" n="3"/>lector, quaeso diligenter attende. Nullum porro fidei 
+      ne<lb ed="#L" n="4" break="no"/>gotium rite transigitur, si omnes testes auriti sint, 
+      ocula<lb ed="#L" n="5" break="no"/>tus nullus. Quin vt Augustinus ait, auritis credimus, quia 
+      <lb ed="#L" n="6"/>audierunt a fide dignis, qui oculis suis rem se vidisse 
+      te<lb ed="#L" n="7" break="no"/>stificarentur. Cum ergo Moyses &amp; Ioannes Baptista pri 
+      <lb ed="#L" n="8"/>mus &amp; postremus e lege antiqua atque adeo prophetae 
+      o<lb ed="#L" n="9" break="no"/>mnes, e noua item lege Apostoli Christi testes fuerint ex 
+      <lb ed="#L" n="10"/>auditu vniuersi, oportuit vnum esse pro omnibus, qui 
+      <lb ed="#L" n="11"/>ex visu testimonium daret. Testis autem eiusmodi, qui 
+      <lb ed="#L" n="12"/>non pro mille dico esset, sed pro mille millibus, esse non  
+      <lb ed="#L" n="13"/>poterat, nisi &amp; iustus esset, ne scilicet vellet fallere, &amp;  
+      <lb ed="#L" n="14"/>sapiens etiam, ne ipse vtique falleretur. Quocirca 
+      ne<lb ed="#L" n="15" break="no"/>cesse fuit plenum fuisse gratia &amp; veritate, ne quicquam 
+      <lb ed="#L" n="16"/>in optimo &amp; absolutissimo teste desideraremus. Etenim 
+      <lb ed="#L" n="17"/>quia gratia plenus, iustissimus erat, quia plenus veritate, 
+      <lb ed="#L" n="18"/>veracissimus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e981">
+               <lb ed="#L" n="19"/>Quia igitur plenitudo testificationis &amp; absoluta 
+      om<lb ed="#L" n="20" break="no"/>nino perfectio ex visu est, ideoque ex auditu testis plenus 
+      <lb ed="#L" n="21"/>veritate non est, cum scriptura de Ioanne dixisset, Non 
+      <lb ed="#L" n="22"/>erat ille lux, sed vt testimonium perhiberet de luce, de 
+      <lb ed="#L" n="23"/>Christo vero, Erat lux vera, &amp;c. &amp; de Moyse, lex per 
+      <lb ed="#L" n="24"/>Moysen data est, illa etiam illico nexuit. De plenitudine 
+      <lb ed="#L" n="25"/>eius omnes, Moyses, Ioannes, Prophetae, Apostoli, 
+      pror<lb ed="#L" n="26" break="no"/>susque testes in vniuersum omnes accepimus. Quia &amp; lux 
+      <lb ed="#L" n="27"/>erat, &amp; plenus gratia &amp; veritate erat, &amp; gratia &amp; veritas 
+      <lb ed="#L" n="28"/>per eum facta erat, &amp; denique testis ex visu erat. Deum 
+      <lb ed="#L" n="29"/>quippe nemo vidit vnquam, nec Moyses, nec Ioannes, 
+      <lb ed="#L" n="30"/>nec prophetae, nec Apostoli, nec euangelista: vnigenitus,  
+      <lb ed="#L" n="31"/>qui est in sinu patris, qui vidit arcana, ipse enarrauit. Ne 
+      <lb ed="#L" n="32"/>vero hoc ad diuinitatem filij, non etiam ad humanitatem 
+      refe<lb ed="#L" n="33" break="no"/>ratur, tun ratio prohibet, tun auctoritas. Ratio illa est, quod 
+      <lb ed="#L" n="34"/>Christus testis veritatis erat a patre destinatus, non solum 
+      <lb ed="#L" n="35"/>quia Deus, sed quia homo. Quare ex vtraque natura opus 
+      <lb ed="#L" n="36"/>erat testimonium esse perfectum. Auctoritas eiusdem Christi 
+      <lb ed="#L" n="37"/>est, qui hanc re postea manifestius exposuit inquiens, Amen 
+      <lb ed="#L" n="38"/>amen dico tibi, quia quod scimus, loquimur, &amp; quod 
+      vi<lb ed="#L" n="39" break="no"/>dimus, testamur &amp;c. Et protinus, Nemo ascendit in coe¬ 
+      <!--880.xml-->
+      <pb ed="#L" n="869"/>
+               <lb ed="#L" n="1"/>Ium, nisi qui descendit de coelo, Filius hominis qui est 
+      <lb ed="#L" n="2"/>in coelo. Quo loco vere Caietanus &amp; diligenter 
+      ad<lb ed="#L" n="3" break="no"/>uertit, verbum, Ascendit, non praesentis, sed praeteriti 
+      <lb ed="#L" n="4"/>temporis esse, quae res ex Graeco exemplari patet. Quod 
+      <lb ed="#L" n="5"/>enim Ioannes ante dixerat, Deum nemo vidit vnquam, id 
+      <lb ed="#L" n="6"/>nunc alijs verbis Christus ait, Nemo ascendit in coelum. 
+      <lb ed="#L" n="7"/>Tunc enim homo secundum animam in coelo esse 
+      dici<lb ed="#L" n="8" break="no"/>tur, quum videt Deum. Quo sensu latroni dictum est,  
+      <lb ed="#L" n="9"/>Hodie mecum eris in paradiso. Et angeli in custodiam  
+      <lb ed="#L" n="10"/>hominum diffiniti, quia semper vident faciem patris, qui 
+      <lb ed="#L" n="11"/>in coelis est, semper quoque in coelis esse dicuntur, 
+      quam<lb ed="#L" n="12" break="no"/>uis in terra saepe sint. Ante Christum ergo, sicut nemo 
+      <lb ed="#L" n="13"/>viderat Deum, ita nemo in coelum ascenderat. Vt autem 
+      <lb ed="#L" n="14"/>quasi manu tangeres, sermonem de Christo secundum 
+      <lb ed="#L" n="15"/>naturam humanam fieri, apposite subiunctum est, Filius 
+      <lb ed="#L" n="16"/>hominis, qui est in caelo. In quam sententiam patri ipse 
+      <lb ed="#L" n="17"/>postea locutus est, Volo pater, vt vbi sum ego &amp; illi sint 
+      <lb ed="#L" n="18"/>mecum, vt videant claritatem meam, quam dedisti mihi. 
+      <lb ed="#L" n="19"/>Nec Baptista hanc Christi in testificando perfectionem 
+      <lb ed="#L" n="20"/>tacuit, imo in hac quoque re suum a Christi tessimonio 
+      <lb ed="#L" n="21"/>excelli professus est inquiens, Quod vidit &amp; audiuit, hoc 
+      <lb ed="#L" n="22"/>testatur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1081">
+               <lb ed="#L" n="23"/>Nec vero inscius sum veteres Theologos haec fere 
+      lo<lb ed="#L" n="24" break="no"/>ca ad Christi diuinitatem retulisse, secundum quam Chri 
+      <lb ed="#L" n="25"/>stus &amp; videbat Deum &amp; vbique erat. Sed ea aetate bellum 
+      <lb ed="#L" n="26"/>erat illis cum Arianis &amp; Eunominianis acerrimum, ol 
+      <lb ed="#L" n="27"/>ridque omnibus testimonijs, quibus poterant Christi Dei 
+      <lb ed="#L" n="28"/>ratem asserebant, praesertim cum res erat in promptu &amp; 
+      <lb ed="#L" n="29"/>facillima, quemadmodum ferme in praescriptis locis. 
+      <lb ed="#L" n="30"/>Nam illud, Nemo ascendit in coelum, nisi filius hominis,  
+      <lb ed="#L" n="31"/>qui est in coelo, quo pacto vere ac proprie in diuinitater 
+      <lb ed="#L" n="32"/>quadrare possit, non satis intelligo. Non enim filius 
+      ho<lb ed="#L" n="33" break="no"/>minis, quia Deus erat, tunc in colum ascenderat, sed quia 
+      <lb ed="#L" n="34"/>homo. Quomodo autem in caelum ascendisset, nisi secun 
+      <lb ed="#L" n="35"/>dum animam, vix explicari queat. Cogor itaque cum 
+      Ca<lb ed="#L" n="36" break="no"/>ietano hunc euangersij locum ad astruendam animae 
+      Chri<lb ed="#L" n="37" break="no"/>sti gloriam vrgeret, 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1116">
+               <lb ed="#L" n="38"/>Quintum testimonium, quo Diuus Thomas vtitur, ex 
+      <lb ed="#L" n="39"/>tat eiusdem euangelij cap. octauo. Et si ego testimonium 
+      <!--881.xml-->
+      <pb ed="#L" n="870"/>
+               <lb ed="#L" n="1"/>perhibeo de me ipso, verum est testimonium meum, quia 
+      <lb ed="#L" n="2"/>scio vnde veni &amp; quo vado. Et posterius, si dixero,  
+      <lb ed="#L" n="3"/>quia nescio Deum, ero similis vobis mendax. Sed scio 
+      <lb ed="#L" n="4"/>eum, &amp; sermonem eius seruo. Quod enim sermo sit de 
+      <lb ed="#L" n="5"/>scientia, vt a fide distinguitur, illa verbam videntur 
+      osten<lb ed="#L" n="6" break="no"/>dere. Ero similis vobis mendax. Iudaei quippe fidem 
+      ha<lb ed="#L" n="7" break="no"/>bebant eo tempore, quamuis cum Christo certarent. 
+      <lb ed="#L" n="8"/>Quod autem secundum humanitatem loqueretur, illud 
+      <lb ed="#L" n="9"/>probat, scio eum, &amp; sermonem eius seruo. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1148">
+               <lb ed="#L" n="10"/>Hoc vero Diui Thomae argumentum video refutati 
+      <lb ed="#L" n="11"/>posse. Quoniam est quaedam scientia sanctorum, quae cu 
+      <lb ed="#L" n="12"/>charitate coniuncta est, quamuis euidentiam non habeat. 
+      <lb ed="#L" n="13"/>In hoc scimus, ait, quoniam cognouimus eum, si 
+      man<lb ed="#L" n="14" break="no"/>data eius obseruamus. Qui dicit se nosse Deum, &amp; 
+      man<lb ed="#L" n="15" break="no"/>data eius non seruat, mendax est. De hac scientia, si quis 
+      <lb ed="#L" n="16"/>contendat Christum Ioannis octauo cap. sermonem 
+      fa<lb ed="#L" n="17" break="no"/>cere, vix refelli poterit. Quin dicet fortasse quispiam,  
+      <lb ed="#L" n="18"/>haec Diui Thomae argumenta probare id quidem, quod 
+      <lb ed="#L" n="19"/>deceat: non id tamen, quod oporteat. Ita congruentia 
+      <lb ed="#L" n="20"/>illa esse, cogentia non item. Sed nos primum non id 
+      agi<lb ed="#L" n="21" break="no"/>mus, omnia Diui Thomae argumenta ea etiam, quae ad 
+      <lb ed="#L" n="22"/>certam Theologiae conclusionem probandam 
+      afferun<lb ed="#L" n="23" break="no"/>tur, certa esse &amp; necessaria. Nimirum enim in veteribus 
+      <lb ed="#L" n="24"/>quoque Theologis, in summis ecclesiae pontificibus, in 
+      <lb ed="#L" n="25"/>concilijs tandem quaedam argumenta inuenias, quae 
+      sua<lb ed="#L" n="26" break="no"/>deant quidem, non cogant: at certis alijs exploratisque 
+      <lb ed="#L" n="27"/>permixta, non modo totum disputationis, corpus, 
+      exor<lb ed="#L" n="28" break="no"/>nent, verum etiam confirment. Probabilia igitur 
+      argu<lb ed="#L" n="29" break="no"/>menta necessarijs adiuncta tantum abest, vt 
+      reprehen<lb ed="#L" n="30" break="no"/>denda sint, vt sint etiam commendanda. Quanquam istis 
+      <lb ed="#L" n="31"/>equidem argumentis vtor, dum adsunt, cum absunt, non 
+      <lb ed="#L" n="32"/>requiro. Illud huius generis videtur esse, In ipso sunt 
+      o<lb ed="#L" n="33" break="no"/>mnes thesauri sapientiae &amp; scientiae Dei absconditi. Illos 
+      <lb ed="#L" n="34"/>in Christo non fuisse omnes, si scientia ei beatorum 
+      dae<lb ed="#L" n="35" break="no"/>fuisset. Simile est hoc, Christum fuisse caput, non solum 
+      <lb ed="#L" n="36"/>hominum, sed etiam angelorum, Ephe. 1. Coloss. 2. 
+      In<lb ed="#L" n="37" break="no"/>congruens vero esse, vt membra capiti scientia, &amp; 
+      cla<lb ed="#L" n="38" break="no"/>ritate antecellerent. In hoc denique probabilium 
+      ge<lb ed="#L" n="39" break="no"/>nere forfitan &amp; illud est, Quod si ministratio mortis 
+      <!--882.xml-->
+      <pb ed="#L" n="871"/>
+               <lb ed="#L" n="1"/>fuit in gloria, ita vt non possent intendere filij lsrael in 
+      <lb ed="#L" n="2"/>faciem Moysi propter gloriam vultus eius, quae 
+      eua<lb ed="#L" n="3" break="no"/>cuatur, &amp;c. Et posterius, Nam nec glorificatum est, quod 
+      <lb ed="#L" n="4"/>claruit in hac parte propter excellentem gloriam. Si 
+      e<lb ed="#L" n="5" break="no"/>nim quod euacuatur, per gloriam est: multo magis quod 
+      <lb ed="#L" n="6"/>manet, in gloria est, &amp;c. Vsque ad illud. Nos autem 
+      re<lb ed="#L" n="7" break="no"/>uelata facie, &amp;c. Non ergo decebat, vt primus noui 
+      te<lb ed="#L" n="8" break="no"/>stamenti administer spiritus atque animae gloria careret, 
+      <lb ed="#L" n="9"/>ex qua non solum facies, sed totum, corpus 
+      glorificare<lb ed="#L" n="10" break="no"/>tur ex integro Matth. 17. vide Orige. hom. 12. In Exod. 
+      <lb ed="#L" n="11"/>Haec igitur dicta in primis sint.  
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1244">
+               <lb ed="#L" n="12"/>Deinde, quae res certe est animaduersione dignissima,  
+      <lb ed="#L" n="13"/>non mihi illi probari pessunt, qui ea in Theologia 
+      argu<lb ed="#L" n="14" break="no"/>menta confundunt, quae id, quod decet, ostendunt: quasi 
+      <lb ed="#L" n="15"/>non interdum idem idem etiam oporteat, quasiye 
+      inde<lb ed="#L" n="16" break="no"/>cora omnia paria sint, &amp; non sint quaedam, a quibus &amp; 
+      <lb ed="#L" n="17"/>tatio &amp; Theologia omnis abhorreat, 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1260">
+               <lb ed="#L" n="18"/>Sane argumenta, quae confirmant esse quicquam in 
+      re<lb ed="#L" n="19" break="no"/>ligione nostra congruens &amp; decens, ea omnino bipartita 
+      <lb ed="#L" n="20"/>sunt. Quaedam enim sunt eiusmodi, vt etiam si non 
+      exti<lb ed="#L" n="21" break="no"/>tisset ea res, quae probanda sumitur, nihil tanien 
+      incon<lb ed="#L" n="22" break="no"/>sentaneum emergeret. Vt cum Theologi ostendunt, 
+      de<lb ed="#L" n="23" break="no"/>cuisse, vt Deus ad reparandum humanum genus carnem 
+      <lb ed="#L" n="24"/>sumeret: vtque ex diuinis personis filius is esset decuisse, 
+      <lb ed="#L" n="25"/>caeteraque id genus plurima. Quae decentia fuisse, vel 
+      <lb ed="#L" n="26"/>maxime Theologus probat quidem, sed quando alia 
+      <lb ed="#L" n="27"/>Deus remedia peccato nostro parasset, quae innumera 
+      <lb ed="#L" n="28"/>sine dubio potuit, nullum rationis incommodum, nihil 
+      <lb ed="#L" n="29"/>Deo indecorum haberetur. Talia vero argumenta uil 
+      <lb ed="#L" n="30"/>profecto in Theclogia demonstrant, sed solum 
+      expli<lb ed="#L" n="31" break="no"/>cant, id, quod fide credimus, congruentissimum Deo 
+      <lb ed="#L" n="32"/>nobisque fuisse. Altera argumenta sunt, quae ita 
+      mon<lb ed="#L" n="33" break="no"/>strant quicquam consentancum esse, vt nisi res sic 
+      ha<lb ed="#L" n="34" break="no"/>beat, aliquid semper emergat, quod, nullo inodo aut 
+      di<lb ed="#L" n="35" break="no"/>uinae naturae, aut rationi humanae consentiens videatur. 
+      <lb ed="#L" n="36"/>vt Diuam virginem intactum extitisse post partum, 
+      scri<lb ed="#L" n="37" break="no"/>ptura sacra in sensu literali nusquam forsan edocuit. 
+      <lb ed="#L" n="38"/>Id tradit aperte, in conceptu &amp; partu virginem extitisse. 
+      <lb ed="#L" n="39"/>Sed quoniam indecens virgini erat, vt integritatem tam 
+      <!--883.xml-->
+      <pb ed="#L" n="872"/>
+               <lb ed="#L" n="1"/>singulari &amp; miraculo &amp; mysterio conseruatam ipsa postea 
+      <lb ed="#L" n="2"/>volens, vt dicitur, &amp; prudens labefaceret, &amp; quae praeter 
+      <lb ed="#L" n="3"/>naturae ordinem incorrupta permanserat, eadem se ex- 
+      <lb ed="#L" n="4"/>poneret corruptori, adeo fidelium animis inhaesit 
+      perpe<lb ed="#L" n="5" break="no"/>tuae huius virginitatis firma sententia, vt etiam si nulla 
+      <lb ed="#L" n="6"/>fuisset apostolica traditio, ea tamen ratio esset idonea 
+      <lb ed="#L" n="7"/>ad faciendam fidem ijs, qui non ad contentionem 
+      infor<lb ed="#L" n="8" break="no"/>mati, sed ad disciplinam sunt, vel mediocriter instituti. 
+      <lb ed="#L" n="9"/>Nec aliter ego puto in praesenti quaestione 
+      philosophan<lb ed="#L" n="10" break="no"/>dum. Cum enim ostendimus non decere, vt verbum Dei 
+      <lb ed="#L" n="11"/>animam intellectualem imperfectam, scientiaque ac 
+      sa<lb ed="#L" n="12" break="no"/>pientia vacuam assumeret, causam nos obtinuisse 
+      arbi<lb ed="#L" n="13" break="no"/>tramur. Quia res contraria scilicet adeo indigna verbi 
+      <lb ed="#L" n="14"/>sapientia &amp; prouidentia est, vt ne vero similis fiat 
+      qui<lb ed="#L" n="15" break="no"/>dem, si de vnione personali verbi &amp; animae recte 
+      senti<lb ed="#L" n="16" break="no"/>mus. Consentiamus igitur, caeteris ecclesiae sanctis 
+      gra<lb ed="#L" n="17" break="no"/>tiam per partes distributam, nempe secundum mensuram 
+      <lb ed="#L" n="18"/>donationis Christi: at Christo ipsi non fuisse datum 
+      spi<lb ed="#L" n="19" break="no"/>ritum ad mensuram. Tantam enim gratiam dari 
+      congru<lb ed="#L" n="20" break="no"/>ebat, quantam anima capere illa posset, tantam quantam  
+      <lb ed="#L" n="21"/>in rebus esse ipsa gratia natura pateretur. Quod vero de 
+      <lb ed="#L" n="22"/>spiritu gratiae dicimus, id vt de spiritu sapientiae, 
+      scien<lb ed="#L" n="23" break="no"/>tiae intellectusque dicatur, subest omnino causa eadem .  
+      <lb ed="#L" n="24"/>Tanto enim melior in omnibus est angelis effectus, 
+      quan<lb ed="#L" n="25" break="no"/>to differentius prae illis nomen haereditauit. Itaque 
+      vn<lb ed="#L" n="26" break="no"/>ctus est a Deo oleo exultationis prae participibus suis. 
+      <lb ed="#L" n="27"/>Non ergo solum habuit parem cum angelis felicitatem,  
+      <lb ed="#L" n="28"/>sed multo etiam maiorem. Quocirca vt fruebatur, ita 
+      <lb ed="#L" n="29"/>quoque videbat Deum. Quod qui negant, ij non ab  
+      <lb ed="#L" n="30"/>schola modo, verum a Theologiae veteris institutione 
+      <lb ed="#L" n="31"/>desciscunt. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1382">
+               <lb ed="#L" n="32"/>Ambrosius? Deus in carne perfectionem naturae 
+      as<lb ed="#L" n="33" break="no"/>sumpsit humanae, suscepit sensum hominis, &amp;c. Perfectam  
+      <lb ed="#L" n="34"/>ergo animam assumpsit verbum, non imperfectam. Et lib.  
+      <lb ed="#L" n="35"/>7. episto. 47. ad Irenaeum, Accepit plenitudinem naturae 
+      <lb ed="#L" n="36"/>&amp; perfectionis humanae, sicut Deo nihil deerat, ita nec 
+      <lb ed="#L" n="37"/>hominis consummationi, vt esset perfectus in 
+      vtra<lb ed="#L" n="38" break="no"/>qque forma. Vnde &amp; Dauid dicit, Speciosus forma, 
+      <lb ed="#L" n="39"/>&amp; caetera¬ 
+      <!--884.xml-->
+      <pb ed="#L" n="873"/>
+               <lb ed="#L" n="1"/>Augustinus in lib. de trinit. Mox vt verbum venit in 
+      <lb ed="#L" n="2"/>vterums factum est perfectus homo. Et super Exod. Non 
+      <lb ed="#L" n="3"/>habuit omnino Christus iuxta animae meritum, quo posset 
+      <lb ed="#L" n="4"/>proficere. Et illum versum Psal. 64. Beatus, quem elegisti 
+      <lb ed="#L" n="5"/>&amp; assumpsisti, de vnita humanitate interpretatur. 
+      <lb ed="#L" n="6"/> Remigius in illud, Et ecce aperti sunt ei coeli, Sed 
+      num<lb ed="#L" n="7" break="no"/>quidtunc primo aperti sunt ei coeli etiam secundum 
+      hu<lb ed="#L" n="8" break="no"/>manam naturam? Fides enim ecclesiae tenet, quod non 
+      mi<lb ed="#L" n="9" break="no"/>nus aperti sunt ei coeli ante quam post. 
+      <lb ed="#L" n="10"/>Graetus, quem refert saepissime D. Tho: in catena, 
+      quam<lb ed="#L" n="11" break="no"/>uis hoc lodo vitiosa sit lectio &amp; tribuatur Gregorio 
+      Na<lb ed="#L" n="12" break="no"/>zanzeno. Dicitur, ait, secundam humanitatem proficere. 
+      <lb ed="#L" n="13"/>non quod ipsa suscipiat argumentum, quae ab initio 
+      fue<lb ed="#L" n="14" break="no"/>rit perfecta, sed ex eo quod paulatim manifestabatur. 
+      <lb ed="#L" n="15"/>Damascenus, Qui proficere dicunt Christum gratia, non 
+      <lb ed="#L" n="16"/>venerantur vnionem, quae est secundum hypostasim. 
+      <lb ed="#L" n="17"/>Theophilactus. Diuina erant, quae dicebantur &amp; 
+      age<lb ed="#L" n="18" break="no"/>bantur a puero, non quasi duodecim annorum, sed quasi 
+      <lb ed="#L" n="19"/>perfecti viri. Euangelista vero interpretatur, quid sit 
+      pro<lb ed="#L" n="20" break="no"/>ficere illum sapientia. Subdit enim &amp; statura. Profectum 
+      <lb ed="#L" n="21"/>enim aetatis sapientiae dicit profectum. 
+      <lb ed="#L" n="22"/>Hiesonymus in Esa. 7. cap. Licet multa post secula de 
+      <lb ed="#L" n="23"/>eo euangelista testetur, Puer autem proficiebat, &amp;c. &amp;  
+      <lb ed="#L" n="24"/>hoc dicatur, vt veritas humani corporis approbetur, 
+      ta<lb ed="#L" n="25" break="no"/>men adhue pannis inuolutus habebit boni, malique 
+      iudi<lb ed="#L" n="26" break="no"/>cium, vt per haec verba noscamus infantiam humani 
+      cor<lb ed="#L" n="27" break="no"/>poris diuinae non praeiudicasse sapientiae. Et in Hiere. 31. 
+      <lb ed="#L" n="28"/>cap. Iuxta incrementa quidem aetatis proficere 
+      videbi<lb ed="#L" n="29" break="no"/>tur sapientia, sed perfectus vir in vtero foemineo 
+      conti<lb ed="#L" n="30" break="no"/>uebitur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1471">
+               <lb ed="#L" n="31"/>Leo, Deitas assumptam naturam beatificans, vt 
+      glori<lb ed="#L" n="32" break="no"/>ficata inglorificante permaneat. Loquebatur autem de 
+      <lb ed="#L" n="33"/>incarnatione. Et alio: item loco Cyrillum citat in haec 
+      <lb ed="#L" n="34"/>verba, Assumpsit verbum humanitatis naturam in sua 
+      ra<lb ed="#L" n="35" break="no"/>tione perfectam. Et Cyrillus ipse in Ioan. lib. 1. cap. 17. 
+      <lb ed="#L" n="36"/>Vidimus, inquit, gloriam Christi adeo sublimiorem 
+      cre<lb ed="#L" n="37" break="no"/>aturarum gloria, vt mentis quisque: compos nulli alij, 
+      <lb ed="#L" n="38"/>quam vnigenito. Dei filio illam conuenire fateretur. 
+      Ple<lb ed="#L" n="39" break="no"/>nus enim erat veritate ac gratia. Non enim mensura sibi 
+      <!--885.xml-->
+      <pb ed="#L" n="874"/>
+               <lb ed="#L" n="1"/>datur vt caeteris, sed vt in perfecto perfecta inest. Sed si 
+      <lb ed="#L" n="2"/>plena est, inquiens, gloria eius gratia &amp; veritatis, 
+      quomo<lb ed="#L" n="3" break="no"/>do sapientia &amp; gratia profecisse apud Lucam scribitur? 
+      <lb ed="#L" n="4"/>aut quid accedere potest ad plenum? lllorum potius de 
+      <lb ed="#L" n="5"/>lesu opinio quam illius perfecta crescebat gratia, vt 
+      ma<lb ed="#L" n="6" break="no"/>gis indies cognoscentes magis illum procedere ac grati 
+      <lb ed="#L" n="7"/>crescere arbitrarentur. Vide etiam cap. 2O. in illud. De 
+      <lb ed="#L" n="8"/>plenitudine eius omnes accepimus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1515">
+               <lb ed="#L" n="9"/>Multa sunt eiusmodi Veterum testimonia, quae nos 
+      gra<lb ed="#L" n="10" break="no"/>tia breuitatis omittimus: cum haec etiam, quae excitauimus, 
+      <lb ed="#L" n="11"/>sine vlla aut expositone aut argumentatione 
+      praestrinxe<lb ed="#L" n="12" break="no"/>rimus. Nunc argumenta contrariae partis breuiter quoque 
+      <lb ed="#L" n="13"/>refellemus. Non enim hoc loco volumus, nisi per 
+      quas<lb ed="#L" n="14" break="no"/>dam summas &amp; signa data rudiores admonere, vt in 
+      simi<lb ed="#L" n="15" break="no"/>libus quaestionibus, quae non sunt Theologorum vsu 
+      con<lb ed="#L" n="16" break="no"/>tritae, se diligentius exerceant. Inuenient quippe semper,  
+      <lb ed="#L" n="17"/>si quaesierint. Atque in praesenti etiam quaestione non du 
+      <lb ed="#L" n="18"/>bito eum longe plura inuenturum, cui &amp; vberior lectio &amp;  
+      <lb ed="#L" n="19"/>maior eruditio fuerit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1542">
+               <lb ed="#L" n="20"/>Primum autem argumentum nihil difficile est, si 
+      intel<lb ed="#L" n="21" break="no"/>ligamus, iustitiam ibi &amp; fidem pro iustis &amp; fidelibus 
+      vsur<lb ed="#L" n="22" break="no"/>pari, cuius rei non modo Hieronymus auctor est, sed 70 
+      <lb ed="#L" n="23"/>etiam interpretes. Vide Tho. 3. par, quaest. 7. art. 3. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1553">
+               <lb ed="#L" n="24"/>Ad secundum facilior adhuc rosponsio est. Dicitur enim 
+      <lb ed="#L" n="25"/>Deus spes Christi, quia in Deo erat fiducia eius, non in 
+      ho<lb ed="#L" n="26" break="no"/>mine. Item quia multa etiam a Deo sperabat, quamuis non  
+      <lb ed="#L" n="27"/>speraret gloriam animae, quam iam habebat. D. Thom. 1. 
+      <lb ed="#L" n="28"/>part, quaest. 7. artic. 4. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1566">
+               <lb ed="#L" n="29"/>Ad tertium vide 8. Tho. 3. part, quaest. 15. art. 7. 
+      <lb ed="#L" n="30"/>Ad quartum vide 8. Tho. tertia part, quaest. 7. arti. 14. 
+      <lb ed="#L" n="31"/>bi etiam respondet illi euangelij testimonio. Ac nos 
+      e<lb ed="#L" n="32" break="no"/>tiam paulo ante veteres referebamus non paucos, qui 
+      nul<lb ed="#L" n="33" break="no"/>lo modo admitterent, aut gratiam aut sapientiam 
+      Chri<lb ed="#L" n="34" break="no"/>sti potuisse in se ipsam aliquando proficere: adeo plenus 
+      <lb ed="#L" n="35"/>ab initio &amp; gratia &amp; sapientia fuit. Sed qui in hominum 
+      <lb ed="#L" n="36"/>existimatione crescit, tametsi idem ipse omnino 
+      perseue<lb ed="#L" n="37" break="no"/>ret, eum dicit scriptura crescere. Proficiebat Dauid 
+      va<lb ed="#L" n="38" break="no"/>dens &amp; crescens. Item, Creuit Iosaphat &amp; magnificatus 
+      <lb ed="#L" n="39"/>est vsque in sublime. Item, Illum oportet crescere, me 
+      <!--886.xml-->
+      <pb ed="#L" n="875"/>
+               <lb ed="#L" n="1"/>autem minui. Quia vero quod saepe hominibus altum est, 
+      ab<lb ed="#L" n="2" break="no"/>ominatio est ante Deum, ne existimares ostentationem 
+      <lb ed="#L" n="3"/>esse praestitigiosam &amp; Pharisaicam: talis, inquit, erat Deo 
+      <lb ed="#L" n="4"/>intus, qualem se homini exhibebat foris, nec hominibus 
+      <lb ed="#L" n="5"/>probabatur solum, sed etiam Deo. Voluit enim 
+      euange<lb ed="#L" n="6" break="no"/>lista illud forsitan commemorare, quod de Samuele 
+      scri<lb ed="#L" n="7" break="no"/>ptum est, Puer autem Samuel proficiebat atque 
+      cresce<lb ed="#L" n="8" break="no"/>bat &amp; placebat tam Deo quam hominibus. At D. Tho. 
+      <lb ed="#L" n="9"/>docet Christum creuisse in effectibus &amp; operibus gratiae 
+      <lb ed="#L" n="10"/>&amp; sapientiae, quia in dies perfectiora opera faciebat. 
+      <lb ed="#L" n="11"/>Quod autem in effectu crescit, hoc crescere quandoque 
+      <lb ed="#L" n="12"/>dicitur. Vt ibi, verbum Dei crescebat, &amp; rursum, Fortiter 
+      <lb ed="#L" n="13"/>crescebat verbum Dei. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1625">
+               <lb ed="#L" n="14"/>In quinto argumento duo testimonia referuntur, 
+      qui<lb ed="#L" n="15" break="no"/>bus Ariani filij sapientiam atque adeo diuinitatem 
+      im<lb ed="#L" n="16" break="no"/>pugnare sunt soliti. Quae causa quibusdam patribus 
+      <lb ed="#L" n="17"/>fuit, vt ea de filio iuxta humanam naturam 
+      interpre<lb ed="#L" n="18" break="no"/>tando satis se putarint aduersarijs respondisse. Ac re 
+      <lb ed="#L" n="19"/>vera in ea pugna, quam cum Ario gerebamus, sat illud erat,  
+      <lb ed="#L" n="20"/>vt in hac parte ictus eius conatusque omnes eluderentur. 
+      <lb ed="#L" n="21"/>Sed nobis opus est vniuersos errores euincere, &amp; Christi 
+      <lb ed="#L" n="22"/>etiam animam ab omni ignoratione vendicare, quae de 
+      <lb ed="#L" n="23"/>eius dignitate quicquam detrahere videatur. Ambrosius 
+      <lb ed="#L" n="24"/>porro libro quinto de fide ca. 8. non audet asserere, 
+      tam<lb ed="#L" n="25" break="no"/>etsi cum Ario disputabat, Christum secundum 
+      humani<lb ed="#L" n="26" break="no"/>tatem aut in sapientia profecisse, aut quicquam penitus 
+      <lb ed="#L" n="27"/>ignorasse, si haec vocabula proprie capiamus. 
+      Contra<lb ed="#L" n="28" break="no"/>riam vero sententiam nonnullos ait tenuisse, sed qui 
+      fue<lb ed="#L" n="29" break="no"/>rint, inquit, intimidiores quam ego sum. D. sane Thomas 
+      <lb ed="#L" n="30"/>non dubitet, vel eiusdem Ambrosij auctoritate 
+      confir<lb ed="#L" n="31" break="no"/>mare, Christum non secundum scientiam aut beatam aut  
+      <lb ed="#L" n="32"/>infusam, sed secundum aliam acquisitam seu 
+      experimenta<lb ed="#L" n="33" break="no"/>lem quidpiam aliquando ignorasse, quod postea didicerit. 
+      <lb ed="#L" n="34"/>Didicit enim ex ijs quae passus est. Itaque si de scientia hac 
+      <lb ed="#L" n="35"/>experimentali sermo sit, Pater demonstrabat filio ea, quae 
+      <lb ed="#L" n="36"/>faciebat per illum mirabilia, maiora tempore futuro 
+      demon<lb ed="#L" n="37" break="no"/>straturus, quoniam &amp; maiora facturus. Secundum hanc 
+      scien<lb ed="#L" n="38" break="no"/>tiam item diem iudicij nesciuit antequam esset, nam tunc 
+      <lb ed="#L" n="39"/>experietur, cum iudicium fiet. Probabiliter dicta sint  
+      <!--887.xml-->
+      <pb ed="#L" n="876"/>
+               <lb ed="#L" n="1"/>haec, non negemus: verum nihil necesse est, in has nos 
+      <lb ed="#L" n="2"/>angustias conijcere, quippe cum sit alia horum locorum 
+      <lb ed="#L" n="3"/>intelligentia sanior. Ac de priore quidem testimonio sic 
+      <lb ed="#L" n="4"/>sentio. Reprehensus fuerat a Iudaeis Christus, &amp; quod 
+      <lb ed="#L" n="5"/>sabbatum solueret, &amp; quod se aequalem faceret Deo. 
+      Re<lb ed="#L" n="6" break="no"/>spondet ergo simul vtrique calumniae in haec verba, Non 
+      <lb ed="#L" n="7"/>potest filius a se facere quicquam, nisi quod viderit 
+      pa<lb ed="#L" n="8" break="no"/>trem facientem. Vbi primum sic potentiae aequalitatem 
+      <lb ed="#L" n="9"/>agnoscit, vt nihil sibi arrogare videatur. Agnoscit enim 
+      <lb ed="#L" n="10"/>patris etiam auctoritatem, cui accepta refert quaecunque 
+      <lb ed="#L" n="11"/>facit. Non potest, ait, filius a se facere quicquam. Deinde 
+      <lb ed="#L" n="12"/>ita arguentes redarguit. Cur me6 Iudaei reprehenditis? 
+      <lb ed="#L" n="13"/>Eadem certe ratione &amp; patrem meum reprehendetis. 
+      <lb ed="#L" n="14"/>Quoniam non ex meo capite, vt dicitur, quae facio, ea 
+      <lb ed="#L" n="15"/>ego confingo, nec affectu &amp; hbidine opera edo, sed a 
+      <lb ed="#L" n="16"/>patre accepi id quod facio. Non potest, &amp;c. Non autem 
+      <lb ed="#L" n="17"/>somnio accipio aut opinione aliqua commentitia, sed 
+      <lb ed="#L" n="18"/>visu certissimo atque clarissimo cerno &amp; comprehendo 
+      <lb ed="#L" n="19"/>operantem patrem, &amp; quaecunque ille facit, haec ipsa ea, 
+      <lb ed="#L" n="20"/>dem ego non clausis oculis, sed videns similiter facio. 
+      <lb ed="#L" n="21"/>Si ergo me carpitis, quasi opera illicita faciam in 
+      sabba<lb ed="#L" n="22" break="no"/>to, facio autem eadem, quae pater meus, eo demque, modo 
+      <lb ed="#L" n="23"/>facio: coarguite, si ita lubet. Deum ipsum, quem ego 
+      o<lb ed="#L" n="24" break="no"/>perum omnium meorum auctorem &amp; principium habeo.  
+      <lb ed="#L" n="25"/>vt autem probet se videre patrem facientem opera, 
+      sub<lb ed="#L" n="26" break="no"/>dit: Pater enim diligit filium, ideoque nihil illum celat,  
+      <lb ed="#L" n="27"/>sed in conspectu eius, ipsoque adeo cernente omnia 
+      fa<lb ed="#L" n="28" break="no"/>cit. Nec solum quae antehac fecit, ea coram filio fecit, 
+      <lb ed="#L" n="29"/>sed &amp; maiora, quae facturus est, in conspectu filij filioque 
+      <lb ed="#L" n="30"/>proinde spectante simulque faciente faciet. Quibus verbis 
+      <lb ed="#L" n="31"/>non negat filium intelligere res prius omnino quam fiant,  
+      <lb ed="#L" n="32"/>sed humano more loquitur, &amp; se nostris sermonibus 
+      ac<lb ed="#L" n="33" break="no"/>commodat. Tunc enim res ostendere dicimur, cum ita 
+      <lb ed="#L" n="34"/>praesentes sunt, vt non ad intellectum, sed quasi digito 
+      <lb ed="#L" n="35"/>ad sensum demonstramus. Quae est nobis rei certitudo 
+      <lb ed="#L" n="36"/>maxima. Nec obstat quod verbo futuri vtitur. 
+      Demon<lb ed="#L" n="37" break="no"/>strabit, in his, quae aeterno Deo praesentia sunt. Sic enim 
+      <lb ed="#L" n="38"/>solet scriptura nobis, nostroque tempori res aeternas 
+      at<lb ed="#L" n="39" break="no"/>temperare. Pater siquidem verbum &amp; genuit &amp; gignit 
+      <!--888.xml-->
+      <pb ed="#L" n="877"/>
+               <lb ed="#L" n="1"/>&amp; semper, gignet. Quanquam qui subiungit, vt vos 
+      <lb ed="#L" n="2"/>miremini, is de demonstratione quadam futura videtur 
+      <lb ed="#L" n="3"/>loqui, quae caeteris etiam pateat. Quare ex hoc loco 
+      ni<lb ed="#L" n="4" break="no"/>hil contra gloriam animae Christi haberi potest. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1786">
+               <lb ed="#L" n="5"/>Posterius quoque testimonium nihil contra nos 
+      fa<lb ed="#L" n="6" break="no"/>cit. Primum quia Hieronymus Ambrosiusque negant,  
+      <lb ed="#L" n="7"/>illa verba, Neque filius, nisi in paucis quibusdam Graecis 
+      <lb ed="#L" n="8"/>exemplaribus haberi. Quin Ambrosius contendit, ea ab  
+      <lb ed="#L" n="9"/>haereticis esse interposita. Fadem quippe lectio Matthae 
+      <lb ed="#L" n="10"/>&amp; Marci erat. Matthaei vero Euangelium Ariani 
+      corru<lb ed="#L" n="11" break="no"/>perant, eisdem quoque verbis adiectis. Quae modo nec 
+      <lb ed="#L" n="12"/>latina nec Graeca exemplaria habent. Deinde etiam si ita 
+      <lb ed="#L" n="13"/>tuisset ab euangelistis scriptum, in eo sensu filius nescire 
+      <lb ed="#L" n="14"/>dicitur, quia scire se dissimulat, nec vult alijs reuelare. 
+      <lb ed="#L" n="15"/>Pater si quidem scit, quia filio manifestat, filius nescit, 
+      <lb ed="#L" n="16"/>quia occultat nec alios scire facit. Quod autem verbum, 
+      <lb ed="#L" n="17"/>Scire, in hunc modum aliquando accipiatur, &amp; vsu vulgi 
+      <lb ed="#L" n="18"/>contrito liquer, &amp; Ambrosius probat ex illo. 
+      Descen<lb ed="#L" n="19" break="no"/>dam &amp; videbo, vtrum clamorem opere compleuerint, 
+      an<lb ed="#L" n="20" break="no"/>non est ita, vt sciam. Simile est illud, Deus, de coelo 
+      pro<lb ed="#L" n="21" break="no"/>spexit super filios hominum, vt videat si est intelligens, 
+      <lb ed="#L" n="22"/>&amp;c. Et vbi nos habemus. Tentat vos Dominus Deus 
+      <lb ed="#L" n="23"/>vester, vt palam fiat an diligatis eum, editio 7O. habebat, 
+      <lb ed="#L" n="24"/>vt sciat, an diligatis eum. Sed de hac re vide Ambrosium, 
+      <lb ed="#L" n="25"/>Hieronymum, Augustinum, ac patres caeteros. In his enim, 
+      <lb ed="#L" n="26"/>quae peruulgata sunt, longus ego esse, nec debeo, nec 
+      <lb ed="#L" n="27"/>volo. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1838">
+               <lb ed="#L" n="28"/>Ad sextum respondet egregie D. Tho. 3. part. quaest. 
+      <lb ed="#L" n="29"/>19. art. 3.uide illum. Primum vero testimonium, quo illa 
+      <lb ed="#L" n="30"/>ratio confirmata est, verba proxime antecedentia 
+      expli<lb ed="#L" n="31" break="no"/>cant. Si posuerit, ait, pro peccato animam suam, videbit 
+      <lb ed="#L" n="32"/>semen longaeuum, &amp;c. &amp; statim, Pro eo quod laborauit 
+      <lb ed="#L" n="33"/>anima eius, videbit &amp; saturabitur. Secundum testimonium 
+      <lb ed="#L" n="34"/>D. ThO. sic interpretatur, vt dicat, Christum meruisse 
+      <lb ed="#L" n="35"/>manifestationem vnctionis quidem: iuxta illud, Propter 
+      <lb ed="#L" n="36"/>quod Deus exaltauit illum, &amp;c. Sed vnctionem ipsam non 
+      <!--889.xml-->
+      <pb ed="#L" n="878"/>
+               <lb ed="#L" n="1"/>meruisse. In sciiptuta autem tunc rem aliquam fieri 
+      ali<lb ed="#L" n="2" break="no"/>quando dici, cum innotescit. Data est mihi omnis 
+      pote<lb ed="#L" n="3" break="no"/>stas, &amp;c. Quia ergo Christus dilexit iustitia, &amp; c. ideo ex- 
+      <lb ed="#L" n="4"/>altauit eum Deus in regem daemonum, hominum, &amp; ange 
+      <lb ed="#L" n="5"/>lorum, vngere enim est regem constituere. Respondet 
+      <lb ed="#L" n="6"/>item, idque melius, hunc sensum esse, vt virga directionis 
+      <lb ed="#L" n="7"/>esset virga regni tui, vt diligeres iustitiam, &amp;c. 
+      propter<lb ed="#L" n="8" break="no"/>ea, id est, vt haec egregie faceres, vnxit te Deus oleo, &amp;c. 
+      <lb ed="#L" n="9"/>Illud est simile, Homo ridet, flet, discurrit, propterea 
+      in<lb ed="#L" n="10" break="no"/>tellectum habet &amp; animam rationalem. Non enim 
+      neces<lb ed="#L" n="11" break="no"/>se est, ea, quae antecedunt, causam esse eorum, quae sequuntur. 
+      <lb ed="#L" n="12"/>vt ibi, Propterea &amp; sapientia Dei dixit, &amp;c. Luc. 11. Nec si 
+      <lb ed="#L" n="13"/>diceretur expresse, Vnxit te Deus oleo laetitiae, quoniam  
+      <lb ed="#L" n="14"/>dilexisti iustitiam, &amp;c. quicquam contra nos faceret. Nam  
+      <lb ed="#L" n="15"/>more scripturae sit, vt interdum effectus loco causae 
+      pona<lb ed="#L" n="16" break="no"/>tur, Vt ibi, Ego clamaui, quoniam exaudisti me Deus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e1900">
+               <lb ed="#L" n="17"/>Tertio demum respondere possumus actiones Christi 
+      <lb ed="#L" n="18"/>non fuisse meritorias causas vnctionis, sed quasi 
+      materia<lb ed="#L" n="19" break="no"/>les &amp; dispositiuas. Docet enim D. Tho. 3. part. quaest. 34. 
+      <lb ed="#L" n="20"/>art. 3. sanctificatum fuisse Christum per proprium actum.  
+      <lb ed="#L" n="21"/>Quemadmodum ergo vere dicimus, materiam ligni fuisse 
+      <lb ed="#L" n="22"/>calore dispositam, propterea fuisse ignitam: Hominem 
+      <lb ed="#L" n="23"/>fuisse contritum, propterea ei gratiam iustificationis esse 
+      <lb ed="#L" n="24"/>donatam, sic dicere propheta potuit, Christum optimos 
+      <lb ed="#L" n="25"/>actus in primo instanti habuisse, propterea fuisse oleo 
+      <lb ed="#L" n="26"/>Spiritus fancti perunctum. Nec opus est, vt vox illa, 
+      pro<lb ed="#L" n="27" break="no"/>pterea, causam efficientem aut meritoriam denotet, sed sa 
+      <lb ed="#L" n="28"/>tis erit, si sit causa, quae disponat subiectum, quasi 
+      materia<lb ed="#L" n="29" break="no"/>lis. De tertio vero testimonio sic habeto. D. Tho. 
+      existi<lb ed="#L" n="30" break="no"/>mat in eo psalmo de resurrectionis aeterna vita agi non  
+      <lb ed="#L" n="31"/>solum in Christo, sed in membris. Nam illa omnium 
+      ca<lb ed="#L" n="32" break="no"/>pitis &amp; membrorum resurrectio vitaque plena delicijs 
+      <lb ed="#L" n="33"/>fructus passionis Christi fuit. Qui, vt Paulus ait, 
+      conre<lb ed="#L" n="34" break="no"/>suscitauit nos &amp; consedere fecit in coelestibus tunc 
+      scili<lb ed="#L" n="35" break="no"/>cet, cum ipse excitatus sedit a dextris Dei. Si ergo 
+      Chri<lb ed="#L" n="36" break="no"/>stus in hoc loco, non in persona sua modo, sed in 
+      mebro<lb ed="#L" n="37" break="no"/>rum persona loquitur, nihil est difficile intellectu. 
+      <lb ed="#L" n="38"/>Quod si Saulo dicebat, cur me persequeris, quia membra 
+      <lb ed="#L" n="39"/>ipsius Paulus insectabatur dicere quoque potuit patri,  
+      <!--890.xml-->
+      <pb ed="#L" n="879"/>
+               <lb ed="#L" n="1"/>Adimplebis me laetitia cum Vultu tuo. Quoniam gloria 
+      <lb ed="#L" n="2"/>nostra gloria Christi est, non minus quam ignominia 
+      la<lb ed="#L" n="3" break="no"/>borque noster Christi omnino est, Mox etiam non video 
+      <lb ed="#L" n="4"/>equidem, cur non proprie de Christo ipso accipiamus,  
+      <lb ed="#L" n="5"/>quod post resurrectionem adimpletus laetitia fuerit cum 
+      <lb ed="#L" n="6"/>vultu Dei. Ante enim &amp; corpus vacuum erat ea 
+      volupta<lb ed="#L" n="7" break="no"/>te, quae a visione Dei in corpus emanat, &amp; anima non 
+      vn<lb ed="#L" n="8" break="no"/>dique plena erat laetitia, quin appetitus sensitiuus totus 
+      <lb ed="#L" n="9"/>tristitiae angorique patebat. Post passionem ergo 
+      imple<lb ed="#L" n="10" break="no"/>uit eum laetitia Deus cum Vultu suo. Quoniam &amp; si prius 
+      <lb ed="#L" n="11"/>Dei vultum clare pleneque videbat, non tamen affectus 
+      <lb ed="#L" n="12"/>appetitusque omnis plene perfecteque gaudebat. Qua de 
+      <lb ed="#L" n="13"/>re in refutatione postremi argumenti nonnihil 
+      adiicie<lb ed="#L" n="14" break="no"/>mus, quod sit animaduersione dignissimu. Quartum 
+      in<lb ed="#L" n="15" break="no"/>super testimonium facilem intelligentiam habet: nam &amp;  
+      <lb ed="#L" n="16"/>scriptum a pocta est, Priami faciem dignam fuisse 
+      impe<lb ed="#L" n="17" break="no"/>rio. In quinto autem mercedem Christi Isaias vocat 
+      fi<lb ed="#L" n="18" break="no"/>delium populum. Postula a me, inquit, &amp; dabo tibi 
+      gen<lb ed="#L" n="19" break="no"/>tes haereditatem tuam. Vnde euestigio subdit, Et 
+      voca<lb ed="#L" n="20" break="no"/>bunt eos populus sanctus, redempti a domino. Iustinus 
+      <lb ed="#L" n="21"/>vero martyr in dialo. cum Tryph. aliter legit &amp; 
+      inter<lb ed="#L" n="22" break="no"/>pretatur hunc locum. En tibi, inquit, seruator adest, qui 
+      <lb ed="#L" n="23"/>mercedem suam reddit opusque suum ante se. Vere enim 
+      <lb ed="#L" n="24"/>Christus id quod meruit, hoc est, mercedem operis sui, 
+      <lb ed="#L" n="25"/>nobis reddidit. At Hieronymus plane interpretatur, 
+      <lb ed="#L" n="26"/>hoc ideo dici, quia saluator ipse iudex sit omnium, vt 
+      <lb ed="#L" n="27"/>reddat vnicuique secundum opera sua iustis praemia, 
+      pec<lb ed="#L" n="28" break="no"/>catoribus aeterna supplicia. De sexto testimonio denique  
+      <lb ed="#L" n="29"/>nil aliud in praesentia dico, nisi gloriam Christi ante 
+      pal<lb ed="#L" n="30" break="no"/>sionem nondum fuisse consummata, sed quicquid ei 
+      pro<lb ed="#L" n="31" break="no"/>pter nos &amp; propter nostram salutem ad absolutam 
+      ho<lb ed="#L" n="32" break="no"/>minis glorificationem defuit, hoc non dubium est per 
+      <lb ed="#L" n="33"/>passionem suam Christum meruisse, Sane vero non 
+      eo<lb ed="#L" n="34" break="no"/>dem modo omnia aedificia consummantur, quibusdam 
+      <lb ed="#L" n="35"/>enim vel parietes desunt, alijs non deest nisi tectum. Nos 
+      <lb ed="#L" n="36"/>i taque consummamur accepta, non solum gloria 
+      corpo<lb ed="#L" n="37" break="no"/>ris, verum etiam animae, quoniam vtriusque partis gloria 
+      <lb ed="#L" n="38"/>deerat, at Christo non nisi alterius duntaxat, quare per 
+      <lb ed="#L" n="39"/>illius adiunctionem consummatus est. 
+      <!--891.xml-->
+      <pb ed="#L" n="880"/>
+               <lb ed="#L" n="1"/>Ad postremum argumentum. D. Thom. respondet de 
+      <lb ed="#L" n="2"/>passionibus animae articulo. 1O. ad 91 Contraria non  
+      <lb ed="#L" n="3"/>posse esse in eodem per se quidem, sed bene per accides. 
+      <lb ed="#L" n="4"/>vt cum quis in naui deambulans fertur in contrarium 
+      <lb ed="#L" n="5"/>eius ad quod nauis mouetur. Ita, inquit, in superiori 
+      ra<lb ed="#L" n="6" break="no"/>tione animae Christi erat gaudium per se, quia per actum 
+      <lb ed="#L" n="7"/>proprium, dolor autem per accidens, quia per corporis 
+      <lb ed="#L" n="8"/>passionem. Deinde respondet, quod gaudium illud &amp; 
+      <lb ed="#L" n="9"/>dolor non erant contraria, quia non erant de eodem.  
+      <lb ed="#L" n="10"/>Verum responsum illud prius refelli potest. Quoniam  
+      <lb ed="#L" n="11"/>locales motus si in eodem contrarij aliquando sunt, 
+      ni<lb ed="#L" n="12" break="no"/>hil mirum est, quippe cum tota fere eorum substantia &amp;  
+      <lb ed="#L" n="13"/>ratio externus quidam respectus sit. Ita pater &amp; filius 
+      re<lb ed="#L" n="14" break="no"/>lationes contrarias prae se ferunt, &amp; in ordinead 
+      diuer<lb ed="#L" n="15" break="no"/>sos terminos esse in eodem vere possunt. At in formis &amp; 
+      <lb ed="#L" n="16"/>qualitatibus absolutis id fieri nequit, vt siue per se siue 
+      <lb ed="#L" n="17"/>per accidens duo contraria in eodem subiecto sint. Pugnat 
+      <lb ed="#L" n="18"/>enim cum natura rerum, vt aqua simul calida &amp; frigida sit, 
+      <lb ed="#L" n="19"/>praesertim in summo: nec si quis contendat alterum esse 
+      <lb ed="#L" n="20"/>per se, alterum per antiparistasin. Gaudium vero &amp; 
+      tristi<lb ed="#L" n="21" break="no"/>tia qualitates sunt absolurae. Sed &amp; posterius responsum 
+      <lb ed="#L" n="22"/>quispiam coarguet, quoniam Christus videns rationes in 
+      <lb ed="#L" n="23"/>Dei essentia diuinas, de sua morte laetabatur, quam 
+      cerne<lb ed="#L" n="24" break="no"/>bat Dei &amp; rationi &amp; voluntati conformem. Tristabatur 
+      <lb ed="#L" n="25"/>autem de eadem, quia erat malum naturae contrarium. Quare 
+      <lb ed="#L" n="26"/>obiectum materiale gaudij atque tristitiae idem erat. Vt 
+      <lb ed="#L" n="27"/>gaudium porro tristitiae contrarium sit, sat est vtrunqe in 
+      <lb ed="#L" n="28"/>materiali obiecto conuenire. Nam formalis gaudij 
+      tristi<lb ed="#L" n="29" break="no"/>tiaeque ratio discrepant semper, fiuen de eadem re, siue de alia 
+      <lb ed="#L" n="30"/>atque alia tristemur, &amp; gaudeamus. Non ergo negare 
+      pos<lb ed="#L" n="31" break="no"/>sumus, si in Christi voluntate gaudium summum summaque  
+      <lb ed="#L" n="32"/>tristitia de morte sua fuit, quin duo simul in eodem fuerint 
+      <lb ed="#L" n="33"/>contraria. Atque hae animi affectiones se vicissim expellut. 
+      <lb ed="#L" n="34"/>tametsi non res eadem obiecta est. Nimirum enim, cum 
+      <lb ed="#L" n="35"/>pellere tristitiam volumus alijs non modo rationibus, 
+      <lb ed="#L" n="36"/>sed rebus etiam gaudere curamus. Quod argumentum est,  
+      <lb ed="#L" n="37"/>eas affectiones esse contrarias. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e2126">
+               <lb ed="#L" n="38"/>Caeterum difficultas haecttribus modis videtur 
+      expe<lb ed="#L" n="39" break="no"/>diri. Primum enim dicet fortasse quispia, in appetitu intel¬ 
+      <!--892.xml-->
+      <pb ed="#L" n="881"/>
+               <lb ed="#L" n="1"/>lectuali Christi, quae voluntas proprie vocatur, nullam  
+      <lb ed="#L" n="2"/>penitus tristitiam extitisse. Quoniam illa animae portio 
+      <lb ed="#L" n="3"/>Deo fruebatur plenissime. Quemadmodum autem a superiore 
+      <lb ed="#L" n="4"/>potentia nonderiuabatur gaudium ad inferiores, vt 
+      salu<lb ed="#L" n="5" break="no"/>tis nostrae mysterium in Christi passione transigeretur, 
+      <lb ed="#L" n="6"/>sic ab inferiore potentia non perueniebat ad superiorem 
+      <lb ed="#L" n="7"/>dolor. Non fuit itaque in Christi voluntate tristitia, sed 
+      <lb ed="#L" n="8"/>in appetitu sensitiuo fuit, qui proprie tristitiae subiectum  
+      <lb ed="#L" n="9"/>est. Quam sententiam visus est dominus significare, cum 
+      ait<lb ed="#L" n="10" break="no"/>Pristis est anima mea. Appetitus enm animalis, quia 
+      ani<lb ed="#L" n="11" break="no"/>malis est, non est intellectualis sed sensitiuus. Cui etiam 
+      sen<lb ed="#L" n="12" break="no"/>tentiae fauet D. Tho. 3par. 4. 15. ar. 4. &amp; 6. &amp; 4. 46. ar. 7. &amp;  
+      <lb ed="#L" n="13"/>8. Nam Scoti argumenta abundem refutat Caietanus. Quod 
+      <lb ed="#L" n="14"/>si verum est, iam contraria non sunt ini eodem subiecto 
+      <lb ed="#L" n="15"/>proximo: sed gaudium in voluntate, tristitia in appetitu 
+      <lb ed="#L" n="16"/>sensitiuo. Ideoque proprie ne contraria quidem sunt. D. 
+      <lb ed="#L" n="17"/>ThO. 3. par. q. 18. ar. 6. in corp. &amp; 4.46. ar. 8. ad I. I1 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e2174">
+               <lb ed="#L" n="18"/>Huic vero responsioni illud obiintur quod dominus 
+      <lb ed="#L" n="19"/>habuit in voluntate actum, quo mortem vere noluit, at 
+      <lb ed="#L" n="20"/>tristitia est de his, quae nobis nolentibus accidunt, vt 
+      Au<lb ed="#L" n="21" break="no"/>gustinus ait. Prior propositio, quoniam eam Caietanus 
+      <lb ed="#L" n="22"/>negat, probatur. Primo ex D. Tho. 3. par. 4. 18. art. O: vbi 
+      <lb ed="#L" n="23"/>dicit, quod voluntas naturalis &amp; voluntas sensualitatis 
+      <lb ed="#L" n="24"/>aliud voluit in Christo, quam diuina voluntas. Et ar: 
+      vtre<lb ed="#L" n="25" break="no"/>fert Augustinum contra Maximinum in. haec verba, in hoc 
+      <lb ed="#L" n="26"/>quod Christus ait, No quod volo, sed quod tui: aliud se 
+      <lb ed="#L" n="27"/>ostendit voluisse que pater. Quod nisi humano corde non  
+      <lb ed="#L" n="28"/>posset. Ac reuera ex illo, euangelij testimonio non solum 
+      <lb ed="#L" n="29"/>sancti veteres, sed synodus sexta sub Agathone collegit, 
+      <lb ed="#L" n="30"/>&amp; duas voluntates in Christo, &amp; duas voluntatum 
+      opera<lb ed="#L" n="31" break="no"/>tiones. Sane qui ait, Non sicut ego volo, is actum 
+      volun<lb ed="#L" n="32" break="no"/>tatis aperte significat. Verum Caietanus elaberetur dicens,  
+      <lb ed="#L" n="33"/>appetitum sensitiuum vocari interdum voluntatem. De 
+      <lb ed="#L" n="34"/>qua Ambrosium hunc euangelij locum explicare D. ipse 
+      <lb ed="#L" n="35"/>Thom interpretatur 3. p. q 18. ar. 2. Quin D. Tho. 
+      quae<lb ed="#L" n="36" break="no"/>stionis decimeoctauae, tertiae partis articuli quinti 
+      argu<lb ed="#L" n="37" break="no"/>mentum tertium non poterat refellere, si admisisset, 
+      Chri<lb ed="#L" n="38" break="no"/>sti voluntatem aliquid velle, quod non habuerit. Beatus 
+      <lb ed="#L" n="39"/>enim est, vt Augustinus docet, qui habet quaecunqe vulu 
+      <!--893.xml-->
+      <pb ed="#L" n="882"/>
+               <lb ed="#L" n="1"/>In reliquis certe beatis probabilissime Caietanus 
+      eius<lb ed="#L" n="2" break="no"/>modi noleitates negat, quoniam in illo statu otiosae sunt. 
+      <lb ed="#L" n="3"/>Cum ergo Christus secundum intellectum &amp; voluntatem 
+      <lb ed="#L" n="4"/>perfecte fuerit beatus, non videtur eiusmodi nolitiones 
+      <lb ed="#L" n="5"/>habuisse. 
+      <lb ed="#L" n="6"/>Possumus deinde postremum hoc argumentum eludere, 
+      <lb ed="#L" n="7"/>etiam si dicimus, id quod re vera probabile est, in 
+      volun<lb ed="#L" n="8" break="no"/>tate Christi intellectuali, quae proprie voluntas est, non 
+      <lb ed="#L" n="9"/>tristitiam modo, sed summam maximamque fuisse. Quia 
+      <lb ed="#L" n="10"/>enim in hostia pro peccato, cordis contritio voluntatisque 
+      <lb ed="#L" n="11"/>tristitia potissime desideratur, sacrificium quippe Deo 
+      spi<lb ed="#L" n="12" break="no"/>ritus contribulatus, &amp;c. &amp; tristitia spiritualis haec 
+      contra<lb ed="#L" n="13" break="no"/>ria est peccato medicina, quod sedem suam praecipue in 
+      vo<lb ed="#L" n="14" break="no"/>runtate habet: consentaneum profecto erat, vt filius Dei 
+      ho<lb ed="#L" n="15" break="no"/>stiam se pro peccato exhibiturus, non solum corporis &amp; 
+      ani<lb ed="#L" n="16" break="no"/>mae senfitiuae dolores, sed angores quoqe spiritus, &amp; 
+      vo<lb ed="#L" n="17" break="no"/>luntatis tristitiam susciperet, quo pro culpis nostris 
+      om<lb ed="#L" n="18" break="no"/>nibus hostia illa Deo acceptissima omnibus omnino 
+      mo<lb ed="#L" n="19" break="no"/>dis contereretur. Sic vere languores nostros ipse tulit, 
+      <lb ed="#L" n="20"/>&amp; dolores nostros ipse portauit. Sic non modo 
+      vulnera<lb ed="#L" n="21" break="no"/>tus est propter iniquitates nostras, sed attritus est 
+      pro<lb ed="#L" n="22" break="no"/>pter scelera nostra. Sic. disciplina pacis nostrae super eum, 
+      <lb ed="#L" n="23"/>&amp; liuore atque dolore eius sanati sumus. Sic dominus 
+      <lb ed="#L" n="24"/>eum voluit in infirmitate conterere, qui posuit pro 
+      pec<lb ed="#L" n="25" break="no"/>catoanimam suam.  uisillii? 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e2283">
+               <lb ed="#L" n="26"/>Augustinus insuper14. de ciuit. libr. asserit Christum 
+      <lb ed="#L" n="27"/>eos naturae nostrae defectus suscepisse, qui perfectioni 
+      <lb ed="#L" n="28"/>gratiae non repugnant quidem, sed de amore boni &amp; sancta 
+      <lb ed="#L" n="29"/>charitate veniunt: At commendat magis charitatem  
+      <lb ed="#L" n="30"/>suam Christus, si tristitiam quoque eam Deo pro culpis 
+      <lb ed="#L" n="31"/>nostris in sacrificium praebuit, quam nos Deo pro illis 
+      <lb ed="#L" n="32"/>debemus maxime. Plane item Ambrosius ad 
+      Gratia<lb ed="#L" n="33" break="no"/>num imperatorem dixit, Sicut susceperat voluntatem 
+      <lb ed="#L" n="34"/>meam, suscepit tristitiam meam. Nam voluntas proprie 
+      <lb ed="#L" n="35"/>appetitus intellectualis est. Et velle proprie actus 
+      volun<lb ed="#L" n="36" break="no"/>tatis est, ait autem, Non sicut ego volo. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e2309">
+               <lb ed="#L" n="37"/>Voluntatis etiam dolor hominis proprie tristitia est,  
+      <lb ed="#L" n="38"/>nam qui in solo appetitu sensitiuo reperitur, hic animatis 
+      <lb ed="#L" n="39"/>magis dolor est, quam hominis. Decuit autem vt per 
+      <!--894.xml-->
+      <pb ed="#L" n="883"/>
+               <lb ed="#L" n="1"/>dolorem proprie humanum humana peccata soluerentur. 
+      <lb ed="#L" n="2"/>Ita cum dixit, Repleta est malis anima mea, omnem 
+      ani<lb ed="#L" n="3" break="no"/>mae appetitum repletum dolore intellexit, siue sensualem 
+      <lb ed="#L" n="4"/>siue rationalem. Quoniam &amp; pronomen, mea, rationalem 
+      <lb ed="#L" n="5"/>magis quam sensualem prae se fert. Ea si vera sunt, vt 
+      vi<lb ed="#L" n="6" break="no"/>dentur esse, nihil obstat, cur non per potentiam 
+      superna<lb ed="#L" n="7" break="no"/>turalem &amp; gaudium summum &amp; summa tristitia in eodem  
+      <lb ed="#L" n="8"/>subiecto fuerint. Tum quia nec proprie contraria erant,  
+      <lb ed="#L" n="9"/>cum opposito debeat fieri circa idem, vt D. Thom. 
+      sae<lb ed="#L" n="10" break="no"/>pesumit. Tum quia quod praeter naturae ordinem a Deo 
+      <lb ed="#L" n="11"/>sit, id in naturae leges referre velle stultum est. Miraculum 
+      <lb ed="#L" n="12"/>fuit, quod idem homo esset &amp; viator &amp; comprehensor: 
+      <lb ed="#L" n="13"/>miraculum, quod a gloria animae nihil deriuaretur ad 
+      <lb ed="#L" n="14"/>corpus: miraculum, quod a superioris gaudio potentiae 
+      ni<lb ed="#L" n="15" break="no"/>hil solatij in inferiores redundaret: miraculum, quod 
+      in<lb ed="#L" n="16" break="no"/>ferioribus perturbatis nec superiores turbarentur, nec a 
+      <lb ed="#L" n="17"/>sua perpetua operatione cessarent, nec remitterent opus, 
+      <lb ed="#L" n="18"/>nec quietem &amp; delectationem vel ex minima parte 
+      resol<lb ed="#L" n="19" break="no"/>uerent. Inter haec miracula propter mysterium nostrae 
+      re<lb ed="#L" n="20" break="no"/>demptionis explendum, quanquam voluntas Deo viso 
+      <lb ed="#L" n="21"/>fruebatur, suscepit tamen spohte tristitiam quantam 
+      ma<lb ed="#L" n="22" break="no"/>ximam capere potuit: potuit autem: capere tantam, 
+      quan<lb ed="#L" n="23" break="no"/>ta maxima esse in rerum natura poterat. Vt dolor pro 
+      <lb ed="#L" n="24"/>peccatis non minor esse quam charitas &amp; scientiae ipse 
+      <lb ed="#L" n="25"/>quoque superemineret. 
+      </p>
+            <p xml:id="Z4Yt34-d1e1212-d1e2377">
+               <lb ed="#L" n="26"/>Sed &amp; olim iuuenis, vt hinc iam nos demum 
+      extrice<lb ed="#L" n="27" break="no"/>mus, coram celebri Theologorum concione diximus: 
+      <lb ed="#L" n="28"/>quod sicut per totam vitam Dominus gloriam animae 
+      <lb ed="#L" n="29"/>quasi premebat, ne in corpus efflueret: sic saltem in 
+      cru<lb ed="#L" n="30" break="no"/>ce retinuit gaudium, quod suapte natura ex clara Dei 
+      no<lb ed="#L" n="31" break="no"/>titia prodiret. Gaudium, fateor, ex Deo viso in 
+      volunta<lb ed="#L" n="32" break="no"/>te necessario nasci non secus atque ex sole lumen, calorem, 
+      <lb ed="#L" n="33"/>ex igne. Sed retraxit aliquando sol radios suos, &amp; ne 
+      cale<lb ed="#L" n="34" break="no"/>faceret, compressus est etiam ignis: quare nihil mirum 
+      <lb ed="#L" n="35"/>videri cuipiam debet, si in hominum redemptione per 
+      <lb ed="#L" n="36"/>hominis vnius dolores explenda voluptas omnis 
+      repri<lb ed="#L" n="37" break="no"/>meretur, quam alias ex visione Dei proficisci naturae ratio 
+      <lb ed="#L" n="38"/>demonstrat. Nec obstat, quod beatitudinem Benedictus 
+      <lb ed="#L" n="39"/>huius nominis duo decimus definiuit in visione &amp; fruitione 
+      <!--895.xml-->
+      <pb ed="#L" n="884"/>
+               <lb ed="#L" n="1"/>consistere. Christus autem beatus fuit in via. Quoniam  
+      <lb ed="#L" n="2"/>illud pontifex tradit de beatitudine consummata : 
+      Chri<lb ed="#L" n="3" break="no"/>stus autem licet habuerit essentiam beatitudinis, non tamen 
+      <lb ed="#L" n="4"/>accidentia, quae inde per se etiam consequuntur. Decuit 
+      <lb ed="#L" n="5"/>enim eum per passionem consummari. Quanquam &amp; frui 
+      <lb ed="#L" n="6"/>tio fine gaudio intelligi potest: fruitur enim arboris suae 
+      <lb ed="#L" n="7"/>fructibus, tunc etiam homo, cum per morbum voluptatem 
+      <lb ed="#L" n="8"/>nullam capit ex eis. Ita Christus non solum videbat sed etiam 
+      <lb ed="#L" n="9"/>truebatur, quamuis derelictus a Deo omnique penitus so 
+      <lb ed="#L" n="10"/>latio destitutus non gaudebat. Quamobrem, vt caeteri 
+      mar<lb ed="#L" n="11" break="no"/>tyres gaudium sibi futurum ante oculos posuit, vt crucem 
+      <lb ed="#L" n="12"/>sustineret confusione contempta ad Hebraeos. 12. ca. Vbi 
+      <lb ed="#L" n="13"/>miris omnino modis &amp; charitatem suam in nos 
+      commen<lb ed="#L" n="14" break="no"/>dauit &amp; exemplum. Certe siue primo siue secundo seu 
+      ter<lb ed="#L" n="15" break="no"/>tio modo quaestionem soluas miraculum facis: sed est hod 
+      <lb ed="#L" n="16"/>postremum eo plausibilius, quo maiores in nobis 
+      ignicu<lb ed="#L" n="17" break="no"/>los excitat tum poenitentiae tum amoris tum gratitudinis. 
+      <lb ed="#L" n="18"/>Sed sit iam huius questionis finis. Perspicuum est enim, in re 
+      <lb ed="#L" n="19"/>sterili &amp; ieiuna non paruam &amp; exiguam copiam e locis 
+      Theo<lb ed="#L" n="20" break="no"/>logiae suppeditatam. Restat tertium questionisgenus 
+      per<lb ed="#L" n="21" break="no"/>tractandum eius, quae a fide &amp; natura pendet: de qua re 
+      ca<lb ed="#L" n="22" break="no"/>pite sequenti disseremus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 13</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 13</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0"
+                    url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="884"/>
+         </div>
+      </front>
+      <body>
+         <div xmlns="" xml:id="Z4Yt34-d1e1223" alias="Z4Yt34-l12c13">
+            <head>Caput 13</head>
+            <p>
+               <lb ed="#L" n="23"/>
+               <sic>Caput quintum decimum</sic>, in quo ea quaestio Vocatur in 
+      du<lb ed="#L" n="24" break="no"/>bium, quae cum naturalis sit, tum etiam ad 
+      <lb ed="#L" n="25"/>suusuiis fidem pertinet.
+      </p>
+            <p>
+               <lb ed="#L" n="26"/>QVoniam de eo genere argumentorum dictum est, quae 
+      <lb ed="#L" n="27"/>Ae &amp; ad fidei principia explicanda spectant &amp; ad 
+      con<lb ed="#L" n="28" break="no"/>clusiones Theologiae confirmandas: deinceps de ijs, quae 
+      <lb ed="#L" n="29"/>ad rerum etiam naturalium probationem attinent, 
+      dispu<lb ed="#L" n="30" break="no"/>tandum est. Sunt autem naturales quaestiones in duplici 
+      <lb ed="#L" n="31"/>differentia. Quaedam enim solis naturae argumentis 
+      pro<lb ed="#L" n="32" break="no"/>bari possunt: aliae fidei etiam auctoritate confirmantur, Er 
+      <lb ed="#L" n="33"/>in naturae ratione, quidem nullum inter haec duo genera 
+      <lb ed="#L" n="34"/>discrimen est. Vtriusque enim quaestionis argumenta ex 
+      <lb ed="#L" n="35"/>eiusdem omnino locis petendam sunt, hoc est, ex humanis 
+      <lb ed="#L" n="36"/>disciplinis. Quae argumenta omnia tribus vltimis locis 
+      <lb ed="#L" n="37"/>continentur. Phoc differunt, quod quaestiones 
+      posterio<lb ed="#L" n="38" break="no"/>res, quoniam fidei sunt latius patent atque ex omni loco 
+      <!--896.xml-->
+      <pb ed="#L" n="885"/>
+               <lb ed="#L" n="1"/>comprobari possunt. In hoc genere illa est, quam hoc 
+      ca<lb ed="#L" n="2" break="no"/>pite versare cupio. 
+      </p>
+            <p>
+               <lb ed="#L" n="3"/>An animus hominis immortalis sit, quemadmodum Py 
+      <lb ed="#L" n="4"/>thagorae, Socrati, Platoni. Theophrasto. Themistio, 
+      Sene<lb ed="#L" n="5" break="no"/>cae, Ciceroni, melioribusque philosophis visum est, an po 
+      <lb ed="#L" n="6"/>tius mortalis, quod Luchretio, Galeno, Plinio, Alexandro 
+      <lb ed="#L" n="7"/>video placuisse. Nec me vero reprehensores vituperare 
+      <lb ed="#L" n="8"/>debent: quod rem aggrediar quae diligentissime est a 
+      plu<lb ed="#L" n="9" break="no"/>rimis disceptata. In quibus D. Thomam esse constat, 
+      cu<lb ed="#L" n="10" break="no"/>ius tanta est in vtranque partem argumentorum copia, vt 
+      <lb ed="#L" n="11"/>nihil addi posse videatur. Sed quoniam fidei argumenta 
+      <lb ed="#L" n="12"/>nulla fere protulit, naturae vero rationes Enricus atque 
+      <lb ed="#L" n="13"/>Scotus probabiliter suadere, aiunt, non necessario 
+      demon<lb ed="#L" n="14" break="no"/>strare: nihil, vt mihi videtur quidem, temere facturus sum 
+      <lb ed="#L" n="15"/>si de ea ipsa questione disputo, quam tam multa &amp; 
+      praecla<lb ed="#L" n="16" break="no"/>ra ingenia versarunt. Non enim rem actam agam: sed, nisi 
+      <lb ed="#L" n="17"/>me fallit animus, plane vtilem, ne dicam necessariam: 
+      prae<lb ed="#L" n="18" break="no"/>sertim cum Caietanus etiam noster sui val de dissimilis 
+      <lb ed="#L" n="19"/>scripserat, se credere quidem animam rationalem incorrum 
+      <lb ed="#L" n="20"/>ptibile esse at nescire tamen. Qua in re cum Enrico Et Sco 
+      <lb ed="#L" n="21"/>to ex parre consentit: quos idem miris olim modis 
+      explo<lb ed="#L" n="22" break="no"/>serat. Ex parte, inquam, quoniam non alios quidem, sed se 
+      <lb ed="#L" n="23"/>scire inficiatus est. 
+      </p>
+            <p>
+               <lb ed="#L" n="24"/>vt ergo haec controuersia, quam fieri poterit, 
+      accuratis<lb ed="#L" n="25" break="no"/>sime constituatur: principio argumentabimur, hanc 
+      quae<lb ed="#L" n="26" break="no"/>stionem nullo modo ad fidem attinere: deinde, non posse 
+      <lb ed="#L" n="27"/>paturae ratione demonstrari. 
+      </p>
+            <p>
+               <lb ed="#L" n="28"/>Docet porro Augustinus, idque non semel sed saepius, 
+      <lb ed="#L" n="29"/>on esse fidei quaestionem, an animae rationales ex 
+      tradu<lb ed="#L" n="30" break="no"/>ce sint: an potius ex nihilo in singulis creentur singulae. 
+      <lb ed="#L" n="31"/>At si anima hominis ex traduce vi seminis propagaretur,  
+      <lb ed="#L" n="32"/>sine dubio esset vt generabilis ita etiam corruptibilis. 
+      </p>
+            <p>
+               <lb ed="#L" n="33"/>Dein Sadducaei existimabant animum hominis essei 
+      <lb ed="#L" n="34"/>mortalem: nec tamen habebantur haeretici, quin vt 
+      religio<lb ed="#L" n="35" break="no"/>sos eos colebat fidelis populus. 
+      </p>
+            <p>
+               <lb ed="#L" n="36"/> Preterea quatuor sunt scripturae testimonia, quibus vel 
+      <lb ed="#L" n="37"/>maxime animorum immortalitas doceri potest. Vnum 
+      il<lb ed="#L" n="38" break="no"/>lud est. Donec reuertatur puluis in terram, vnde erat, &amp;  
+      <lb ed="#L" n="39"/>spiritus redeat ad Deum, qui dedit illum. Alterum. Deus 
+      <!--897.xml-->
+      <pb ed="#L" n="886"/>
+               <lb ed="#L" n="1"/>creauit hominem inexterminabilem, &amp; ad imaginem 
+      simi<lb ed="#L" n="2" break="no"/>litudinis suae fecit illum. Tertium, Nolite timere eos 
+      <lb ed="#L" n="3"/>qui occidunt corpus, animam autem non possunt 
+      occide<lb ed="#L" n="4" break="no"/>re. Quartum, quo dominus in euangelio vtitur, Ego sum 
+      <lb ed="#L" n="5"/>Deus Abraham, Isaac, &amp; Iacob. Non est Deus 
+      mor<lb ed="#L" n="6" break="no"/>tuorum sed viuentium. Etenim quod Augustinus 
+      affir<lb ed="#L" n="7" break="no"/>mat ex lege Moysis esse caeteris euidentius, id ne 
+      proba<lb ed="#L" n="8" break="no"/>bile quidem mihi videri solet, vt animas ab interitu 
+      vendi<lb ed="#L" n="9" break="no"/>cemus. Ex quatuor autem illis, quae passim a Theologis 
+      <lb ed="#L" n="10"/>referuntur, primum eludi potest, quod Augustinus docet,  
+      <lb ed="#L" n="11"/>infirmum esse aduersum eos, qui credunt animas per 
+      pro<lb ed="#L" n="12" break="no"/>paginem generari. Infirmum ergo etiam est contra eos, 
+      <lb ed="#L" n="13"/>qui dixerint eas cum corporibus interire. Ac sicut 
+      scri<lb ed="#L" n="14" break="no"/>ptum est, ait, donec spiritus redeat ad eum, qui dedit illum: 
+      <lb ed="#L" n="15"/>sic etiam legimus, Spiritus vadens &amp; non rediens. 
+      Secun<lb ed="#L" n="16" break="no"/>dum item refellet fortasse quispiam dicens, non ibi de 
+      ani<lb ed="#L" n="17" break="no"/>ma sermonem esse sed de homine, quem Deus per 
+      gra<lb ed="#L" n="18" break="no"/>tiam fecit a principio immortalem. Vnde statim 
+      subijci<lb ed="#L" n="19" break="no"/>tur, Inuidia autem diaboli mors introiuit in orbem 
+      terra<lb ed="#L" n="20" break="no"/>rum. Tertium autem de morte spirituali animae, hoc est, de 
+      <lb ed="#L" n="21"/>aeterna interpretari licet, de qua illud habes, Dentes 
+      leo<lb ed="#L" n="22" break="no"/>nis dentes eius interficientes animas hominum. Quae res 
+      <lb ed="#L" n="23"/>suadetur, quia protinus additur, Eum timete, qui 
+      post<lb ed="#L" n="24" break="no"/>quam occiderit, habet potestatem mittendi in 
+      genen<lb ed="#L" n="25" break="no"/>nam. Quare D. Thom. nec in. 1. part. nec in sum. contra 
+      <lb ed="#L" n="26"/>gen, nec in. 4. de anima hoc testimonium voluit 
+      vsurpa<lb ed="#L" n="27" break="no"/>re. Nam quartum de resurrectione agit, non de 
+      immorta<lb ed="#L" n="28" break="no"/>litate. Sic enim dominus ait, De resurrectione autem 
+      mor<lb ed="#L" n="29" break="no"/>tuorum non legistis, &amp;cae. Nihil vero prohibet, vt anima 
+      <lb ed="#L" n="30"/>cum corpore simul intereat, &amp; postea cum corpore simul 
+      <lb ed="#L" n="31"/>exsurgat. Non ergo fidei decretum est, animas esse immor 
+      <lb ed="#L" n="32"/>taies. 
+      </p>
+            <p>
+               <lb ed="#L" n="33"/>Quod vero naturali argumentatione animae 
+      immorta<lb ed="#L" n="34" break="no"/>litas nequeat ostendi, illa prima coniectura est, quod eum 
+      <lb ed="#L" n="35"/>Ambrosius &amp; Augustinus, vt id probarent omneis neruos 
+      <lb ed="#L" n="36"/>intenderint, nihil omnino confecere. Non autem 
+      praecel<lb ed="#L" n="37" break="no"/>limus Ambrosium &amp; Augustinum. 
+      <lb ed="#L" n="38"/>Adhaec cum Scotus, Iandunus, Caietanus Diui Thomae 
+      <lb ed="#L" n="39"/>rationes expenderint, viri scilicet magno ingenio magnaque  
+      <!--898.xml-->
+      <pb ed="#L" n="887"/>
+               <lb ed="#L" n="1"/>Philosophiae eruditione praediti, at pronunciarunt 
+      tan<lb ed="#L" n="2" break="no"/>dem, rem non esse demonstratam sed credita. Non est 
+      au<lb ed="#L" n="3" break="no"/>tem verosimile, rationes eas, si euidentes essent ac lucidae, 
+      <lb ed="#L" n="4"/>nullum euidentiae lume acribus acutisque, oculis allaturas. 
+      <lb ed="#L" n="5"/>Praeterea Aristoteles non idem sempet in hac re, sed tu 
+      <lb ed="#L" n="6"/>hoc tum illud scripsit: non est ergo probabile, eum in 
+      tan<lb ed="#L" n="7" break="no"/>ta varietate &amp; inconstantia certam exploratamque animae 
+      <lb ed="#L" n="8"/>immortalitatem habuisse. Nam quod pro animae 
+      rationa<lb ed="#L" n="9" break="no"/>lis incorruptione aliquando senserit, vt cetera loca 
+      omit<lb ed="#L" n="10" break="no"/>tam, quae &amp; D. TO. 2. aduer. gen. c. 79. &amp; Ferrarien: in 
+      com<lb ed="#L" n="11" break="no"/>mentarijs afferunt, is locus planus &amp; expeditus est, qui. 2. 
+      <lb ed="#L" n="12"/>lib. de gen. anima. c. 3. habetur: vbi aperte docet Arist, 
+      men<lb ed="#L" n="13" break="no"/>tem hominis non in seminis virtute esse, vt reliquas animas,  
+      <lb ed="#L" n="14"/>sed extrinsecus aduenire. Quod si non educitur de potetia 
+      <lb ed="#L" n="15"/>materiae nec a generante homine vi seminis editur : certe 
+      <lb ed="#L" n="16"/>subsistens est nec a materia dependet. Quod vero de hac 
+      <lb ed="#L" n="17"/>sententia interdum etiam desciuerit, Caietanus multifariam 
+      <lb ed="#L" n="18"/>suadet: &amp; mihi his argumentis fit verosimile. Primo, quod 
+      <lb ed="#L" n="19"/>non potest effugere si sua principia Aristoteles retinet, 
+      a<lb ed="#L" n="20" break="no"/>nimarum infinitatem, nisi incidat in errorem Auerrois vel 
+      <lb ed="#L" n="21"/>in Pythagorae deliramentum. Secundo quia. 1. coeli asserit, 
+      <lb ed="#L" n="22"/>quicquid incorruptibile sit, id perpetuum etiam fuisse. 
+      Ter<lb ed="#L" n="23" break="no"/>tio quia in eth. lib. 1. Solonem reprehendit, qui asseruerit, 
+      <lb ed="#L" n="24"/>post mortem veram superesse hominis beatitudinem. 
+      Vn<lb ed="#L" n="25" break="no"/>de &amp; deplorat breuem hominis fclicitatem, &amp; opes ac 
+      di<lb ed="#L" n="26" break="no"/>uitias tanquam felicitatis adiumenta requirit. Nec de ho 
+      <lb ed="#L" n="27"/>minis animo post mortem verbum vllum in illo reperies. 
+      <lb ed="#L" n="28"/>Non est autem credibile eum si existimaret animam esse 
+      im<lb ed="#L" n="29" break="no"/>mortalem, nec de modo, quo intelligeret separata, nec de 
+      <lb ed="#L" n="30"/>eius felicitate quicquam vel breuiter perstricturum. 
+      Quar<lb ed="#L" n="31" break="no"/>to ex prooemio libri de anima, vbi illud fundamentum iecit: 
+      <lb ed="#L" n="32"/>si intelligere est fantasia aut non sine fantasia, non contin 
+      <lb ed="#L" n="33"/>git animam separati: in tertio autem libro posuit antecedens, 
+      <lb ed="#L" n="34"/>quod intelligere non est sine fantasia: vnde &amp; consequens 
+      <lb ed="#L" n="35"/>&amp;cae. Quinto quia non Gregorius Nissenus modo, quem 
+      <lb ed="#L" n="36"/>D. Tho. refert, verum etiam Iustinus martyr in lib. 
+      admo<lb ed="#L" n="37" break="no"/>nitorio gentium, &amp; Theodoritus libro quinto de curati. 
+      <lb ed="#L" n="38"/>grae. affecti. consentiunt, Aristotelem animorum 
+      im<lb ed="#L" n="39" break="no"/>mortalitatem negauisse. Quis autem credat, tantos talesque  
+      <!--899.xml-->
+      <pb ed="#L" n="888"/>
+               <lb ed="#L" n="1"/>viros falsum testimonium dixisse? Nisi etiam Alexander 
+      <lb ed="#L" n="2"/>Aphrodisaeus insignis praetor caeteros Peripateticus falso 
+      <lb ed="#L" n="3"/>etiam magistro suo hanc sententiam imposuit. 
+      </p>
+            <p>
+               <lb ed="#L" n="4"/>Praeterea animorum immortalitas cum Dei erga 
+      homi<lb ed="#L" n="5" break="no"/>nes prouidentia adeo coniuncta &amp; colligata est, vt qui 
+      il<lb ed="#L" n="6" break="no"/>lam negarit, is hanc quoque inficiaturus sit: qui vero hanc 
+      <lb ed="#L" n="7"/>concesterit, eum necesse sit illam admittere: quemadmodum 
+      <lb ed="#L" n="8"/>supra diximus. At Dei erga res humanas prouidentia non  
+      <lb ed="#L" n="9"/>potest esse per rationes humanas manifesta, sed solum ex 
+      <lb ed="#L" n="10"/>diuinis oraculis explorate percipitur. In quod Propheta 
+      <lb ed="#L" n="11"/>testatur inquiens: Existimabam vt cognoscere: hoc labor 
+      <lb ed="#L" n="12"/>est ante me, donec intrem in sanctuarium Dei, &amp; intelligam 
+      <lb ed="#L" n="13"/>in nouissimis eorum. Et iterum. Dominus scit 
+      cogitatio<lb ed="#L" n="14" break="no"/>nes hominum, quoniam vanae sunt. Beatus homo, quem tu 
+      <lb ed="#L" n="15"/>erudieris domine, &amp; de lege tua docueris eum. 
+      </p>
+            <p>
+               <lb ed="#L" n="16"/>Praeterea ad indagandam animi immortalitatem illa 
+      re<lb ed="#L" n="17" break="no"/>ctissima via est, quam Aristoteles est ingressus: nempe animi 
+      <lb ed="#L" n="18"/>operatio propria. Sicut enim res se habet ad operationem, 
+      <lb ed="#L" n="19"/>ita se habet ad esse. Experimento autem quotidiano ille 
+      <lb ed="#L" n="20"/>probauit, animam nostram nihil sine fantasmate 
+      intellige<lb ed="#L" n="21" break="no"/>re. Pendere itaque a corpore non solum vt species 
+      intelli<lb ed="#L" n="22" break="no"/>gibilium accipiat, sed vt eis etiam: vtatur resque ipsas 
+      in<lb ed="#L" n="23" break="no"/>telligat. Respondent, pendere animi propriam actionem 
+      <lb ed="#L" n="24"/>a corpore non tanquam a subiecto sed tanqua ab obiecto. 
+      <lb ed="#L" n="25"/>Verum haec responsio refellitur. Quia si, quantum 
+      ratio<lb ed="#L" n="26" break="no"/>nis lumen &amp; sensuum indagatio docet, nulla nostra 
+      intel<lb ed="#L" n="27" break="no"/>lectio sine corpore est: nihil refert hoc an illo modo sit, 
+      <lb ed="#L" n="28"/>cum vtrinqe probalissime colligatur, animam, si extra 
+      cor<lb ed="#L" n="29" break="no"/>pus esset, in modum glirium torpentem omni opere 
+      vaca<lb ed="#L" n="30" break="no"/>turam. Experimur si quidem species intelligibiles &amp; in 
+      <lb ed="#L" n="31"/>fieri &amp; in operari a fantasmate dependere. Hinc enim 
+      Ari<lb ed="#L" n="32" break="no"/>stoteles vacillauit nec quicquam effecit si effecit tamen, 
+      <lb ed="#L" n="33"/>nisi animas cum corporibus interire: ne vanae scilicet &amp; 
+      <lb ed="#L" n="34"/>ociosae extra corpora remanerent. 
+      </p>
+            <p>
+               <lb ed="#L" n="35"/>Confirmat autem hoc vel maxime, quod si animus per 
+      <lb ed="#L" n="36"/>se subsisteret atque adeo immortalis esset: non indigeret 
+      <lb ed="#L" n="37"/>corpore, quemadmodum aliae formae, propter esse sed 
+      so<lb ed="#L" n="38" break="no"/>lum propter operationem. Necesse quippe est, eum species 
+      <lb ed="#L" n="39"/>intelligibiles a corporibus per corporis sensus emendicare. 
+      <!--900.xml-->
+      <pb ed="#L" n="889"/>
+               <lb ed="#L" n="1"/>Alioqui intellectus per se in natura subsistens, ideoque a 
+      <lb ed="#L" n="2"/>corporis grauitate &amp; materiae imperfectione liber nulo 
+      <lb ed="#L" n="3"/>se modo corpori colligaret, si ex se haberet species 
+      in<lb ed="#L" n="4" break="no"/>genitas, quibus sine corporis adiumento intelligeret. 
+      <lb ed="#L" n="5"/>Videmus aumem, species a corpore acceptas a corpore 
+      e<lb ed="#L" n="6" break="no"/>tiam in operando pendere. Ideo enim necesse est, 
+      intelli<lb ed="#L" n="7" break="no"/>gentem phantasmata speculari. Non ergo per illas anima 
+      <lb ed="#L" n="8"/>a corpore separata intelliget. Alias vero species non 
+      ha<lb ed="#L" n="9" break="no"/>bet superinditas. Quare seiuncta a corpore, somno 
+      ocio<lb ed="#L" n="10" break="no"/>que torpebit, quod est absurdum. 
+      </p>
+            <p>
+               <lb ed="#L" n="11"/>Sexta insuper synodus actio. 11. tradit, animam 
+      homi<lb ed="#L" n="12" break="no"/>nis non esse immortalem per naturam, sed per gratiam 
+      il<lb ed="#L" n="13" break="no"/>lam a morte coercentem. Et rursum, non, inquit, naturam 
+      <lb ed="#L" n="14"/>proprie immortalem habent animae, sed gratia id sortitae 
+      <lb ed="#L" n="15"/>sunt. Nulla ergo ratio naturalis animae immortalitatem 
+      <lb ed="#L" n="16"/>monstrare potest, vtpote cum sit suapte natura mortalis. 
+      <lb ed="#L" n="17"/>Adde vnum &amp; viginti argumenta, quibus 8. Tho. 
+      pro<lb ed="#L" n="18" break="no"/>babiliter egit, vt anima corruptibilis videretur. Quae s 
+      <lb ed="#L" n="19"/>ego hic repetam molestus ero. Nam his alia adijcere, non 
+      <lb ed="#L" n="20"/>video qui possem, nisi Ianduno alijsque huius farinae 
+      <lb ed="#L" n="21"/>auctoribus velim esse simillimus, qui vt argumenta 
+      affe<lb ed="#L" n="22" break="no"/>rant, quibus animi mortalitas probari posse videatur, ea 
+      <lb ed="#L" n="23"/>ponunt, quibus suadeant eum non esse formam actumque 
+      <lb ed="#L" n="24"/>corporis essentialiter. Quae argumenta quidem 
+      Caieta<lb ed="#L" n="25" break="no"/>nus in 3. lib. de anima retulit, fecissetque fortasse multo 
+      <lb ed="#L" n="26"/>prudentius, si contempsisset. 
+      </p>
+            <p>
+               <lb ed="#L" n="27"/>Adde etiam, quod Scotus argumentis, quae probant 
+      a<lb ed="#L" n="28" break="no"/>nimam esse immortalem, argute respondet. Si ergo 
+      ratio<lb ed="#L" n="29" break="no"/>nes inuentae a prioribus non demonstrant, alias vero 
+      ex<lb ed="#L" n="30" break="no"/>cogitare nouas non opis est nostrae, fateamur, animam  
+      <lb ed="#L" n="31"/>immortaliter viuere, nullo certo naturae argumento 
+      pa<lb ed="#L" n="32" break="no"/>tescere. Haec afferre breuissime potui, quibus illi 
+      vteren<lb ed="#L" n="33" break="no"/>tur, qui animorum immortalitatem infirmare pergerent. 
+      <lb ed="#L" n="34"/>Quam tamen &amp; fides catholica firmissime docet &amp; certa 
+      <lb ed="#L" n="35"/>naturae ratio. Id quod conclusiones rationesque 
+      sequen<lb ed="#L" n="36" break="no"/>tes patefacient. 
+      <lb ed="#L" n="37"/>Prima conclusio. Animum hominis esse mortalem, fidei 
+      <lb ed="#L" n="38"/>catholicae manifeste repugnat. Gene. 37. Descendam ad 
+      <lb ed="#L" n="39"/>filium meum lugens in infernum. Iob 21. Ducunt in 
+      <!--901.xml-->
+      <pb ed="#L" n="890"/>
+               <lb ed="#L" n="1"/>bonis dies suos &amp; in puncto ad inferna descendunt. 
+      Sa<lb ed="#L" n="2" break="no"/>pien. item cap. 2. 3. 4. &amp; 5. apertissime traditur, animas cum 
+      <lb ed="#L" n="3"/>corporibus non interire. Eccles. 12. Et spiritus redeat ad 
+      <lb ed="#L" n="4"/>Deum qui dedit illum. 2. Machab. 12. Sancta ergo &amp; 
+      salu<lb ed="#L" n="5" break="no"/>bris, &amp;c. Matth. 10. Nolite timere eos, qui occidunt 
+      cor<lb ed="#L" n="6" break="no"/>pus, animam autem non possunt occidere, sed potius 
+      ti<lb ed="#L" n="7" break="no"/>mete eum, qui potost &amp; animam &amp; corpus perdere in 
+      ge<lb ed="#L" n="8" break="no"/>hennam. Ioan. 12. Qui odit animam suam in hoc mundo,  
+      <lb ed="#L" n="9"/>in vitam aeternam custodit eam. Philip. 1. Mihi viuere Chri 
+      <lb ed="#L" n="10"/>stus est, &amp; mori lucrum. Coartor autem e duobus, 
+      deside<lb ed="#L" n="11" break="no"/>rium habens dissolui &amp; esse cum Christo. Primae ad 
+      Cor<lb ed="#L" n="12" break="no"/>15. pro absurdissimo Apostolus colligit, Ergo &amp; qui dor 
+      <lb ed="#L" n="13"/>mierunt in Christo, perierunt. Si in hac vita tantum in 
+      Chri<lb ed="#L" n="14" break="no"/>sto sperantes sumus, miserabiliores sumus omnibus homi 
+      <lb ed="#L" n="15"/>nibus. Et posterius referens illam insipientium vocem, 
+      <lb ed="#L" n="16"/>Manducemus &amp; bibamus, cras enim moriemur illico 
+      sub<lb ed="#L" n="17" break="no"/>dit, Nolite seduci. Corrumpunt, &amp;c. 2. Corint. 5. Dum 
+      <lb ed="#L" n="18"/>sumus in corpore, peregrinamur a Domino, audemus 
+      au<lb ed="#L" n="19" break="no"/>tem &amp; bonam voluntatem habemus magis, peregrinari a 
+      <lb ed="#L" n="20"/>corpore &amp; presentes esse ad Deum. Et paulo ante: Scimus 
+      <lb ed="#L" n="21"/>quod si terrestris domus nostra, &amp;c. Sed de scripturae 
+      te<lb ed="#L" n="22" break="no"/>stimonijs, quae D. Tho. dixit esse infinita, satis multa 
+      exci<lb ed="#L" n="23" break="no"/>tauimus. Quamquam vereor, ne quis nos iure ac merito 
+      re<lb ed="#L" n="24" break="no"/>prehendat, qui in re non dubia vsi fuerimus testibus non  
+      <lb ed="#L" n="25"/>necessarijs. Praesertim cum ij, qui animae immortalitatem 
+      <lb ed="#L" n="26"/>inficiantur, nec Christo nec euangelio credunt, ecclesiae 
+      <lb ed="#L" n="27"/>vero sanctorumque fidem pro nihilo putent. Ita superuaca 
+      <lb ed="#L" n="28"/>neum videtur esse, ex ijs locis, qui auctoritatem fidei 
+      con<lb ed="#L" n="29" break="no"/>tinent, argumenta depromere. Nec conclusio haec proprie 
+      <lb ed="#L" n="30"/>Theologica est, vt sit argumentationibus Theologiae 
+      con<lb ed="#L" n="31" break="no"/>irmanda. Quin Theologia, qua ratione effectrix est &amp; 
+      a<lb ed="#L" n="32" break="no"/>gendi muneri incumbit, illa duo habet primaria 
+      funda<lb ed="#L" n="33" break="no"/>menta. Deum esse hominis &amp; principium &amp; finem, atque 
+      <lb ed="#L" n="34"/>adeo procuratorem, esseque item animorum perpetuam vita, 
+      <lb ed="#L" n="35"/>in qua remunerator Deus sit inquirentium se. Quae nisi 
+      <lb ed="#L" n="36"/>fidelis penitus habeat infixa &amp; in animo quasi insculpta, 
+      <lb ed="#L" n="37"/>non dico media, &amp; finem consequi felicitatis suae, sed ne ad 
+      <lb ed="#L" n="38"/>Deum quidem accedere potest, vt ab eo media finemque 
+      <lb ed="#L" n="39"/>requirat. Cum igitur prima cuiusque disciplinae princi¬ 
+      <!--902.xml-->
+      <pb ed="#L" n="891"/>
+               <lb ed="#L" n="1"/>pia tanquam notissimae anticipationes supponantur 
+      ni<lb ed="#L" n="2" break="no"/>hil opus erat vel ea testimonia referre, quae ex sacris 
+      lite<lb ed="#L" n="3" break="no"/>ris commemorauimus. Nisi quod sunt quidam adeo 
+      cu<lb ed="#L" n="4" break="no"/>riosi, qui etiam optarint, Paulum de animorum 
+      incorru<lb ed="#L" n="5" break="no"/>ptione manifestius loqui. Quod perinde est, ac siquis Phi 
+      <lb ed="#L" n="6"/>losophus adeo esset insigniter stultus, vt in 
+      philosopho<lb ed="#L" n="7" break="no"/>rum libris, praesertimque Aristotelis, cuperet principium 
+      <lb ed="#L" n="8"/>illud saepe &amp; clare resumi, Quodlibet est, vel non est.  
+      <lb ed="#L" n="9"/>Verum de hac prima propositone, quoniam est ante 
+      o<lb ed="#L" n="10" break="no"/>culos posita, diximus satis. Secunda proposito, 
+      Ani<lb ed="#L" n="11" break="no"/>mus naturaliter est immortalis, &amp; non ex dono gratuito. 
+      <lb ed="#L" n="12"/>Euere porro quidam Arabes, qui dicerent, animum 
+      natu<lb ed="#L" n="13" break="no"/>ra esse mortalem: sed in nouissimo cum corpore 
+      immor<lb ed="#L" n="14" break="no"/>taliter suscitandum. Simili autem errore ductus posset 
+      <lb ed="#L" n="15"/>quispiam dicere, animum cum corpore statim quidem 
+      in<lb ed="#L" n="16" break="no"/>teriturum, si naturae suae relinqueretur, sed vi diuinae 
+      po<lb ed="#L" n="17" break="no"/>tentiae fieri, vt vel ad praemia, vel ad poenas conseruetur 
+      <lb ed="#L" n="18"/>aeternus. 
+      </p>
+            <p>
+               <lb ed="#L" n="19"/>Hoc qui assereret, is scripturas facile in sensum suum 
+      de<lb ed="#L" n="20" break="no"/>torqueret. Non enim affirmant illae, animum esse natura sua 
+      <lb ed="#L" n="21"/>immortalem, sed solum eum aiunt manere post mortem. 
+      <lb ed="#L" n="22"/>Sicut corpus post resurrectionem fides astruit perpetuam 
+      vi<lb ed="#L" n="23" break="no"/>tam habiturum, non tamen id in natura corporis, sed in 
+      di<lb ed="#L" n="24" break="no"/>uina potentia erit. Quam sententiam sextae synodi verba 
+      <lb ed="#L" n="25"/>retro citata sonare videntur. Atque August. 1O. super 
+      Gen<lb ed="#L" n="26" break="no"/>ad lit. c. 23. in illam magis opinionem inclinat, quae docet 
+      <lb ed="#L" n="27"/>animas a parentibus generari. Quae si vera sententia est, non 
+      <lb ed="#L" n="28"/>est animus sua natura immortalis. Id quod solebam 
+      equi<lb ed="#L" n="29" break="no"/>dem, non tanquam haereticum, sed tanquam erroneum 
+      con<lb ed="#L" n="30" break="no"/>demnare, semper quippe malui citra lineam consistere quam  
+      <lb ed="#L" n="31"/>transire, stultaeque ignorantiae potius argui, quam insoletiae 
+      <lb ed="#L" n="32"/>temerariae. At si re diligentius animaduertas, non dubites,  
+      <lb ed="#L" n="33"/>huic errori haereseos notam inurendam, quando ad sedem 
+      <lb ed="#L" n="34"/>Apostolicam referatur. 
+      <lb ed="#L" n="35"/>Primum, quia manifestum est, quosdam Philosophos 
+      na<lb ed="#L" n="36" break="no"/>turae ratione duce, animorum immortalitatem &amp; vestigasse 
+      <lb ed="#L" n="37"/>&amp; inuenisse. Non est ergo supernaturalis animorum 
+      per<lb ed="#L" n="38" break="no"/>petua vita, aut dono eis gratuito concessa. Quis enim 
+      <lb ed="#L" n="39"/>hominum scire poterit consilium Dei? aut quis poterit 
+      <!--903.xml-->
+      <pb ed="#L" n="892"/>
+               <lb ed="#L" n="1"/>cogitare quid velit Deus? nisi ille dederit sapientiam &amp;  
+      <lb ed="#L" n="2"/>miserit Spiritum sanctum suum de altissimis. 
+      </p>
+            <p>
+               <lb ed="#L" n="3"/>Deinde in Concilio Lateranen, sub Leone 1O0. sessione 
+      <lb ed="#L" n="4"/>8. definitur, haereticum esse dicere, quod ex principijs Phi 
+      <lb ed="#L" n="5"/>losophiae sequitur, animam esse mortalem. Et tamen si 
+      na<lb ed="#L" n="6" break="no"/>turaliter esset anima corruptibilis : huius corruptionis 
+      <lb ed="#L" n="7"/>esset causa aliqua naturalis Item cum nonnulli, inquit, ausi 
+      <lb ed="#L" n="8"/>sint dicere de natura animae rationalis quod mortalis sit, 
+      <lb ed="#L" n="9"/>&amp; aliqui temere philosophantes secundum Philosophiam 
+      <lb ed="#L" n="10"/>saltem verum esse asseuerent, damnamus omnes asseretes 
+      <lb ed="#L" n="11"/>animam rationalem mortalem esse. Cum illa non solum per 
+      <lb ed="#L" n="12"/>se, &amp; essentialiter humani corporis forma sit, verum etiam  
+      <lb ed="#L" n="13"/>immortalis. Hactenus concilium. 
+      </p>
+            <p>
+               <lb ed="#L" n="14"/>praeterea non Theologi modo, verum fideles etiam 
+      v<lb ed="#L" n="15" break="no"/>niuersi animarum immortalitatem, ita a maioribus 
+      acce<lb ed="#L" n="16" break="no"/>pimus, vt non per miraculum eas incorruptibiles, sed per 
+      <lb ed="#L" n="17"/>naturam esse credamus. Hic autem ecclesiae consensus 
+      cer<lb ed="#L" n="18" break="no"/>tissimo nobis argumento esse debet catholici dogmatis. 
+      <lb ed="#L" n="19"/>Quod autem idem in hac re Theologi ac fideles sentiant 
+      <lb ed="#L" n="20"/>omnes vel ex eo liquet, quod asserentem quemcunque, 
+      a<lb ed="#L" n="21" break="no"/>nimos esse mortales, statim exhorrent. Eadem quippe fide 
+      <lb ed="#L" n="22"/>inscriptum in mente habent, angelos &amp; hominum animas 
+      <lb ed="#L" n="23"/>natura sua vt intellectuales, ita quoque immortales esse. 
+      <lb ed="#L" n="24"/>Adde quod post Augustini seculum nemo fidelium in 
+      du<lb ed="#L" n="25" break="no"/>bium vertit, quin animae rationales creentur ex nihilo, &amp;  
+      <lb ed="#L" n="26"/>singulae singulis corporibus infundantur, vt Concilij La 
+      <lb ed="#L" n="27"/>teranen, verbo vtar. Quod si non generantur vi naturae 
+      <lb ed="#L" n="28"/>animae rationales, nec de potentia materiae educuntur, sed 
+      <lb ed="#L" n="29"/>foris veniunt: nimirum ex se subsistunt, quare non cum 
+      <lb ed="#L" n="30"/>corpore intereunt. Illud vero testimonium, spiritus 
+      re<lb ed="#L" n="31" break="no"/>deat ad Deum, qui dedit illum, ne Augustinus quidem ipse 
+      <lb ed="#L" n="32"/>expedit. Si enim foris venit spiritus hominis, consequens 
+      <lb ed="#L" n="33"/>fit, vt nulla vi agentis naturalis propagetur. Quocirca si 
+      <lb ed="#L" n="34"/>ingenitus natura est, natura quoque est incorruptus. Nec 
+      <lb ed="#L" n="35"/>enim naturales causae corrumpunt aliquid, nisi quod 
+      eae<lb ed="#L" n="36" break="no"/>dem possunt gignere. Nam quod interpretatur 
+      Augusti<lb ed="#L" n="37" break="no"/>nus, Deum primo homini spiritum dedisse, cum 
+      inspira<lb ed="#L" n="38" break="no"/>uit in faciem eius spiraculum vitae, in illo vero qui 
+      caete<lb ed="#L" n="39" break="no"/>rorum hominum caput erat, caeteris dedisse spiritum, hoc,  
+      <!--904.xml-->
+      <pb ed="#L" n="893"/>
+               <lb ed="#L" n="1"/>pace tanti viri dictum sit, nulla ex parte argumenti vires 
+      <lb ed="#L" n="2"/>infringit. Cum enim Moyses in principio Geneseos rerum 
+      <lb ed="#L" n="3"/>naturalium propriam vim &amp; naturam exprimat, quod in 
+      <lb ed="#L" n="4"/>primo homine significatum est, id de reliquis etiam intel 
+      <lb ed="#L" n="5"/>ligitur. Scriptura porio, vt ostenderet viuentia reliqua 
+      <lb ed="#L" n="6"/>viribus naturae edi posse, ait, Germinet terra herbam 
+      vi<lb ed="#L" n="7" break="no"/>rentem, &amp;c. Et rursum, Producant aquae reptibile animae 
+      <lb ed="#L" n="8"/>viuentis, &amp;c. Et iterum, Producat terra iumenta &amp; 
+      repti<lb ed="#L" n="9" break="no"/>lia, &amp;c. Nemini quippe ambiguum esse potest, prima 
+      ce<lb ed="#L" n="10" break="no"/>torum, iumentorum, serpentium, leonum, indiuidua, a Deo 
+      <lb ed="#L" n="11"/>sine media causa adiuuante condita creataque fuisse. Ob 
+      <lb ed="#L" n="12"/>id namque adiectum est, Creauitque Deus cete grandia &amp;  
+      <lb ed="#L" n="13"/>omnem animam viuentem atque motabilem, quam 
+      pro<lb ed="#L" n="14" break="no"/>duxerant aquae in species suas. Item, Et fecit Deus bestias 
+      <lb ed="#L" n="15"/>terrae iuxta species suas, &amp;c. At significare scriptura 
+      vo<lb ed="#L" n="16" break="no"/>luit, si tunc a Deo huiusmodi animantia esse edita, vt in vi 
+      <lb ed="#L" n="17"/>tamen elementorum &amp; corporum, quae ex elementis 
+      con<lb ed="#L" n="18" break="no"/>flarentur, illorum generationem sitam esse censeremus. 
+      <lb ed="#L" n="19"/>Sed enim cum ad hominem ventum est, ne huius similis 
+      com<lb ed="#L" n="20" break="no"/>ditio crederetur, de corpore ait, Fecit Deus hominem ex 
+      <lb ed="#L" n="21"/>limo terrae: de animo autem, Inspirauit in faciem eius 
+      spi<lb ed="#L" n="22" break="no"/>raculum vitae. Quod differentis conditionis varium 
+      dis<lb ed="#L" n="23" break="no"/>crimen a Moyse adeo accurate obseruatum manifeste 
+      in<lb ed="#L" n="24" break="no"/>dicat, caeterorum Viuentium animas in potentia materiae 
+      <lb ed="#L" n="25"/>esse, hominis spiritum, quo factus est in animam viuentem, 
+      <lb ed="#L" n="26"/>non esse, sed a Deo creari &amp; infundi, qui solus eius, &amp; spi 
+      <lb ed="#L" n="27"/>rator &amp; creator est. Praeterquam quod qui dicit. Redeat 
+      <lb ed="#L" n="28"/>ad Deum, qui dedit illum, is non obscure docet, spiritum 
+      <lb ed="#L" n="29"/>non perire, sed manere. Explicat enim id, quod paulo 
+      <lb ed="#L" n="30"/>ante dixerat, Ibit homo in domum aeternitatis suae. 
+      Alio<lb ed="#L" n="31" break="no"/>qui, quomodo ad Deum vadit, si dissoluitur tanqua 
+      mol<lb ed="#L" n="32" break="no"/>lis aer &amp; sicut vmbra ac fumus euanescit? 
+      Quemadmo<lb ed="#L" n="33" break="no"/>dum autem corporis naturam exprimit, cum ait, 
+      Reuer<lb ed="#L" n="34" break="no"/>tatur puluis in terram suam, vnde erat, sic naturam 
+      spiri<lb ed="#L" n="35" break="no"/>tus manifestat inquiens, Et spiritus redeat ad Deum, &amp;c. 
+      <lb ed="#L" n="36"/>Iam quod Augustinus affert, spiritus vadens &amp; non 
+      re<lb ed="#L" n="37" break="no"/>diens, a nobis est. Non enim scriptura dicit, spiritus 
+      ve<lb ed="#L" n="38" break="no"/>niens &amp; non rediens, sed spiritus vadens, scilicet a 
+      cor<lb ed="#L" n="39" break="no"/>pore &amp; non rediens, &amp;c. 
+      <!--905.xml-->
+      <pb ed="#L" n="894"/>
+               <lb ed="#L" n="1"/>Praeterea stulti illi, quorum error Sap. cap. 2. in ducitur, 
+      <lb ed="#L" n="2"/>animum existimabant naturaliter esse mortalem. Non enim 
+      <lb ed="#L" n="3"/>de miraculo loquebantur, sed de natura. At Sapiens non  
+      <lb ed="#L" n="4"/>modo cum illis aperte pugnat, verum etiam vt insipientes 
+      <lb ed="#L" n="5"/>&amp; insensatos reprehendit. Animos ergo sentit natura esse 
+      <lb ed="#L" n="6"/>immortales. 
+      </p>
+            <p>
+               <lb ed="#L" n="7"/>Tertia proposito. Erroneum est ne dicam haereticum, 
+      <lb ed="#L" n="8"/>astruere, anime immortalitatem naturali ratione 
+      demon<lb ed="#L" n="9" break="no"/>strari non posse. Si enim naturam habet incorruptibilem, 
+      <lb ed="#L" n="10"/>huius rei vel a priori vel a posteriori ratio aliqua demon 
+      <lb ed="#L" n="11"/>stratiua erit. Nulla siquidem proposito ex natura rei &amp; 
+      con<lb ed="#L" n="12" break="no"/>nexione terminorum per se ac necessaria est, quin vel ex 
+      <lb ed="#L" n="13"/>effectu, vel ex proprietate vel ex definitione, vel ex causa 
+      <lb ed="#L" n="14"/>subiecti ostendi necessario queat. Sed ais: Quadratura 
+      cir<lb ed="#L" n="15" break="no"/>culi demonstrabilis est quidem, sed demonstratio adhuc inue 
+      <lb ed="#L" n="16"/>ta non apparet. Sic ergo Scotus Iidunusque sentient, aiae quidem 
+      <lb ed="#L" n="17"/>immortalitatem ostendi posse, at non esse ostensam tamen. 
+      </p>
+            <p>
+               <lb ed="#L" n="18"/>Quarta proposito. Periculosum ac temerarium est, ne 
+      <lb ed="#L" n="19"/>quid amplius addam, affirmare, quod nullum argumentum 
+      <lb ed="#L" n="20"/>hactenus inuentum vere demonstrat animae 
+      immortalita<lb ed="#L" n="21" break="no"/>tem. Quia argumentum, quod sumitur ex operatione 
+      pro<lb ed="#L" n="22" break="no"/>pria, vel etiam ex potentia, quae substantiam rei necessarie 
+      <lb ed="#L" n="23"/>naturaliterque consequitur, vere ostendit, qualis ne sit eius 
+      <lb ed="#L" n="24"/>rei natura atque substantia. Theologi vero tum ex pro¬ 
+      </p>
+            <p>
+               <lb ed="#L" n="25"/>pria operatione, tum ex propria potentia, intellectione 
+      <lb ed="#L" n="26"/>tiscilicet &amp; intellectu, animi incorruptionem argumentatur. 
+      </p>
+            <p>
+               <lb ed="#L" n="27"/>Syllogismi igitur illi verae sunt demonstrationes. Dicet 
+      <lb ed="#L" n="28"/>fortasse quispiam, non nego demonstrationes esse, sed 
+      <lb ed="#L" n="29"/>nobis demonstrationes esse nego. Quibus argumenta 
+      <lb ed="#L" n="30"/>illa certa &amp; clara non sunt, quamuis idonea ex se sint, vt 
+      <lb ed="#L" n="31"/>certitudinem atque euidentiam pariant. O insolentem 
+      <lb ed="#L" n="32"/>temeritatem, caeteros ex tuo ingenio metiri, exque tuis 
+      <lb ed="#L" n="33"/>aliorum oculos aestimare. Asserere, mel quidem 
+      exnatu<lb ed="#L" n="34" break="no"/>ra sua dulce esse, sed dulce tamen fuisse nemini, quia tibi 
+      <lb ed="#L" n="35"/>non fuerit, nullum videre id posse, quod tu non videas,  
+      <lb ed="#L" n="36"/>omnibus obscurum esse, quod tibi non pateat. Ait 
+      di<lb ed="#L" n="37" break="no"/>uus Thomas, Ex praemissis manifeste ostendi posse, 
+      ani<lb ed="#L" n="38" break="no"/>mam humanam non corrumpi cum corpore : concludit 
+      <lb ed="#L" n="39"/>vero haec verba, Patet igitur, quod intellectus humanus 
+      <!--906.xml-->
+      <pb ed="#L" n="895"/>
+               <lb ed="#L" n="1"/>est incorruptibilis, ergo &amp; anima humana, quae est 
+      intelle<lb ed="#L" n="2" break="no"/>ctiua substantia. Item. Necesse est dicere, animam intelle¬i. 
+      <lb ed="#L" n="3"/>ctualem esse incorpoream, subsistentem, incorruptibilem: a 
+      <lb ed="#L" n="4"/>Scotus contra, non sunt, inquit, rationes patentes &amp; 
+      ne<lb ed="#L" n="5" break="no"/>cessarie. Affirmat Chrysostomus, qui philosophi de ani¬ T 
+      <lb ed="#L" n="6"/>mae immortalitate dubitent, eos ad dubitare, an in meri¬ o 
+      <lb ed="#L" n="7"/>die sit dies: &amp; credemus nos, viros &amp; sanctissimos &amp;  
+      <lb ed="#L" n="8"/>modestissimos euidentia, quam non habebant, fuisse emen 
+      <lb ed="#L" n="9"/>titos? 2 Atque Augustinus 
+      <lb ed="#L" n="10"/>asseuerat, philosophos quos 
+      <lb ed="#L" n="11"/>dam naturali ratione animae, 
+      <lb ed="#L" n="12"/>immortalitatem inuenisse: 
+      <lb ed="#L" n="13"/>quanquam pauci, ait, 
+      id<lb ed="#L" n="14" break="no"/>que aegre inuenerunt. 
+      Prae<lb ed="#L" n="15" break="no"/>terea Deus non deficit in  
+      <lb ed="#L" n="16"/>necessarijs, ad vitam inxta, 
+      <lb ed="#L" n="17"/>naturae rationem bene &amp; constanter instituendam. At vix 
+      <lb ed="#L" n="18"/>homo potest vitam recte &amp; iuste instituere, nisi &amp; Deum 
+      <lb ed="#L" n="19"/>esse sentiat, &amp; animos esse immortales: vix, inquam, aut  
+      <lb ed="#L" n="20"/>certe nullo modo. Qui enim vel sine Deo fuere vel 
+      ani<lb ed="#L" n="21" break="no"/>mum putarunt cum corpore interire, eos fere 
+      perditissi<lb ed="#L" n="22" break="no"/>mis moribus fuisse memoriae proditum est. Quam 
+      omni<lb ed="#L" n="23" break="no"/>no rem Sapiens sapienter expressit. Nam simulatque 
+      im<lb ed="#L" n="24" break="no"/>pij illam opinionem induerunt, animos mori: 
+      conse<lb ed="#L" n="25" break="no"/>quenter de omni bono futurae vitae desperantes, &amp; nihil 
+      <lb ed="#L" n="26"/>post mortem mali timentes, semetipsos tradiderunt 
+      im<lb ed="#L" n="27" break="no"/>pudicitiae, in operationem immunditiae omnis, in 
+      auari<lb ed="#L" n="28" break="no"/>tiam. Post haec, inquiunt, erimus tanquam si non 
+      fueri<lb ed="#L" n="29" break="no"/>mus. Venite ergo &amp; fruamur bonis, quae sunt, &amp; 
+      caeter<lb ed="#L" n="30" break="no"/>Et Augustinus confess. libr. 6. capit. postrem. nisi 
+      cre<lb ed="#L" n="31" break="no"/>didissem ait, restare post mortem animae vitam &amp; 
+      tra<lb ed="#L" n="32" break="no"/>ctus meritorum, quod Epicurus credere noluit, 
+      Epicu<lb ed="#L" n="33" break="no"/>rus palmam in animo meo accepisset. De atheis autem 
+      <lb ed="#L" n="34"/>cum propheta illud posuisset, Non est Deus: statim 
+      sub<lb ed="#L" n="35" break="no"/>iunxit, Corrupti &amp; abominabiles facti sunt, &amp;c. Sic 
+      Iusti<lb ed="#L" n="36" break="no"/>nus in dialogo cum Thryphone: eorum, inquit, sententia, 
+      <lb ed="#L" n="37"/>qui Deum me atque te curare negant, quo spectet, non est 
+      <lb ed="#L" n="38"/>difficile cognoscere. Impunitas enim &amp; licentia faciendi 
+      <lb ed="#L" n="39"/>&amp; dicendi, quae velint omnia, eos: consequitur, qui nec 
+      <!--907.xml-->
+      <pb ed="#L" n="896"/>
+               <lb ed="#L" n="1"/>supplicia metuant, nec beneficium vllum a Deo spectent. 
+      <lb ed="#L" n="2"/>Diuinae itaque procurationis fuit, vt in morum &amp; vitae 
+      ne<lb ed="#L" n="3" break="no"/>cessaria regula duces naturae ac magistos, non coniecturis 
+      <lb ed="#L" n="4"/>&amp; opinionibus imbueret, quae huc atque illuc facile trahe 
+      <lb ed="#L" n="5"/>rentur, sed certa constantique ratione. Sic enim scriptum 
+      <lb ed="#L" n="6"/>est, Qui docet hominem scientiam. Et iterum, qui 
+      do<lb ed="#L" n="7" break="no"/>cet nos super iumenta terrae, &amp; super volucres coeli 
+      eru<lb ed="#L" n="8" break="no"/>dit nos. Quod si animantihus caeteris dati a natura 
+      <lb ed="#L" n="9"/>sunt quidam instinctus &amp; quasi anticipatae cognitiones, 
+      <lb ed="#L" n="10"/>non vagae &amp; instabiles, sed fixae firmaeque, vt ad bonum 
+      na<lb ed="#L" n="11" break="no"/>turae cogruens recta ferantur, retrahantur a noxio: cur in 
+      <lb ed="#L" n="12"/>eorum saltem mentibus, quos naturae auctor ad aliorum 
+      <lb ed="#L" n="13"/>institutionem comparauit, inditas esse certas &amp; 
+      constan<lb ed="#L" n="14" break="no"/>tes praenotiones inficiemur, sine quibus ad veritatem 
+      boni<lb ed="#L" n="15" break="no"/>tatis non satis instructi informatique fuissent? Nec enim 
+      <lb ed="#L" n="16"/>melior est beliuarum conditio quam nostra. Nihil vero pi 
+      <lb ed="#L" n="17"/>get, eadem saepe verba resumere. Hinc barbarae etiam 
+      na<lb ed="#L" n="18" break="no"/>tiones poenas improbos luere cum sapientibus consense 
+      <lb ed="#L" n="19"/>runt, atque adeo animos esse immortales. Deus enim 
+      sem<lb ed="#L" n="20" break="no"/>per ea, quae cuique naturae necessaria sunt 
+      prouidentissi<lb ed="#L" n="21" break="no"/>me curat. Quis autem communes animi corruptiones 
+      in<lb ed="#L" n="22" break="no"/>certas esse asseueret? Sed ais tandem. Quae nam istae 
+      ra<lb ed="#L" n="23" break="no"/>tiones sunt necessariae &amp; euidentes, quae Scoto &amp; 
+      Caie<lb ed="#L" n="24" break="no"/>tano probabiles &amp; obscurae vise sunt? Dicam, si illud prius 
+      <lb ed="#L" n="25"/>commemorauero quod ab Aristotele prudentissime dictum 
+      <lb ed="#L" n="26"/>est, stultum esse aequalem in omnibus, certitudinem &amp; eui 
+      <lb ed="#L" n="27"/>dentiam exigere. In naturalibus quippe disciplinis minor 
+      <lb ed="#L" n="28"/>est quam in mathematicis: in moralibus minor est etiam  
+      <lb ed="#L" n="29"/>quam in naturalibus. At in dispari certitudine tam 
+      stul<lb ed="#L" n="30" break="no"/>tus nemo est, quin scientiae illis nomen impertiat. 
+      Syllogis<lb ed="#L" n="31" break="no"/>mi ergo illi &amp; faciunt scire &amp; vere demonstrationes sunn  
+      <lb ed="#L" n="32"/>quibus &amp; de natura &amp; de moribus philosophamur: 
+      quam<lb ed="#L" n="33" break="no"/>uis in eis rationibus non adeo magna aut necessitas aut eui 
+      <lb ed="#L" n="34"/>dentia insit. Prima igitur ratio demonstratiua auctore 
+      <lb ed="#L" n="35"/>Chrysostomo est haec. Qui animum esse mortalem ait, is 
+      <lb ed="#L" n="36"/>neget necesse est Deum humanarum rerum esse &amp; procura 
+      <lb ed="#L" n="37"/>torem &amp; iudicem. Si enim iusti migrant affecti iniurijs, im 
+      <lb ed="#L" n="38"/>probi rerum omnium abundantia potiti, nec post mortem 
+      <lb ed="#L" n="39"/>aut merces aut supplicium est, nulla certe est in coelo pie¬ 
+      <!--908.xml-->
+      <pb ed="#L" n="897"/>
+               <lb ed="#L" n="1"/>tas, quae talia curet: nulla iustitia, quae vel malos puniat vel 
+      <lb ed="#L" n="2"/>tribuat praemia bonis. Et caetera, quae capite huius libri 
+      <lb ed="#L" n="3"/>quarto iatius persecutus sum. 
+      </p>
+            <p>
+               <lb ed="#L" n="4"/>Respondet Scotus, argumentum hoc infirmius multo 
+      <lb ed="#L" n="5"/>esse quam reliqua. Non enim, ait, ratione naturae notum 
+      <lb ed="#L" n="6"/>est: esse vnum rectorem hominum secundum leges iustitiae 
+      <lb ed="#L" n="7"/>retribuentem &amp; punientem. Quae responsio bifariam 
+      con<lb ed="#L" n="8" break="no"/>firmari potest. Prius quia Sapiens, cum hoc eodem 
+      argu<lb ed="#L" n="9" break="no"/>mento vsus esset, huius rei ignorationem inscitiam esse 
+      <lb ed="#L" n="10"/>dixit sacramentorum Dei. Quod si inter mysseria Dei 
+      <lb ed="#L" n="11"/>censet &amp; Dei prouidentiam, &amp; animorum immortalitatem: 
+      <lb ed="#L" n="12"/>non est cur nos inter perspicua censeamus. Verba autem 
+      <lb ed="#L" n="13"/>illius sic habent, Et nescierunt sacramenta Dei, neque 
+      mer<lb ed="#L" n="14" break="no"/>cedem sperauerunt iustitiae, nec iudicauerunt honorem 
+      <lb ed="#L" n="15"/>animarum sanctarum. Posterius quia Iustinus Martyr &amp;  
+      <lb ed="#L" n="16"/>philosophus in libr. de Aristotelis reprehensione docet,  
+      <lb ed="#L" n="17"/>pentes non scientia, quae ad demonstrandum valet, de 
+      <lb ed="#L" n="18"/>Deo creataque natura disputationes confecisse, sed 
+      pro<lb ed="#L" n="19" break="no"/>babili ratione suam explicasse sententiam. Et postea, Haec, 
+      <lb ed="#L" n="20"/>inquit, satis etiam declarant, verum esse quod a nobis de 
+      <lb ed="#L" n="21"/>pentium philosophis dictum est, eos non scientia 
+      demon<lb ed="#L" n="22" break="no"/>strandi de naturis disseruisse, sed coniectura verisimilique 
+      <lb ed="#L" n="23"/>ratione suam explicauisse sententiam. Adde his, quod 
+      <lb ed="#L" n="24"/>Diuus Thomas, hoc argumentum vbique gentium 
+      prae<lb ed="#L" n="25" break="no"/>fermisit, non praetermissurus, si certum &amp; necessarium 
+      <lb ed="#L" n="26"/>esset. 
+      </p>
+            <p>
+               <lb ed="#L" n="27"/>Verum enimuero nulla me huius generis argumenta 
+      mo<lb ed="#L" n="28" break="no"/>uere possunt, vt ab ea sententia discedam, quam 
+      Chryso<lb ed="#L" n="29" break="no"/>stomo video placuisse. Habuit quippe pro re perspicua &amp;  
+      <lb ed="#L" n="30"/>constanti non alium negaturum. Deum esse hominum &amp;  
+      <lb ed="#L" n="31"/>pubernatorem &amp; iudicem, nisi eum qui dixisset in corde 
+      <lb ed="#L" n="32"/>suo: Non est Deus. Sed quia haec res supra, vt dixi, 
+      manife<lb ed="#L" n="33" break="no"/>sto argumento nobis demonstrata est, &amp; accuratius est 
+      po<lb ed="#L" n="34" break="no"/>stea demonstranda: satis nunc confectum esse arbitramur,  
+      <lb ed="#L" n="35"/>si rationem illam, quae animae immortalitatem doceat, eo 
+      <lb ed="#L" n="36"/>tandem ducere probauerimus, vt non possit Dei erga 
+      <lb ed="#L" n="37"/>homines prouidentia iustitiaque constare, nisi animae 
+      in<lb ed="#L" n="38" break="no"/>corruptio consistat. Nam quod Scotus aliter eludi hanc 
+      <lb ed="#L" n="39"/>ratiocinationem putat, perridiculum est. Vt admittamus,  
+      <!--909.xml-->
+      <pb ed="#L" n="898"/>
+               <lb ed="#L" n="1"/>ait, Deum pro meritis &amp; praemia bonis &amp; malis supplicia 
+      <lb ed="#L" n="2"/>retribuere: non exigua tamen improborum vindicta est 
+      <lb ed="#L" n="3"/>culpae turpitudo ipsa, cruciatus animi conscientiaeque 
+      <lb ed="#L" n="4"/>flagellum. 
+      </p>
+            <p>
+               <lb ed="#L" n="5"/>Abunde vero magna merces &amp; praemium, fructus  
+      <lb ed="#L" n="6"/>ipse virtutis, quo mirifice delectantur probi. In quam 
+      sen<lb ed="#L" n="7" break="no"/>tentiam illud Augustini citat omnium sermone contritum, 
+      <lb ed="#L" n="8"/>Voluisti domine &amp; ita est, vt omnis inordinatus animus 
+      <lb ed="#L" n="9"/>sibi ipsi sit poena. Poterat &amp; illud ex Apostolo a fferre, 
+      <lb ed="#L" n="10"/>Mercedem, quam oportuit, erroris sui in semetipsis 
+      re<lb ed="#L" n="11" break="no"/>cipientes. Quae cum dicit, parum attente considerat, in 
+      <lb ed="#L" n="12"/>quos laqueos incurrat. Primum enim nodum illum 
+      expli<lb ed="#L" n="13" break="no"/>cet necesse est, si in hac vita tantum in Christo sperantes 
+      <lb ed="#L" n="14"/>sumus, miserabiliores sumus omnibus hominibus. 
+      </p>
+            <p>
+               <lb ed="#L" n="15"/>Deinde Propheta non existimauit quaestionem hanc 
+      <lb ed="#L" n="16"/>expediri posse, nisi ad fines bonorum &amp; malorum 
+      refer<lb ed="#L" n="17" break="no"/>retur, hoc est, ad nouissima quae probos improbosque 
+      <lb ed="#L" n="18"/>manerent. Ex praesentibus autem aut bonis aut malis illam  
+      <lb ed="#L" n="19"/>non modo non solui, sed etiam implicari. Mei, inquit,  
+      <lb ed="#L" n="20"/>moti sunt pedes, quia zelaui super iniquos, pacem 
+      pecca<lb ed="#L" n="21" break="no"/>torum videns, &amp;c. Existimabam, vt cognoscerem: hoc 
+      la<lb ed="#L" n="22" break="no"/>bor est ante me donec intelligam in nouissimis eorum. 
+      <lb ed="#L" n="23"/>Quomodo facti sunt in desolationem, &amp;c. Nec aliter aut  
+      <lb ed="#L" n="24"/>Hieremias aut Abacuc huic questioni respondendum pu 
+      <lb ed="#L" n="25"/>tauerunt. Quorum ego sensum libentius exponerem, nisi 
+      <lb ed="#L" n="26"/>ad alia festinaret oratio. 
+      <lb ed="#L" n="27"/>Preterea valde restrictum Deum facimus, qui suis id so 
+      <lb ed="#L" n="28"/>lum in mercedis loco numeret: quo animo aequo imo vero 
+      <lb ed="#L" n="29"/>retiam gaudenti ac libenti seruierunt. O praemium singulare, 
+      <lb ed="#L" n="30"/>quod eripit spem futuri cuiusque boni, quae sola, vt ait 
+      Ci<lb ed="#L" n="31" break="no"/>cero, hominem in miserijs consolatur. Quis enim dubitet,  
+      <lb ed="#L" n="32"/>mortalium animos in arduis aduersisque rebus spe futurorum 
+      <lb ed="#L" n="33"/>erigi &amp; subleuari: frangi autem &amp; considere, si cum 
+      om<lb ed="#L" n="34" break="no"/>nium rerum desperatione confligant? Talem mihi remp. 
+      <lb ed="#L" n="35"/>finge, vbi pessimi ciues metum omnem poenae &amp; futurae 
+      <lb ed="#L" n="36"/>vindicationis abijciant, optimi vero de spe futurae gratiae 
+      <lb ed="#L" n="37"/>ac beneficij depellantur, &amp; cum nec probis lex 
+      adhibue<lb ed="#L" n="38" break="no"/>rit calcaria nec improbis fraenos, ciuitas non dico bene 
+      <lb ed="#L" n="39"/>morata, sed ne esse quidem poterit. Ita qui eam, sine 
+      <!--910.xml-->
+      <pb ed="#L" n="899"/>
+               <lb ed="#L" n="1"/>praemio poenaque constituit, hunctu ipse stultissimum 
+      iu<lb ed="#L" n="2" break="no"/>dicabis. Quale ergo est eius reip. Deo procurationem 
+      ad<lb ed="#L" n="3" break="no"/>ministrationemque tribuere, quam nemo vir sapiens sibi 
+      <lb ed="#L" n="4"/>assignari pateretur? Demonstratum est: igitur, animas esse 
+      <lb ed="#L" n="5"/>inimortales, tam euidenti &amp; necessaria ratione, quae 
+      refel<lb ed="#L" n="6" break="no"/>li non valeat, nisi Deum facias aut improuidum esse &amp; 
+      ne<lb ed="#L" n="7" break="no"/>gligentem rerum hominis, aut eam stulte vrbem 
+      consti<lb ed="#L" n="8" break="no"/>tuisse, in qua nullus supplicij timor sit, praemij 
+      expecta<lb ed="#L" n="9" break="no"/>tio nulla. 
+      </p>
+            <p>
+               <lb ed="#L" n="10"/>At Sapiens ait, animorum incorruptionem ad Dei 
+      sa<lb ed="#L" n="11" break="no"/>cramenta pertinere. Primum id ego negare vere possum. 
+      <lb ed="#L" n="12"/>Nec enim rem hanc ille in mysteria retulit, sed quod via 
+      <lb ed="#L" n="13"/>impiorum prosperetur, quod vbique relinquant laetitiae 
+      <lb ed="#L" n="14"/>signa, quod opprimant pauperem iustum, nec viduae 
+      par<lb ed="#L" n="15" break="no"/>cant, &amp;c. &amp; in his omnibus Deus non taceat modo, verum 
+      <lb ed="#L" n="16"/>etiam probos duriter &amp; acerbe, improbos contra blandem 
+      <lb ed="#L" n="17"/>&amp; molliter tractare videatur. Haec scilicet Dei 
+      sacramen<lb ed="#L" n="18" break="no"/>ta sunt, quae humana ratio conprehendit, aut vix aut nullo 
+      <lb ed="#L" n="19"/>certe modo. Deinde sunt naturales res quaedam in 
+      ocu<lb ed="#L" n="20" break="no"/>lis omnium clare positae: aliae latentin occulto tenebris 
+      <lb ed="#L" n="21"/>densissimis circunfusae. Quae naturae mysteria rectissime 
+      <lb ed="#L" n="22"/>dixeris. In his, fateor, animi immortalitas est, quae a 
+      pau<lb ed="#L" n="23" break="no"/>cis quidem, idque difficulter, sed inuestigari tamen atque 
+      <lb ed="#L" n="24"/>inueniri potest. Iustini autem verba magna ex parte vera 
+      <lb ed="#L" n="25"/>sunt at vniuersas demonstrationes philosophis eripere, tun 
+      <lb ed="#L" n="26"/>absurdum est, tun Paulo etiam contrarium, quemadmodum 
+      refu<lb ed="#L" n="27" break="no"/>tando septimo argumento patefiet. Nam D. Tho. 
+      eiusmo<lb ed="#L" n="28" break="no"/>di argumentationibus vti non solet, quanuis sint liquidae 
+      <lb ed="#L" n="29"/>&amp; exploratae. Cauet enim ne argumentando de genere in 
+      <lb ed="#L" n="30"/>penus transeat, quod Aristoteles in demonstrandi arte 
+      <lb ed="#L" n="31"/>docuit esse vitiosum. Constat vero in hac 
+      ratiocinatio<lb ed="#L" n="32" break="no"/>ne a Dei prouidentia &amp; iustitia ad animi incorruptionem 
+      <lb ed="#L" n="33"/>transiliri, quae in eodem genere non existunt. Verum de 
+      <lb ed="#L" n="34"/>prima demonstratione satis. 
+      <lb ed="#L" n="35"/>Secunda est huiusmodi, vt a proteruis refelli queat, a 
+      <lb ed="#L" n="36"/>viris recte institutis non queat. Eam vero in probatione 
+      <lb ed="#L" n="37"/>quartae propositonis postremam fecimus. Confirmat 
+      il<lb ed="#L" n="38" break="no"/>lam Cicero in hunc modum. Sicut satis probatur Deum 
+      <lb ed="#L" n="39"/>esse, quia nulla natio tam fera est, quin Deum habendum 
+      <!--911.xml-->
+      <pb ed="#L" n="900"/>
+               <lb ed="#L" n="1"/>sciat, ita apud omnes gentes communi consensu firmatum 
+      <lb ed="#L" n="2"/>est, animos defunctorum interitu esse liberos. Quam 
+      om<lb ed="#L" n="3" break="no"/>nino rem funeris caeremoniis testatam esse voluerunt. 
+      <lb ed="#L" n="4"/>Nec enim eas corporibus impartirent, nisi animos sacros 
+      <lb ed="#L" n="5"/>esse ac diuinos in animum induxissent. Hinc vero, vt 
+      Ci<lb ed="#L" n="6" break="no"/>cero affirmat, &amp; mercedem funeris sepulturaeque 
+      con<lb ed="#L" n="7" break="no"/>stitui, nefas esse putarunt, &amp; brutis animantibus 
+      huius<lb ed="#L" n="8" break="no"/>modi honores negauerunt. Quas duas rationes sapiens, 
+      <lb ed="#L" n="9"/>vt mihi videre videor, perstrinxit. Vnam, cum ait: Nec 
+      <lb ed="#L" n="10"/>mercedem sperauerunt iustitiae: alteram, cum subdit, Nec 
+      <lb ed="#L" n="11"/>iudicauerunt honorem animarum sanctarum. Sane qui 
+      <lb ed="#L" n="12"/>iudicat, vnum esse interitum hominum &amp; iumentorum, 
+      <lb ed="#L" n="13"/>is cum animum suum summa ignominia &amp; dedecore 
+      af<lb ed="#L" n="14" break="no"/>ficiat, non hominum ritu ac religione, sed sepultura asini 
+      <lb ed="#L" n="15"/>sepeliendus erat: vt dignum haberet sua opinione &amp; 
+      sen<lb ed="#L" n="16" break="no"/>tentia funus. Sed de secunda ratione hactenus. Tertiam  
+      <lb ed="#L" n="17"/>significat magis scriptura quam explicat, cum euestigio 
+      <lb ed="#L" n="18"/>subiicit,. Quoniam Deus creauit hominem 
+      inextermina<lb ed="#L" n="19" break="no"/>bilem, &amp; ad imaginem similitudinis suae fecit illum. 
+      Ho<lb ed="#L" n="20" break="no"/>minem quippe ad imaginem Dei esse factum, eo quod 
+      <lb ed="#L" n="21"/>natura intellectualis est, verti in dubium non potest. Ex 
+      <lb ed="#L" n="22"/>ea ergo parte homini incorruptio conuenit, qua 
+      intelle<lb ed="#L" n="23" break="no"/>ctum habet. Animum igitur, vnde homo intelligit &amp; 
+      si<lb ed="#L" n="24" break="no"/>milis Deo est, inexterminabilem esse oportet. Quae ratio, 
+      <lb ed="#L" n="25"/>quoniam ex hominis natura &amp; forma propria ducitur,  
+      <lb ed="#L" n="26"/>atque adeo non ex alienis &amp; extraneis, sed ex propriis 
+      <lb ed="#L" n="27"/>aptisque principiis, diligentius nobis &amp; illustranda &amp; ex- 
+      <lb ed="#L" n="28"/>ponenda est. Id quod D. Tho. diuine fecit: intelligebat 
+      <lb ed="#L" n="29"/>enim hanc esse certam expeditamque viam, qua ad animi 
+      <lb ed="#L" n="30"/>immortalitatem veniretur. 
+      </p>
+            <p>
+               <lb ed="#L" n="31"/>Primum igitur fundamentum huius demonstrationis 
+      <lb ed="#L" n="32"/>est, formam omnem intellectualem esse subsistentem, hoc 
+      <lb ed="#L" n="33"/>est, esse eius non a materia pendere. Hanc propofitionem 
+      <lb ed="#L" n="34"/>ostendit D. Tho. 2. con. gen. c. 51. Quia intellectus non  
+      <lb ed="#L" n="35"/>eget corpore sustinente : cum intellectio nec recipiatur 
+      <lb ed="#L" n="36"/>in corpore, nec per corpus fiat. At dicis, Non eget 
+      cor<lb ed="#L" n="37" break="no"/>pore quidem tanquam subiecto, sed eget tanquam 
+      obie<lb ed="#L" n="38" break="no"/>cto. Verum hoc duobus modis manifeste refellitur. Primum 
+      <lb ed="#L" n="39"/>enim Animal non esset per se subsistens, quia indiget ad 
+      <!--912.xml-->
+      <pb ed="#L" n="901"/>
+               <lb ed="#L" n="1"/>propriam operationem externis obiectis. Deinde id, quod 
+      <lb ed="#L" n="2"/>per accidens alicui conuenit, non variat iudicium de 
+      na<lb ed="#L" n="3" break="no"/>tura rei. Vt lapis, qui in loco superiore detinetur, &amp;c. Cum 
+      <lb ed="#L" n="4"/>ergo anima intellectiua ex natura propriae operationis 
+      <lb ed="#L" n="5"/>non sustentetur a corpore, consequens est, quod per se 
+      <lb ed="#L" n="6"/>non pendet ab illo. Quia actus non potest per se a 
+      cor<lb ed="#L" n="7" break="no"/>pore pendere, nisi tanquam a materia &amp; subiecto, in quo 
+      <lb ed="#L" n="8"/>recipitur. Vide 8. Tho. in qe de ani. q.14. &amp; 2. contra 
+      gem<lb ed="#L" n="9" break="no"/>c. 55. &amp; 79. Certe si intellectio in corpore susciperetur, 
+      <lb ed="#L" n="10"/>nec omnes res sine discrimine intellectus perciperet, nec 
+      <lb ed="#L" n="11"/>vniuersale cognosceret, sed solum singulare. Quod si 
+      hu<lb ed="#L" n="12" break="no"/>iusmodi argumenta tibi euidentia non sunt, memento 
+      <lb ed="#L" n="13"/>nec caeteros ex tuo ingenio aestimandos esse, neque hic 
+      <lb ed="#L" n="14"/>euidentiam mathematicam requirendam. Sed iam 
+      tem<lb ed="#L" n="15" break="no"/>pus est, vt obiectiones oppositas repellamus. 
+      </p>
+            <p>
+               <lb ed="#L" n="16"/>Prima ergo sic repellitur. Fidei quaestionem duobus 
+      <lb ed="#L" n="17"/>modis interpretari possumus, &amp; ex natura sua &amp; quo ad 
+      <lb ed="#L" n="18"/>nos. Ex natura sua illa fidei quaestio est, quae est a Deo 
+      ec<lb ed="#L" n="19" break="no"/>clesiae reuelata, quauis a plerisque ignoretur. Vt spiritum 
+      <lb ed="#L" n="20"/>a patre filioque procedere, ipse spiritus apostolis 
+      reuela<lb ed="#L" n="21" break="no"/>uit. Item, animas sanctorum, statim vt a corpore exierint,  
+      <lb ed="#L" n="22"/>videre Deum. De quibus licuit olim varie sentire, &amp; sine 
+      <lb ed="#L" n="23"/>fidei discrimine aut affirmare aut negare, cum neutra res 
+      <lb ed="#L" n="24"/>scilicet erat plane ab ecclesia definita. Ita quo ad nos non 
+      <lb ed="#L" n="25"/>semper fidei quaestiones, illae sunt habitae, sed salua fide 
+      <lb ed="#L" n="26"/>viri quidam docti contrariam veritati sententiam 
+      tenue<lb ed="#L" n="27" break="no"/>runt. Quomodo asseruit Augustinus non esse fidei 
+      quae<lb ed="#L" n="28" break="no"/>stionem, num anima rationalis ex traduce sit. Nunc autem 
+      <lb ed="#L" n="29"/>cum post ea tempora Theologorum fidelisimque omnium 
+      <lb ed="#L" n="30"/>consensu firinatum sit, animum non per generationem, sed 
+      <lb ed="#L" n="31"/>per creationem existere, sine dubio ad fidem illa quaestio 
+      <lb ed="#L" n="32"/>pertinet. Nec tamen si hoc fuit aliquando in controuersia 
+      <lb ed="#L" n="33"/>positum, eadem de animae immortalitate causa subest, quae 
+      <lb ed="#L" n="34"/>nunquam est a catholicis in dubium vocata. Sed de 
+      pri<lb ed="#L" n="35" break="no"/>mo argumento satis. 
+      </p>
+            <p>
+      <!--913.xml-->
+               <pb ed="#L" n="902"/>
+               <lb ed="#L" n="1"/>At secundo nil est difficile respondere. Cum 
+      videa<lb ed="#L" n="2" break="no"/>mus, non solum sub infideli principe, quales Romani tunc 
+      <lb ed="#L" n="3"/>erant, sed sub imperatore catholicomultos in Germania 
+      <lb ed="#L" n="4"/>nunc publice manifestas haereses profiteri. Tantum 
+      re<lb ed="#L" n="5" break="no"/>fert principes habere, &amp; fideles, &amp; qui haereticorum 
+      inso<lb ed="#L" n="6" break="no"/>lentissimam temeritatem coercere, tum velint tum etiam  
+      <lb ed="#L" n="7"/>possint. Praeterquam quod vbi factiones sunt, ibi fauore 
+      <lb ed="#L" n="8"/>partium, in rep. tolerantur, quid dico tolerantur? 
+      quaerum<lb ed="#L" n="9" break="no"/>tut, fouentur, stringuntur homines teterrimi ac 
+      scelera<lb ed="#L" n="10" break="no"/>tissimi. Hoc in statu res Iudaeorum publica cum esset, non 
+      <lb ed="#L" n="11"/>est sane mirandum, si Saduccaeos ferret carnalis populus, 
+      <lb ed="#L" n="12"/>homines videlicet factiosos, qui &amp; carni vsque adeo 
+      in<lb ed="#L" n="13" break="no"/>seruirent, vt omnem spiritum esse negarent. 
+      Quemadmo<lb ed="#L" n="14" break="no"/>dum autem gentes tales esse volebant deos, quales ipsi 
+      <lb ed="#L" n="15"/>etiam essent, nempe adulteros, bellatores, raptores, sic 
+      <lb ed="#L" n="16"/>plebs vitiis corrupta eos vult habere religionis praesides,  
+      <lb ed="#L" n="17"/>qui non religati sint, sed liberi, non spiritus serui, sed 
+      man<lb ed="#L" n="18" break="no"/>cipia carnis. Verum in argumento facillimo refutando 
+      <lb ed="#L" n="19"/>plura quam necesse erat verba consumpsimus. 
+      </p>
+            <p>
+               <lb ed="#L" n="20"/>Tertium vero breuissime refellemus. Nam primum 
+      il<lb ed="#L" n="21" break="no"/>lud testimonium certissime probare animorum 
+      immor<lb ed="#L" n="22" break="no"/>talitatem ostensum est a nobis paulo ante. Secundum etiam  
+      <lb ed="#L" n="23"/>quantum momenti habeat, nunc nunc explicabamus. At 
+      <lb ed="#L" n="24"/>tertium nulla responsione eludi potest. Si enim homines 
+      <lb ed="#L" n="25"/>animam non possunt occidere, corpus autem occidere 
+      <lb ed="#L" n="26"/>possunt, certum est, animas non cum corporibus interire. 
+      <lb ed="#L" n="27"/>Item si animas Deus mittit in gehennam, non ergo cum 
+      <lb ed="#L" n="28"/>corpore moriuntur. Quartum denique Caietanus 
+      affir<lb ed="#L" n="29" break="no"/>mat, probarequidem simpliciter animae immortalitatem,  
+      <lb ed="#L" n="30"/>vnde Sadducaeos de resurrectione vinceret, qui ideo 
+      ne<lb ed="#L" n="31" break="no"/>gabant mortuos resurgere, quia credebant cum corpore 
+      <lb ed="#L" n="32"/>animam mori. Per synecdochen autem scriptura nomina 
+      <lb ed="#L" n="33"/>Abraham, Isaac &amp; Iacob, pro animis eorum vsurpat. Quo  
+      <lb ed="#L" n="34"/>loco Ambrosius Catharinus eum, vt saepe alias, sine causa 
+      <lb ed="#L" n="35"/>reprehendit. Coarguit enim Theophilactum, imo vero 
+      <lb ed="#L" n="36"/>Hieronymum, qui Caietano illius auctor sententiae fuit. 
+      <lb ed="#L" n="37"/>At D. ThO. exposito praeclarior est. Non repugno. Nec 
+      <lb ed="#L" n="38"/>D. Tho. solum illum locum sine figura intellexit, sed 
+      Chri<lb ed="#L" n="39" break="no"/>sostomus Theophilactus etiam atque Ambrosius. At dicis. 
+      <!--914.xml-->
+      <pb ed="#L" n="903"/>
+               <lb ed="#L" n="1"/>Quomodo Abraham illo tempore viuus erat? 
+      Respon<lb ed="#L" n="2" break="no"/>det Chrysostomus, quomodo Adam posteaquam de ligno 
+      <lb ed="#L" n="3"/>vetito comedit, sententia tamen prolata mortuus erat,  
+      <lb ed="#L" n="4"/>sic Abraham pollicitatione resurrectionis certissima 
+      vi<lb ed="#L" n="5" break="no"/>uus erat. Alioqui, quid sibi ecclesia vult, cum ait: Regem 
+      <lb ed="#L" n="6"/>cui omnia viuunt, &amp; cui non pereunt corpora nostra? Ac 
+      <lb ed="#L" n="7"/>de tertio argumento hactenus. 
+      </p>
+            <p>
+               <lb ed="#L" n="8"/>Quartum autem iam ante expeditum est. Diximus enim 
+      <lb ed="#L" n="9"/>in 7. huius operis libro, sanctos veteres non tam humanas 
+      <lb ed="#L" n="10"/>disciplinas, quam diuinas literas coluisse. Quae causa fuit, 
+      <lb ed="#L" n="11"/>vt in rebus naturae perobscuris ratione vulgari contenti 
+      <lb ed="#L" n="12"/>essent, nec meliores requirerent. Conclusionum itaquo 
+      <lb ed="#L" n="13"/>naturalium a philosophis petenda demonstratio est, 
+      prae<lb ed="#L" n="14" break="no"/>sertimque, a D. Tho. perfecto mea sententia, philosopho,  
+      <lb ed="#L" n="15"/>cuius admirabilem naturam &amp; ingenium cum gratia 
+      per<lb ed="#L" n="16" break="no"/>fecisset, tum vbique alias, tum in libro contra gentes 
+      ma<lb ed="#L" n="17" break="no"/>xime quidquid expeti ab hominis ingenio poterat, id 
+      <lb ed="#L" n="18"/>vnus videtur ad miraculum praestitisse. 
+      </p>
+            <p>
+               <lb ed="#L" n="19"/>Sed Scoto, Ianduno, Caietano, rationes probabiles 
+      <lb ed="#L" n="20"/>visae sunt, non item necessariae. Scotus porro &amp; Iandunus, 
+      <lb ed="#L" n="21"/>nam de Caie. dicam postea, videntur demonstrationes 
+      <lb ed="#L" n="22"/>Mathematicas quaesiisse. Si enim sapere ad sobrietatem  
+      <lb ed="#L" n="23"/>vellent, &amp; rei naturam, de qua disseritur, attente 
+      perpen<lb ed="#L" n="24" break="no"/>derent, sane intelligerent, rationes, quae animae 
+      in<lb ed="#L" n="25" break="no"/>corruptionem probant, non suadere, sed 
+      <lb ed="#L" n="26"/>vincere, si non proteruum &amp; 
+      repu<lb ed="#L" n="27" break="no"/>gnantem, at certe docilem 
+      ho<lb ed="#L" n="28" break="no"/>minem, &amp; ad discipline 
+      <lb ed="#L" n="29"/>leges bene 
+      infor<lb ed="#L" n="30" break="no"/>matum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

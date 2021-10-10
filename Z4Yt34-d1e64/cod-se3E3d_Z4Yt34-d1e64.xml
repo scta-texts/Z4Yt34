@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="2"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e64"><!-- Z4Yt34-l1c1 -->
+            <head xml:id="Z4Yt34-d1e64-Hd1e106">Caput 1</head>
+            <head xml:id="Z4Yt34-d1e64-Hd1e109" type="question-title">De totius operit partitione</head>
+            <p xml:id="Z4Yt34-d1e64-d1e112">
+      <!--13.xml-->
+               <pb ed="#L" n="2"/>
+               <lb ed="#L" n="1"/>DE LOCIS 
+      <lb ed="#L" n="2"/>THEOLOGICIS 
+      <lb ed="#L" n="3"/>LIBER PRIMVS  
+      <lb ed="#L" n="4"/>caput primum. De totius operis 
+      <lb ed="#L" n="5"/>partitione.
+    </p>
+            <p xml:id="Z4Yt34-d1e64-d1e130">
+               <lb ed="#L" n="6"/>DE locis ego Theologicis perpetuam 
+      <lb ed="#L" n="7"/>orationem habiturus, totam mox in 
+      <lb ed="#L" n="8"/>quatuordecim libros partiri consti 
+      <lb ed="#L" n="9"/>tui. Quorum primus breuiter 
+      enu<lb ed="#L" n="10" break="no"/>meret locos, e quibus idonea possit 
+      <lb ed="#L" n="11"/>argumenta depromere, siue 
+      conclu<lb ed="#L" n="12" break="no"/>siones suas Theologus probare 
+      cu<lb ed="#L" n="13" break="no"/>pit, seu refutare contrarias. Decem 
+      <lb ed="#L" n="14"/>reliqui erunt, qui fusius, &amp; accuratius doceant, quam vim  
+      <lb ed="#L" n="15"/>vnusquisque, locorum contineat, hoc est, vnde argumenta 
+      <lb ed="#L" n="16"/>certa, vnde vero probabilia solum eruantur. In duo 
+      deci<lb ed="#L" n="17" break="no"/>mo &amp; tertio decimo disseretur, quem vsum eiusmodi loci 
+      <lb ed="#L" n="18"/>habeant, tum in scholastica pugna, tum in sacrarum 
+      litera<lb ed="#L" n="19" break="no"/>rum expositone. Nam in concione populari quis eorum 
+      <lb ed="#L" n="20"/>sit vsus, haud sane difficile dictu est: sed praetereundum 
+      ta<lb ed="#L" n="21" break="no"/>men, ne ab scholae instituto aliena uideatur oratio. 
+      Po<lb ed="#L" n="22" break="no"/>stremus denique liber, quoniam non omnes loci omni 
+      di<lb ed="#L" n="23" break="no"/>sputationi conueniunt, sigillatim ostendet, quibusnam 
+      <lb ed="#L" n="24"/>argumentis proprie aduersum hereticos, quibus 
+      peculia<lb ed="#L" n="25" break="no"/>riter aduersum &amp; Iudaeos &amp; Saracenos, quibus vero 
+      tan<lb ed="#L" n="26" break="no"/>dem aduersum Paganos transigenda Theologo 
+      disputa<lb ed="#L" n="27" break="no"/>tio sit, si quando sit cum his pro fide catholica 
+      decertan<lb ed="#L" n="28" break="no"/>dum. Quae scilicet cum fauente Deo plenius absoluero, 
+      <lb ed="#L" n="29"/>vndique apta atque perfecta erit de locis Theologiae 
+      dispu<lb ed="#L" n="30" break="no"/>tatio mea, expletaque omnibus suis numeris &amp; partibus.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

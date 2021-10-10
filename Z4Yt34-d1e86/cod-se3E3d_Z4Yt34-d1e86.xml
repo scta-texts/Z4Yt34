@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 3</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 3</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="4"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e86"><!-- Z4Yt34-l1c3 -->
+            <head xml:id="Z4Yt34-d1e86-Hd1e106">Caput 3</head>
+            <p xml:id="Z4Yt34-d1e86-d1e109">
+      <!--15.xml-->
+               <pb ed="#L" n="4"/>
+               <lb ed="#L" n="1"/>caput vltimum. De locorum Theologicorum numere 
+      <lb ed="#L" n="2"/>atque ordine.
+    </p>
+            <p xml:id="Z4Yt34-d1e86-d1e120">
+               <lb ed="#L" n="3"/>QVod a Platone prius &amp; Aristotele traditum praecipit 
+      <lb ed="#L" n="4"/>&amp;S Cicero, Omnem institutionem, quae de re quacumque 
+      <lb ed="#L" n="5"/>suscipitur, debere a definitione proficisci, vt intel 
+      <lb ed="#L" n="6"/>ligatur, quid sit id de quo disseritur, hoc mihi in disputa 
+      <lb ed="#L" n="7"/>tione, quae de locis Theologicis futura est, non erat certe 
+      <lb ed="#L" n="8"/>negligendum, vt quid esset locus Theologicus ante omnia 
+      <lb ed="#L" n="9"/>explicaretur, nisi ex ijs quae diximus ita esset in promptu, 
+      <lb ed="#L" n="10"/>vt res explicatione non egeret. Non enim in hoc opere 
+      <lb ed="#L" n="11"/>de locis communibus, qui de vniuersa re tractari solent, 
+      <lb ed="#L" n="12"/>seu de capitibus rerum illustrium, quae nunc etiam 
+      com<lb ed="#L" n="13" break="no"/>munes appellantur loci, vt de iustificatione, de gratia, de 
+      <lb ed="#L" n="14"/>peccato, de fide, deque alijs huius generis, nos 
+      disputatu<lb ed="#L" n="15" break="no"/>ros pollicebamur, id quodem nostris fecere plurimi, e 
+      Lu<lb ed="#L" n="16" break="no"/>theranis non modo Philippus, sed Caluinus etiam fecit, 
+      <lb ed="#L" n="17"/>homines non parum eloquentes, impij tamen, vt Lutheri 
+      <lb ed="#L" n="18"/>discipulos possis agnoscere. Sed quemadmodum Arist.  
+      <lb ed="#L" n="19"/>in Topicis, proposuit communes locos, quasi 
+      argumen<lb ed="#L" n="20" break="no"/>torum sedes &amp; notas, ex quibus omnis argumentatio 
+      <lb ed="#L" n="21"/>ad omnem disputationem inueniretur, sic nos 
+      peculia<lb ed="#L" n="22" break="no"/>res quosdam Theologiae locos proponimus, tanquam  
+      <lb ed="#L" n="23"/>domicilia omnium argumentorum Theologicorum, ex 
+      <lb ed="#L" n="24"/>quibus Theologi omnes suas argumentationes, siue ad 
+      <lb ed="#L" n="25"/>confirmandum, siue ad refellendum inueniant. Quare cum 
+      <lb ed="#L" n="26"/>definitio loci Theologici ante oculos, ex ijs esset, quae in 
+      <lb ed="#L" n="27"/>prooemio dicta sunt, non erat hic nobis accuratius 
+      expli<lb ed="#L" n="28" break="no"/>canda, sed quod obscurum erat, id statim aggrediendum, 
+      <lb ed="#L" n="29"/>&amp; locorum huiusmodi certus definitusque nuinerus 
+      indi<lb ed="#L" n="30" break="no"/>candus. Locorum ergo Theologicorum elenchum 
+      de<lb ed="#L" n="31" break="no"/>nario nos quidem numero complectimur, non ignari 
+      fu<lb ed="#L" n="32" break="no"/>turos aliquos, qui eosdem hos locos in minoren numerum  
+      <lb ed="#L" n="33"/>redigant, alios, qui velint etiam esse maiorem. Sed de 
+      e<lb ed="#L" n="34" break="no"/>numerationis figura nihil morandum est, modo nullus 
+      o<lb ed="#L" n="35" break="no"/>mnino locus vel supersluus numeretur, vel 
+      praetermitta<lb ed="#L" n="36" break="no"/>tur necessarius. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e196">
+               <lb ed="#L" n="37"/>Primus igitur locus est auctoritas sacrae scripturae, quae 
+      <lb ed="#L" n="38"/>libris Canonicis continetur. 
+      <lb ed="#L" n="39"/>Secundus est auctoritas traditionum Christi &amp; Apo¬ 
+      <!--16.xml-->
+      <pb ed="#L" n="5"/>
+               <lb ed="#L" n="1"/>stolorum, quas quoniam scriptae non sunt, sed de aure in 
+      <lb ed="#L" n="2"/>aurem ad nos peruenerunt, viuae vocis oracula rectissime 
+      <lb ed="#L" n="3"/>dixeris. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e216">
+               <lb ed="#L" n="4"/>Tertius est auctoritas ecclesiae catholicae. 
+      <lb ed="#L" n="5"/>Quartus, auctoritas conciliorum praesertim generalium, 
+      <lb ed="#L" n="6"/>in quibus ecclesiae catholicae auctoritas residet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e226">
+               <lb ed="#L" n="7"/>Quintus auctoritas ecclesiae Romanae, quae diuino 
+      pri<lb ed="#L" n="8" break="no"/>uilegio &amp; est, &amp; vocatur apostolica. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e233">
+               <lb ed="#L" n="9"/>Sextus est auctoritas sanctorum Veterum.  
+      <lb ed="#L" n="10"/>Septimus, est auctoritas Theologorum scholasticorum, 
+      <lb ed="#L" n="11"/>quibus adiungamus etiam iuris pontificij peritos. Nam 
+      <lb ed="#L" n="12"/>iuris huius doctrina quasi ex altera parte scholasticae The 
+      <lb ed="#L" n="13"/>ologiae respondet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e246">
+               <lb ed="#L" n="14"/>Octauus, ratio naturalis est, quae per omnes scientias 
+      <lb ed="#L" n="15"/>naturali lumine inuentas latissime patet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e253">
+               <lb ed="#L" n="16"/>Nonus est auctoritas Philosophorum qui naturam 
+      du<lb ed="#L" n="17" break="no"/>cem sequuntur. In quibus sine dubio sunt Caesarei 
+      Iuris<lb ed="#L" n="18" break="no"/>consulti, qui veram &amp; ipsi Cvt Iureconsultus ait: 
+      Philo<lb ed="#L" n="19" break="no"/>sophiam profitentur. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e264">
+               <lb ed="#L" n="20"/>Postremus denique est humanae auctoritas historiae, siue 
+      <lb ed="#L" n="21"/>per auctores fide dignos scriptae, siue de gente in 
+      gen<lb ed="#L" n="22" break="no"/>tem traditae, non superstitiose atque aniliter, sed graui 
+      con<lb ed="#L" n="23" break="no"/>stantique ratione. 
+      </p>
+            <p xml:id="Z4Yt34-d1e86-d1e275">
+               <lb ed="#L" n="24"/>Sunt itaque hi loci decem, in quibus argumenta omnia 
+      <lb ed="#L" n="25"/>Theologica delitescunt, eo scilicet discrimine in lucem 
+      <lb ed="#L" n="26"/>eruenda, vt quae ex septem prioribus locis eliciantur, 
+      pro<lb ed="#L" n="27" break="no"/>pria fere sint ea huius facultatis, quae vero ex tribus poste 
+      <lb ed="#L" n="28"/>rioribus, ascriptitia sint, ac velut ex alieno emendicata. 
+      <lb ed="#L" n="29"/>Nam cum sint, vt supra dixi, duo genera argumentandi, 
+      <lb ed="#L" n="30"/>vnum per auctoritatem, alterum per rationem, cumque illud 
+      <lb ed="#L" n="31"/>proprium sit Theologi, hoc Philosophi, confugiendum 
+      <lb ed="#L" n="32"/>Theologo est ad posserius, si vti ei non licet superiori. 
+      <lb ed="#L" n="33"/>Quanquam licet aliquando vtrumque simul argumentandi 
+      <lb ed="#L" n="34"/>genus adhibere, vt suo postea loco demonstraturi sumus. 
+      <lb ed="#L" n="35"/>De prima igitur operis parto, quoniam, vt a principio 
+      <lb ed="#L" n="36"/>diximus, longa oratione non egebat, hactenus dictum... 
+      <lb ed="#L" n="37"/>sit. 
+      <!--17.xml-->
+      <pb ed="#L" n="6"/>
+               <lb ed="#L" n="1"/>E LOCIS 
+      <lb ed="#L" n="2"/>THEOLOGICIS 
+      <lb ed="#L" n="3"/>LIBER SECVNDVS  
+      <lb ed="#L" n="4"/>In librum secundum de locis 
+      Theolo<lb ed="#L" n="5" break="no"/>gicis Prooemium. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 7</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 7</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="514"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e844"><!-- Z4Yt34-l9c7 -->
+            <head xml:id="Z4Yt34-d1e844-Hd1e106">Caput 7</head>
+            <p xml:id="Z4Yt34-d1e844-d1e109">
+               <lb ed="#L" n="20"/>Caput Septimum.
+    </p>
+            <p xml:id="Z4Yt34-d1e844-d1e114">
+               <lb ed="#L" n="21"/>IN hoc tamen disciplinarum genere Theologiae 
+      pro<lb ed="#L" n="22" break="no"/>ETfessoribus, &amp; honesto &amp; necessario duo illa vitia 
+      maxi<lb ed="#L" n="23" break="no"/>me vitanda sunt quae Cicero commemorauit. Vnum, ne 
+      <lb ed="#L" n="24"/>incognita pro cognitis incertaque pro certis habeamus. 
+      <lb ed="#L" n="25"/>Qua in re etiam in Theologia multa peccantur. Vt illi, qui 
+      <lb ed="#L" n="26"/>Diui Thomae Scotique, opiniones vel indiscussas amplectum 
+      <lb ed="#L" n="27"/>tur, proque his non aliter pugnant, ac proaris &amp; focis. 
+      Quam<lb ed="#L" n="28" break="no"/>nis autem, qui nihil certo comprehendi posse 
+      existima<lb ed="#L" n="29" break="no"/>runt, multa illi absurdem dixerint, hoc praeclare tamen, 
+      de<lb ed="#L" n="30" break="no"/>pere sapientem ea, quae sibi probabilia viderentur, 
+      sequi<lb ed="#L" n="31" break="no"/>quae contra improbare, atque affirmandi arrogantiam 
+      vi<lb ed="#L" n="32" break="no"/>tantem fugere temeritatem, quae a sapientia dissidet plurimum. 
+      <lb ed="#L" n="33"/>Med hoc vitium effugere qui volet, non satis est, si ad res 
+      <lb ed="#L" n="34"/>considerandas adhibeat &amp; tempus &amp; diligentia, nisi ad ea 
+      <lb ed="#L" n="35"/>etiam, quae ignorat, a doctissimis quibusque, interroganda 
+      ad<lb ed="#L" n="36" break="no"/>hibeat, &amp; cura, &amp; modestia. Qui vero in academiis 
+      Chri<lb ed="#L" n="37" break="no"/>stiani orbis insignibus literas discunt, hi &amp; 
+      eruditissimo<lb ed="#L" n="38" break="no"/>rum virorum frequenti disputatione instructi, &amp; iuuenum 
+      <!--526.xml-->
+      <pb ed="#L" n="515"/>
+               <lb ed="#L" n="1"/>exercitatissimorum cotidiana conffictatione vexati, 
+      vi<lb ed="#L" n="2" break="no"/>tium huiusmodi vitare facilius possunt. Praeclare autem 
+      <lb ed="#L" n="3"/>cum eo agetur, cui praeceptor contigerit &amp; eruditus &amp; 
+      <lb ed="#L" n="4"/>pius: qui cum certa ab incertis separet, tum vanis 
+      quae<lb ed="#L" n="5" break="no"/>stionibus declinatis vtiles &amp; necessarias seligat, 
+      doceat<lb ed="#L" n="6" break="no"/>que discipulos esse quandam doctam, vt ita dicam, 
+      igno<lb ed="#L" n="7" break="no"/>rantiam, sapientiusque esse, quaedam nescire quam scire. 
+      <lb ed="#L" n="8"/>Alterum enim est vitium, quod quidam nimis magnum 
+      <lb ed="#L" n="9"/>studium multamque operam in res obscuras atque 
+      diffi<lb ed="#L" n="10" break="no"/>ciles conferunt, easdemque, non necessarias. Quo in 
+      gene<lb ed="#L" n="11" break="no"/>re multos etiam e nostris peccasse video: vt eas quoque 
+      <lb ed="#L" n="12"/>quaestiones latissime persequerentur, quibus Porphyrius 
+      <lb ed="#L" n="13"/>abstinuit, homo impius, sed in hac re prudens tamen, vt 
+      <lb ed="#L" n="14"/>Platonis Aristotelisque discipulum possis agnoscere. Qui 
+      <lb ed="#L" n="15"/>nec quicquam nisi opportunis &amp; loco &amp; tempore 
+      tracta<lb ed="#L" n="16" break="no"/>uere, nec quaestiones vllas persecuti sunt, quae iuuenum 
+      <lb ed="#L" n="17"/>ingenia obruerent, non iuuarent. Nostri autem 
+      Theo<lb ed="#L" n="18" break="no"/>logi, importunis vel locis, longa de his oratione 
+      disse<lb ed="#L" n="19" break="no"/>runt, quae nec iuuenes portare possunt, nec senes ferre. 
+      <lb ed="#L" n="20"/>Quis enim ferre possit disputationes illas de 
+      vniuersali<lb ed="#L" n="21" break="no"/>bus, de nominum Analogia, de primo cognito, de 
+      prin<lb ed="#L" n="22" break="no"/>cipio indiuiduationis, sic enim inscribunt, de distinctione 
+      <lb ed="#L" n="23"/>quantitatis a re quata, de maximo &amp; minimo, de infinito,  
+      <lb ed="#L" n="24"/>de intensione &amp; remissione, de proportionibus &amp; 
+      gradi<lb ed="#L" n="25" break="no"/>bus, deque alijs huiusmodi sexcentis, quae ego etiam, cum 
+      <lb ed="#L" n="26"/>nec essem ingenio nimis tardo, nec his intelligendis 
+      pa<lb ed="#L" n="27" break="no"/>rum temporis &amp; diligentiae adhibuissem, animo vel infor 
+      <lb ed="#L" n="28"/>mare non poteram. Puderet me dicere non intelligere, si 
+      <lb ed="#L" n="29"/>ipsi intelligerent, qui haec tractarunt. Quid vero illas nunc 
+      <lb ed="#L" n="30"/>quaestiones referamus? Num Deus materiam possit 
+      facere<lb ed="#L" n="31" break="no"/>sine forma, num plures angelos eiusdem speciei condere, 
+      <lb ed="#L" n="32"/>num continuum in omnes suas partes diuidere, num 
+      rela<lb ed="#L" n="33" break="no"/>tionem a subiecto sperare, aliasque multo vaniores, quas 
+      <lb ed="#L" n="34"/>scribere hic nec libet, nec decet, ne qui in hunc forte 
+      lo<lb ed="#L" n="35" break="no"/>cum inciderint, ex quorundam ingenio omnes scholae au 
+      <lb ed="#L" n="36"/>ctores aestiment. Illis igitur vitijs declinatis, quod in 
+      re<lb ed="#L" n="37" break="no"/>bus naturalibus &amp; cognitione dignis operae curaeque 
+      po<lb ed="#L" n="38" break="no"/>netur, id non modo, vt inquit ille, iure laudabitur: verum,  
+      <lb ed="#L" n="39"/>vt id fiat, erit etiam summopere necessarium, si Theologi 
+      <!--527.xml-->
+      <pb ed="#L" n="516"/>
+               <lb ed="#L" n="1"/>perfecti pleneque sapientes esse volumus. Prudenter enim 
+      <lb ed="#L" n="2"/>Hieronymus Pammachium admonet, vt si adamarit capti 
+      <lb ed="#L" n="3"/>uam mulierem, id est, sapientiam secularem, decaluet eam,  
+      <lb ed="#L" n="4"/>&amp; illecebras crinium atque ornamenta verborum cum 
+      <lb ed="#L" n="5"/>emortuis vnguibus amputet. Multos enim tunc foetus ca 
+      <lb ed="#L" n="6"/>ptiua dabit, &amp; de Moabitide efficietur Israelitis.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

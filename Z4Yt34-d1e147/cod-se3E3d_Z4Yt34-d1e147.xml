@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="17"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e147"><!-- Z4Yt34-l2c4 -->
+            <head xml:id="Z4Yt34-d1e147-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e147-d1e109">
+               <lb ed="#L" n="15"/>Cap. quartum. Vbi argumenta cap. 
+      secun<lb ed="#L" n="16" break="no"/>di diluuntur.
+    </p>
+            <p xml:id="Z4Yt34-d1e147-d1e116">
+               <lb ed="#L" n="17"/>AD primum igitur argumentum non est 
+      Theologo<lb ed="#L" n="18" break="no"/>rum vna &amp; simplex responsio. Sunt enim qui pie gra 
+      <lb ed="#L" n="19"/>uiterque contendant, Abraham non esse mentitum. 
+      <lb ed="#L" n="20"/>Non enim, vt aiunt, contra id quod mente gerebat 
+      lo<lb ed="#L" n="21" break="no"/>cutus est. Quin filium credidit protinus suscitandum 
+      <lb ed="#L" n="22"/>quemadmodum Apostolus videtur in haec verba 
+      trade<lb ed="#L" n="23" break="no"/>re. Fide obtulit Abraham Isaac cum tentaretur, &amp; 
+      vnige<lb ed="#L" n="24" break="no"/>nitum osferebat, in quo susceperat repromissiones: 
+      arbi<lb ed="#L" n="25" break="no"/>trans quia &amp; a mortuis suscitare potens est Deus. Sunt 
+      a<lb ed="#L" n="26" break="no"/>lii contra, quibus ego vehementer assentior, qui 
+      admit<lb ed="#L" n="27" break="no"/>tunt quidem Abraham, ea ratione fuisse mentitum, quod 
+      <lb ed="#L" n="28"/>contra mentem dissimulandi causa locutus est: 
+      prophe<lb ed="#L" n="29" break="no"/>tasse autem, quia dixit verum, quod tunc scilicet 
+      ignora<lb ed="#L" n="30" break="no"/>bat. Id nanque Ambrosij verba prae se ferunt. De primo  
+      <lb ed="#L" n="31"/>igitur argumento satis dictum est. Deinceps, vt erat pro 
+      <lb ed="#L" n="32"/>positum &amp; de reliquis dicamus. Ad secundum Theologi 
+      <lb ed="#L" n="33"/>quidem non ignobiles respondent vtique Iacob mer tifi 
+      <lb ed="#L" n="34"/>fuisse, sed matre consulente, non Deo reuelante. At nos,  
+      <lb ed="#L" n="35"/>quibus in animo est sanctorum sensa pro nostra quidem  
+      <lb ed="#L" n="36"/>virili tueri, multo aliter respondere debemus. 
+      Augustin<lb ed="#L" n="37" break="no"/>siquidem in quaestionibus super Genesim, FIacob a 
+      menda<lb ed="#L" n="38" break="no"/>cio excusat. Adducitque in hoc, quod de illo scriptura 
+      <!--29.xml-->
+      <pb ed="#L" n="18"/>
+               <lb ed="#L" n="1"/>dixit, virum simplicem fuisse, hoc est, non fictum &amp; sine 
+      <lb ed="#L" n="2"/>dolo: vt 7O. interpretes conuerterunt. Sine dolo igitur 
+      <lb ed="#L" n="3"/>erat qui dolum fecisse videtur. Quapropter in eo loco,  
+      <lb ed="#L" n="4"/>vt ait, spirituale mysterium cogimur intelligere. Et 16. li. 
+      <lb ed="#L" n="5"/>de Ciuitat. Dei, quis est Cinquit dolus simplicis, quae 
+      fi<lb ed="#L" n="6" break="no"/>ctio non mentientis, nisi profundum mysterium 
+      verita<lb ed="#L" n="7" break="no"/>tiae? Chrysostomus etiam hom. 6. in epist. ad Colos, &amp; 
+      ho<lb ed="#L" n="8" break="no"/>mil. 53. in Gen. sicut Abraham &amp; Phinees ab homicidio,  
+      <lb ed="#L" n="9"/>ita &amp; Iacob Cquoniam Deum illi cooperatum esse credit, a 
+      <lb ed="#L" n="10"/>mendacio excusat. Excusant etiam Ambros. libr. 2. de 
+      Ia<lb ed="#L" n="11" break="no"/>cob &amp; vita beata c. 2. &amp; 3. Innocent. de diuort. c. 
+      gaude<lb ed="#L" n="12" break="no"/>mus. Magist. sent. 3. d. 38. Gratia. 22. 4. 2. c. quaeritur. 
+      Ale<lb ed="#L" n="13" break="no"/>xan. Alen. 2. par. q. 139. memb. 6. D. Tho. 2. 2. 4. 11O. art. 3. 
+      <lb ed="#L" n="14"/>ad. 3. Nec vero audiendi sunt, qui putabunt Iacob per re 
+      <lb ed="#L" n="15"/>uelationem quidem excusari, non ne mentitus sit, sed ne 
+      <lb ed="#L" n="16"/>peccarit mentiendo. Quod mendacium, vt aiunt, recte 
+      non<lb ed="#L" n="17" break="no"/>nunqe dici potest ex familiari consilio Spiritus S. Quos 
+      <lb ed="#L" n="18"/>ego auctores non modo redarguerem, verumetiam 
+      quam<lb ed="#L" n="19" break="no"/>plurimis argumentis grauiter errasse monstrarem, nisi D. 
+      <lb ed="#L" n="20"/>Augustin: in eadem causa aduersum Priscilianistas 
+      accu<lb ed="#L" n="21" break="no"/>tate elaborasset, atque ita multa disseruisset, vt si labor idem 
+      <lb ed="#L" n="22"/>rursum a nobis susciperetur, nihil aliud quam actor 
+      age<lb ed="#L" n="23" break="no"/>remus: quod vetamur veteri prouerbio. Hos itaque cum sua 
+      <lb ed="#L" n="24"/>ista Theologia relinquamus, cum doctores sancti non 
+      mo<lb ed="#L" n="25" break="no"/>do negent peccasse Iacob, sed astruant etiam &amp; verum 
+      dixis<lb ed="#L" n="26" break="no"/>se, &amp; verbis illis prophetasse. Qua in re illud equidem 
+      ani<lb ed="#L" n="27" break="no"/>maduerto, maiores nostros, quod perspicuum &amp; explora 
+      <lb ed="#L" n="28"/>tum erat, id latere non potuisse: nempe verba illa Iacob in 
+      <lb ed="#L" n="29"/>sensu proprio esse mendacium. Nec esse tamen absurdum, 
+      <lb ed="#L" n="30"/>si homo quamlibet iustus semel aut iterum mentiatur. 
+      <lb ed="#L" n="31"/>Quamobrem cum constanter astruerint Iacob non fuisse 
+      <lb ed="#L" n="32"/>mentitum, existimandi sunt peculiares easdemque graues 
+      <lb ed="#L" n="33"/>causas habuisse, quibus in hanc sententiam inducerentur. 
+      <lb ed="#L" n="34"/>Porro quemadmodum per legitimas allegoriae rationes 
+      <lb ed="#L" n="35"/>iustus figura iustorum, iniquus iniquorum est, ita &amp; falsum 
+      <lb ed="#L" n="36"/>absurde in typum veritatis assumitur. Scio quae contra 
+      <lb ed="#L" n="37"/>hoc dici possunt, legi enim D. Gregorij commentaria, in 
+      <lb ed="#L" n="38"/>quibus huic regulae non alligat expositonem suam, legi 
+      <lb ed="#L" n="39"/>&amp; Hiero, qui Abacuc. 1. cum spiritum malum per tropolo¬ 
+      <!--30.xml-->
+      <pb ed="#L" n="19"/>
+               <lb ed="#L" n="1"/>giam conuertisset in bonum, tropologia, inquit, libera est,  
+      <lb ed="#L" n="2"/>&amp; hic tantum legibus circumscripta, vt pietatem 
+      sequa<lb ed="#L" n="3" break="no"/>tur intelligentiae. Sed haec longior pugna est, nec 
+      hu<lb ed="#L" n="4" break="no"/>ius temporis patitur angustias. Equidem abuti hac 
+      li<lb ed="#L" n="5" break="no"/>bertate nollem, sed mysticos sensus quibusdam potius 
+      <lb ed="#L" n="6"/>terminis lineisque praescribere. Nec enim 
+      consentane<lb ed="#L" n="7" break="no"/>um est, nisi a rebus vicinis &amp; similibus, vt metaphoram 
+      <lb ed="#L" n="8"/>ita &amp; figuram imaginemque rerum trahi. Quippe cum 
+      <lb ed="#L" n="9"/>rem, quae alterius figura est, eius similitudinem gerere ne 
+      <lb ed="#L" n="10"/>cesse sit. Nec Salomon in peccatis Christi typus erat,  
+      <lb ed="#L" n="11"/>sed in pace: nec Iebpte in impietate aduersus filiam typus 
+      <lb ed="#L" n="12"/>erat Dei, sed in zelo. At D. Thom. 2. 2. quaest. 88. art. 2. 
+      <lb ed="#L" n="13"/>ad 2. repugnat: videtur profecto. Verum iam dixi hic 
+      <lb ed="#L" n="14"/>me non agere de liberis allegorijs, sed de his, quae certa 
+      <lb ed="#L" n="15"/>via &amp; ratione premuntur. Quo sensu nec Hieronymus,  
+      <lb ed="#L" n="16"/>nec Thomas locuti sunt. Quae enim conuentio lucis ad 
+      <lb ed="#L" n="17"/>tenebras? quod Christo cum Belial, vt per mysticum sen 
+      <lb ed="#L" n="18"/>sum lucem quidem tenebrarum, Christum vero Belial 
+      fi<lb ed="#L" n="19" break="no"/>guram faciamus? Sed de his plura alio loco opportunius. 
+      <lb ed="#L" n="20"/>Nunc, vt ad propositum reuertamur, nobis ad certam 
+      re<lb ed="#L" n="21" break="no"/>gulam diuinae scripturae tractandae sunt, nec iniquum in 
+      <lb ed="#L" n="22"/>eo quo iniquus est, nec mendacem in eo quo nendax, aut  
+      <lb ed="#L" n="23"/>iusti aut veracis typum faciemus. Quia ergo constat, 
+      Ia<lb ed="#L" n="24" break="no"/>cob tum etiam cum praeripuit fratri benedictionem, gen 
+      <lb ed="#L" n="25"/>tium fidem praenotasse, consequens fit, ex peculiari Dei 
+      <lb ed="#L" n="26"/>procuratione ea omnia &amp; dicta &amp; facta futurae veritatis 
+      <lb ed="#L" n="27"/>imaginem habuisse, ac proinde non fuisse mendacia. Quid 
+      <lb ed="#L" n="28"/>ergo? verum ne illud est, ego sum primogenitus tuus Esaus 
+      <lb ed="#L" n="29"/>Nempe verum est. Est enim &amp; primogenitus secundum 
+      <lb ed="#L" n="30"/>carnem, &amp; primogenitus secundum ius. Nam &amp; Apostolus 
+      <lb ed="#L" n="31"/>duo filiorum genera exprimit, inquiens: Non omnes qui 
+      <lb ed="#L" n="32"/>ex Israel sunt, ij sunt lsraelitae, nec qui semen sunt 
+      Abra<lb ed="#L" n="33" break="no"/>hae omnes filij: sed qui filij sunt promissionis aestimantur in 
+      <lb ed="#L" n="34"/>semine. Et statim: Non solum autem illa, sed &amp; Rebecca 
+      <lb ed="#L" n="35"/>ex vno concubitu, &amp;c. &amp; quia maior seruiet minori, &amp;c. 
+      <lb ed="#L" n="36"/>Paulus itaque semen Abrahae vocat populum gentium, eun 
+      <lb ed="#L" n="37"/>demque, fratrem appellat miuorem, cui maior erat 
+      seruitu<lb ed="#L" n="38" break="no"/>rus. Vt igitur sine mendacio gentium hic populus in 
+      fi<lb ed="#L" n="39" break="no"/>dem iam &amp; haereditatem Iudaeorum suffectus dicere poterat,  
+      <!--31.xml-->
+      <pb ed="#L" n="20"/>
+               <lb ed="#L" n="1"/>Ego sum semen Abrahae, ita &amp; Iacob, quoniam ius habebat 
+      <lb ed="#L" n="2"/>ad primogenitura, in quam Deo auctore fuerat 
+      substitu<lb ed="#L" n="3" break="no"/>tus, vere vtique dixit, Ego sum primogenitus tuus Esau. 
+      <lb ed="#L" n="4"/>Quid cum Ioannes Baptista Elias a Domino vocatus sit, 
+      <lb ed="#L" n="5"/>non natura quidem, sed praecursoris officio: num &amp; non  
+      <lb ed="#L" n="6"/>ad eundem quoque modum Iacob, qui haereditario iure 
+      <lb ed="#L" n="7"/>fratri successit, se esse Esau sine falsitate potuit asserere? 
+      <lb ed="#L" n="8"/>Sed ais. Vnde ius hoc Iacob intellexit ad se pertinere? 
+      <lb ed="#L" n="9"/>Certe vel Deo reuelante, vel matre instruente, quam Dei 
+      <lb ed="#L" n="10"/>familiare consilium habuisse Gen. 25. c. traditur. Atque in 
+      <lb ed="#L" n="11"/>2. argumenti confutationem satis multa diximus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e147-d1e372">
+               <lb ed="#L" n="12"/>Tertium autem, quod ex Esaiae testimonio nobis 
+      oppo<lb ed="#L" n="13" break="no"/>nitur, D. Tho. 2. 2. 4. 171. artic. 6. ad 2. confutat. Quae 
+      qui<lb ed="#L" n="14" break="no"/>dem confutatio quoniam prolixa est, nos vero breuitati 
+      <lb ed="#L" n="15"/>studemus, non est hic adscribenda. Nam &amp; aliter 
+      respon<lb ed="#L" n="16" break="no"/>deri breuius potest, eiusmodi prophetias comminatorias 
+      <lb ed="#L" n="17"/>esse, sic enim scholastici vocant. Id quoniam Prophetae 
+      <lb ed="#L" n="18"/>intelligebant cnam intelligentia opus est in prophetia, 
+      <lb ed="#L" n="19"/>minime fallebantur. Quin potius fide quidem bona suo 
+      <lb ed="#L" n="20"/>ministerio functi, existimabant tamen cominationes 
+      mu<lb ed="#L" n="21" break="no"/>tatis posse moribus commutari. Ob eam enim causam  
+      <lb ed="#L" n="22"/>Ionas nolebat Ninine subuersionem praenuntiare, quod 
+      <lb ed="#L" n="23"/>diuinam putabat misericordiam Niniuitis poenitentibus 
+      <lb ed="#L" n="24"/>esse flectendam. Quocirca in simplicibus eiusmodi 
+      denun<lb ed="#L" n="25" break="no"/>tiationibus natura rerum ususque communis eo nos 
+      du<lb ed="#L" n="26" break="no"/>cit, vt conditionem tacitam subaudiamus. Cuius rei 
+      in<lb ed="#L" n="27" break="no"/>signe exemplum legitur Gene. c. 2O. vbi Abimelech rege 
+      <lb ed="#L" n="28"/>corripiens Dominus his verbis vtitur, Et morieris 
+      pro<lb ed="#L" n="29" break="no"/>pter mulierem quam tulisti. Postquam autem ille 
+      excusa<lb ed="#L" n="30" break="no"/>uit, in hunc modum Dominus locutus est: Nunc redde 
+      <lb ed="#L" n="31"/>viro suo vxorem &amp; orabit pro te &amp; viues. Si autem 
+      no<lb ed="#L" n="32" break="no"/>lueris reddere, scito quod morte morieris. Vides, vt 
+      pri<lb ed="#L" n="33" break="no"/>mo edicto vehementius animum eius concutiat, quo 
+      sa<lb ed="#L" n="34" break="no"/>tis factioni reddat intentum: secundo autem 
+      volunta<lb ed="#L" n="35" break="no"/>tem liquido suam explicet, qua poenam denuntiando 
+      ni<lb ed="#L" n="36" break="no"/>hil aliud significat quam eos se monere, quibus vult 
+      par<lb ed="#L" n="37" break="no"/>cere: nisi quod syllabatim non exprimit, quod intelligere 
+      <lb ed="#L" n="38"/>tamen promptum est. Ad tertium itaque argumentum sic 
+      <lb ed="#L" n="39"/>responsum esto. 
+      <!--32.xml-->
+      <pb ed="#L" n="21"/>
+               <lb ed="#L" n="1"/>Ad quartum autem facile respondetur. Verbum 
+      impe<lb ed="#L" n="2" break="no"/>xandi non semper aut praeceptum, aut consilium secum, 
+      <lb ed="#L" n="3"/>sed aliquando etiam permissionem ferre, vt apud 
+      Ioan<lb ed="#L" n="4" break="no"/>nem. Quod facis fac citius. &amp; alio loco Dominus ad 
+      Ba<lb ed="#L" n="5" break="no"/>laam, si vocare, inquit, te venerint homines isti, surge &amp;  
+      <lb ed="#L" n="6"/>vade cum eis, cui tamen postea angelus dixit: Ego veni 
+      <lb ed="#L" n="7"/>vt aduersarer tibi, quia peruersa est via tua. D. Thom. de 
+      <lb ed="#L" n="8"/>Malo. 4. 3. art. 1. ad 17. Sic igitur dictum est, egredere, &amp;  
+      <lb ed="#L" n="9"/>fac: sicque omnino. Deum dedisse spiritum mendacii in ore 
+      <lb ed="#L" n="10"/>omnium Prophetarum, concedendo scilicet non 
+      iuben<lb ed="#L" n="11" break="no"/>do. In quem sensum illud etiam intelligitur, &amp; ne nos 
+      in<lb ed="#L" n="12" break="no"/>ducas in tentationem. &amp; illud forsitan: Tu rex regum es, 
+      <lb ed="#L" n="13"/>&amp;Deus coeli regnum &amp; imperium dedit tibi, &amp;c. &amp; illud: 
+      <lb ed="#L" n="14"/>Non haberes potestatem in me vllam, nisi tibi datum esset 
+      <lb ed="#L" n="15"/>desuper: atque illud demum: Quod pater dicitur filium 
+      <lb ed="#L" n="16"/>in manus impiorum tradidisse. Quia vero permissionem 
+      <lb ed="#L" n="17"/>ipsam diuinamcredeundum est enim ad propositum, qua 
+      <lb ed="#L" n="18"/>homo vel in errorem, vel in culpam in ducitur, non 
+      mi<lb ed="#L" n="19" break="no"/>nistri boni, sed mali exequuntur, ideo Augustinus 
+      asse<lb ed="#L" n="20" break="no"/>ruit, per administros malos Deum aliquando decipere. 
+      <lb ed="#L" n="21"/>Ac quarto argumento refutando haec dicta sint modo:  
+      <lb ed="#L" n="22"/>nam posterius illud apertiore fortasse via &amp; ratione 
+      re<lb ed="#L" n="23" break="no"/>futabimus. Argumentationi quoque quae quarto loco 
+      po<lb ed="#L" n="24" break="no"/>sita est ita respondeo. Deum non iussisse quidem filiis 
+      <lb ed="#L" n="25"/>srael vt circumuenirent Aegyptios, sed vt vasa 
+      argen<lb ed="#L" n="26" break="no"/>tea &amp; aurea peterent commodato. Praecipit vero postea 
+      <lb ed="#L" n="27"/>ne accepta vasa redderentur. Id quod facere legitime 
+      po<lb ed="#L" n="28" break="no"/>tuit, tum propter alia, tum his praecipue causis. Vna, quod 
+      <lb ed="#L" n="29"/>Aegyptii operarum mercedem Iudeis non reddiderant.  
+      <lb ed="#L" n="30"/>Presserant siquidem: eos operibus duris luti &amp; lateris 
+      o<lb ed="#L" n="31" break="no"/>mnique famulatu, vt Exodi 1. cap. legitur. Itaque vel in 
+      <lb ed="#L" n="32"/>pace mercedem ab inuitis rapere potuerunt, quando res 
+      <lb ed="#L" n="33"/>alioqui debitas nulla alia erat via repetendi. Altera autem 
+      <lb ed="#L" n="34"/>erat causa, quoniam in bello iusto res hostium victoriae 
+      <lb ed="#L" n="35"/>iure auferre poterant. Quemadmodum &amp; Epiphanius in 
+      <lb ed="#L" n="36"/>libro Ancoratus explicuit, &amp; docuit ante Clemens 
+      Ale<lb ed="#L" n="37" break="no"/>xandrinus lib. 1. stroma. Certe vtranque causam e 
+      Sapien<lb ed="#L" n="38" break="no"/>tiae c. 1O. colligere licet. Priore ibi, Et reddidit iustis mer 
+      <lb ed="#L" n="39"/>cedem laborum suorum. Posteriore autem ibi, ideo iusti 
+      <!--33.xml-->
+      <pb ed="#L" n="22"/>
+               <lb ed="#L" n="1"/>tulerunt spolia impiorum. Magist. vero sent: in 3. dist. 37. 
+      <lb ed="#L" n="2"/>Iudaeos affirmat viros optimos nullo modo peccasse: 
+      in<lb ed="#L" n="3" break="no"/>firmis autem, qui cupiditate quadam Aegyptios 
+      fefelle<lb ed="#L" n="4" break="no"/>re, magis esse illud vt facerent permissum quam iussum. 
+      <lb ed="#L" n="5"/>Quod enim Augustinus dixit, Israelitas iussos esse hostem 
+      <lb ed="#L" n="6"/>decipere, id ipse eodem prorsus loco ac quaestione 
+      cor<lb ed="#L" n="7" break="no"/>rexit inquiens: factum est, vt iuberet Deus, vel potius pro 
+      <lb ed="#L" n="8"/>illorum cupiditate permitteret. Pertinet vero ad iustitiam 
+      <lb ed="#L" n="9"/>&amp; veritatem, vt is, qui meretur decipi, decipiatur a Deo 
+      <lb ed="#L" n="10"/>quidem concedente, ab homine autem Vel angelo malo 
+      <lb ed="#L" n="11"/>efficiente. Quos iustitiae suae administros licet Deus 
+      se<lb ed="#L" n="12" break="no"/>uere sane ad vindicandum proferat, non continuo 
+      ta<lb ed="#L" n="13" break="no"/>men praui eorum operis causa est. Non enim mox, si 
+      <lb ed="#L" n="14"/>quis ab vsurario pecunias petit hominisque peruersi cul 
+      <lb ed="#L" n="15"/>pa vtitur, idem ipse vsurarum est auctor. Nec vero dif- 
+      <lb ed="#L" n="16"/>ficile videbitur, eadem opera ad Deum, Sathanamque 
+      <lb ed="#L" n="17"/>referri: si in vno eo demque, motu actionem &amp; passionem 
+      <lb ed="#L" n="18"/>res plane diuersas inspiciamus. Hae namque res duae 
+      fa<lb ed="#L" n="19" break="no"/>ciunt, vt in talibus longe alia sit ratio diuinae, 
+      diabolicae<lb ed="#L" n="20" break="no"/>que actionis. In calamitate porro sua Iob non solum dae 
+      <lb ed="#L" n="21"/>monis, sed Dei etiam opus recognoscit: quem ea dicit 
+      <lb ed="#L" n="22"/>abstulisse, quae instigante impellenteque Sathana per 
+      Chal<lb ed="#L" n="23" break="no"/>daeos fuerant erepta. Etenim, quia passio bona ac iusta 
+      <lb ed="#L" n="24"/>erat, consilium quoque Dei optimum finisque 
+      sanctissi<lb ed="#L" n="25" break="no"/>mus: in promptu viro Dei fuit, ibi inculpatam Dei 
+      ope<lb ed="#L" n="26" break="no"/>rationem agnoscere, vbi hominum Sathanaeque nequitia 
+      <lb ed="#L" n="27"/>cum praua sua operatione se prodidit. Hoc video, dum 
+      <lb ed="#L" n="28"/>breuiter voluerim dicere, dictum a me esse paulo 
+      ob<lb ed="#L" n="29" break="no"/>scurius: sed experiar, &amp; dicam, si potero, planius. In 
+      o<lb ed="#L" n="30" break="no"/>pere illo malo &amp; culpa erat &amp; poena, actioque praua 
+      re<lb ed="#L" n="31" break="no"/>ctae iuncta passioni. Deus igitur illic non erat otiosus: 
+      <lb ed="#L" n="32"/>sed eius erat omnino auctor, quod in illo opere erat 
+      <lb ed="#L" n="33"/>bonum: ab eo autem alienus, quod in illo erat malum. 
+      <lb ed="#L" n="34"/>Ita Deus viro sancto Camelos abstulit quidem, at non  
+      <lb ed="#L" n="35"/>iuste, solum, sed benigne. Abstulit &amp; Satnan: at 
+      crudeli<lb ed="#L" n="36" break="no"/>ter nedum impie: Chaldaei quoque abstulerunt, at tum 
+      a<lb ed="#L" n="37" break="no"/>uare, tum etiam inique. Nihil ergo est absurdi, si opus 
+      i<lb ed="#L" n="38" break="no"/>dem, quatenus poena est, ad Deum: quatenus est culpa, ad 
+      <lb ed="#L" n="39"/>Sathanam auctorem referamus: vt Sathan &amp; in culpa agat 
+      <!--34.xml-->
+      <pb ed="#L" n="23"/>
+               <lb ed="#L" n="1"/>&amp; in poena: Deus in poena agat quidem, at in culpa non  
+      <lb ed="#L" n="2"/>agat, sed permittat. Atque hac eadem responsione sex- 
+      <lb ed="#L" n="3"/>tum quoque argumentum refellitur. Non enim decipit 
+      <lb ed="#L" n="4"/>Deus deceptionem ipsam faciendo, sed permittendo vt 
+      <lb ed="#L" n="5"/>fiat. Qua etiam ratione corda &amp; excaecare dicitur &amp; 
+      in<lb ed="#L" n="6" break="no"/>durare. Vt Gregor. 13. mo. lib. c. 16. &amp; Thom. 3. 
+      aduer<lb ed="#L" n="7" break="no"/>sus Gen. c. 162. docuere. Et Clemens Alexandrin. lib.  
+      <lb ed="#L" n="8"/>Strom. 1. explicans illud Matth. decimotertio. Ideo in 
+      <lb ed="#L" n="9"/>parabolis loquor eis, &amp;c. Non Dominus praebet 
+      igno<lb ed="#L" n="10" break="no"/>rationem inquit, hoc enim sentire est nefarium, sed 
+      i<lb ed="#L" n="11" break="no"/>psam, quae inerat, prophetice arguit. Sic etiam 
+      homi<lb ed="#L" n="12" break="no"/>nes tradit Deus in reprobum sensum &amp; in passiones 
+      ig<lb ed="#L" n="13" break="no"/>nominiae. Dimisit eos, ait, secundum desideria cordis 
+      co<lb ed="#L" n="14" break="no"/>rum: ibunt in adinuentionibus suis. Atque hoc item 
+      sen<lb ed="#L" n="15" break="no"/>su reliqua testimonia interpretanda sunt. Nam 
+      Augusti<lb ed="#L" n="16" break="no"/>ni verba ipse idem August. in li. de praed. &amp; grat. c. 4. 
+      do<lb ed="#L" n="17" break="no"/>tuit, quomodo accipere debeamus. Non operatur, 
+      in<lb ed="#L" n="18" break="no"/>quit, Deus in homine ipsam duritiam cordis. Sed 
+      indu<lb ed="#L" n="19" break="no"/>rare eum dicitur, quem mollire noluerit. Sic etiam 
+      excae<lb ed="#L" n="20" break="no"/>care, quem illuminare noluerit, &amp; repellere eum quem 
+      <lb ed="#L" n="21"/>noluerit vocare. Hactenus ille. Et in libro de articulis 
+      <lb ed="#L" n="22"/>sibi falso per Pelagianos impositis art. 1O. eorum 
+      opinio<lb ed="#L" n="23" break="no"/>nem detestatur, qui Deum prauae cuiusquam, aut volunta 
+      <lb ed="#L" n="24"/>tis, aut actionis credunt auctoem, siue excitantem, siue 
+      <lb ed="#L" n="25"/>suadentem, siue impellentem peccantium cupiditates 
+      <lb ed="#L" n="26"/>Deus quippe neminem tentat. Et rursum, Non dicas, ille 
+      <lb ed="#L" n="27"/>me implanauit. Et iterum, Perditio tua Israel, 
+      tantummo<lb ed="#L" n="28" break="no"/>do in me auxilium tuum. Et alio loco, diligis omnia 
+      <lb ed="#L" n="29"/>quae sunt : &amp; nihil odisti eorum quae fecisti. At odio 
+      <lb ed="#L" n="30"/>habet Deus caecitatem cordis, errorem, obstinationem: 
+      <lb ed="#L" n="31"/>cum odio sint Deo impius &amp; impietas eius: Deus igitur 
+      <lb ed="#L" n="32"/>nihil eiusmodi in homine proprie facit: sed tantum 
+      iu<lb ed="#L" n="33" break="no"/>dicio permittit. Nam obstinatio, error animi, ac 
+      caeci<lb ed="#L" n="34" break="no"/>tas peccata sunt: quae scilicet in hominibus, si proprieta 
+      <lb ed="#L" n="35"/>tem verbi sequi volumus. Deus nullo modo operatur. 
+      <lb ed="#L" n="36"/>Nisi Melancthonis stultitia placet, qui aeque proprium 
+      <lb ed="#L" n="37"/>Dei opus Iudae proditionem ac vocationem Pauli esse 
+      <lb ed="#L" n="38"/>ait. Verum hic error non solum scripturae testimonijs 
+      <lb ed="#L" n="39"/>sed naturae quoque rationibus manifeste refellitur. 
+      <!--35.xml-->
+      <pb ed="#L" n="24"/>
+               <lb ed="#L" n="1"/>Primum enim illa Augustini ratio expedita est: nullo 
+      sa<lb ed="#L" n="2" break="no"/>piente auctore aliquem deteriorem fieri. Tanta enim cul 
+      <lb ed="#L" n="3"/>pa est, quae in sapientem quamuis hominem cadere 
+      ne<lb ed="#L" n="4" break="no"/>queat. Multo igitur minus Deo autore fiet homo 
+      dete<lb ed="#L" n="5" break="no"/>tior, cum sit Deus quouis homine sapiente praestantior. 
+      <lb ed="#L" n="6"/>Illa item eiusdem Aug. causa non est leuis: Quod quae me 
+      <lb ed="#L" n="7"/>auctore fiunt, ea me volente &amp; aut suadente, aut 
+      consu<lb ed="#L" n="8" break="no"/>lente, aut imperante fieri necesse est. Nullum autem Dei 
+      <lb ed="#L" n="9"/>iustum rectumque de culpis iudicium futurum esset, si ho 
+      <lb ed="#L" n="10"/>mines Dei voluntate, suasu, consilio, praeceptoque pecca 
+      <lb ed="#L" n="11"/>rent. Plato insuper in secundo de Rep. lib. modis 
+      omni<lb ed="#L" n="12" break="no"/>bus pugnandum esse ait, ne Deus qui bonus est, dicatur 
+      <lb ed="#L" n="13"/>esse malorum causa. Alioqui secum Deum pugnaturum,  
+      <lb ed="#L" n="14"/>qui suis legibus contraria fieri mandauerit. Ita eos 
+      ciui<lb ed="#L" n="15" break="no"/>tate extrudi iubet, qui verba illa nefaria dixerint: nobis 
+      <lb ed="#L" n="16"/>vtique perniciosa, vt inquit, sibique ipsis male 
+      consona<lb ed="#L" n="17" break="no"/>Sed alterius &amp; loci &amp; temporis est hanc siue amentiam siue 
+      <lb ed="#L" n="18"/>insaniam refutare. Nunc reliqua persequamur. Nam &amp; eis 
+      <lb ed="#L" n="19"/>refellendis huius sexti argumenti testimonia, apertius ex 
+      <lb ed="#L" n="20"/>plicabuntur.  
+      <lb ed="#L" n="21"/>Cum itaque septimo loco obiicitur: Deum esse omnium 
+      <lb ed="#L" n="22"/>poenarum causam, nos certe id negamus: sed earum vere 
+      <lb ed="#L" n="23"/>ac proprie causa est, quae solum poenae sunt, non culpae. 
+      <lb ed="#L" n="24"/>Est autem interdum, vt ad Romanos &amp; 
+      Thessalonicen<lb ed="#L" n="25" break="no"/>ses tradit Apostolus, vna culpa alterius poena. Quo casu 
+      <lb ed="#L" n="26"/>in poenam incurrit impius Deo deserente, non efficiente. 
+      <lb ed="#L" n="27"/>At vero Caietanus illud, Ecce ego suscito super te 
+      ma<lb ed="#L" n="28" break="no"/>lum de domo tua, Est sermo, inquit, non de malo culpae, 
+      <lb ed="#L" n="29"/>sed de malo poenae. Deus enim non est auctor peccati, vt 
+      <lb ed="#L" n="30"/>lic, sed quatenus poena est peccantis, vel alterius. 
+      Hacte<lb ed="#L" n="31" break="no"/>nus ille. Et in illud, Dominus praecepit ei, vt malediceret 
+      <lb ed="#L" n="32"/>Dauidi, agnoscit, ait, maledictionem illam quatenus 
+      poe<lb ed="#L" n="33" break="no"/>nalem sibi procedere a Deo. Efficit si quidem Deus per 
+      <lb ed="#L" n="34"/>Semei maledictionem illam non quatenus erat peccatum, 
+      <lb ed="#L" n="35"/>sed quatenus erat poena ipsius Dauidis. Quemadmodum 
+      <lb ed="#L" n="36"/>superius etiam per os Nathan dixerat, suscitabo malum 
+      <lb ed="#L" n="37"/>de domo tua, non quatenus erat malum culpae, sed poenae. 
+      <lb ed="#L" n="38"/>Hactenus etiam ille. Ac posterior haec sententia quidem  
+      <lb ed="#L" n="39"/>faciliore ratione defendi potest, si ea distinctio repeta¬ 
+      <!--36.xml-->
+      <pb ed="#L" n="25"/>
+               <lb ed="#L" n="1"/>tur, quae quinto argumento diluendo posita est, in opere 
+      <lb ed="#L" n="2"/>vno eo demque &amp; actionem considerari &amp; passionem. Cum  
+      <lb ed="#L" n="3"/>autem res temporariae, salus quoque &amp; vita auferuntur,  
+      <lb ed="#L" n="4"/>passio non modo ex parte Dei iusta est, verumetiam ex 
+      <lb ed="#L" n="5"/>parte patientis est bona. Non vtilem patiendi dico, nam 
+      <lb ed="#L" n="6"/>hoc quis dubitet: sed honestam ac meritoriam, si aequo 
+      <lb ed="#L" n="7"/>animo patienterque feratur. Quia vero quo passio est, eo 
+      <lb ed="#L" n="8"/>poena est: rite, ni fallor, dici potest Deus auctor esse 
+      ope<lb ed="#L" n="9" break="no"/>ris mali, non qua est malum culpae, sed qua est malum poenae. 
+      <lb ed="#L" n="10"/>Cum enim Aristoteli actio &amp; passio idem motus sint, 
+      il<lb ed="#L" n="11" break="no"/>lud perinde est, ac si Deum auctorem dicamus esse non  
+      <lb ed="#L" n="12"/>malae actionis, sed bonae passionis. Caeterum, quando vnum 
+      <lb ed="#L" n="13"/>peccatum alterius est poena, res non ita facile expediri 
+      po<lb ed="#L" n="14" break="no"/>test. Tunc enim nec actio nec passio honesta est: sed is 
+      <lb ed="#L" n="15"/>qui plectitur &amp; agendo &amp; patiendo peccat. Vt cum 
+      gen<lb ed="#L" n="16" break="no"/>tes, verbi causa, contumelijs affecerunt corpora sua in 
+      <lb ed="#L" n="17"/>semetipsis, &amp; relicto naturali vsu turpitudinem naturae 
+      <lb ed="#L" n="18"/>inimicam operati sunt, mercedem, quam oportuit, 
+      erro<lb ed="#L" n="19" break="no"/>ris sui in semetipsis recipientes, nihil omnino illic distin 
+      <lb ed="#L" n="20"/>guere possumus, cuius Deum causam afferamus. Siue enim 
+      <lb ed="#L" n="21"/>agentes, siue patientes, &amp; quia agebant, &amp; quia 
+      patieban<lb ed="#L" n="22" break="no"/>tur, vtrinque omnino peccabant. Quamobrem Deus 
+      <lb ed="#L" n="23"/>nec actionum eiusmodi auctor erat vllo modo, nec 
+      pas<lb ed="#L" n="24" break="no"/>sionum. Illud igitur, quod priore loco Caietanus ait, 
+      di<lb ed="#L" n="25" break="no"/>lutius videtur esse, quam vt consistere in vera 
+      Theolo<lb ed="#L" n="26" break="no"/>gia possit, quae an argutias adeo formales recipiat, 
+      igno<lb ed="#L" n="27" break="no"/>ro. Si enim Deus auctor peccati est, quatenus est poena 
+      <lb ed="#L" n="28"/>peccantis, omnium poenarum absolute causa erit, tum 
+      e<lb ed="#L" n="29" break="no"/>tiam, cum peccantis culpa posterior culpae prioris 
+      poe<lb ed="#L" n="30" break="no"/>na est. Ita erit causa indurationis, caecitatis, erroris, 
+      ea<lb ed="#L" n="31" break="no"/>rumque passionum quas ne nominare quidem per 
+      vere<lb ed="#L" n="32" break="no"/>cundiam licet. Et cum causa moralis, de qua in praesenti 
+      <lb ed="#L" n="33"/>sermo est, non agat nisi per voluntatem mouens: Deo 
+      <lb ed="#L" n="34"/>certe volente, atque adeo vel iubente, vel suadente, 
+      <lb ed="#L" n="35"/>vel instigante, ea, peccata prouenient, quae in priorum 
+      <lb ed="#L" n="36"/>poenam accidunt. Quae nimirum omnia &amp; per se sunt 
+      <lb ed="#L" n="37"/>falsa perspicue, &amp; inter se vehementer repugnantia. 
+      In<lb ed="#L" n="38" break="no"/>telligo autem Diuum Augustinum libro contra 
+      Iulia<lb ed="#L" n="39" break="no"/>mum quinto, longa oratione contendere, non permis¬ 
+      <!--37.xml-->
+      <pb ed="#L" n="26"/>
+               <lb ed="#L" n="1"/>sionis tantum aut patientiae diuinae esse peccata, sed etiam 
+      <lb ed="#L" n="2"/>potentiae: quum priora videlicet per posteriora puniuntur. 
+      <lb ed="#L" n="3"/>Adducit vero in hoc non ea modo testimonia, quae nos 
+      <lb ed="#L" n="4"/>in argumentis attulimus: verum illa etiam, Miscuit Domi 
+      <lb ed="#L" n="5"/>nus spiritum vertiginis in medio eius, &amp; errare fecerunt 
+      <lb ed="#L" n="6"/>Aegyptum sicut errat ebrius. Et Domini sententia 
+      fue<lb ed="#L" n="7" break="no"/>rat, vt indurarentur corda eorum, &amp; non mererentur vllum 
+      <lb ed="#L" n="8"/>clementiam, sicut praeceperat Dominus Moysi. Et, Non 
+      <lb ed="#L" n="9"/>acquieuit rex populo, quoniam auersatus fuerat eum do 
+      <lb ed="#L" n="10"/>minus, vt suscitaret verbum suum, &amp;c. loco autem eius, 
+      <lb ed="#L" n="11"/>quod nostra transsatio habet, quoniam auersatus fuerat 
+      <lb ed="#L" n="12"/>eum Dominus 7O. transtulerunt, Sri &amp;deo Eugioo ipsi 
+      <lb ed="#L" n="13"/>At VeSgopu. Quae verba Augustinus ita reddidit, 
+      quo<lb ed="#L" n="14" break="no"/>niam a Domino erat conuersio. Ac recte ille quidem,  
+      <lb ed="#L" n="15"/>nam, At 7oggenque, proprie, conuerto, est. Huic vero illud 
+      <lb ed="#L" n="16"/>etiam simile est, conuertit cor eorum, vt odirent 
+      popu<lb ed="#L" n="17" break="no"/>lum eius, &amp; dolum facerent in seruos eius. Addit denique 
+      <lb ed="#L" n="18"/>Augustinus &amp; illud, quo vno causam videtur obtinere, 
+      <lb ed="#L" n="19"/>In hoc ipsum excitaui te, vt ostendam in te virtutem 
+      me<lb ed="#L" n="20" break="no"/>am. Ac protinus, quem vult indurat. Volens ergo 
+      indu<lb ed="#L" n="21" break="no"/>rat. Deus. Et posterius, Quod si Deus volens ostendere 
+      <lb ed="#L" n="22"/>iram, &amp; notam facere potentiam suam, &amp;c. Potentiae 
+      igi<lb ed="#L" n="23" break="no"/>tur diuinae sunt eiusmodi peccata, quare Deus in his 
+      a<lb ed="#L" n="24" break="no"/>git etiam, nedum permittit. Confirmat autem hoc, vel 
+      <lb ed="#L" n="25"/>maxime, quod cum Dauid increparet Abisai, qui caput 
+      <lb ed="#L" n="26"/>Semei cuperet amputare, dimittite, inquit, eum: 
+      Domi<lb ed="#L" n="27" break="no"/>nus enim praecepit ei, vt malediceret Dauid. Et paulo 
+      <lb ed="#L" n="28"/>post. Dimittite eum, ait, vt maledicat iuxta praeceptum 
+      <lb ed="#L" n="29"/>Domini. In eam quaestionem, quam velis equisque, vt 
+      di<lb ed="#L" n="30" break="no"/>citur, fugere conabar, volens nolens incurri. Ita enim 
+      <lb ed="#L" n="31"/>sconiuncta est huic, quae praesenti loco versatur, vt illam  
+      <lb ed="#L" n="32"/>rab hac non potuerim separare, quamuis in ea re diu 
+      mul<lb ed="#L" n="33" break="no"/>tumque elaborauerim. Cum enim considero, quid ferat 
+      <lb ed="#L" n="34"/>instituti operis ratio: occurrentes consequentesque etiam  
+      <lb ed="#L" n="35"/>controuersias pro mea certe virili declino: magis a Deo 
+      <lb ed="#L" n="36"/>eas, quas dignas esse video, vt &amp; tractentur fusius, &amp; ex- 
+      <lb ed="#L" n="37"/>plicentur accuratius. Hinc quippe volumen mihi 
+      gran<lb ed="#L" n="38" break="no"/>de displicet: inde autem moleste fero, res quam grauissi¬ 
+      <!--38.xml-->
+      <pb ed="#L" n="27"/>
+               <lb ed="#L" n="1"/>mas minus accurata diligentia expendi, quam earum 
+      am<lb ed="#L" n="2" break="no"/>plitudo requirat. Id quod in ea, quae est nunc in 
+      mani<lb ed="#L" n="3" break="no"/>bus, accidat necesse est. Nam etsi multa dicentur, multa 
+      <lb ed="#L" n="4"/>tamen praetereunda sunt: quae huic argumento plene 
+      ab<lb ed="#L" n="5" break="no"/>soluendo erant valde necessaria. Atque veteres patres,  
+      <lb ed="#L" n="6"/>ne fenestram impijs aperirent, duritiem, caecitatem, 
+      erro<lb ed="#L" n="7" break="no"/>resque suos &amp; peccata in Deum referendi, in id genus 
+      <lb ed="#L" n="8"/>locutionibus, quae actionem Dei sonare videntur, 
+      so<lb ed="#L" n="9" break="no"/>lam permissionem agnoscunt. Quam sobrietatem vt ex 
+      <lb ed="#L" n="10"/>osculor, ita minime periculosum iudico, si permissioni 
+      <lb ed="#L" n="11"/>nonnihil addamus: quod nec actio proprie Dei sit, nec 
+      <lb ed="#L" n="12"/>sola permissio. Ita enim, vt reor, scripturae sucrae 
+      intel<lb ed="#L" n="13" break="no"/>ligentiam, germanam, solidam, expressamque 
+      tenebi<lb ed="#L" n="14" break="no"/>mus. Principio autem illud intelligendum est, vim 
+      scri<lb ed="#L" n="15" break="no"/>pturae &amp; energiam in illius modi locis non satis per 
+      ne<lb ed="#L" n="16" break="no"/>gationem explicari. Etenim, si eum Deus excaecat, quem 
+      <lb ed="#L" n="17"/>non illuminat: eumque indurat, quem non emollit: o 
+      <lb ed="#L" n="18"/>mnes profecto, quicunque in peccato sunt mortui, ex 
+      <lb ed="#L" n="19"/>caecati a Deo sunt &amp; indurati. Quod nec scriptura nec 
+      <lb ed="#L" n="20"/>ratio recipit. Quosdam siquidem peculiariter excaecato 
+      <lb ed="#L" n="21"/>a Deo &amp; induratos legimus: in quibus iram, iustitiam ac 
+      <lb ed="#L" n="22"/>potentiam suam insigni singularique vindictam Dominus 
+      <lb ed="#L" n="23"/>ostenderit. Deinde id quoqe certum nobis expeditumque 
+      <lb ed="#L" n="24"/>fit, Deum proprie nec excaecare, nec indurare, nec 
+      deci<lb ed="#L" n="25" break="no"/>pere, nec hominum corda in odium conuertere, nec ea 
+      <lb ed="#L" n="26"/>demum facere, quae in literae superficie facere 
+      asseri<lb ed="#L" n="27" break="no"/>tur: Illa enim, quemadmodum ante constituimus, a 
+      natu<lb ed="#L" n="28" break="no"/>ra Dei abhorrent omnia. Itaque Deo improprie &amp; figum 
+      <lb ed="#L" n="29"/>rate tribuuntur: triplici, vt ego sentio, ratione. Primum  
+      <lb ed="#L" n="30"/>enim, cum sublato eius lumine nihil aliud quam 
+      cali<lb ed="#L" n="31" break="no"/>go &amp; caecitas supersit: cum ablato suauitatis cius 
+      spi<lb ed="#L" n="32" break="no"/>ritu corda nostra in lapides, obdurescant : cum 
+      cessan<lb ed="#L" n="33" break="no"/>te eius directione in obliquitatem contorqueantur,  
+      <lb ed="#L" n="34"/>excaecare eos, indurare, errare facere dicitur, quibus 
+      <lb ed="#L" n="35"/>facultatem videndi, liquescendi, ad veritatem rectam  
+      <lb ed="#L" n="36"/>ingrediendi adimit. Nam &amp; qui lucem hanc oculis 
+      no<lb ed="#L" n="37" break="no"/>stris auferrent, &amp; qui columnam, qua firmatur &amp; 
+      consi<lb ed="#L" n="38" break="no"/>stit aedificium, tollerent: i1 vere ac iure &amp; 
+      obtenebra<lb ed="#L" n="39" break="no"/>re oculos, &amp; diruere aedificium dicerentur. Cum autem, 
+      <!--39.xml-->
+      <pb ed="#L" n="28"/>
+               <lb ed="#L" n="1"/>dicimus, Deum facultatem videndi auferre caeteraque 
+      si<lb ed="#L" n="2" break="no"/>milia: id non ita accipiendum est, quasi homo arbitrij 
+      fa<lb ed="#L" n="3" break="no"/>cultate priuatus nec videre nec mollescere nec recta 
+      in<lb ed="#L" n="4" break="no"/>gredi ipse possit. Sed ita demum intelligere oportet, vt 
+      <lb ed="#L" n="5"/>quia sine lumine videri homo non valet, nec sine spiritus 
+      <lb ed="#L" n="6"/>iuaui oleo emolliri, nec sine Dei directione recta 
+      ingre<lb ed="#L" n="7" break="no"/>di: idcirco qui illa iusto hominibus iudicio adimit, hic 
+      <lb ed="#L" n="8"/>facultatem quoque ea exequendi quodammodo dicatur 
+      <lb ed="#L" n="9"/>adimere. Altera est ratio, quae proprius ad verborum pro 
+      <lb ed="#L" n="10"/>prietatem videtur accedere, quod ad exequenda iudicia 
+      <lb ed="#L" n="11"/>sua Satana administro vtitur: ob idque ea dicatur 
+      effice<lb ed="#L" n="12" break="no"/>re, quae minister illius auctoritate roboratus efficit. 
+      <lb ed="#L" n="13"/>Quemadmodum quae iudicis administer, dum iustam eius 
+      <lb ed="#L" n="14"/>sententiam exequitur, facit: ea suo modo a iudice 
+      quo<lb ed="#L" n="15" break="no"/>que fieri sane intelligimus. Tertiam rationem 
+      Hiero<lb ed="#L" n="16" break="no"/>nymus ad Hedibiam reddidit. Sicut enim vnus est solis 
+      <lb ed="#L" n="17"/>calor, &amp; secundum essentias subiacentes alia liquefacit, 
+      <lb ed="#L" n="18"/>alia indurat: alia soluit, alia astringit: liquatur enim caera, 
+      <lb ed="#L" n="19"/>&amp; induratur lutum: &amp; tamen caloris non est diuersa 
+      na<lb ed="#L" n="20" break="no"/>tura. Sic Deus eodem omnino lumine male affectum ex- 
+      <lb ed="#L" n="21"/>caecare dicitur, bene institutum illuminare: eodemque 
+      <lb ed="#L" n="22"/>prorsus beneficio indurare illum, hunc mollire. 
+      Videli<lb ed="#L" n="23" break="no"/>cet miraculis eisdem editis emollitus Israel est, obduruit 
+      <lb ed="#L" n="24"/>Pharao: eadem doctrinae luce Apostoli viderunt, 
+      Phari<lb ed="#L" n="25" break="no"/>saei caeci facti sunt. Quoniam diuina lux tametsi per se 
+      <lb ed="#L" n="26"/>quidem ad videndum editur, sed per, occasionem, tamen 
+      <lb ed="#L" n="27"/>in eo caecitatem efficit, qui praue affectos habet 
+      oculos<lb ed="#L" n="28" break="no"/>in eo duritiem, qui prauo affectus est animo. Atque huic 
+      <lb ed="#L" n="29"/>illud simile est, quod hi seducere decipereque dicuntur,  
+      <lb ed="#L" n="30"/>qui oratione dubia vel obscura tenebras alicui 
+      offun<lb ed="#L" n="31" break="no"/>dunt. Hac enim ratione Dominus in parabolis turbas 
+      al<lb ed="#L" n="32" break="no"/>loquutus, eas excaecasse dicitur, ac Hieremias, seduxisti 
+      <lb ed="#L" n="33"/>rait, me Domine &amp; seductus sum, quia enim in principio 
+      <lb ed="#L" n="34"/>illud audierat, Prophetam in gentibus dedi te: &amp; iterum: 
+      <lb ed="#L" n="35"/>Eoce constitui te super gentes &amp; regna: arbitratus est 
+      ni<lb ed="#L" n="36" break="no"/>hil se contra populum Iudaeorum, sed contra diuersas in 
+      <lb ed="#L" n="37"/>circuitu nationes esse dicturum: vnde &amp; Prophetiam 
+      li<lb ed="#L" n="38" break="no"/>benter assumpsit. Cum vidisset autem aliter sibi ac existi 
+      <lb ed="#L" n="39"/>mauerat accidisse, queritur a Domino se esse deceptum: 
+      <!--40.xml-->
+      <pb ed="#L" n="29"/>
+               <lb ed="#L" n="1"/>non falsitatae autem deceptus est, sed ambiguitate. Nihil 
+      <lb ed="#L" n="2"/>autem refert ansquod Hieronymus aito inde Hieremias 
+      <lb ed="#L" n="3"/>fuerit seductus, an ex illis potius verbis: Ne timeas a 
+      fa<lb ed="#L" n="4" break="no"/>cie eorum quia tecum ego sum vt eruam te, &amp; c. 
+      </p>
+            <p xml:id="Z4Yt34-d1e147-d1e1157">
+               <lb ed="#L" n="5"/>His igitur tribus rationibus non illa solum explicatur, 
+      <lb ed="#L" n="6"/>quae retro citata sunt, sed &amp; illud simul intelligitur, quod 
+      <lb ed="#L" n="7"/>Deus ministros irae suae nunc sibilo euocaturum se mina 
+      <lb ed="#L" n="8"/>tur, nunc eos instar nouaculae sibi fore ad radendum 
+      ca<lb ed="#L" n="9" break="no"/>put &amp; barbam vniuersam, nunc sagenam &amp; rete ad 
+      irre<lb ed="#L" n="10" break="no"/>tiendos improbos, nunc malleum ad feriendos, virgam  
+      <lb ed="#L" n="11"/>denique, securim, serram, quam eleuet, in qua secet, quam  
+      <lb ed="#L" n="12"/>trahat. Nam, quod 2. Reg. 16. legitur. Domini praecepto 
+      <lb ed="#L" n="13"/>Semei Dauidi regi maledisse, id per figurata dictionem 
+      <lb ed="#L" n="14"/>vsurpatum esse, vel illud satis abunde magno argumento 
+      <lb ed="#L" n="15"/>est, quod Ecclesiast. 15. scribitur, Nemini mandauit impie 
+      <lb ed="#L" n="16"/>agere. Et reuera cum recta ratione pugnat, in eo peccare 
+      <lb ed="#L" n="17"/>hominem, quod Deo praecipiente agit. At Semei sine du 
+      <lb ed="#L" n="18"/>bio maledicendo peccauit. Praeceptum igitur in libris 
+      <lb ed="#L" n="19"/>sacris pro lege &amp; ordinatione quandoque accipitur, siue 
+      <lb ed="#L" n="20"/>sit lex obligans ex imperio, siue permissio, siue poena 
+      <lb ed="#L" n="21"/>praescripta, seu ordo etiam naturae praefixus. Sic enim quod 
+      <lb ed="#L" n="22"/>Matth. 19. dicitur: Ad duritiam cordis vestri permisit vo 
+      <lb ed="#L" n="23"/>bis, &amp;c. Marc. c. 10. dictum est: Scripsit vobis praeceptum 
+      <lb ed="#L" n="24"/>istud. Sic etiam Threnor. 3. Quis est iste qui dixit vt 
+      fie<lb ed="#L" n="25" break="no"/>ret Domino non iubente? Quem locum alij ita vertunt:  
+      <lb ed="#L" n="26"/>Quis hoc dixerit: aliquid fieri quod Dominus non 
+      praeci<lb ed="#L" n="27" break="no"/>piat. Et iterum, statuit ea in aeternum &amp; in seculum seculi, 
+      <lb ed="#L" n="28"/>praeceptum posuit, &amp;c. Quod ergo ordine diuinae 
+      iusti<lb ed="#L" n="29" break="no"/>tiae fit, id diuino praecepto fieri dicitur. Iam illud fueram 
+      <lb ed="#L" n="30"/>oblitus, quod Paulus ait, quem vult indurat. Sed primum, 
+      <lb ed="#L" n="31"/>voluntas etiam permissionis a Theologis ponitur. Vnde 
+      <lb ed="#L" n="32"/>August. in Enchir. c. 95. Non fit quicqe ait, nisi 
+      omnipo<lb ed="#L" n="33" break="no"/>tens fieri velit, vel sinendo vt fiat, vel ipse faciendo. 
+      De<lb ed="#L" n="34" break="no"/>inde, volente aliquo ea fieri dicuntur, quae illo non 
+      inui<lb ed="#L" n="35" break="no"/>to fiunt. Sic enim pater volens dicitur filium gignere. 
+      <lb ed="#L" n="36"/>Ac de 7. argumento nimisque multa dicta sunt.  
+      <lb ed="#L" n="37"/>Octauum autem breuissime refutabitur. Intelligendum 
+      <lb ed="#L" n="38"/>est enim causarum duo esse genera: naturale &amp; morale. 
+      <lb ed="#L" n="39"/>Vt qui imperat, qui consulit, qui suadet, qui impellit, is 
+      <!--41.xml-->
+      <pb ed="#L" n="30"/>
+               <lb ed="#L" n="1"/>eius rei, quae imperio, consilio, suasione, impulsu eius fit, 
+      <lb ed="#L" n="2"/>causa moralis dicitur. Est autem Deus causa naturalis 
+      <lb ed="#L" n="3"/>quidem omnium motionum. Nam generali 
+      naturali<lb ed="#L" n="4" break="no"/>que concursu cum omnibus causis agentibus 
+      operal<lb ed="#L" n="5" break="no"/>tur. At causa moralis non est nec erroris, nec prauae 
+      cu<lb ed="#L" n="6" break="no"/>iusque actionis. Actus igitur ille, qui peccatum est, si in 
+      ge<lb ed="#L" n="7" break="no"/>nere rerum naturalium consideratur, ad causas tantum 
+      na<lb ed="#L" n="8" break="no"/>turales referendus est. Sin consideratur in rerum 
+      mora<lb ed="#L" n="9" break="no"/>lium ordine, ad causas naturaliter agetes inepte quidem  
+      <lb ed="#L" n="10"/>&amp; absurde reuocabitur. Stultus quippe erit is, qui in 
+      coe<lb ed="#L" n="11" break="no"/>lorum motrices intelligentias culpas, vel proprias, vel 
+      a<lb ed="#L" n="12" break="no"/>lienas retorserit. Quocirca, tametsi res atque actiones 
+      vni<lb ed="#L" n="13" break="no"/>uersae, quatenus effecta naturae sunt. Deum auctorem 
+      ha<lb ed="#L" n="14" break="no"/>hent: sed cum de peccatis agitur, quoniam mox in 
+      pecca<lb ed="#L" n="15" break="no"/>ti nomine liber &amp; moralis actus intelligitur, ineptissimi 
+      <lb ed="#L" n="16"/>profecto erimus: quicunque in Deum errores peccataque 
+      <lb ed="#L" n="17"/>nostra regeremus. Ille enim, quemadmodum diximus, in 
+      <lb ed="#L" n="18"/>moralis causae modum nec ad errorem mouet, nec ad pra 
+      <lb ed="#L" n="19"/>uam aliam quamlibet actionem, hoc est, nec mentitur 
+      o<lb ed="#L" n="20" break="no"/>mnino, nec suadet aut imperat malum. Quibus modis ac 
+      <lb ed="#L" n="21"/>similibus &amp; deciperet proprie, &amp; causa peccatorum habe 
+      <lb ed="#L" n="22"/>tetur. Sed haec causae partitio in relectione de 
+      Sacramen<lb ed="#L" n="23" break="no"/>tis in genere vberius explicata est. Nunc ad 8. 
+      argumen<lb ed="#L" n="24" break="no"/>ti explicationem diximus satis. At postremum facile 
+      re<lb ed="#L" n="25" break="no"/>fellitur. Nego enim id quod primo loco antecedit, cui. s. 
+      <lb ed="#L" n="26"/>suadendo tota illa argumentatio incumbit. Mendacium 
+      <lb ed="#L" n="27"/>namque ita malum natura est, vt nulla ratione quisquam  
+      <lb ed="#L" n="28"/>iuste mentiri possit, quod &amp; Arist. 4. Ethic. tradit. &amp; 
+      Au<lb ed="#L" n="29" break="no"/>gust. in lib. de mendacio demonstrat. Ad primam vero 
+      <lb ed="#L" n="30"/>rationem, qua huius contrarium suadetur, sunt qui 
+      respon<lb ed="#L" n="31" break="no"/>deant, Ioseph fuisse reuera mentitum, sed ioco tamen. Et 
+      <lb ed="#L" n="32"/>si obijcias, periurium omne esse mortale peccatum, argu 
+      <lb ed="#L" n="33"/>te respondent, Ioseph non iurasse absolute, eos esse 
+      ex<lb ed="#L" n="34" break="no"/>ploratores: sed ex conditione. Ait enim, mittite ex vobis 
+      <lb ed="#L" n="35"/>vnum &amp; adducat eum, donec probentur ea, quae dixistis,  
+      <lb ed="#L" n="36"/>vera an falsa sint: alioqui per salutem Pharaonis 
+      explora<lb ed="#L" n="37" break="no"/>tores estis vos. At D. August. in quest. super Gene. totam  
+      <lb ed="#L" n="38"/>assertionem a mendacio liberat: &amp; verbum illud, estis, ac 
+      <lb ed="#L" n="39"/>cipit pro verbo, habebimini. Quae verbi vsurpatio non  
+      <!--42.xml-->
+      <pb ed="#L" n="31"/>
+               <lb ed="#L" n="1"/>est insolens. Nam3. Reg. 18. Elias ait, Qui exaudicrit per 
+      <lb ed="#L" n="2"/>ignem ipse sit Deus: hoc est habeatur. In quam 
+      sententi<lb ed="#L" n="3" break="no"/>am D. quoque Bonauentura iuit: adiecitque Ioseph illa 
+      <lb ed="#L" n="4"/>verba tentando, &amp; quasi inquirendo cquod iudices 
+      so<lb ed="#L" n="5" break="no"/>lent, sine mendacio dixisse. In iudicijs nimirum, 
+      eruntia<lb ed="#L" n="6" break="no"/>tiones loco interrogationum vsurpantur. 
+      Inicrrogan<lb ed="#L" n="7" break="no"/>tes autem non mentiuntur. Nihil enim censentur ass 
+      ere<lb ed="#L" n="8" break="no"/>re, sed vt veritatem eliciant, pertentare. Qualis illa 
+      inter<lb ed="#L" n="9" break="no"/>rogatio fuit, An ionoratis, quod non est similis mei in 
+      <lb ed="#L" n="10"/>scientia augurandi? <name xml:id="Z4Yt34-d1e147-Nd1e1349">Gratianus</name> tamen docet ioco id esse 
+      <lb ed="#L" n="11"/>dictum, quare non habendum pro mendacio: vt quod non 
+      <lb ed="#L" n="12"/>animo fallendi dictum sit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e147-d1e1359">
+               <lb ed="#L" n="13"/>Ad secundam vero rationem respondeo sermone 
+      Pro<lb ed="#L" n="14" break="no"/>phetae esse figuratum, vel ad exprimendam rei maxima 
+      cer<lb ed="#L" n="15" break="no"/>titudinem, vel ad desiderium vehemens explicandum, vt si 
+      <lb ed="#L" n="16"/>fieri posset ea mala non acciderent: Quod vulgo apud 
+      Hi<lb ed="#L" n="17" break="no"/>spanos inculpate dicitur, plega a Diosque vo mienta. At 
+      <lb ed="#L" n="18"/>tertiae rationi hoc habeatur responsum. Ironiam ab Aristo 
+      <lb ed="#L" n="19"/>rele ibi accipi pro cauillatione quadam turpi ac dissimulata 
+      <lb ed="#L" n="20"/>astuteque parata ad decipiendum. Verbum enim Graecum, 
+      <lb ed="#L" n="21"/>&amp; igoueuo vot, int erdum idem est atque cauillatorie decipere 
+      <lb ed="#L" n="22"/>Atqui Socrates in omni oratione simulator, quem, t igorae 
+      <lb ed="#L" n="23"/>Graeci nominarunt, non solum absque vitio sed etiam  
+      <lb ed="#L" n="24"/>cum laude fuit. Nam &amp; ironia illusio seu irrisio est figura 
+      <lb ed="#L" n="25"/>apud Latinos vsurpata, vbi nullum mendacium inest. Argu 
+      <lb ed="#L" n="26"/>menta igitur omnia quae a principio huius controuersiae po 
+      <lb ed="#L" n="27"/>suimus, hoc quidem pacto fuerint refutata. Occurri autem 
+      <lb ed="#L" n="28"/>nobis potest, &amp; quidem a doctis &amp; eruditis quaerentibus, sa 
+      <lb ed="#L" n="29"/>tis ne prudenter agere videamur, qui cum in huius operis 
+      <lb ed="#L" n="30"/>initio Dei veritatem, cui fides innititur, primum Theologiae 
+      <lb ed="#L" n="31"/>principium esse docuerimus, numc tamen longe aliter 
+      doctri<lb ed="#L" n="32" break="no"/>nam videmur instituere. Quoniam diuinam veritatem in 
+      questi<lb ed="#L" n="33" break="no"/>onem reuocamus, &amp; rationibus etiam philosohiae 
+      confirma<lb ed="#L" n="34" break="no"/>re nitimur. Absurdum est autem, vt Aristot. docet, de cuiusque 
+      <lb ed="#L" n="35"/>disciplinae principijs velle cum quouis homine disserere, 
+      <lb ed="#L" n="36"/>&amp; Basilius in Psal. 115. in quodlibet studio, inquit, quod 
+      <lb ed="#L" n="37"/>ordine in finem procedit, impossibile est, primorum 
+      subie<lb ed="#L" n="38" break="no"/>ctorum demonstrationes inquirere. Sed necesse est omnium 
+      <lb ed="#L" n="39"/>artium, que probatione nituntur, principijs sine vestigatione aut  
+      <!--43.xml-->
+      <pb ed="#L" n="32"/>
+               <lb ed="#L" n="1"/>ratione positis, reliqua, quae deinceps sequuntur, cum rae 
+      <lb ed="#L" n="2"/>tione ostendere. Sic &amp; Theologiae mysterium ex fide mi 
+      <lb ed="#L" n="3"/>nime rationibus probata aedificium quaerit. Hactenus 
+      Ba<lb ed="#L" n="4" break="no"/>silius. Atque Hilarius in lib. ad Constantium Augustum, 
+      <lb ed="#L" n="5"/>fides, ait, non in quaestione philosophiae est, sed in 
+      Euan<lb ed="#L" n="6" break="no"/>gelii doctrina. Cum ergo &amp; Theologia &amp; fides eo 
+      tan<lb ed="#L" n="7" break="no"/>quam summo principio adnitantur, quod omnia in 
+      scri<lb ed="#L" n="8" break="no"/>pturis a Deo reuelata vera sint, stultum videtur esse, id aut  
+      <lb ed="#L" n="9"/>in dubium vertere, aut philosophiae argumentis velle 
+      fi<lb ed="#L" n="10" break="no"/>nire. Quasi fides in quaestione philosophiae sit, &amp; non ma 
+      <lb ed="#L" n="11"/>gis oporteat, cum in aliis doctrinis tum in hac maxime 
+      <lb ed="#L" n="12"/>discipulum addiscentem credere. Ac reuera 
+      quemadmo<lb ed="#L" n="13" break="no"/>dum prima philosophiae principia quibusque non 
+      omni<lb ed="#L" n="14" break="no"/>no rationis expertibus animo antecoepta sunt, nec nisi 
+      <lb ed="#L" n="15"/>absurdissime in quaestionem vocarentur, sic omnes Chri 
+      <lb ed="#L" n="16"/>stiani istam siue anticipationem siue praenotionem 
+      nullo<lb ed="#L" n="17" break="no"/>argumento intercedente habent animo quasi insculpta, 
+      <lb ed="#L" n="18"/>Deum esse natura veracem, neminemque proinde ab eo 
+      <lb ed="#L" n="19"/>posse falli. Quamobrem imprudentiae nomine, vt dictum 
+      <lb ed="#L" n="20"/>est, accusari a viris etiam eruditis possumus, qui de re, 
+      <lb ed="#L" n="21"/>quae controuersia esse non debet, controuersiam fecimus,  
+      <lb ed="#L" n="22"/>&amp; primum fidei ac Theologiae fundamentum non 
+      testi<lb ed="#L" n="23" break="no"/>monio solum, sed etiam ratione constituimus. Quibus 
+      <lb ed="#L" n="24"/>vellem satis cognita esset nostra sententia. Non enim 
+      <lb ed="#L" n="25"/>sumus ij, quorum vagetur animus errore, nec habeat 
+      vn<lb ed="#L" n="26" break="no"/>quam quid sequatur. Quae enim ista esset Theologia, 
+      <lb ed="#L" n="27"/>vel quae disciplina potius, principiorum ratione sublata? 
+      <lb ed="#L" n="28"/>Quae prorsus tollitur, si perinde atque conclusio, 
+      princi<lb ed="#L" n="29" break="no"/>pium quoquo in controuersiam veniat. Quoniam autem 
+      <lb ed="#L" n="30"/>mihi interdum uideor disserere non cum perfectis Theo 
+      <lb ed="#L" n="31"/>logis pleneque sapientibus, sed cum ijs, quibuscum 
+      <lb ed="#L" n="32"/>praeclare agitur, si insunt simulacra Theologiae, 
+      nonnul<lb ed="#L" n="33" break="no"/>los lapides ego moueo, quos scilicet non mouerem, nisi 
+      <lb ed="#L" n="34"/>quorundam imprudentiam veritus, qui dum iuniores 
+      <lb ed="#L" n="35"/>passim Theologos sine iudicio legunt, in eas opiniones 
+      <lb ed="#L" n="36"/>incurrunt, quas refellere, vt videtur, necesse est, vt Theo 
+      <lb ed="#L" n="37"/>logiae fundamenta &amp; doctis &amp; indoctis pariter iaciamus. 
+      <lb ed="#L" n="38"/>Itaque concedendum nobis est, si imperitorum causa 
+      <lb ed="#L" n="39"/>quaedam praeter disserendi artem disserimus. Nec pru¬ 
+      <!--44.xml-->
+      <pb ed="#L" n="33"/>
+               <lb ed="#L" n="1"/>S 
+      <lb ed="#L" n="2"/>dentiam nostram ibi desiderare oportet, vbi doctor tanto 
+      <lb ed="#L" n="3"/>prudentior est, quanto sese magis indoctorum ingenijs 
+      <lb ed="#L" n="4"/>&amp; imperitiae accommodat. Porro autem, vt viris doctis 
+      <lb ed="#L" n="5"/>nonnihil etiam respondeamus, disciplinarum principia 
+      <lb ed="#L" n="6"/>non eandem rationem vniuersa subeunt. Quaedam enim 
+      <lb ed="#L" n="7"/>sunt tam nota atque perspicua, vt qui ea in quaestionem 
+      <lb ed="#L" n="8"/>vocent, hi non sint verbis, argumentis &amp; disputatione 
+      <lb ed="#L" n="9"/>philosophorum, sed verberibus, vinclis &amp; carcere 
+      fati<lb ed="#L" n="10" break="no"/>gandi. Vt quodlibet esse vel non esse, omne totum esse 
+      <lb ed="#L" n="11"/>maius sua parte. Alia vero sunt eiusmodi, vt &amp; negari ex 
+      <lb ed="#L" n="12"/>ignorantia quandoque possint, &amp; rationibus etiam 
+      illu<lb ed="#L" n="13" break="no"/>strioribus comprobari. Sic enim Aristoteles tradidit 
+      <lb ed="#L" n="14"/>dialecticem ac Methaphysicen eos coarguere, qui aliarum  
+      <lb ed="#L" n="15"/>disciplinarum principia inficiantur. Atque ipse idem, 
+      saepe<lb ed="#L" n="16" break="no"/>ex effectis manifestis causas rerum minus manifestas 
+      per<lb ed="#L" n="17" break="no"/>suadet, quibus causis tamen philosophiae principia 
+      con<lb ed="#L" n="18" break="no"/>tinentur. Sed &amp; duas esse cuiusque disciplinae partes ex- 
+      <lb ed="#L" n="19"/>ploratum est. Vnam, in qua principia ipsa tanquam 
+      fun<lb ed="#L" n="20" break="no"/>damenta ponimus, statuimus, firmamus. Alteram, in qua 
+      <lb ed="#L" n="21"/>principijs positis, ad ea quae sunt inde consequentia pro 
+      <lb ed="#L" n="22"/>ficiscimur. Atque in hac quidem posteriore, si quis 
+      prin<lb ed="#L" n="23" break="no"/>cipia negarit, quae nimirum in scientia supponuntur, non 
+      <lb ed="#L" n="24"/>est cum eo contentiosa disputatione certandum. Si enim 
+      <lb ed="#L" n="25"/>Theologo suas conclusiones ex principijs colligere 
+      vo<lb ed="#L" n="26" break="no"/>lenti neget quisquam Deum esse, stultus erit si aduersum 
+      <lb ed="#L" n="27"/>eiusmodi, disputationem Theologicam velit 
+      instituere<lb ed="#L" n="28" break="no"/>In illa vero, quam priorem esse diximus, licebit vtique 
+      <lb ed="#L" n="29"/>non solum obscura perspicuis illustrare, sed etiam minus 
+      <lb ed="#L" n="30"/>nota principia, ex his, quae sunt nobis notiora, 
+      ostende<lb ed="#L" n="31" break="no"/>re. Fere autem sit, vt causae rerum quae sunt suapte 
+      natu<lb ed="#L" n="32" break="no"/>ra manifestae, sint nobis obscurae. Quemadmodum oculo 
+      <lb ed="#L" n="33"/>Nictycoracis radij solares tenebrae sunt. Ita si viro 
+      sapi<lb ed="#L" n="34" break="no"/>enti negaretur Deus esse, licet primum sit Theologiae prin 
+      <lb ed="#L" n="35"/>pium, daret tamen ille operam, vt via aliqua &amp; ratione 
+      <lb ed="#L" n="36"/>Deum esse constitueret. Non igitur mirum esse cuipiam  
+      <lb ed="#L" n="37"/>debet, si hoc sane libro, vbi de principiorum 
+      Theologi<lb ed="#L" n="38" break="no"/>corum firmitudine agimus, ipsa nos principia non modo 
+      <lb ed="#L" n="39"/>explicemus, verum etiam constituamus. Aliter autem 
+      Vr<lb ed="#L" n="40" break="no"/>bium fundamenta inimicus concutit, qui conatur euer¬ 
+      <!--45.xml-->
+      <pb ed="#L" n="34"/>
+               <lb ed="#L" n="1"/>tere, Aliter artifex, qui nititur non solum iacere, sed etis 
+      <lb ed="#L" n="2"/>confirmare. Sed iam ista omittamus, &amp; ad ea, quae 
+      pro<lb ed="#L" n="3" break="no"/>prius ac validius vrgent, festinemus. Nam prima illa 
+      qui<lb ed="#L" n="4" break="no"/>dem machina, non erat adeo instructa, vt ad eam 
+      detur<lb ed="#L" n="5" break="no"/>bandam aut longior aut acrior futura esset oratio. In 
+      il<lb ed="#L" n="6" break="no"/>lam vero alteram, vt quam aduersarij inaiori arte &amp; 
+      viri<lb ed="#L" n="7" break="no"/>bus instruxerint, maiori quoque nos studio &amp; acriori 
+      di<lb ed="#L" n="8" break="no"/>sputationis vi debemus incumbere.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

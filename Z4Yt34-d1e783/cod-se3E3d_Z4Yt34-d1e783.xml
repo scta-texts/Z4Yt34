@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 1</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 1</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="497"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e783"><!-- Z4Yt34-l9c1 -->
+            <head xml:id="Z4Yt34-d1e783-Hd1e106">Caput 1</head>
+            <p xml:id="Z4Yt34-d1e783-d1e109">
+      <!--508.xml-->
+               <pb ed="#L" n="497"/>
+               <lb ed="#L" n="1"/>DE OCTGVO 
+      <lb ed="#L" n="2"/>Loco., OVI RMTIONIS 
+      <lb ed="#L" n="3"/>MATVRALISARGVMEMTA 
+      <lb ed="#L" n="4"/>continet, Liber Nonus. 
+      <lb ed="#L" n="5"/>caput primum.
+    </p>
+            <p xml:id="Z4Yt34-d1e783-d1e127">
+               <lb ed="#L" n="6"/>SEquitur vt doceam, quidnam 
+      argu<lb ed="#L" n="7" break="no"/>mentorum ratio naturalis Theologo 
+      <lb ed="#L" n="8"/>suppeditet, quod in octauo loco me 
+      <lb ed="#L" n="9"/>acturum pollicebar. Agam autem, 
+      <lb ed="#L" n="10"/>quantum res ipsa patietur 
+      breuissi<lb ed="#L" n="11" break="no"/>me. Est enim hic locus late patens, &amp;  
+      <lb ed="#L" n="12"/>quanquam non est theologiae 
+      pro<lb ed="#L" n="13" break="no"/>prius, sed alienus, magnus tamen est,  
+      <lb ed="#L" n="14"/>&amp; cum ab scholasticis reliquis, tum a Diui Thomae 
+      fami<lb ed="#L" n="15" break="no"/>lia excultus vberrime. Non quod de loci huius aut vi aut  
+      <lb ed="#L" n="16"/>vsu quisquam adhuc scholae theologus disputauerit, sed 
+      <lb ed="#L" n="17"/>quod vniuersi philosophiam, caeterasque naturali 
+      ratio<lb ed="#L" n="18" break="no"/>ne partas disciplinas, vel in scolam Christianam 
+      inuexe<lb ed="#L" n="19" break="no"/>rint, vel certe ab aliis inuectas excoluerint, pro sua 
+      qui<lb ed="#L" n="20" break="no"/>dem facultate quisque, sed in theologorum, vt ita dicam,  
+      <lb ed="#L" n="21"/>grege sine controuersia. D. Thomas excelluit. Principio 
+      <lb ed="#L" n="22"/>autem in huius loci tractatione duos errores contrarios 
+      <lb ed="#L" n="23"/>fugere debemus. Vnum eorum qui vsque adeo 
+      argumen<lb ed="#L" n="24" break="no"/>tis a ratione ductis addixerunt se, vt siue disputent seu 
+      <lb ed="#L" n="25"/>scribant, scripturam sacram sanctorumque patrum libros 
+      <lb ed="#L" n="26"/>ne legisse quidem videantur. Qui parum illis dissimiles 
+      <lb ed="#L" n="27"/>runt, quos Euseb. lib. 5. histor. eccle. postremo capite 
+      <lb ed="#L" n="28"/>commemorat, in tantum stultitiae prolapsos, vt si quis 
+      ser<lb ed="#L" n="29" break="no"/>monem de scripturis proposuisset, illi e contrario 
+      pro<lb ed="#L" n="30" break="no"/>ponerent: vtrum ille sermo, de quo agebatur, coniunctum 
+      <lb ed="#L" n="31"/>an separatum genus syllogismi faceret. De quibus 
+      rur<lb ed="#L" n="32" break="no"/>sum Eusebius, derelinquentes, ait, sanctas scripturas dei, 
+      <lb ed="#L" n="33"/>geometriam tractant, &amp; qui vere de terra sunt, de terra¬ 
+      <!--509.xml-->
+      <pb ed="#L" n="498"/>
+               <lb ed="#L" n="1"/>loquuntur: &amp; ideo eum, qui de sursum est, &amp; de coelis 
+      <lb ed="#L" n="2"/>venit, ignorant. Denique Euclides apud eos vel 
+      ma<lb ed="#L" n="3" break="no"/>xime in Geometriae disciplinis viget. Sed &amp; Aristoteles 
+      <lb ed="#L" n="4"/>&amp; Theophrastus ab his in admiratione habentur: 
+      Gale<lb ed="#L" n="5" break="no"/>nus vero a nonnullis eorum. adoratur etiam. Ac fuisse 
+      <lb ed="#L" n="6"/>olim in ecclesia nonnullos, qui rationem auctoritati prae 
+      <lb ed="#L" n="7"/>ferentes, rem theologicam syllogismis absoluerint: Au 
+      <lb ed="#L" n="8"/>gustinus in epistola ad Dioscorum, numero 56. 
+      Berna<lb ed="#L" n="9" break="no"/>dus quoque epistola i89. testes locupletissimi sunt  
+      <lb ed="#L" n="10"/>Hoc vero saeculo fuisse etiam in academiis multos, qui 
+      <lb ed="#L" n="11"/>omnem ferme theologiae disputationem sophisticis 
+      in<lb ed="#L" n="12" break="no"/>eptisque rationibus transegerint, vtinam ipsi non 
+      uiss<lb ed="#L" n="13" break="no"/>semus experti. Egit autem diabolus, quod sine 
+      laclry<lb ed="#L" n="14" break="no"/>mis non queo dicere, vt quo tempore aduersum 
+      ingru<lb ed="#L" n="15" break="no"/>entes ex Germania haereses, oportebat scholae 
+      Theolo<lb ed="#L" n="16" break="no"/>gos optimis esse armis instructos, eo nulla prorsus 
+      habe<lb ed="#L" n="17" break="no"/>rent, nisi arundines longas, arma videlicet leuia 
+      puero<lb ed="#L" n="18" break="no"/>rum. Ita irrisi sunt a plerisque, ac merito irrisi, quoniam  
+      <lb ed="#L" n="19"/>verae Theologiae solidam effigiem nullam tenebant,  
+      <lb ed="#L" n="20"/>vmbris vtebantur, easque ipsas vtinam sequerentur. 
+      Fe<lb ed="#L" n="21" break="no"/>runtur enime scripturae sacrae principiis, cuius isti vel 
+      <lb ed="#L" n="22"/>vmbras non sant assecuti. Quocirca homines 
+      verbote<lb ed="#L" n="23" break="no"/>nus in Theologia magistri, pugnauere illi quidem 
+      aduer<lb ed="#L" n="24" break="no"/>sum ecclesiae inimicos, sed valde tamen infeliciter. 
+      <lb ed="#L" n="25"/>Male enim se res habet, cum quod ingenio, &amp; 
+      erudi<lb ed="#L" n="26" break="no"/>tione effici debet, id tentatur a viris, qui &amp; ingenio 
+      pa<lb ed="#L" n="27" break="no"/>rum valent, nec sunt admodum eruditi. Errabant illi autem 
+      <lb ed="#L" n="28"/>a principio statim studiorum suorum. Cum enim 
+      facul<lb ed="#L" n="29" break="no"/>tates eas, quae linguam expoliunt, mirum in modum 
+      ne<lb ed="#L" n="30" break="no"/>glexissent, cumque sese in sophistica arte torsissent diutius, 
+      <lb ed="#L" n="31"/>tum demum ad theologiam aggressi, non theologiam, sed 
+      <lb ed="#L" n="32"/>sumum theologiae sequebatur. Quod si vituperandi sunt,  
+      <lb ed="#L" n="33"/>qui per ignorantiam errauerunt, quid de iis 
+      existiman<lb ed="#L" n="34" break="no"/>uum est, qui volentes &amp; prudentes in errorem 
+      incide<lb ed="#L" n="35" break="no"/>runt? Nam cum rem perditam &amp; collapsam sua 
+      restitue<lb ed="#L" n="36" break="no"/>re auctoritate deberent, tempori, vt inquiunt, seruientes,  
+      <lb ed="#L" n="37"/>non modo sophismata non profligarunt, verum etiam  
+      <lb ed="#L" n="38"/>auxerunt. Quae nimirum cum a philosophia, tum vero 
+      ma<lb ed="#L" n="39" break="no"/>gis a theologia tollenda sunt, eaque argutandi ars, quae 
+      <!--510.xml-->
+      <pb ed="#L" n="499"/>
+               <lb ed="#L" n="1"/>vult illa quidem videri se esse Dialecticam, sed abest ab  
+      <lb ed="#L" n="2"/>ea, distatque plurimum. Dialectica enim est locata in peri 
+      <lb ed="#L" n="3"/>tia vsuque partiendi, finiendi, argumentandi, id quod Theo 
+      <lb ed="#L" n="4"/>logo est pernecessarium, sophistice autem nihil habet 
+      ni<lb ed="#L" n="5" break="no"/>si argutationes vanas, quarum nullus in Theologia 
+      fru<lb ed="#L" n="6" break="no"/>ctus est. Quin adeo nulla pernicies Theologiae maior 
+      in<lb ed="#L" n="7" break="no"/>ueniri potest, quam in sophismatum faece simulatio 
+      Theo<lb ed="#L" n="8" break="no"/>legiae. Ex quo illa absurda nascuntur, vt sophistae 
+      Theo<lb ed="#L" n="9" break="no"/>logi esse videantur. Quod si quem etiam ista delectant,  
+      <lb ed="#L" n="10"/>ne bellum omnino indixisse videar sophismatibus, 
+      quo<lb ed="#L" n="11" break="no"/>rum est etiam fortasse quidam modus, non intelligo, quid 
+      <lb ed="#L" n="12"/>causae fuerit viris doctis, vt sub Dialecticae nomine 
+      expo<lb ed="#L" n="13" break="no"/>nibiles, obligationes, insolubiles, reflexiuas, aliaque id 
+      <lb ed="#L" n="14"/>genus monstra in scholam intulerint, de vsu autem 
+      Dia<lb ed="#L" n="15" break="no"/>iecticae non fecerint ne verbum quidem vllum. Nonne 
+      <lb ed="#L" n="16"/>igitur sunt illa pueris vtilia? sint. Nam nos quoque 
+      so<lb ed="#L" n="17" break="no"/>phistae fuimus aliquando, sed obsecro, ita vtilia 
+      habean<lb ed="#L" n="18" break="no"/>tur ista, non vt ornamenta virorum, sed vt 
+      exercitamen<lb ed="#L" n="19" break="no"/>ta puerorum. Atque vel ipsi pueri intelligant, 
+      sophis<lb ed="#L" n="20" break="no"/>maxum breuem quendam ludum esse oportere, aliumque 
+      <lb ed="#L" n="21"/>vsum a Dialectica requirendum, Philosophiae 
+      Theolo<lb ed="#L" n="22" break="no"/>giaeque maxime necessarium. Verum haec hactenus. Iam ad 
+      <lb ed="#L" n="23"/>propositum reuertamur. Qui igitur Theologiae 
+      dogma<lb ed="#L" n="24" break="no"/>ta humanis metiuntur argumentis, nec ea, quae a ratione 
+      <lb ed="#L" n="25"/>ducuntur, volunt praeponderari auctoritate, hi primum 
+      <lb ed="#L" n="26"/>omnem vim Theologiae &amp; grauitatem amittunt, deinde 
+      <lb ed="#L" n="27"/>faciunt, vt Theologia detracta auctoritate non solum 
+      con<lb ed="#L" n="28" break="no"/>temnatur, sed ne Theologia quidem sit. Nam si vera &amp; legi 
+      <lb ed="#L" n="29"/>tima Theologia est, a fide descendat oportet, vbi huius 
+      <lb ed="#L" n="30"/>facultatis propria principia resident, quemadmodum in 
+      <lb ed="#L" n="31"/>huius operis initio constituimus. Fides autem tota, 
+      scriptura<lb ed="#L" n="32" break="no"/>tum &amp; ecclesiae auctoritate continetur. Quamobrem satis 
+      ex<lb ed="#L" n="33" break="no"/>ploratum habere possumus, que male valeant, ij de re Theolo 
+      <lb ed="#L" n="34"/>gica aut scribere aut disputare, qui sacros libros, Aposto 
+      <lb ed="#L" n="35"/>orum traditiones, conciliorum dogmata, iuris pontificij 
+      <lb ed="#L" n="36"/>decreta, sanctorum veterum doctrinam, vel reijciunt vel 
+      <lb ed="#L" n="37"/>ignorant. Itaque hoc quidem opinantium genus 
+      pella<lb ed="#L" n="38" break="no"/>tur e medio, est. n. totum improbabile &amp; impium, qui 
+      opi<lb ed="#L" n="39" break="no"/>nantur aptiora theologo ea argumenta esse, quae ex ratione, 
+      <!--511.xml-->
+      <pb ed="#L" n="500"/>
+               <lb ed="#L" n="1"/>quam ea, quae ex auctoritate ducantur. Rebus enim ante 
+      <lb ed="#L" n="2"/>dictis aperte intelligitor, cum deDeo presertim diuinisque, 
+      <lb ed="#L" n="3"/>mysterijs disputatio :neidit, argumentis philosophiae 
+      prae<lb ed="#L" n="4" break="no"/>ponenda esse argumenta, quae pertinent ad Dei fidem,  
+      <lb ed="#L" n="5"/>qua nihil Theologo debet esse antiquius. Sed prioris hu 
+      <lb ed="#L" n="6"/>ius erroris leuitas, quoniam facile deprehenditur, non 
+      <lb ed="#L" n="7"/>est pluribus refutanda.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

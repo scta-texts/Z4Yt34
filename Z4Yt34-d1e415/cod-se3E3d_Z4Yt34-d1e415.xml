@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 2</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 2</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="222"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e415"><!-- Z4Yt34-l4c2 -->
+            <head xml:id="Z4Yt34-d1e415-Hd1e106">Caput 2</head>
+            <p xml:id="Z4Yt34-d1e415-d1e109">
+               <lb ed="#L" n="15"/>Quid ecclesiae voce significetur. Caput 
+      <lb ed="#L" n="16"/>secundum.
+    </p>
+            <p xml:id="Z4Yt34-d1e415-d1e116">
+               <lb ed="#L" n="17"/>EGo vero pergam &amp; id faciam, quod in principio fieri, 
+      <lb ed="#L" n="18"/>cum in omnibus disputationibus, tum in hac magis 
+      <lb ed="#L" n="19"/>oportere eenseo: vt quid illud sit, de quo disputatio sit, 
+      <lb ed="#L" n="20"/>explanetur: ne vagari &amp; errare cogatur oratio, si ij, qui 
+      <lb ed="#L" n="21"/>inter se dissenserint, non idem esse illud, de quo agitur, 
+      in<lb ed="#L" n="22" break="no"/>telligent. Ecclesia ergo Graecum nomen est, &amp;, si verbum 
+      <lb ed="#L" n="23"/>verbo reddas, Latine conuocatio dicitur: siue quod 
+      om<lb ed="#L" n="24" break="no"/>nes ad se vocet, vt Iulio &amp; Rabbano visum est, siue quod 
+      <lb ed="#L" n="25"/>quicunque in eam conueniunt, hi non meritis &amp; iustitia 
+      <lb ed="#L" n="26"/>sua, sed Dei gratia &amp; vocatione conueniant. Nam &amp; hanc 
+      <lb ed="#L" n="27"/>nominis etymologiam spero lectoribus placituram. 
+      Ec<lb ed="#L" n="28" break="no"/>clesiae quippe Romanae scribens Paulus, omnibus, ait, qui 
+      <lb ed="#L" n="29"/>sunt Romae, vocatis sanctis, &amp;c. Atque in priore ad 
+      Co<lb ed="#L" n="30" break="no"/>rinthios epistola: Ecclesiae Dei, inquit, que est Corinthi, 
+      <lb ed="#L" n="31"/>vocatis, sanctis, &amp; caet. Et paulo post: Fidelis Deus, per 
+      <lb ed="#L" n="32"/>quem vocati estis in societatem filij eius Iesu Christi. Quae 
+      <lb ed="#L" n="33"/>sine dubio societas cum Christi ecclesia sit, qui titulum 
+      <lb ed="#L" n="34"/>sibi illum arrogant, hi videant, an haereticorum more 
+      pe<lb ed="#L" n="35" break="no"/>nes se ecclesiam existere mentiantur. Verum de nominis 
+      <lb ed="#L" n="36"/>ratione nihil moror, ecclesia certe concio est: vnde 
+      Ec<lb ed="#L" n="37" break="no"/>clesiastes, concionator. Et licet generaliter vox illa 
+      quan<lb ed="#L" n="38" break="no"/>doque vsurpata sit pro quacunque concione, siue impiorum, 
+      <!--234.xml-->
+      <pb ed="#L" n="223"/>
+               <lb ed="#L" n="1"/>siue piorum infidelium atque fidelium, sed in nouo testamento, 
+      <lb ed="#L" n="2"/>quantum memoria repetere possum, nusquam infidelium concio 
+      <lb ed="#L" n="3"/>ecclesia vocata est. Qui quidem vsus adeo in Christianis 
+      <lb ed="#L" n="4"/>inualuit, vt in nulla nuc multitudine ecclesiae nomen 
+      agno<lb ed="#L" n="5" break="no"/>scant, nisi quae Christi fide &amp; vocatione coaluit. Est autem 
+      <lb ed="#L" n="6"/>ecclesia, &amp; locus ipse quo multitudo conssuit, &amp; ipsa 
+      pro<lb ed="#L" n="7" break="no"/>prie multitudo. Cuius vtriusque rei exempla sunt in sacris 
+      <lb ed="#L" n="8"/>literis plurima. Illud vero discrimen inter Synagogam  
+      <lb ed="#L" n="9"/>&amp; ecclesiam scriptores sancti obseruarunt, quod 
+      popu<lb ed="#L" n="10" break="no"/>lus ille vetus aeque &amp; ecclesia &amp; Synagoga nuncupatus 
+      <lb ed="#L" n="11"/>est: at Christianam plebem nec scriptura sacra, nec 
+      vl<lb ed="#L" n="12" break="no"/>lus vnquam probatus auctor Synagogam appellauit. 
+      <lb ed="#L" n="13"/>Id porro aut discernendae vtriusque reipubli. causa 
+      fa<lb ed="#L" n="14" break="no"/>ctum est: aut quod inter congregationem, quod Syna 
+      <lb ed="#L" n="15"/>goga notat, &amp; conuocationem, quod sonat ecclesia, 
+      <lb ed="#L" n="16"/>nonnihil intersit. Congregari enim pecora solent: vnde 
+      <lb ed="#L" n="17"/>&amp; greges dicimus, non hominum proprie, sed pecudum 
+      <lb ed="#L" n="18"/>aut bestiarum, at conuocari nisi homines non solent. 
+      Tan<lb ed="#L" n="19" break="no"/>tum Christi ecclesia Synagogam excellit. Et quamuis 
+      <lb ed="#L" n="20"/>societas angelorum &amp; hominum interdum Vocetur 
+      ec<lb ed="#L" n="21" break="no"/>clesia, nonnunquam vero regnum caelorum, quod ex 
+      <lb ed="#L" n="22"/>hominibus comprehensoribus viatoribusque 
+      confici<lb ed="#L" n="23" break="no"/>tur, nobis tamen in praesenti non est animus disserendi 
+      <lb ed="#L" n="24"/>nisi de ecclesia militante, hoc est, coetu fidelium viatorum. 
+      <lb ed="#L" n="25"/>Nec necesse est, hos vocis significatus exemplis 
+      adhibi<lb ed="#L" n="26" break="no"/>tis ostendere, cum ea passim &amp; in literis sacris &amp; in 
+      san<lb ed="#L" n="27" break="no"/>ctorum omnium libris occurrant. Sane vero, 
+      quemad<lb ed="#L" n="28" break="no"/>modum infideles nondum baptixatos in ecclesiae 
+      Chri<lb ed="#L" n="29" break="no"/>sti voce intelligere, non cum Veritate solum, sed cum 
+      <lb ed="#L" n="30"/>sensu etiam communi pugnat: ita haereticos partes 
+      ec<lb ed="#L" n="31" break="no"/>clesiae non esse, constituendum est. Id quod commune 
+      <lb ed="#L" n="32"/>est quidem omnium Theologorum, non eorum modo,  
+      <lb ed="#L" n="33"/>qui nuper scripserunt, sed eorum etiam, qui vetustate 
+      <lb ed="#L" n="34"/>ipsa habentur nobilissimi. Testantur hoc Cyprianus,  
+      <lb ed="#L" n="35"/>Augustinus, Gregorius, duoque concilia Lateranense 
+      <lb ed="#L" n="36"/>&amp; Florentinum. Recte igitur Nicolaus Papa definit, 
+      <lb ed="#L" n="37"/>ecclesiam esse catholicorum collectionem. Certe 
+      ner<lb ed="#L" n="38" break="no"/>uosius qui ecclesiam finiunt, illi non dubitant eam fide 
+      <lb ed="#L" n="39"/>lium tantum numero confsari: qui autem remissius, 
+      <!--235.xml-->
+      <pb ed="#L" n="224"/>
+               <lb ed="#L" n="1"/>hi tamen non audent, quos catholicos esse non vident,  
+      <lb ed="#L" n="2"/>eos ecclesiae homines appellare. Absurdum est enim, qui 
+      <lb ed="#L" n="3"/>eatholicae ecclesiae partes non sint, hos ecclesiae Christi 
+      <lb ed="#L" n="4"/>parres asserere. 
+      </p>
+            <p xml:id="Z4Yt34-d1e415-d1e268">
+               <lb ed="#L" n="5"/>At Papa etiam haereticus, donec ab ecclesia 
+      depona<lb ed="#L" n="6" break="no"/>tur, cum suam retineat semper auctoritatem, caput adhuc 
+      <lb ed="#L" n="7"/>ecclesiae erit: haeretici itaque in ecclesiae partibus 
+      numera<lb ed="#L" n="8" break="no"/>buntur. Apostolus quoque, cum dixisset Hymenaeum &amp; 
+      Phi<lb ed="#L" n="9" break="no"/>letum a veritate excidisse &amp; subuertisse quorundam fidem 
+      <lb ed="#L" n="10"/>subiunxit, in magna domo non solum esse vasa aurea &amp; 
+      ar<lb ed="#L" n="11" break="no"/>rentea, sed &amp; lignea &amp; fictilia: &amp; quaedam quidem in honore, 
+      <lb ed="#L" n="12"/>alia vero in contumeliam. Quibus verbis, vt Augustinus 
+      <lb ed="#L" n="13"/>ait, eos etiam, qui a fide aberrarunt, in magna domo esse 
+      <lb ed="#L" n="14"/>significat, scilicet non vt vasa in honorem, sed vt vasa in 
+      <lb ed="#L" n="15"/>contumeliam. Quam omnino sententiam Cypriani 
+      quo<lb ed="#L" n="16" break="no"/>que testimonio confirmat. Sed enim ad ea, quae, 
+      pro<lb ed="#L" n="17" break="no"/>misimus, exoluenda properantibus, non est 
+      consili<lb ed="#L" n="18" break="no"/>um scrupulos omneis, qui in via obiiciuntur, excutere. 
+      <lb ed="#L" n="19"/>Quid enim illud hoc loco expendamus, an Papa 
+      haere<lb ed="#L" n="20" break="no"/>ticus esse possit? Quid illud rursum, an simulatque in 
+      hae<lb ed="#L" n="21" break="no"/>resim lapsus est, ecclesiae caput esse desierit: At horum  
+      <lb ed="#L" n="22"/>vtrumque tamen priore argumento diluendo necesse erat ex- 
+      <lb ed="#L" n="23"/>planare. Quod nec breuitatis nostrae est, nec ad opus 
+      ip<lb ed="#L" n="24" break="no"/>stitutum pertinet. Et si quid de hisce rebus dicendum erit,  
+      <lb ed="#L" n="25"/>alio loco opportunius dicetur. Atque illam quaestionem 
+      <lb ed="#L" n="26"/>quidem in libro nos sexto explicaturi sumus: de hac autem 
+      <lb ed="#L" n="27"/>in libro de aucto. Pap. &amp; Con. Caietanus noster longe 
+      la<lb ed="#L" n="28" break="no"/>teque disseruit. Ne antem argumenti huius difficultate 
+      de<lb ed="#L" n="29" break="no"/>territi dare terga videamur, intelligendum est 
+      duplici<lb ed="#L" n="30" break="no"/>ter ecclesiam posse dici. Primum eam, quam fidelium 
+      om<lb ed="#L" n="31" break="no"/>nium ab initio mundi vsque in finem congregatio 
+      con<lb ed="#L" n="32" break="no"/>ficit, quomodo Diuus Thomas de ecclesia loquitur. 3. p. 
+      <lb ed="#L" n="33"/>q. 8. art. 3. illique omnes, qui esse nunc eandem ecclesiam  
+      <lb ed="#L" n="34"/>dicunt, quae fuit &amp; in populo Iudaeorum sub lege Moysi, 
+      <lb ed="#L" n="35"/>&amp; in hominibus piis sub lege olim naturali. In quem 
+      <lb ed="#L" n="36"/>sensum Catechumeni sunt membra ecclesiae verissima. 
+      <lb ed="#L" n="37"/>Non enim haec baptismi sacramento secernitur, sed fide: 
+      <lb ed="#L" n="38"/>quae omni tempore populum Dei ab infidelium coetibus 
+      <lb ed="#L" n="39"/>discriminauit. Deinde &amp; ea ecclesia dicitur, quae in 
+      <!--236.xml-->
+      <pb ed="#L" n="225"/>
+               <lb ed="#L" n="1"/>Christi nomine per baptismum cogitur, qui &amp; fidei 
+      sa<lb ed="#L" n="2" break="no"/>cramentum est, &amp; proprie ecclesiae membra partesque 
+      <lb ed="#L" n="3"/>facit, &amp; Christi ecclesiam a Synagoga distinguit. Huius 
+      <lb ed="#L" n="4"/>ecclesiae nec Catechumeni partes sunt, &amp; illi omnes sunt 
+      <lb ed="#L" n="5"/>partes, qui a baptismo Christi characterem habent, nisi 
+      <lb ed="#L" n="6"/>post haeresim exteriorem publico ecclesie iudicio 
+      fue<lb ed="#L" n="7" break="no"/>rint excisi. Quamdiu enim aliquis reipub. minister est, 
+      <lb ed="#L" n="8"/>eiusque auctoritate &amp; potestate fungitur, tandium illius 
+      <lb ed="#L" n="9"/>pars dici &amp; potest &amp; debet. In hoc igitur sensu 
+      quem<lb ed="#L" n="10" break="no"/>admodum ecclesia, hoc est, Resp. Christiana, non 
+      in<lb ed="#L" n="11" break="no"/>teriore solum fide costituitur, sed baptismi etiam 
+      exte<lb ed="#L" n="12" break="no"/>riore sacramento: sic eius partes non interior modo 
+      <lb ed="#L" n="13"/>infidelitas, sed schisma externique iudicii diuisio separat. 
+      <lb ed="#L" n="14"/>Itaque si in illa Nicolai finitione ecclesia hoc secundo 
+      <lb ed="#L" n="15"/>modo accipiatur, fideles dicantur oportet non a Christi 
+      <lb ed="#L" n="16"/>fide, sed a fidei sacramento. Verum de hoc in cap. 
+      hu<lb ed="#L" n="17" break="no"/>ius libri postremo plura. Argumento vero posteriori 
+      <lb ed="#L" n="18"/>ita respondeo. Apostolus si ad Hymenaeum &amp; 
+      Phile<lb ed="#L" n="19" break="no"/>tum verba illa retulit, non ad id tempus spectauit, quo 
+      <lb ed="#L" n="20"/>iam de domo fidelium communi per sectam priuatam ex- 
+      <lb ed="#L" n="21"/>ierant. Sed ad illud potius, quo per susceptam fidem ac 
+      <lb ed="#L" n="22"/>baptismum in magna domo continebantur. Quae 
+      sen<lb ed="#L" n="23" break="no"/>tentia est Augustini his ipsis, quos attulimus, locis. 
+      <lb ed="#L" n="24"/>Quanquam propter Cyprianum, cuius se dicit 
+      aucto<lb ed="#L" n="25" break="no"/>ritate vrgeri, fatetur etiam haereticos in magna domo 
+      <lb ed="#L" n="26"/>quodammodo esse, propter eadem sacramenta, 
+      qui<lb ed="#L" n="27" break="no"/>bus administrandis cum ecclesia conueniunt. Verum  
+      <lb ed="#L" n="28"/>id Augustinus, vt dixi, inuitus addidit: nam illud prius 
+      <lb ed="#L" n="29"/>libenter sequitur. Ego vero, vt quemaduodum sentio 
+      <lb ed="#L" n="30"/>loquar, non intelligo, quid causae Augustino fuerit, 
+      <lb ed="#L" n="31"/>vt verba Cypriani in eum sensum acceperit, qui mihi 
+      <lb ed="#L" n="32"/>sane tam apparet a Cypriani mente alienus, quam caelum 
+      <lb ed="#L" n="33"/>a terrae natura alienum est. Nam, vt omittam, quod in 
+      <lb ed="#L" n="34"/>locis paulo ante a me citatis Cyprianus ipse hereticos 
+      <lb ed="#L" n="35"/>non obscure ab ecclesia excludit, certe in epistola ad 
+      <lb ed="#L" n="36"/>Antonianum, cuius Augustinus testimonio abutitur, non 
+      <lb ed="#L" n="37"/>solum non ab ea sententia discedit, sed eandem 
+      aper<lb ed="#L" n="38" break="no"/>tius confirmat inquiens. Quod vero ad Nouatiani 
+      per<lb ed="#L" n="39" break="no"/>sonam pertinet, scias nos curiosos esse non debere, 
+      <!--237.xml-->
+      <pb ed="#L" n="226"/>
+               <lb ed="#L" n="1"/>cum foris doceat. Quisquis ille est, &amp; qualiscunque Est 
+      <lb ed="#L" n="2"/>Chiristianus non est. , qui in Christi ecclesia non est,  
+      <lb ed="#L" n="3"/>&amp;c. Nec alia Cypriano causa fuit, haereticorum 
+      bapti<lb ed="#L" n="4" break="no"/>sma negandi, nisi quia eos extra ecclesiam &amp; esse: &amp; 
+      ba<lb ed="#L" n="5" break="no"/>ptiaare, perpetua illi fuit firmaquo sententia. In verbis 
+      <lb ed="#L" n="6"/>autem, quae Augustinus refert, nihil aliud Cyprianus 
+      <lb ed="#L" n="7"/>significat, quam Nouatianorum arrogantiam &amp; 
+      tumo<lb ed="#L" n="8" break="no"/>rem, qui putarent se posse facere id quod ne Apostolis 
+      <lb ed="#L" n="9"/>quidem concessum est, vt zizania a frumento 
+      discerne<lb ed="#L" n="10" break="no"/>rent, paleas separarent a tritico, vasisque ligneis &amp; 
+      fi<lb ed="#L" n="11" break="no"/>ctilibus eicctis aurea argenteaque seligerent. Vbi per 
+      <lb ed="#L" n="12"/>vasa lignea &amp; fictilia non eos Cyprianus accepit, 
+      quo<lb ed="#L" n="13" break="no"/>rum sermo vt cancer serpserat, sed eosdem prorsus, quos 
+      <lb ed="#L" n="14"/>&amp; xizania &amp; paleas vocauerat, hoc est fragiles &amp; 
+      imbe<lb ed="#L" n="15" break="no"/>cillos, qui firmis perfectisque erant, suntque semper in 
+      <lb ed="#L" n="16"/>ecclesia permixti. Quos Nouatiani quoniam ferre non  
+      <lb ed="#L" n="17"/>poterant, humilitatis ac lenitatis obliti, ab ecclesia ante 
+      <lb ed="#L" n="18"/>tempus eiicere conabantur. Quanquam vasa lignea 
+      fi<lb ed="#L" n="19" break="no"/>ctiliaque ad solos improbos referre, quod 
+      Cypria<lb ed="#L" n="20" break="no"/>nus facit, non Augustino solum, sed mihi etiam parum  
+      <lb ed="#L" n="21"/>probatum est. Sensus igitur Apostoli planus est. Cum  
+      <lb ed="#L" n="22"/>enim dixisset, quosdam a veritate excidisse, &amp;c, ne 
+      om<lb ed="#L" n="23" break="no"/>nes fragiles existimarentur, ac proinde ecclesiae fidei 
+      <lb ed="#L" n="24"/>timeremus, subiicit, sed firmum fundamentum Dei stat,  
+      <lb ed="#L" n="25"/>&amp;c. Quia vero quaereret fortasse quispiam, cur Deus in 
+      <lb ed="#L" n="26"/>ecclesia sua alios firmos, alios infirmos haberet: hos 
+      <lb ed="#L" n="27"/>stare, illos excidere pateretur : huic respondet 
+      Apo<lb ed="#L" n="28" break="no"/>stolus, in magna domo non solum esse vasa aurea &amp;  
+      <lb ed="#L" n="29"/>argentea, sed lignea &amp; testacea. &amp;c. Est &amp; altera huius 
+      <lb ed="#L" n="30"/>Apostolici testimonii intelligentia, ex qua 
+      Manichae<lb ed="#L" n="31" break="no"/>orum, Pelagianorum, Catharorum. Donatistarum, 
+      Be<lb ed="#L" n="32" break="no"/>tardorum, &amp; Beguinarum pariter eluuntur errores, in 
+      <lb ed="#L" n="33"/>quos Hymenaeus forte &amp; Philetus incurrerant. Non 
+      <lb ed="#L" n="34"/>enim verosimile fit, in eam hos amentiam incidisse, 
+      <lb ed="#L" n="35"/>vt astruerent corporum resurrectionem esse iam 
+      fa<lb ed="#L" n="36" break="no"/>ctam. Sed quoniam falsa absolutae sanctimoniae 
+      per<lb ed="#L" n="37" break="no"/>suasione imbuti, vitam in carne mortali asserebant 
+      simi<lb ed="#L" n="38" break="no"/>lem ei, quam iusti cum angelis post resurrectionem 
+      <lb ed="#L" n="39"/>immortales habituri sunt, ab omni scilicet fragilitate 
+      <!--238.xml-->
+      <pb ed="#L" n="227"/>
+               <lb ed="#L" n="1"/>&amp; imperfectione alienam: idcirco vas electionis 
+      Apo<lb ed="#L" n="2" break="no"/>stolus eos asseruisse ait, resurrectionem esse iam factam. 
+      <lb ed="#L" n="3"/>Horum igitur vanam futilemque sententiam paucis 
+      re<lb ed="#L" n="4" break="no"/>futat Paulus inquiens, sed firmum fundamentum Dei stat,  
+      <lb ed="#L" n="5"/>&amp; caetera. Quae verba, ni fallor ego, hunc sensum habent. 
+      <lb ed="#L" n="6"/>Electio fidelium ex parte Dei quidem certa atque 
+      immu<lb ed="#L" n="7" break="no"/>tabilis est. Hanc enim Vocat ille fundamentum, quoniam  
+      <lb ed="#L" n="8"/>primum est humanae salutis initium. Nam quos 
+      praedesti<lb ed="#L" n="9" break="no"/>nauit, hos &amp; vocauit: &amp; quos vocauit, hos &amp; 
+      iustifica<lb ed="#L" n="10" break="no"/>uit: quos autem iustificauit, illos &amp; glorificauit. Firmum  
+      <lb ed="#L" n="11"/>igitur fundamentum Dei stat, habens signaculum hoc,  
+      <lb ed="#L" n="12"/>Nouit dominus qui sunt sui. Electio quippe nostra 
+      no<lb ed="#L" n="13" break="no"/>bis ipsis obscura &amp; incognita, solius Dei notitia quasi 
+      si<lb ed="#L" n="14" break="no"/>gnaculo quodam obsignata clauditur, vt hinc &amp; apud 
+      <lb ed="#L" n="15"/>nos incerta &amp; occulta sit, &amp; apud Deum stata &amp; fixa. 
+      <lb ed="#L" n="16"/>Sed quia salus nostra e nostro quoque arbitrio pendet,  
+      <lb ed="#L" n="17"/>nemo ex electione Dei certam sibi stabilemque 
+      iusti<lb ed="#L" n="18" break="no"/>tiam polliceri debet, nemo sensu inflatus carnis suae 
+      an<lb ed="#L" n="19" break="no"/>gelorum religionem in carne mortali praedicare, nemo 
+      <lb ed="#L" n="20"/>impeccantiam &amp; virtutem omnibus numeris absolutam  
+      <lb ed="#L" n="21"/>sibi assumere, nemo reliquorum fidelium aspernari 
+      con<lb ed="#L" n="22" break="no"/>sortium, in quibus humanum adhuc aliquid subesse 
+      cer<lb ed="#L" n="23" break="no"/>nat. Hoc est autem, quod subiungit. Discedat ab 
+      iniqui<lb ed="#L" n="24" break="no"/>tate, &amp;c. Satagat, inquit, in primis perbona ipse opera 
+      cer<lb ed="#L" n="25" break="no"/>tam facere vocationem suam, nec tantum munditiae suae 
+      <lb ed="#L" n="26"/>fidat, ne timeat iniquitate se posse contaminari &amp; pollui. 
+      <lb ed="#L" n="27"/>Intelligat deinde, in magna domo non solum esse vasa 
+      <lb ed="#L" n="28"/>aurea &amp; argentea, sed lignea &amp; fictilia. Ac quaedam 
+      qui<lb ed="#L" n="29" break="no"/>dem in honorem, alia autem in contumeliam. Ita si vasa 
+      <lb ed="#L" n="30"/>aliqua frangi cognouerit, reformet ea pro sua virili &amp; 
+      con<lb ed="#L" n="31" break="no"/>solidet, considerans seipsum ne forte &amp; ipse frangatur.  
+      <lb ed="#L" n="32"/>Atque si vas in honorem sibi videtur esse, ferat patienter 
+      <lb ed="#L" n="33"/>vasa in contumeliam: nec horum abominatione a magna 
+      <lb ed="#L" n="34"/>domo discedat. Nam &amp; vasa ista inhonorata &amp; 
+      in<lb ed="#L" n="35" break="no"/>gloria, quemadmodum libero arbittio versa sunt in 
+      con<lb ed="#L" n="36" break="no"/>tumeliam, sic verti eadem libertate poterunt in 
+      ho<lb ed="#L" n="37" break="no"/>norem? Quibus ex rebus non modo argentum illud 
+      <lb ed="#L" n="38"/>eliditur, verum etiam id constat, quod in hac 
+      finitio<lb ed="#L" n="39" break="no"/>ne vel maxime quaeritur, ecclesiam omnium fidelium 
+      <!--239.xml-->
+      <pb ed="#L" n="228"/>
+               <lb ed="#L" n="1"/>&amp; fortium &amp; imbecillium &amp; iustorum &amp; iniquorum 
+      col<lb ed="#L" n="2" break="no"/>lectione constitui. Id quod si plane ac breuiter 
+      confece<lb ed="#L" n="3" break="no"/>rimus, nec nos industriae nostrae, nec sui lectorem laboris 
+      <lb ed="#L" n="4"/>poenitebit. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

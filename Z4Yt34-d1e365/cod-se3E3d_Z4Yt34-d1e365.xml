@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 5</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 5</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="194"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e365"><!-- Z4Yt34-l3c5 -->
+            <head xml:id="Z4Yt34-d1e365-Hd1e106">Caput 5</head>
+            <p xml:id="Z4Yt34-d1e365-d1e109">
+      <!--205.xml-->
+               <pb ed="#L" n="194"/>
+               <lb ed="#L" n="1"/>cap. Quintum, De variis generibus traditionum 
+      <lb ed="#L" n="2"/>Apostolicarum.
+    </p>
+            <p xml:id="Z4Yt34-d1e365-d1e120">
+               <lb ed="#L" n="3"/>AT vero, priusquam huius loci auctoritatem 
+      confir<lb ed="#L" n="4" break="no"/>mo, illud animaduertendum censeo, praecepta &amp; 
+      in<lb ed="#L" n="5" break="no"/>stituta Apostolorum esse in duplici differentia. 
+      Quae<lb ed="#L" n="6" break="no"/>dam enim temporaria fuere, quorum ratio breuis &amp; ad 
+      <lb ed="#L" n="7"/>tempus fuit. Alia fuere perpetua, vtpote quae causam  
+      <lb ed="#L" n="8"/>habuere sempiternam, vt in ecclesia seruarentur. Illius 
+      <lb ed="#L" n="9"/>generis exempla sunt, de baptismo in nomine Iesu, de 
+      <lb ed="#L" n="10"/>abstinentia a sanguine &amp; suffocato: huius autem 
+      poste<lb ed="#L" n="11" break="no"/>rioris exemplum est de aqua permiscenda calici. Atque 
+      <lb ed="#L" n="12"/>etiam alia diuisio est Apostolicae traditionis. Nam 
+      alte<lb ed="#L" n="13" break="no"/>ras Apostoli a Christo domino acceperunt, vt 
+      matrimo<lb ed="#L" n="14" break="no"/>nium, confirmationem, extremam vnctionem, esse 
+      sacra<lb ed="#L" n="15" break="no"/>menta nouae legis, quae ipse quidem instituit Christus, 
+      suo<lb ed="#L" n="16" break="no"/>rum sacramentorum primus idemque solus auctor, sed 
+      <lb ed="#L" n="17"/>Apostolis tradidit Christiano populo administranda. 
+      <lb ed="#L" n="18"/>Alteras vero traditiones Apostoli ipsi Spiritu sancto sug 
+      <lb ed="#L" n="19"/>gerente ad Ecclesiae vtilitatem ediderunt. Quas tamen, 
+      <lb ed="#L" n="20"/>eis Christus dominus, dum in terra degeret, 
+      nusquaedi<lb ed="#L" n="21" break="no"/>dit. Vt quadragesimae ieiunium, quod licet Hieronymus 
+      <lb ed="#L" n="22"/>in secundum Ionae cap. Ambro. concilio. 36. Chrys 
+      ho<lb ed="#L" n="23" break="no"/>mi. 1. In Gene. ad Christum auctorem referre videantur, 
+      <lb ed="#L" n="24"/>at re vera, vt equidem sentio, Apostolicum institutum 
+      <lb ed="#L" n="25"/>fuit. Quod Christo tamen assignatur, vel quia ad 
+      Chri<lb ed="#L" n="26" break="no"/>sti ieiunantis exemplum ab Apostolis institutum est, vel 
+      <lb ed="#L" n="27"/>quia Apostolica edicta Christi esse censentur: qui per 
+      <lb ed="#L" n="28"/>Apostolos ecclesiae loquebatur, atque adeo per Spiritum 
+      <lb ed="#L" n="29"/>sanctum Apostolis: iuxta illud, quod Ioannis 16. cap. 
+      scri<lb ed="#L" n="30" break="no"/>ptum est, Adhuc multa habeo vobis dicere, sed non 
+      po<lb ed="#L" n="31" break="no"/>testis portare modo. Cum autem Venerit ille spiritus 
+      ve<lb ed="#L" n="32" break="no"/>ritatis, docebit vos omnem veritatem: non enim 
+      lo<lb ed="#L" n="33" break="no"/>quetur a semetipso, sed quaecunque audiet loquetur, quia 
+      <lb ed="#L" n="34"/>de meo accipiet, &amp; annuntiabit vobis. Et Apostolus cum 
+      <lb ed="#L" n="35"/>quoddam de suo consilium dedisset, puto autem, ait,  
+      <lb ed="#L" n="36"/>quod &amp; ego spiritum Dei habeam. Et rursum, An 
+      expe<lb ed="#L" n="37" break="no"/>rimentum eius quaeritis, qui in me loquitur Christus? In 
+      <lb ed="#L" n="38"/>nis autem traditionum generibus illa eadem 
+      consideran<lb ed="#L" n="39" break="no"/>da sunt quidem, quae in superiore libro de scripturae etiam 
+      <!--206.xml-->
+      <pb ed="#L" n="195"/>
+               <lb ed="#L" n="1"/>legibus admonuimus: sed discrimen illud maxime, quod 
+      <lb ed="#L" n="2"/>de scripturarum praeceptis ibi positum, transferri huc ad 
+      <lb ed="#L" n="3"/>traditiones debet. Extraditionum quippe vinculo, quas 
+      <lb ed="#L" n="4"/>a Christo acceptas Apostoli fidelibus seruandas 
+      relique<lb ed="#L" n="5" break="no"/>re, ecclesia fideles eximere non potest, nec illas contraria 
+      <lb ed="#L" n="6"/>aliqua consuetudine abolere. Si enim, exempli causa, 
+      ma<lb ed="#L" n="7" break="no"/>terias &amp; formas sacramentorum confirmationis, ordinis,  
+      <lb ed="#L" n="8"/>extremae vnctionis, a Christo Apostoli, nos ab 
+      Aposto<lb ed="#L" n="9" break="no"/>dis accepimus: si ad eundem quoque modum matrimonia 
+      <lb ed="#L" n="10"/>non consummata, per solennem castitatis professionem 
+      <lb ed="#L" n="11"/>dirimi, consummata vero per conuersionem ad fidem 
+      communiu<lb ed="#L" n="12" break="no"/>ge infideli discedente, Christus dominus Apostolis, illi 
+      <lb ed="#L" n="13"/>hobis edixerunt, in his tanquam in diuinis institutis 
+      ec<lb ed="#L" n="14" break="no"/>clesia nihil habet potestatis. In quem sensum explicanda 
+      <lb ed="#L" n="15"/>sunt duo illa capita. Sunt quidam. &amp; Contra statuta. 25. 
+      <lb ed="#L" n="16"/>quei. Nec huiusmodi traditiones possunt per contrariam  
+      <lb ed="#L" n="17"/>consuetudinem antiquari: sed tali aduersae 
+      consuetu<lb ed="#L" n="18" break="no"/>dini iure obiiciuntur. cap. Veritate. &amp; cap. Si 
+      consue<lb ed="#L" n="19" break="no"/>tudinem. &amp; cap. frustra. 8. distinctione. In aliis vero,  
+      <lb ed="#L" n="20"/>quae videlicet Apostoli constituerunt tanquam ecclesiae 
+      <lb ed="#L" n="21"/>pastores, poterit quidem summus pontifex, vt in caeteris 
+      <lb ed="#L" n="22"/>ecclesiae legibus dispensare, sic enim schola loquitur,  
+      <lb ed="#L" n="23"/>poteritque item contrarius populi mos instituta huius 
+      <lb ed="#L" n="24"/>generis abrogare. Vt trina immersio, quam ex 
+      Aposto<lb ed="#L" n="25" break="no"/>lica traditione in baptismi sacramento ecclesiam 
+      habu<lb ed="#L" n="26" break="no"/>isse, Canon Apostolorum 4o. ostendit. per 
+      contrari<lb ed="#L" n="27" break="no"/>am consuetudinem abolita est. Eiusdem quoque 
+      ordi<lb ed="#L" n="28" break="no"/>nis est quadragesimae ieiunium: ac poenae rursum ab 
+      A<lb ed="#L" n="29" break="no"/>postolis pro criminibus praefinitae, quae 82. distinctio. 
+      <lb ed="#L" n="30"/>capit. presbyter. ex Concilio Gangrensi referuntur. 
+      <lb ed="#L" n="31"/>Ad hoc genus illud refertur, quod ex Anacleti prima 
+      <lb ed="#L" n="32"/>epistola haeretici vrgere solent, Peracta consecratione 
+      <lb ed="#L" n="33"/>omnes communicent, qui noluerint ecclesiasticis carere 
+      <lb ed="#L" n="34"/>liminibus, sic enim Apostoli statuerunt. Quanquam de 
+      <lb ed="#L" n="35"/>ministris, qui Episcopo facrificanti in diebus 
+      solennio<lb ed="#L" n="36" break="no"/>ribus inseruiebant, Anacletus loquitur. Quare inde 
+      col<lb ed="#L" n="37" break="no"/>ligi non potest, omnes eos qui missae intererant, 
+      oporte<lb ed="#L" n="38" break="no"/>re etiam tunc communionem Eucharistiae sumere, in his 
+      <lb ed="#L" n="39"/>praesertim diebus qui solenniores non essent. Sed vt an¬ 
+      <!--207.xml-->
+      <pb ed="#L" n="196"/>
+               <lb ed="#L" n="1"/>tiquo more Apostolorumque, instituto communio s 
+      <lb ed="#L" n="2"/>etiam populi a principio statim nascentis ecclesiae ex 
+      <lb ed="#L" n="3"/>retur, aetate tamen Chrysostomi praeceptum relaxa 
+      <lb ed="#L" n="4"/>esse constat, &amp; communionem astantium voluntati pe 
+      <lb ed="#L" n="5"/>missam, ad quam eos diaconus alta voce inuitabat no 
+      <lb ed="#L" n="6"/>cogebat. Haec enim &amp; alia huiusmodi tametsi ab Aposti 
+      <lb ed="#L" n="7"/>lis tradita sunt, non sunt tamen ita fixa, vt moueri non  
+      <lb ed="#L" n="8"/>queant. Cum Christi ipsius praecepta &amp; instituta, quemad 
+      <lb ed="#L" n="9"/>modum diximus, adeo stabisia rataque sint, vt conuelli nu 
+      <lb ed="#L" n="10"/>lius hominis auctoritate liceat. Cuius ratio loco supe 
+      <lb ed="#L" n="11"/>riore reddita frustra hic a nobis resumeretur. Atque illus 
+      <lb ed="#L" n="12"/>de institutis ad gubernationem populi pertinentibus in 
+      <lb ed="#L" n="13"/>telligi volo. Nam dogmata fidei siue Christus ipse per se 
+      <lb ed="#L" n="14"/>Apostolis reuelarit, seu Spiritus sanctus post Christi 
+      As<lb ed="#L" n="15" break="no"/>censionem in caelum, mutari non possunt: sed firma haec 
+      <lb ed="#L" n="16"/>in veritate manent perinde atque illa, quae Christi sunt 
+      <lb ed="#L" n="17"/>ore prodita.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

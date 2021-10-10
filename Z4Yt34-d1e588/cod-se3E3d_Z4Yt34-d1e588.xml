@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caput 4</title>
+            <author ref="#MelchiorCano">Melchior Cano</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Caput 4</title>
+               <date when="2021-10-10">October 10, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-se3E3d">Louvain 1564</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-10-10" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="378"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="Z4Yt34-d1e588"><!-- Z4Yt34-l6c4 -->
+            <head xml:id="Z4Yt34-d1e588-Hd1e106">Caput 4</head>
+            <p xml:id="Z4Yt34-d1e588-d1e109">
+               <lb ed="#L" n="19"/>Caput Quartum, in quo ostenditur, quod Romantes episcopus ille 
+      <lb ed="#L" n="20"/>sit, qui Perro O iu fidei firmitate,  in componendis 
+      <lb ed="#L" n="21"/>religionis cnutrouersijs, diuino iure 
+      <lb ed="#L" n="22"/>succedat.
+    </p>
+            <p xml:id="Z4Yt34-d1e588-d1e120">
+               <lb ed="#L" n="23"/>SEquitur, vt doceamus Romanam sedem eam, esse, vbi 
+      <lb ed="#L" n="24"/>&amp; Petri &amp; soliditas &amp; auctoritas, Deo auctore, collocata 
+      <lb ed="#L" n="25"/>sint. Quod quoniam non haeretici modo impudenter, ve 
+      <lb ed="#L" n="26"/>rum etiam catholici nonnulli imprudenter inficiati sunt, 
+      <lb ed="#L" n="27"/>diligentissime est nobis corroborandum. Tam enim 
+      di<lb ed="#L" n="28" break="no"/>ligenter, &amp; siminus vere, sed tamen accurate, non modo 
+      <lb ed="#L" n="29"/>fundatam, verum etiam extructam opinionem, non est 
+      fa<lb ed="#L" n="30" break="no"/>cile diruere. Si opinio tamen dicenda est, quae adeo 
+      cer<lb ed="#L" n="31" break="no"/>tis argumentis refelletur. Et quidem hac de re quamuis 
+      <lb ed="#L" n="32"/>plura dicta sint a Caietano, cum alijs in locis, tum in 
+      li<lb ed="#L" n="33" break="no"/>bello de Romanae ecclesiae primatu, quia tamen vel ob  
+      <lb ed="#L" n="34"/>styli quasi ingenitam obscuritatem, vel ob id forsitan, 
+      <lb ed="#L" n="35"/>quod minus attente a plerisque legitur, nihil etiamnum  
+      <lb ed="#L" n="36"/>viris doctis &amp; ingeniosis persuasit: oportebit nos de 
+      re<lb ed="#L" n="37" break="no"/>bus eisdem iterum disputare. Explicabuntur autem haec 
+      <lb ed="#L" n="38"/>fortasse ieiunius, his enim, vbertas orationis adhiberi vix 
+      <!--390.xml-->
+      <pb ed="#L" n="379"/>
+               <lb ed="#L" n="1"/>potest. Veruntamen de rebus grandioribus atque ad ex- 
+      <lb ed="#L" n="2"/>ponendum difficilibus, omne quod dilucidem dicitur, 
+      e<lb ed="#L" n="3" break="no"/>gregie &amp; praeclare dicitur. Locum igitur arduum 
+      expla<lb ed="#L" n="4" break="no"/>naturi, testibus primum id faciemus, quorum audita testi 
+      <lb ed="#L" n="5"/>monia, locum dubitationi non relinquant. Nolo autem 
+      <lb ed="#L" n="6"/>quamplurimis possum testimonijs lectorem onerare: sed 
+      <lb ed="#L" n="7"/>grauissima &amp; apertissima solum adscribam. Ordiar autem 
+      <lb ed="#L" n="8"/>ab ipsis summis Pontificibus, quorum de hac re clara 
+      iu<lb ed="#L" n="9" break="no"/>dicia &amp; certa sunt. Simpliciter autem adscribentur, ne 
+      in<lb ed="#L" n="10" break="no"/>quit &amp; ait saepius interponantur. 
+      <lb ed="#L" n="11"/>Anacletus in epistola 1. de oppressione episcoporum? 
+      <lb ed="#L" n="12"/>Difficiliores quaestiones &amp; mait res causae ad sedem 
+      apo<lb ed="#L" n="13" break="no"/>stolicam referantur: quoniam Apostoli hoc statuerunt 
+      <lb ed="#L" n="14"/>iussione saluatoris, vt maiores &amp; difficiles quaestiones 
+      <lb ed="#L" n="15"/>semper ad sedem deferantur Apostolicam, super quam  
+      <lb ed="#L" n="16"/>Christus vniuersam construxerit ecclesiam, dicente ipso 
+      <lb ed="#L" n="17"/>ad beatum principem Apostolorum? Tu es Petrus, &amp; 
+      su<lb ed="#L" n="18" break="no"/>per hanc petram aedisicabo ecclesiam meam. Et in 3. 
+      epi<lb ed="#L" n="19" break="no"/>stola de Patriarchis &amp; primatibus explicat, quidnam per 
+      <lb ed="#L" n="20"/>sedem Apostolicam intellexerit in haec verba. Haec 
+      sa<lb ed="#L" n="21" break="no"/>trosancta Romana &amp; Apostolica ecclesia, non ab 
+      Apo<lb ed="#L" n="22" break="no"/>stolis, sed ab ipso Domino saluatore nostro primatum 
+      <lb ed="#L" n="23"/>obtinuit, &amp; eminentiam potestatis super vniuersas 
+      eccle<lb ed="#L" n="24" break="no"/>sias, ac totum Christiani populi gregem assecuta est, sicut 
+      <lb ed="#L" n="25"/>ipse beato Petro apostolo dixit: Tu es Petrus, &amp;c. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e216">
+               <lb ed="#L" n="26"/>Euaristus. Ad sedem Apostolicam tanquam ad caput 
+      <lb ed="#L" n="27"/>sunt dubia referenda. Id vero dixit Euaristus episcopis 
+      <lb ed="#L" n="28"/>Aphricanae regionis, cum illum de fidei quaestione 
+      con<lb ed="#L" n="29" break="no"/>sulerent. Dixit etiam eos in hoc normam patrum 
+      secu<lb ed="#L" n="30" break="no"/>tos. Ab ineunte igitur ecclesia Romanus pontifex 
+      magi<lb ed="#L" n="31" break="no"/>ster fidei est agnitus. Quod erat Petri proprium munus. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e232">
+               <lb ed="#L" n="32"/>Alexander huius nominis primus in epist. ad omnesor 
+      <lb ed="#L" n="33"/>thodoxos. Huius sanctae &amp; Apostolicae sedis apici 
+      sum<lb ed="#L" n="34" break="no"/>marum dispositiones causarum, &amp; omnium negotia 
+      eccle<lb ed="#L" n="35" break="no"/>siarum ab ipso Domino tradita sunt, quasi capiti. Probat 
+      <lb ed="#L" n="36"/>vero hoc eodem Matth. testi monio. Tu es Petrus, &amp;c.  
+      <lb ed="#L" n="37"/>Sixtus primus ad Gallicanas ecclesias &amp; Eleutherius 
+      <lb ed="#L" n="38"/>ad easdem affirmant, a sanctis Apostolis esse institutum, 
+      <lb ed="#L" n="39"/>vt episcoporum iudicias ad sedem Apostolicam refe¬ 
+      <!--391.xml-->
+      <pb ed="#L" n="380"/>
+               <lb ed="#L" n="1"/>rantur. Scilicet, quia meiores, ecclesiae causae, &amp; caet. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e259">
+               <lb ed="#L" n="2"/>Pius primus in epist. ad omnes ecclesias. Hanc sanctam 
+      <lb ed="#L" n="3"/>sedem Apostolicam omnium ecclesiarum: caput Dominus 
+      <lb ed="#L" n="4"/>esse praecepit, dicens principi Apostolorum Petro: Tu 
+      <lb ed="#L" n="5"/>es Petrus, &amp;c. 
+      <lb ed="#L" n="6"/>Victor in epist. ad Theophilum, ad Romanum 
+      episco<lb ed="#L" n="7" break="no"/>pum, episcoporum omnium causas ab apostolorum 
+      tem<lb ed="#L" n="8" break="no"/>pore pertinere definit. Probatque illo testimonio, 
+      quaecum<lb ed="#L" n="9" break="no"/>que ligaueris, &amp;c. Citat etiam in hoc, institutum 
+      Aposto<lb ed="#L" n="10" break="no"/>lorum, in quo Romana sedes vocatur vniuersalis aposto 
+      <lb ed="#L" n="11"/>lica ecclesia. Eundem quoque apostolicum canonem 
+      no<lb ed="#L" n="12" break="no"/>mine ecclesiae refert in hoc ipsum Sixtus 2. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e285">
+               <lb ed="#L" n="13"/>Tepherinus in epist. ad episcopos Sicilianos. Maiores 
+      <lb ed="#L" n="14"/>ecclesiae causae a sede apostolica &amp; non ab alia, sicut Apo 
+      <lb ed="#L" n="15"/>stoli statuerunt, sunt terminandae, iuxta illud: Quaecunque 
+      <lb ed="#L" n="16"/>ligaueris, &amp; c. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e296">
+               <lb ed="#L" n="17"/>Marceilus ad episcopos Antiochenae prouinciae, idem 
+      <lb ed="#L" n="18"/>confirmat ex illo: Tu es petrus, &amp;c. Asserit etiam ex 
+      diui<lb ed="#L" n="19" break="no"/>na iussione &amp; Apostolorum traditione ad ecclesiam Ro 
+      <lb ed="#L" n="20"/>manam, tanqe ad caput, referenda maiora ecclesiae negotias. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e307">
+               <lb ed="#L" n="21"/>Eusebius ad episcopos Campaniae &amp; Tusciae, cum 
+      affir<lb ed="#L" n="22" break="no"/>masset Romanam ecclesiam Petri priuilegio esse 
+      dona<lb ed="#L" n="23" break="no"/>tam: subijcit. Prima salus est, rectae fidei regulas 
+      custodi<lb ed="#L" n="24" break="no"/>re, &amp; a constitutis patrum nullatenus deuiare. Nec 
+      po<lb ed="#L" n="25" break="no"/>test Domini nostri praetermitti sententia, dicentis: Tu es 
+      <lb ed="#L" n="26"/>Petrus, &amp;c. Et haec, quae dicta sunt, rerum probantur 
+      effe<lb ed="#L" n="27" break="no"/>ctibus. Quia in sede apostolica extra maculam semper est 
+      <lb ed="#L" n="28"/>catholica seruata religio. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e327">
+               <lb ed="#L" n="29"/>Melchiades in epist. ad Hispaniarum episcopos. 
+      Priui<lb ed="#L" n="30" break="no"/>legium episcopos iudicandi. Dominus beato clauigero 
+      <lb ed="#L" n="31"/>Petro sua vice solummodo commisit. Quod eius 
+      praero<lb ed="#L" n="32" break="no"/>gatiuum suae concedit sedi futuris haereditandum 
+      tem<lb ed="#L" n="33" break="no"/>poribus. Quod vtique priuilegium a temporibus aposto 
+      <lb ed="#L" n="34"/>lorum statutum est seruare: &amp; illaesum manet vsque in 
+      ho<lb ed="#L" n="35" break="no"/>diernum diem: Nequando membra a suo discrepent 
+      ca<lb ed="#L" n="36" break="no"/>pite, &amp; schismata oriantur.  
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e347">
+               <lb ed="#L" n="37"/>Marcus ad Athanasium. Sancta Romana ecclesia, quae 
+      <lb ed="#L" n="38"/>semper immaculata mansit, &amp; Domino prouidente, &amp; bea 
+      <lb ed="#L" n="39"/>to Petro apostolo opem ferente, in futuro manebit sine 
+      <!--392.xml-->
+      <pb ed="#L" n="381"/>
+               <lb ed="#L" n="1"/>vlla haereticorum insultatione firma &amp; immobilis. Haec 
+      <lb ed="#L" n="2"/>Apostolorum viua traditio. Haec sancta &amp; apostolica ma 
+      <lb ed="#L" n="3"/>ter, omnium ecclesiarum Christi ecclesia, quae per 
+      omni<lb ed="#L" n="4" break="no"/>potentis Dei gratiam, a tramite apostolicae traditionis 
+      <lb ed="#L" n="5"/>nunquam errasse probatur, sed illibata finetenus manet,  
+      <lb ed="#L" n="6"/>secundum ipsius Domini pollicitationem: Ego pro te 
+      <lb ed="#L" n="7"/>rogaui Petre, vt non deficiat fides tua. Quo eodem 
+      testi<lb ed="#L" n="8" break="no"/>monio probat idem Lucius ad consulta episcoporum Gal 
+      <lb ed="#L" n="9"/>lorum &amp; Hispanorum: &amp; Foelix ad Benignum. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e381">
+               <lb ed="#L" n="10"/>Iulius in epist. ad orientales episcopos. Conciliorum 
+      <lb ed="#L" n="11"/>conuocandorum iura &amp; maiores causas ad sedem aposto 
+      <lb ed="#L" n="12"/>licam evangelicis apostolicisque institutis referri oportet. 
+      <lb ed="#L" n="13"/>Id a sanctis apostolis &amp; successoribus eorum: id a 
+      Nicae<lb ed="#L" n="14" break="no"/>na synodo definitum est. Affert vero hic Pontifex ad 
+      il<lb ed="#L" n="15" break="no"/>lud confirmandum, testimonium Christi a caeteris 
+      repe<lb ed="#L" n="16" break="no"/>titum: Tu es Petrus, &amp;c. illam quoque rationem, ne mem  
+      <lb ed="#L" n="17"/>bra a suo capite dissideant.  
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e401">
+               <lb ed="#L" n="18"/>Idem quoque Iulius in epistola ad episcopos 
+      congre<lb ed="#L" n="19" break="no"/>gatos Antiochiae. Sanctam Romanam ecclesiam &amp; 
+      apo<lb ed="#L" n="20" break="no"/>stolicam ipse Dominus decenter allocutus est, inquiens, 
+      <lb ed="#L" n="21"/>su es petrus, &amp;c. Habet enim potestatem singulari 
+      priui<lb ed="#L" n="22" break="no"/>legio sibi concessam, &amp; Domini ore sacrata atque desuper 
+      <lb ed="#L" n="23"/>exaltata est. Et sicut beatus Petrus primus fuit Apostolo 
+      <lb ed="#L" n="24"/>rum omnium, ita &amp; haec ecclesia suo nomine consecrata 
+      <lb ed="#L" n="25"/>Domino instituente prima &amp; caput est caeterarum, vt ad 
+      <lb ed="#L" n="26"/>eam quasi ad matrem &amp; apicem omnium, maiores 
+      eccle<lb ed="#L" n="27" break="no"/>siae causae referantur. Astruit vero in Nicaena synodo 
+      <lb ed="#L" n="28"/>esse definitum, non debere praeter sententiam Romani 
+      <lb ed="#L" n="29"/>pontificis vllo modo aut concilia celebrari, aut 
+      episco<lb ed="#L" n="30" break="no"/>pos damnari: cui maiora ecclesiarum negotia ab ipso Do 
+      <lb ed="#L" n="31"/>mino speciali priuilegio tradita sunt. Citat vero in 
+      hu<lb ed="#L" n="32" break="no"/>ius rei confirmationem i8. caput Nicaeni concilij in haec 
+      <lb ed="#L" n="33"/>verba Omnes episcopi in grauioribus causis libere 
+      apo<lb ed="#L" n="34" break="no"/>stolicam appellent sedem, atque ad eam quasi ad matrem 
+      <lb ed="#L" n="35"/>confugiant tcuius dispositioni omnes maiores 
+      ecclesia<lb ed="#L" n="36" break="no"/>sticas causas antiqua apostolorum auctoritas reseruauit. 
+      <lb ed="#L" n="37"/>Citat rursum 19. caput eiusdem Nicaeni concilij in haec 
+      <lb ed="#L" n="38"/>verba. Quanquam accusati pontificis causam 
+      compro<lb ed="#L" n="39" break="no"/>uincialibus episcopis scrutari liceat, non tamen incon¬ 
+      <!--393.xml-->
+      <pb ed="#L" n="382"/>
+               <lb ed="#L" n="1"/>susto Romano pontifice definire: cum beato Petro apo 
+      <lb ed="#L" n="2"/>stolo, non ab alio quam ab ipso Domino dictum sit: Quae 
+      <lb ed="#L" n="3"/>cunque ligaueris super terram, &amp;c. En Nicaenum 
+      conci<lb ed="#L" n="4" break="no"/>lium non obscure, quae potestas beato Petro a Domino 
+      <lb ed="#L" n="5"/>data est, eam in Romanum pontificem asserit esse 
+      trans<lb ed="#L" n="6" break="no"/>missam. Nec obstat sane, quo haec capitula in nostris nund 
+      <lb ed="#L" n="7"/>exemplaribus non habentur. Tum, quoniam Iulius ipse 
+      <lb ed="#L" n="8"/>sub graui iuramento testatur, ea in scrinio Romanae 
+      se<lb ed="#L" n="9" break="no"/>dis haberi. Fuit autem Iulius huius nominis primus, qui 
+      <lb ed="#L" n="10"/>hoc testimonium perhibet, vir integra &amp; incorrupta 
+      fi<lb ed="#L" n="11" break="no"/>de. Tum, quoniam aduersus eos scribebat epistolam,  
+      <lb ed="#L" n="12"/>quorum plerique Nicaeno concilio ipsi interfuerunt: nec 
+      <lb ed="#L" n="13"/>vllo pacto fieri potest verosimile, quod canones ijs oba 
+      <lb ed="#L" n="14"/>iecerit, qui facile probare possent fuisse a pontifice 
+      con<lb ed="#L" n="15" break="no"/>fictos. Tum, quoniam id etiam testantur Athanasius &amp; 
+      <lb ed="#L" n="16"/>ontifices Aeguptiorum. Thebaidis &amp; Libiae in epistola 
+      <lb ed="#L" n="17"/>ad Foelicem, qui concilio quoque eidem praesentes 
+      fue<lb ed="#L" n="18" break="no"/>runt. Scimus, inquiunt, in Nicena magna synodo ab 
+      om<lb ed="#L" n="19" break="no"/>nibus concorditer esse roboratum, non debere absque 
+      <lb ed="#L" n="20"/>Romani pontificis sententia concilia celebrari, nec 
+      epi<lb ed="#L" n="21" break="no"/>scopos damnari. Tradunt autem in eadem epistola 
+      eius<lb ed="#L" n="22" break="no"/>modi capitula, &amp; alia plura necessaria ab haereticis 
+      in<lb ed="#L" n="23" break="no"/>censa nobisque sublata. Eunden item canonem nomine 
+      <lb ed="#L" n="24"/>Nicaeni: concilij, protulerunt in sexta synodo 
+      Carthagi<lb ed="#L" n="25" break="no"/>nensi Faustinus, Philippus &amp; Asellius, Apostolicae sedis 
+      <lb ed="#L" n="26"/>legati ex literis Toximi Romani Ponti. Testatur etiam  
+      <lb ed="#L" n="27"/>Athanasius in epistola ad Marcum Papam, fuisse 7O. 
+      ca<lb ed="#L" n="28" break="no"/>pitula Nicaeni concilij, id quod Marcus ipse eidem rescri 
+      <lb ed="#L" n="29"/>bens plane confirmat. Et Fcelix papa in epistola ad 
+      epi<lb ed="#L" n="30" break="no"/>scopos Aegyptios, queritur ea capitula de quibus nunc 
+      <lb ed="#L" n="31"/>agimus haereticos expunxisse. Sed &amp; Pelagius 17. dist.  
+      <lb ed="#L" n="32"/>cap multis. id quod nos probare nitimur, dicit sanctam  
+      <lb ed="#L" n="33"/>synodum statuisse, Nicaenam videlicet intelliges. Quod 
+      <lb ed="#L" n="34"/>expressit Innocentius 1. ad Victricium seu Victorinum  
+      <lb ed="#L" n="35"/>cap. tertio. &amp; Leo ad Theodosium iuniorem. Non ergo 
+      <lb ed="#L" n="36"/>dubitari potest, quin nostra haec sententia fuerit a 
+      Ni<lb ed="#L" n="37" break="no"/>ceno concilio definita, quemadmodum Iulius pontifex 
+      <lb ed="#L" n="38"/>asseuerauit. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e538">
+               <lb ed="#L" n="39"/>Damasus ad trium conciliorum Aphricanorum Episcopos. 
+      <!--394.xml-->
+      <pb ed="#L" n="383"/>
+               <lb ed="#L" n="1"/>Summas causarum definiri absque sedis Romanae 
+      aucto<lb ed="#L" n="2" break="no"/>ritate non licet. Synodumque sine eius auctoritate fieri non  
+      <lb ed="#L" n="3"/>est catholicum. Nec vlla concilia rata leguntur, quae non  
+      <lb ed="#L" n="4"/>sunt fulta apostolica auctoritate. Est enim firmamentum 
+      <lb ed="#L" n="5"/>a Deo fixum &amp; immobile omnium episcoporum, 
+      aposto<lb ed="#L" n="6" break="no"/>lica sedes &amp; vertex ecclesiarum : supraquam Christus 
+      vni<lb ed="#L" n="7" break="no"/>uersalem construxit ecclesiam, ait enim, Tues Petrus, &amp;c. 
+      <lb ed="#L" n="8"/>Vide eundem quoque in epistola ad Prosperum &amp; 
+      caete<lb ed="#L" n="9" break="no"/>ros Numidiae orthodoxos episcopos. 
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e567">
+               <lb ed="#L" n="10"/>Innocentius primus in epistolis ad concilia duo 
+      Car<lb ed="#L" n="11" break="no"/>thaginense &amp; Mileuitanum. Congrue apostolicae sedis 
+      <lb ed="#L" n="12"/>arcana consulitis antiquae regulae formam secuti, quam  
+      <lb ed="#L" n="13"/>toto semper ab orbe nostis esse seruatam, praesertim 
+      quo<lb ed="#L" n="14" break="no"/>ties ratio fidei ventilatur. Breuiter, quoniam omnium 
+      <lb ed="#L" n="15"/>verba referre molestissimum, esset, idem omnino 
+      confir<lb ed="#L" n="16" break="no"/>mant Leo Epist. 54. ad Anastasium &amp; episto. 67. ad episco 
+      <lb ed="#L" n="17"/>pos Viennensis prouinciae, Gelasius ad Anastasium 
+      Au<lb ed="#L" n="18" break="no"/>gustum &amp; in decretis, quae cum. 7O. episcopis tulit, &amp; in 
+      <lb ed="#L" n="19"/>epistola ad episcopos Dardaniae, Vigilius in decretis suis 
+      <lb ed="#L" n="20"/>capit. vltimo, Pelagius. 2. ad episcopos qui conuenerant 
+      <lb ed="#L" n="21"/>in ciuitatem Constantinopolitanam. Diuus Gregorius 
+      <lb ed="#L" n="22"/>in epistola ad Augusti. Anglorum episcopum, alijque 
+      <lb ed="#L" n="23"/>multi pontifices, quorum testimonia habes. 12. dist. &amp; 17. 
+      <lb ed="#L" n="24"/>&amp; 19 &amp; 2O. &amp; 21. &amp; 22. &amp; 8o. dist. c. vrbes &amp; 96. dist. cap. 
+      <lb ed="#L" n="25"/>bene. Et 24. quaestio. 1. per multa capita. &amp; 25. 
+      quaestio<lb ed="#L" n="26" break="no"/>1. &amp; de electione capit. significasti. &amp; de Priuileg. capit. 
+      <lb ed="#L" n="27"/>Antiqua, &amp; de Baptis. cap. Maiores. &amp; de elect. in. 6. cap. 
+      <lb ed="#L" n="28"/>fundamenta. &amp; in extrauag. Vnam sanctam. Quam 
+      extra<lb ed="#L" n="29" break="no"/>uagantem innouauit &amp; approbauit concil. Lateranense 
+      <lb ed="#L" n="30"/>sub Leone decimo.  
+      </p>
+            <p xml:id="Z4Yt34-d1e588-d1e615">
+               <lb ed="#L" n="31"/>Cum ergo omnes episcopi, Petro in ecclesiae Romanae 
+      <lb ed="#L" n="32"/>sede succedentes, vnanimi consensione asseruerint, fidei 
+      <lb ed="#L" n="33"/>soliditatem Petro collatam, ad Romanos pontifices, 
+      tan<lb ed="#L" n="34" break="no"/>quam ad legitimos successol es, pertinere, certe, si lrenei 
+      Ca<lb ed="#L" n="35" break="no"/>non verus est, qui hoc negauerit, ecclesiae auctoritatem  
+      <lb ed="#L" n="36"/>ipse negat. Quae causa idonea fuit, vt si quae ecclesiae a Rc 
+      <lb ed="#L" n="37"/>mana sede defecerint, non aliter a summis pontificibus ad 
+      <lb ed="#L" n="38"/>vnionem ecclesiasticam fuerint receptae, quam sub 
+      huius<lb ed="#L" n="39" break="no"/>modi confessionis forma. 
+      <!--395.xml-->
+      <pb ed="#L" n="384"/>
+               <lb ed="#L" n="1"/>Prima sulus est rectae fidei regulam custodire, &amp; a 
+      con<lb ed="#L" n="2" break="no"/>stitutis patrum nullatenus deuiare. Et quia non potest 
+      do<lb ed="#L" n="3" break="no"/>mini nostri Iesu Christi praetermitti sententia dicentis,  
+      <lb ed="#L" n="4"/>Tues Petrus &amp; super hanc petram aedificabo ecclesiam  
+      <lb ed="#L" n="5"/>meam, &amp; haec quae dicta sunt rerum probantur effectibus, 
+      <lb ed="#L" n="6"/>quia in se de apostolica extra maculam semper est 
+      catho<lb ed="#L" n="7" break="no"/>lica seruata religio: anathematizamus omnes qui contra 
+      <lb ed="#L" n="8"/>sanctam Romanam &amp; apostolicam ecclesiam suas crigunt 
+      <lb ed="#L" n="9"/>ceruices, sequentes in omnibus apostolicam sedem, in qua 
+      <lb ed="#L" n="10"/>est integra &amp; vera Christianae religionis &amp; perfecta 
+      soli<lb ed="#L" n="11" break="no"/>ditas: Profitemurque secrestatos a communione ecclesiae 
+      <lb ed="#L" n="12"/>catholicae, id est, non consentientes sedi apostolicae, 
+      eo<lb ed="#L" n="13" break="no"/>rum nomina inter sacra recitanda non esse mysteria, qui 
+      <lb ed="#L" n="14"/>videlicet sanctae Roman. &amp; Apostol. ecclesiae priuilegia 
+      <lb ed="#L" n="15"/>cassare nituntur. Hanc confessionis normam praescripsit 
+      <lb ed="#L" n="16"/>Bonifacius secundus in epist. ad Eulalium 
+      Carthaginen<lb ed="#L" n="17" break="no"/>episcopum, hanc Ioannes Constantinopol. episcopus 
+      fe<lb ed="#L" n="18" break="no"/>cit, cum ecclesia Constantinopolitana Romanae, a qua 
+      <lb ed="#L" n="19"/>Acatio auctore defecerat, vniretur. Eandem Ormisda 
+      <lb ed="#L" n="20"/>Papa ad episcopos Hispaniae misit, vt si qui ex schismate 
+      <lb ed="#L" n="21"/>venientes ecclesiasticam communionem ab eis 
+      exposce<lb ed="#L" n="22" break="no"/>rent, secundum illam professionia formam 
+      admitteren<lb ed="#L" n="23" break="no"/>tur. Hanc denique Adrianus Papa dedit ad. 8. syno. gene 
+      <lb ed="#L" n="24"/>ralem. Satis igitur persuasum esse debet, nisi valde sumus 
+      <lb ed="#L" n="25"/>pertinaces, in Romana sede Petri auctoritatem &amp; 
+      firmi<lb ed="#L" n="26" break="no"/>tatem esse sitam.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
