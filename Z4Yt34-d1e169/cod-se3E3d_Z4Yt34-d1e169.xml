@@ -56,18 +56,18 @@
             <p xml:id="Z4Yt34-d1e169-d1e109">
       <!--46.xml-->
                <pb ed="#L" n="35"/>
-               <lb ed="#L" n="1"/>cap. sextum: continet argumenta eorum qui suadere 
+               <lb ed="#L" n="1"/>Cap. sextum: continet argumenta eorum qui suadere 
       conan<lb ed="#L" n="2" break="no"/>tur, scripiuram sucram non egere ecclesiae 
       <lb ed="#L" n="3"/>approbatione.
     </p>
             <p xml:id="Z4Yt34-d1e169-d1e122">
                <lb ed="#L" n="4"/>ET quidem, quod ad primam partem attinet, 
-      Luthe<lb ed="#L" n="5" break="no"/>rani aliquando asseruerunt, scriptura non egere 
+      <name xml:id="Z4Yt34-d1e169-Nd1e119">Luthe<lb ed="#L" n="5" break="no"/>rani</name> aliquando asseruerunt, scriptura non egere 
       ec<lb ed="#L" n="6" break="no"/>clesiae aut alterius cuiusque approbatione, sed 
       iudi<lb ed="#L" n="7" break="no"/>cium de scriptura ex ipsis scripturis esse faciendum: seu 
       <lb ed="#L" n="8"/>potius per ipsas scripturas caetera omnia iudicanda, eas 
-      <lb ed="#L" n="9"/>vero per se quidem cuique habeti Spiritus sancti, &amp; fidei 
-      lu<lb ed="#L" n="10" break="no"/>me, esse manifestas. Quod si ab illis roges, ecquis nobis 
+      <lb ed="#L" n="9"/>vero per se quidem cuique habenti Spiritus sancti, &amp; fidei 
+      lu<lb ed="#L" n="10" break="no"/>men, esse manifestas. Quod si ab illis roges, ecquis nobis 
       <lb ed="#L" n="11"/>fidem facit haec a Deo prodiisse? ecquis salua &amp; intacta ad 
       <lb ed="#L" n="12"/>nostram vsque etatem peruenisse certiores reddat? Ecquis per 
       <lb ed="#L" n="13"/>suadeat librum hunc reuerenter excipiendum, illum vero 
@@ -78,30 +78,37 @@
       <lb ed="#L" n="18"/>ac nigras, saporis suaues &amp; amaras. Sicut etiam apud 
       phi<lb ed="#L" n="19" break="no"/>losophos per communes animi conteptionescsic enim vo 
       <lb ed="#L" n="20"/>canto reliqua omnia probantur, cum ipsae probatione non  
-      <lb ed="#L" n="21"/>egeant. Ita existimant Lutherani, diuini verbi 
+      <lb ed="#L" n="21"/>egeant. Ita existimant <name xml:id="Z4Yt34-d1e169-Nd1e156">Lutherani</name>, diuini verbi 
       cognitio<lb ed="#L" n="22" break="no"/>ne, quod est doctrinae catholicae cemmune principium, vsque  
       <lb ed="#L" n="23"/>adeo in proptu esse, vt nulla hominum approbatio sit 
       ne<lb ed="#L" n="24" break="no"/>cessaria. Atque hic idem perniciosissimus error olim apud 
-      <lb ed="#L" n="25"/>Vuicleffistas inualuit, vt Thomas Vualdensis auctor est. 
-      <lb ed="#L" n="26"/>li. 2. doctr, fid. Anti. c. 19. ne quisquam existimet a Luthero 
+      <lb ed="#L" n="25"/>Vuicleffistas inualuit, vt <name xml:id="Z4Yt34-d1e169-Nd1e167">Thomas Vualdensis</name> auctor est. 
+      <lb ed="#L" n="26"/>li. 2. doctr, fid. Anti. c. 19. ne quisquam existimet a <name xml:id="Z4Yt34-d1e169-Nd1e171">Luthero</name> 
       <lb ed="#L" n="27"/>hanc primum haeresim prodiisse. Suadent autem id principio, ex 
-      <lb ed="#L" n="28"/>eo quod dominus apud Ioannen dicit. Ego non ab 
-      homi<lb ed="#L" n="29" break="no"/>ne testimonium accipio. At siue summus Potifex, siue 
+               <lb ed="#L" n="28"/>eo quod dominus apud <ref xml:id="Z4Yt34-d1e169-Rd1e177">Ioannen</ref> dicit. <quote xml:id="Z4Yt34-d1e169-Qd1e180" source="http://scta.info/resource/io5_34@1-7">Ego non ab 
+      homi<lb ed="#L" n="29" break="no"/>ne testimonium accipio</quote>. At siue summus Pontifex, siue 
       con<lb ed="#L" n="30" break="no"/>cilium seu etiam ecclesia tota homines sunt, non igitur ab his 
       <lb ed="#L" n="31"/>Christi euangelium aut relique scripturae parres accipiunt 
-      <lb ed="#L" n="32"/>testimonium. Idem rursum ex illo confirmant, quod Ioannes 
-      <lb ed="#L" n="33"/>Apostolus ait. Nou necesse habetis, vt aliquis doceat 
+      <lb ed="#L" n="32"/>testimonium. 
+            </p>
+            <!-- second argument -->
+            <p xml:id="Z4Yt34-d1e169-d1e194">
+               Idem rursum ex illo confirmant, quod <ref xml:id="Z4Yt34-d1e169-Rd1e196">Ioannes 
+         <lb ed="#L" n="33"/>Apostolus</ref> ait. <quote xml:id="Z4Yt34-d1e169-Qd1e201" source="http://scta.info/resource/Iio2_27@12-29">Non necesse habetis, vt aliquis doceat 
       <lb ed="#L" n="34"/>vos, sed sicut vnctio eius docet vos de omnibus &amp; 
-      ve<lb ed="#L" n="35" break="no"/>rum est. Tertio loco argumentantur ex eo verbo 
+      ve<lb ed="#L" n="35" break="no"/>rum est</quote>. 
+            </p>
+            <p xml:id="Z4Yt34-d1e169-d1e210">
+               Tertio loco argumentantur ex eo verbo 
       domi<lb ed="#L" n="36" break="no"/>ni, si quis voluerit voluntatem eius facere, cognoscet ex 
       <lb ed="#L" n="37"/>doctrina vtrum ex Deo sit. Cui simile est illud, oues meae 
       <lb ed="#L" n="38"/>vocem meam audiunt, alienum autem non sequuntur. Quo 
-      testi<lb ed="#L" n="39" break="no"/>monio Lutherus quasi re confecta gloriatur, &amp; nondum 
+      testi<lb ed="#L" n="39" break="no"/>monio <name xml:id="Z4Yt34-d1e169-Nd1e220">Lutherus</name> quasi re confecta gloriatur, &amp; nondum 
       <!--47.xml-->
       <pb ed="#L" n="36"/>
                <lb ed="#L" n="1"/>collata manu tamquam ferox victor insultat. Aperte enim 
-      <lb ed="#L" n="2"/>Tvt aito euangelium testatur, ipsas per se oues habere ido 
-      <lb ed="#L" n="3"/>neam discernendi scripturas facultatem. 
+      <lb ed="#L" n="2"/>(vt ait) euangelium testatur, ipsas per se oues habere 
+               ido<lb ed="#L" n="3" break="no"/>neam discernendi scripturas facultatem. 
       </p>
             <p xml:id="Z4Yt34-d1e169-d1e213">
                <lb ed="#L" n="4"/>Quarto illud Ioannis afferunt, si testimonium 
@@ -142,7 +149,7 @@
       confir<lb ed="#L" n="37" break="no"/>mationem. 
       </p>
             <p xml:id="Z4Yt34-d1e169-d1e293">
-               <lb ed="#L" n="38"/>pi ecclesia, inquiunt, de diuinis scripturis iudicium 
+               <lb ed="#L" n="38"/>Si ecclesia, inquiunt, de diuinis scripturis iudicium 
       <lb ed="#L" n="39"/>ferret, tum inferior in superioris legem auctoritatem  
       <!--48.xml-->
       <pb ed="#L" n="37"/>
@@ -151,7 +158,7 @@
       <lb ed="#L" n="3"/>secundum ipsas. distin. 4. cap. in istis. 
       </p>
             <p xml:id="Z4Yt34-d1e169-d1e311">
-               <lb ed="#L" n="4"/>Praeterea quae securitas Caiuntnobis erit aeternae vitae, 
+               <lb ed="#L" n="4"/>Praeterea quae securitas (aiunt) nobis erit aeternae vitae, 
       <lb ed="#L" n="5"/>si quaecunque de ea in sacris literis extant promissiones 
       <lb ed="#L" n="6"/>solo hominum iudicio fultae consistant? Rursum fides 
       no<lb ed="#L" n="7" break="no"/>stra quantum apud homines in suspicionem vocabitur, si 
@@ -163,8 +170,8 @@
       propheta<lb ed="#L" n="13" break="no"/>rum scriptis &amp; apostolorum praedicatione fundata fuit, 
       <lb ed="#L" n="14"/>vbicunqe reperiatur ea doctrina, ecclesiam certe 
       prae<lb ed="#L" n="15" break="no"/>cessit eius approbatio, sine qua nunquam ecclesia ipsa ex- 
-      <lb ed="#L" n="16"/>titisset. Vanissimum ergo commentum est?. cap. 
-      institu<lb ed="#L" n="17" break="no"/>Caluinus aitscripturae iudicandae potestatem esse penes 
+      <lb ed="#L" n="16"/>titisset. Vanissimum ergo commentum est (1. cap. institu.
+      <lb ed="#L" n="17" break="no"/>Caluinus ait) scripturae iudicandae potestatem esse penes 
       <lb ed="#L" n="18"/>ecclesiam, quasi ab huius nutu illius certitudo pendeat. 
       </p>
             <p xml:id="Z4Yt34-d1e169-d1e346">
