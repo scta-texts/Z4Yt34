@@ -87,9 +87,11 @@
                <lb ed="#L" n="3"/>enim, <quote xml:id="Z4Yt34-d1e191-Qd1e185" source="http://scta.info/resource/Iio2_21@1-10">non scripsi vobis quasi ignorantibus veritatem, sed 
       <lb ed="#L" n="4"/>quasi scientibus eam</quote>. Sapientibus ergo ecclesiae magistris 
       <lb ed="#L" n="5"/>vnctio interior sufficit ad ea, quae fidei aduersantur, 
-      refu<lb ed="#L" n="6" break="no"/>tanda tat ignorantibus opus est etiam externa doctrina 
+      refu<lb ed="#L" n="6" break="no"/>tanda: at ignorantibus opus est etiam externa doctrina 
       <lb ed="#L" n="7"/>eorum maxime, quos Deus constituit in ecclesia 
-      pasto<lb ed="#L" n="8" break="no"/>res &amp; doctores. Intelligendum est etiam doctrinam fidei 
+      pasto<lb ed="#L" n="8" break="no"/>res &amp; doctores. 
+               <!-- possible pbreak -->
+               Intelligendum est etiam doctrinam fidei 
       <lb ed="#L" n="9"/>singulis hominibus necessariam, vnicuique per se forte 
       <lb ed="#L" n="10"/>innotescere, si spiritum manentem in se habet. At vero 
       <lb ed="#L" n="11"/>quae sunt in fide non singulis quidem necessaria, sed ad 
@@ -99,42 +101,45 @@
       <lb ed="#L" n="15"/>proponatur, an accidentia in Sacramento altaris sine sub  
       <lb ed="#L" n="16"/>iecto sint, quamuis sancta sit &amp; iusta, non est opus ea de re 
       <lb ed="#L" n="17"/>ab vnctione doceatur. Sed si illud ab ea inquiras, num 
-      <lb ed="#L" n="18"/>Christus pro peccatis nostris sanguinem fuderit, id 
+      <lb ed="#L" n="18"/>Christus pro peccatis nostris sanguinem <sic>fuderit</sic>, id 
       pro<lb ed="#L" n="19" break="no"/>fecto ab vnctione docebitur, quoniam praestanti quod 
-      <lb ed="#L" n="20"/>in se est Deus fidem ad salutem necessariam non negat. 
+      <lb ed="#L" n="20"/>in se est Deus fidem ad salutem necessariam non negat.
+               <!-- para break -->
       <lb ed="#L" n="21"/>Porro autem cum quaestio haec denumero librorum 
       Ca<lb ed="#L" n="22" break="no"/>nonicorum non spectet ad singulos, sed ad doctos in 
       ec<lb ed="#L" n="23" break="no"/>clesia viros referenda sit, sit consequens, vt ad 
       cognoscen<lb ed="#L" n="24" break="no"/>dum an hic liber aut ille sit Canonicus, non sit satis 
-      vn<lb ed="#L" n="25" break="no"/>ctionem habere: Non enim vnctio quemcunque simplici 
-      <lb ed="#L" n="26"/>terdocet de omnibus, sed quemque, de his, quae sunt ei pro 
-      <lb ed="#L" n="27"/>pria &amp; necessaria. Atque haec satis abundem erant, vt 
-      secum<lb ed="#L" n="28" break="no"/>dum argumentum eluderetur. Sed vt ijs morem geramus, 
+      vn<lb ed="#L" n="25" break="no"/>ctionem habere: Non enim vnctio quemcunque 
+      simplici<lb ed="#L" n="26" break="no"/>ter docet de omnibus, sed quemque, de his, quae sunt ei 
+      pro<lb ed="#L" n="27" break="no"/>pria &amp; necessaria. <!-- pbreak? -->Atque haec satis abunde erant, vt 
+      secun<lb ed="#L" n="28" break="no"/>dum argumentum eluderetur. Sed vt ijs morem geramus, 
       <lb ed="#L" n="29"/>qui aliud praeterea quicquam in illius testimonij 
       explica<lb ed="#L" n="30" break="no"/>tione desiderant, tertia adhuc responsio adijcienda est. 
       <lb ed="#L" n="31"/>Non si quidam in ecclesia primitiua tantos habuere &amp; in 
-      <lb ed="#L" n="32"/>virtute &amp; in doctrina progressus, vt nullo doctore ex- 
-      <lb ed="#L" n="33"/>terno indigerent, quippe qui spiritu docente nossent 
-      o<lb ed="#L" n="34" break="no"/>mnia, idcirco gratiam illam Spiritussancti nos &amp; ad omnes 
-      <lb ed="#L" n="35"/>&amp; ad hoc etiam tempus referemus. Alioqui si quis aut lin 
-      <lb ed="#L" n="36"/>guarum donum, aut alia multa, quae spiritus a principio 
-      fi<lb ed="#L" n="37" break="no"/>delibus impertiebatur, modo non habeat, non se arbitre 
-      <lb ed="#L" n="38"/>tur spiritum accepisse: nec vnctum sese existimet, nisi cum 
-      <lb ed="#L" n="39"/>Antonio Monacho Aegyptio sine vlla scientia literarum 
+      <lb ed="#L" n="32"/>virtute &amp; in doctrina progressus, vt nullo doctore 
+      ex<lb ed="#L" n="33" break="no"/>terno indigerent, quippe qui spiritu docente nossent 
+      o<lb ed="#L" n="34" break="no"/>mnia, idcirco gratiam illam Spiritus sancti nos &amp; ad omnes 
+      <lb ed="#L" n="35"/>&amp; ad hoc etiam tempus referemus. Alioqui si quis aut 
+      lin<lb ed="#L" n="36" break="no"/>guarum donum, aut alia multa, quae spiritus a principio 
+      fi<lb ed="#L" n="37" break="no"/>delibus impertiebatur, modo non habeat, non se 
+      arbitre<lb ed="#L" n="38" break="no"/>tur spiritum accepisse: nec vnctum sese existimet, nisi cum 
+      <lb ed="#L" n="39"/><name xml:id="Z4Yt34-d1e191-Nd1e275">Antonio Monacho Aegyptio</name> sine vlla scientia literarum 
       <!--61.xml-->
       <pb ed="#L" n="50"/>
-               <lb ed="#L" n="1"/>diuinas scripturas intellexerit. Quod si etiamnum vnctio 
+      <lb ed="#L" n="1"/>diuinas scripturas intellexerit. Quod si etiamnum vnctio 
       <lb ed="#L" n="2"/>docet sine externo doctore de omnibus, non doceant 
       pa<lb ed="#L" n="3" break="no"/>rentes paruulos suos doctrinam Christi, sed ne ad ipsum 
       <lb ed="#L" n="4"/>quidem Euangelium audiendum atque discendum eat 
       po<lb ed="#L" n="5" break="no"/>pulus in ecclesias, quin etiam codices nullos legat nec 
-      le<lb ed="#L" n="6" break="no"/>gentem explicantemque hominem audiat : expectet vero rapi se 
-      <lb ed="#L" n="7"/>vsque ad tertium coelum, &amp; ibi omnia Christianae doctri 
-      <lb ed="#L" n="8"/>nae mysteria percipere. Caueamus, Augustinus ait, tales 
+      le<lb ed="#L" n="6" break="no"/>gentem explicantemque hominem audiat: expectet vero rapi se 
+      <lb ed="#L" n="7"/>vsque ad tertium coelum, &amp; ibi omnia Christianae 
+      doctri<lb ed="#L" n="8" break="no"/>nae mysteria percipere. 
+               <!-- pbreak -->
+               <quote xml:id="Z4Yt34-d1e191-Qd1e301">Caueamus, <name xml:id="Z4Yt34-d1e191-Nd1e303">Augustinus</name> ait, tales 
       <lb ed="#L" n="9"/>tentationes superbissimas, magisque cogitemus &amp; ipsum 
       <lb ed="#L" n="10"/>apostolum Paulum, licet diuinis &amp; voce &amp; spiritu 
       instru<lb ed="#L" n="11" break="no"/>ctum ad hominem tamen missum esse, vt ab eo disceret, 
-      <lb ed="#L" n="12"/>quid se oporteret facere. Acto. 9. Et Cornelium 
+      <lb ed="#L" n="12"/>quid se oporteret facere</quote>. Acto. 9. Et Cornelium 
       cogite<lb ed="#L" n="13" break="no"/>mus quamuis &amp; exauditas orationes, eius eleemosynasque  
       <lb ed="#L" n="14"/>respectas ei angelus nunciarit, Petro tamen traditum 
       im<lb ed="#L" n="15" break="no"/>buendum, a quo quid credendum, quid sperandum, quid 
@@ -142,18 +147,19 @@
       <lb ed="#L" n="17"/>to hactenus. 
       </p>
             <p xml:id="Z4Yt34-d1e191-d1e290">
-               <lb ed="#L" n="18"/>Tertium vero eludi primum poterat eo rerum 
-      discri<lb ed="#L" n="19" break="no"/>mins repetito, quod in superioris argumenti confutatio 
+               <!-- respond to the third argument -->
+               <lb ed="#L" n="18"/><ref xml:id="Z4Yt34-d1e191-Rd1e333" target="http://scta.info/resource/Z4Yt34-d1e169-d1e210">Tertium</ref> vero eludi primum poterat eo rerum 
+      discri<lb ed="#L" n="19" break="no"/>mine repetito, quod in superioris argumenti confutatio 
       <lb ed="#L" n="20"/>ne posuimus. Concedimus enim liberaliter, doctrinam  
       <lb ed="#L" n="21"/>cuique in sua vita &amp; statu necessariam illi fore perspectam  
-      <lb ed="#L" n="22"/>&amp; cognitam, qui fecerit voluntatem Dei. Sicut enim 
+      <lb ed="#L" n="22"/>&amp; cognitam, <quote xml:id="Z4Yt34-d1e191-Qd1e341" source="http://scta.info/resource/io7_17@1-6"> <!-- could be type "allusion/paraphrase"-->qui fecerit voluntatem Dei</quote>. Sicut enim 
       gu<lb ed="#L" n="23" break="no"/>stus bene affectus differentias saporum facile discernit,  
       <lb ed="#L" n="24"/>sic animi optima affectio facit, vt homo doctrinam Dei 
       <lb ed="#L" n="25"/>ad salutem necessariam discernat ab errore: contrario,  
       <lb ed="#L" n="26"/>qui ex Deo non est. Quae vero ecclesiae sunt communia 
       <lb ed="#L" n="27"/>nec ad iudicium &amp; fidem spectant singulorum, ea non a. 
       <lb ed="#L" n="28"/>quouis discerni &amp; iudicari possunt, quantumcunque is 
-      <lb ed="#L" n="29"/>Dei faciat voluntatem. Huiusmodi autem sunt quaes 
+      <lb ed="#L" n="29"/>Dei faciat voluntatem. Huiusmodi autem sunt quae 
       ver<lb ed="#L" n="30" break="no"/>santur in hac controuersia de librorum diuinorum 
       nu<lb ed="#L" n="31" break="no"/>mero. Nec illarum etiam rerum iudicium adeo 
       perspicu<lb ed="#L" n="32" break="no"/>um est cuiuis, vt statim ac sine doctore in promptu sit. 
@@ -163,10 +169,10 @@
       <lb ed="#L" n="36"/>circumcisione neminem posse saluari, non protinus cuili 
       <lb ed="#L" n="37"/>bet exploratum fuit, num ea vox ac doctrina ex Deo 
       es<lb ed="#L" n="38" break="no"/>set an non sed relata est potius ad apostolos &amp; seniores, 
-      <lb ed="#L" n="39"/>quaestio, &amp; adhibito concilio, magnaque prius facta dis¬ 
-      <!--62.xml-->
-      <pb ed="#L" n="51"/>
-               <lb ed="#L" n="1"/>quisitione finita, Actorum i5. Quod, si quae in huius 
+      <lb ed="#L" n="39"/>quaestio, &amp; adhibito concilio, magnaque prius facta 
+      dis<!--62.xml--><pb ed="#L" n="51"/><lb ed="#L" n="1" break="no"/>quisitione finita, Actorum 15. 
+               <!-- possible pbreak -->
+               Quod, si quae in huius 
       ar<lb ed="#L" n="2" break="no"/>gumenti refutatione dicta sunt, cuipiam adhuc non esse 
       <lb ed="#L" n="3"/>illa satis videantur: habeat &amp; hoc responsum. Christum 
       <lb ed="#L" n="4"/>non dixisse quidem qui fecerit voluntatem Dei, hunc per 
@@ -177,56 +183,64 @@
       <lb ed="#L" n="9"/>fidei magister idoneus, qui rem credendam aptis loco &amp;  
       <lb ed="#L" n="10"/>tempore, solido pondere ac certa auctoritate proponat,  
       <lb ed="#L" n="11"/>tunc auditorem, si bonus est, Dei doctrinam 
-      acceptu<lb ed="#L" n="12" break="no"/>rum, sin malus, repudiaturum. De se quippe Christus 
+      acceptu<lb ed="#L" n="12" break="no"/>rum, sin malus, repudiaturum. 
+               <!-- possible pbreak -->
+               De se quippe Christus 
       <lb ed="#L" n="13"/>suaque doctrina peculiariter loquebatur, quem 
       quoni<lb ed="#L" n="14" break="no"/>am pater signauerat Deus, ducem ac praeceptorem 
       mun<lb ed="#L" n="15" break="no"/>do dederat, omnique testimoniorum genere 
       compro<lb ed="#L" n="16" break="no"/>barat: ei tot tantisque argumentis Euangelium 
       annun<lb ed="#L" n="17" break="no"/>cianti, ei vitae, doctrinae, miraculorum gloria 
       prae<lb ed="#L" n="18" break="no"/>stanti, ei humana atque adeo diuina auctoritate 
-      pol<lb ed="#L" n="19" break="no"/>lenti fidem non habere nemo sine peccato poterat. 
+      pol<lb ed="#L" n="19" break="no"/>lenti fidem non habere nemo sine peccato poterat.
+               <!-- possible pbreak -->
       <lb ed="#L" n="20"/>Abeat nunc <name xml:id="Z4Yt34-d1e191-Nd1e387">Lutherus</name>, &amp;, quasi ecclesiae fidem 
       validissi<lb ed="#L" n="21" break="no"/>mis arietibus concusserit, vanissima exultatione 
       bacche<lb ed="#L" n="22" break="no"/>tur. Nos vero intelligamus potius illum, quem 
       dixi<lb ed="#L" n="23" break="no"/>mus, esse verborum Christi sensum cum ex alijs 
-      Euange<lb ed="#L" n="24" break="no"/>listae testimontis, tum vero praecipue ex ipso eodem,  
-      <lb ed="#L" n="25"/>quod ex cap. 10. Lutherus aduersus nos citat. Opera, 
+      Euange<lb ed="#L" n="24" break="no"/>listae testimoniis, tum vero praecipue <ref xml:id="Z4Yt34-d1e191-Rd1e449">ex ipso eodem,  
+         <lb ed="#L" n="25"/>quod ex cap. 10.</ref> <name xml:id="Z4Yt34-d1e191-Nd1e454">Lutherus</name> aduersus nos citat. <quote xml:id="Z4Yt34-d1e191-Qd1e456" source="http://scta.info/resource/io10_25@9-21 http://scta.info/resource/io10_26@1-10">Opera, 
       in<lb ed="#L" n="26" break="no"/>quit Dominus, quae ego facio in nomine patris mei, haec 
       <lb ed="#L" n="27"/>testimonium perhibent de me. Sed vos non creditis, quia 
-      <lb ed="#L" n="28"/>non estis exouibus meis. Et statim, oues meae vocem 
-      <lb ed="#L" n="29"/>meam audiunt. Nam certe si non audirent, eae oues 
+         <lb ed="#L" n="28"/>non estis ex ouibus meis</quote>. Et statim, <quote xml:id="Z4Yt34-d1e191-Qd1e465" source="http://scta.info/resource/io10_27@1-5">oues meae vocem 
+      <lb ed="#L" n="29"/>meam audiunt</quote>. Nam certe si non audirent, eae oues 
       Chri<lb ed="#L" n="30" break="no"/>sti non essent, vt quae ad vocem proprij pastoris tam  
       <lb ed="#L" n="31"/>exploratam &amp; certam, clausis auribus obsurdescerent. 
-      <lb ed="#L" n="32"/>Qua ex re patet, quam inepte a Luthero illa Domini 
+      <lb ed="#L" n="32"/>Qua ex re patet, quam inepte a <name xml:id="Z4Yt34-d1e191-Nd1e477">Luthero</name> illa Domini 
       te<lb ed="#L" n="33" break="no"/>stimonia in hac causa, de qua nunc disserimus, referantur. 
       <lb ed="#L" n="34"/>De tertio igitur argumento tantum. 
       </p>
+            <!-- against the fourth argument -->
             <p xml:id="Z4Yt34-d1e191-d1e421">
-               <lb ed="#L" n="35"/>Quarto prius quam respondeo, operaeprecium mihi 
+               <lb ed="#L" n="35"/><pc type="indent"/><ref xml:id="Z4Yt34-d1e191-Rd1e495" target="http://scta.info/resource/Z4Yt34-d1e169-d1e210">Quarto</ref> prius quam respondeo, operae precium mihi 
       <lb ed="#L" n="36"/>facturus videor, si strictim quaedam attigero, quo facilius 
       <lb ed="#L" n="37"/>non hoc solum argumentum diluatur, verum etiam ea, quae 
-      <lb ed="#L" n="38"/>deinceps disserenda sunt, explicari queant.  
-      <lb ed="#L" n="39"/>Primum ergo id statuo, iuxta communem legem aliqua  
+      <lb ed="#L" n="38"/>deinceps disserenda sunt, explicari queant.
+   </p>
+   <p xml:id="Z4Yt34-d1e191-d1e505">
+      <lb ed="#L" n="39"/><pc type="indent"/>Primum ergo id statuo, iuxta communem legem aliqua  
       <!--63.xml-->
       <pb ed="#L" n="52"/>
-               <lb ed="#L" n="1"/>exteriora &amp; humana incitamenta necessaria esse, quibus 
-      <lb ed="#L" n="2"/>ad Euangelij fidem inducamur. Quomodo enim credent 
+      <lb ed="#L" n="1"/>exteriora &amp; humana incitamenta necessaria esse, quibus 
+      <lb ed="#L" n="2"/>ad Euangelij fidem inducamur. <quote xml:id="Z4Yt34-d1e191-Qd1e519" source="http://scta.info/resource/rom10_14@9-19">Quomodo enim credent 
       <lb ed="#L" n="3"/>ei quem non audierunt? Quomodo autem audient sine 
-      <lb ed="#L" n="4"/>praedicante? Item si non venissem, &amp; locutus eis non 
-      fuis<lb ed="#L" n="5" break="no"/>sem, peccatum non haberent: &amp; si opera non fecissem, quae 
-      <lb ed="#L" n="6"/>nemo alius fecit, excusationem haberent de peccato 
-      suo<lb ed="#L" n="7" break="no"/>Non igitur solum necessarium est, vt credituro ea quae 
+      <lb ed="#L" n="4"/>praedicante?</quote> Item <quote xml:id="Z4Yt34-d1e191-Qd1e526">si non venissem, &amp; locutus eis non 
+      fuis<lb ed="#L" n="5" break="no"/>sem, peccatum non haberent</quote>: &amp; <quote xml:id="Z4Yt34-d1e191-Qd1e531">si opera non fecissem, quae 
+      <lb ed="#L" n="6"/>nemo alius fecit, excusationem haberent de peccato suo</quote>
+      <lb ed="#L" n="7" break="no"/>Non igitur solum necessarium est, vt credituro ea quae 
       <lb ed="#L" n="8"/>sunt fidei simpliciter ab homine proponantur, quasi 
       pri<lb ed="#L" n="9" break="no"/>ma principia discipulo: verumetiam opus est exteriorem 
       <lb ed="#L" n="10"/>aliquam persuasionem &amp; humanum incitamentum 
       adhi<lb ed="#L" n="11" break="no"/>beri: quomodo principia Geometriae nonnulla a 
-      magi<lb ed="#L" n="12" break="no"/>stro &amp; explicantur &amp; suadentur. Hinc illud est, quod cum 
+      magi<lb ed="#L" n="12" break="no"/>stro &amp; explicantur &amp; suadentur.
+      <!-- possible pbreak; no ident -->
+      Hinc illud est, quod cum 
       <lb ed="#L" n="13"/>dixisset Moyses Domino, non credent mihi, Dominus ei 
       <lb ed="#L" n="14"/>dedit potestatem signa faciendi. Hinc rursum illud, 
       Prae<lb ed="#L" n="15" break="no"/>dicauerunt vbique. Domino cooperante, &amp; sermonem 
       <lb ed="#L" n="16"/>confirmante sequentibus signis. Huc illa pertinent, hic 
       <lb ed="#L" n="17"/>venit in testimonium, &amp;c. vt omnes crederent per illum. 
-      <lb ed="#L" n="18"/>Et Sergius Paulus vir prudens cum vidisset factum, 
+      <lb ed="#L" n="18"/>Et <name xml:id="Z4Yt34-d1e191-Nd1e564">Sergius Paulus</name> vir prudens cum vidisset factum, 
       cre<lb ed="#L" n="19" break="no"/>didit, admirans super doctrina Domini. Acto. 13. Et 
       Cen<lb ed="#L" n="20" break="no"/>turio videns quod fuerat, glorificauit Deum dicens: 
       Ve<lb ed="#L" n="21" break="no"/>re filius Dei erat iste. Lucae 23. Et cognouit pater quod 
@@ -235,9 +249,9 @@
       <lb ed="#L" n="24"/>autem illa multi crediderunt in eum Samaritanorum, pro 
       <lb ed="#L" n="25"/>pter verbum mulieris testimonium perhibentis, quia 
       di<lb ed="#L" n="26" break="no"/>xit mihi omnia quaecunque feci: &amp; multi venerunt ad 
-      Ie<lb ed="#L" n="27" break="no"/>sum, &amp; dicebant : Quia Ioannes quidem signum fecit nul 
-      <lb ed="#L" n="28"/>lum: Omnia autem quaecunque dixit Ioannes de hoc ve 
-      <lb ed="#L" n="29"/>ra erant. Et Ioann. 2O. Introiuit ille discipulus qui 
+      Ie<lb ed="#L" n="27" break="no"/>sum, &amp; dicebant : Quia Ioannes quidem signum fecit 
+      nul<lb ed="#L" n="28" break="no"/>lum: Omnia autem quaecunque dixit Ioannes de hoc 
+      ve<lb ed="#L" n="29" break="no"/>ra erant. Et Ioann. 2O. Introiuit ille discipulus qui 
       vene<lb ed="#L" n="30" break="no"/>rat primus ad monumentum, &amp; vidit &amp; credidit. Nondum 
       <lb ed="#L" n="31"/>enim sciebant scripturam: quia oportuit eum a mortuis 
       <lb ed="#L" n="32"/>resurgere. Philippus denique &amp; Petrus non vtcunque 
@@ -254,7 +268,7 @@
       <pb ed="#L" n="53"/>
                <lb ed="#L" n="1"/>speciali auxilio mouentis ad credendum. Docent id <ref xml:id="Z4Yt34-d1e191-Rd1e531"><name xml:id="Z4Yt34-d1e191-Nd1e532">D.  
       <lb ed="#L" n="2"/>Thomas</name>, ad Roma. 1O. lectio. 2</ref>. ac <ref xml:id="Z4Yt34-d1e191-Rd1e538"><name xml:id="Z4Yt34-d1e191-Nd1e539">D. August.</name> lib. 1. retra
-      <lb ed="#L" n="3"/>c. 21.</ref> &amp; alias saepe, quin sacrae literae id quoque docent. 
+      <lb ed="#L" n="3"/>c. 21.</ref> &amp; alias saepe, <quote xml:id="Z4Yt34-d1e191-Qd1e635">quin sacrae literae id quoque docent. 
       <lb ed="#L" n="4"/>Quam speciosi, inquit, pedes euangelixantium pacem, 
       e<lb ed="#L" n="5" break="no"/>uangelizantium bona: sed non omnes obediunt 
       Euange<lb ed="#L" n="6" break="no"/>lio. Esaias enim dicit, Domine, quis credidit auditui 
@@ -269,32 +283,30 @@
       <lb ed="#L" n="15"/>loco, Cum autem tanta signa fecisset coram eis, non 
       cre<lb ed="#L" n="16" break="no"/>debant in eum: vt sermo Esaiae impleretur, Domine, quis 
       <lb ed="#L" n="17"/>credidit auditui nostro, &amp; brachium Domini cui 
-      reuela<lb ed="#L" n="18" break="no"/>tum est, &amp;c. Externae igitur omnes &amp; humanae 
-      persuasio<lb ed="#L" n="19" break="no"/>nes, non sunt satis ad credendum, quantumcunque ab ho 
-      <lb ed="#L" n="20"/>minibus conpetenter ea quae sunt fidei proponantur. Sed 
+      reuela<lb ed="#L" n="18" break="no"/>tum est</quote>, &amp;c. Externae igitur omnes &amp; humanae 
+      persuasio<lb ed="#L" n="19" break="no"/>nes, non sunt satis ad credendum, quantumcunque ab 
+      ho<lb ed="#L" n="20" break="no"/>minibus conpetenter ea quae sunt fidei proponantur. Sed 
       <lb ed="#L" n="21"/>necessaria est insuper causa interior, hoc est, diuinum 
       <lb ed="#L" n="22"/>quoddam lumen incitans ad credendum, &amp; oculi quidam  
       <lb ed="#L" n="23"/>interni Dei beneficio ad videndum dati. Viderunt 
-      cin<lb ed="#L" n="24" break="no"/>quit Moyses, oculitui signa illa portentaque ingentia, &amp;  
+      (in<lb ed="#L" n="24" break="no"/>quit Moyses) oculi tui signa illa portentaque ingentia, &amp;  
       <lb ed="#L" n="25"/>non dedit tibi Dominus cor ad intelligendum, &amp; aures 
       <lb ed="#L" n="26"/>ad audiendum, nec oculos ad videndum. Hoc quoque 
-      <lb ed="#L" n="27"/>sua voce dilucide confirmauit Christus Petro inquiens, 
-      <lb ed="#L" n="28"/>Beatus es Simon Bariona, quia caro &amp; sanguis non 
+      <lb ed="#L" n="27"/>sua voce dilucide confirmauit Christus <name xml:id="Z4Yt34-d1e191-Nd1e690">Petro</name> inquiens, 
+      <lb ed="#L" n="28"/>Beatus es <name xml:id="Z4Yt34-d1e191-Nd1e694">Simon Bariona</name>, quia caro &amp; sanguis non 
       reue<lb ed="#L" n="29" break="no"/>lauit tibi, sed pater meus qui in coelis est. Certe Petrus 
       <lb ed="#L" n="30"/>audierat Ioannis Baptistae testimonium, quo aperta voce 
       <lb ed="#L" n="31"/>clamauerat, Christum esse filium Dei. Multa insuper 
-      Chri<lb ed="#L" n="32" break="no"/>sti miracula viderat, &amp; tamen post haec omnia non aut te 
-      <lb ed="#L" n="33"/>stimonio, aut auctoritati Ioannis, non miraculis visis, fidei 
-      <lb ed="#L" n="34"/>confessionem Christus assignat, sed diuinae 
-      reuelationi<lb ed="#L" n="35" break="no"/>Et ad Thessalonicenses, Gratias agimus Deo, quoniam  
+      Chri<lb ed="#L" n="32" break="no"/>sti miracula viderat, &amp; tamen post haec omnia non aut 
+      te<lb ed="#L" n="33" break="no"/>stimonio, aut auctoritati Ioannis, non miraculis visis, fidei 
+      <lb ed="#L" n="34"/>confessionem Christus assignat, sed diuinae reuelationi
+      <lb ed="#L" n="35"/>Et ad Thessalonicenses, Gratias agimus Deo, quoniam  
       <lb ed="#L" n="36"/>cum accepissetis a nobis verbum auditus fidei, accepistis 
       <lb ed="#L" n="37"/>illud, non vt verbum hominum, sed sicut est vere, verbum 
       <lb ed="#L" n="38"/>Dei, qui operatur in vobis, qui credidistis. Sunt &amp; alia 
-      <lb ed="#L" n="39"/>pleraque sacrarum literarum testimonia in huius rei confir 
-      <!--65.xml-->
-      <pb ed="#L" n="54"/>
-               <lb ed="#L" n="1"/>mationem. vt ad Corint. Nemo potest dicere Dominus 
-      <lb ed="#L" n="2"/>lesus nisi in Spiritu sancto, &amp; caetera quae sequuntur. Et 
+      <lb ed="#L" n="39"/>pleraque sacrarum literarum testimonia in huius rei 
+      confir<!--65.xml--><pb ed="#L" n="54"/><lb ed="#L" n="1" break="no"/>mationem. vt ad Corint. Nemo potest dicere Dominus 
+      <lb ed="#L" n="2"/>Iesus nisi in Spiritu sancto, &amp; caetera quae sequuntur. Et 
       <lb ed="#L" n="3"/>rursum inter spiritus charismata Paulus enumerat fidem: 
       <lb ed="#L" n="4"/>&amp; alibi, non sumus sufficientes, &amp;c. Et apud Lucam: Quae 
       <lb ed="#L" n="5"/>dam mulier colens Deum audiuit Paulum, cuius 
@@ -309,19 +321,33 @@
       <lb ed="#L" n="12"/>nostrae fidei non esse ecclesiae auctoritatem, hoc est, fidei 
       <lb ed="#L" n="13"/>vltimam resolutionem non fieri in ecclesiae testimonium, 
       <lb ed="#L" n="14"/>ipsae scholasticae res formas dicendi scholasticas rapiunt,  
-      <lb ed="#L" n="15"/>&amp; quae vocabula scholarum consuetudo diuturna trinit,  
+      <lb ed="#L" n="15"/>&amp; quae vocabula scholarum consuetudo diuturna triuit,  
       <lb ed="#L" n="16"/>ea Latini nobis condonare debent. Nec enim tam 
       ser<lb ed="#L" n="17" break="no"/>monis ornatum, quam disputationis lucem sequimur. 
       <lb ed="#L" n="18"/>Sed ad rem. Eorum hic errorem dissimulare non possum, 
-      <lb ed="#L" n="19"/>qui asserunt, fidem nostram eo, tanquam in vltimam cre 
-      <lb ed="#L" n="20"/>dendi causam, reducendam esse, vt credamus ecclesiam  
-      <lb ed="#L" n="21"/>esse veracem: cui prius Cinquiunt assentimur per fidem  
+      <lb ed="#L" n="19"/>
+         <note type="marginal-note" place="margin-left">
+            Vide <name xml:id="Z4Yt34-d1e191-Nd1e768">Scotum</name> 3 d. 23 q. unica 
+               &amp; <name xml:id="Z4Yt34-d1e191-Nd1e770">Durandum</name> d. 24. q. 1, a. 1
+               &amp; d. 25. q. 3
+               et <name xml:id="Z4Yt34-d1e191-Nd1e772">Gabri</name> d. 23 q. 2 a. 1 &amp; 2. 
+               qui videntur in hoc errore
+         </note>
+      qui asserunt, fidem nostram eo, tanquam in vltimam 
+      cre<lb ed="#L" n="20" break="no"/>dendi causam, reducendam esse, vt credamus ecclesiam  
+      <lb ed="#L" n="21"/>esse veracem: cui prius (<ref xml:id="Z4Yt34-d1e191-Rd1e780">inquiunt
+      <!-- marginal note would seem to attribut this to 
+         Scotus 3, d. 23, a. 1, 
+         Durandus, d. 24, q. 1, a. 1 et d. 25, a. 3, 
+         Biel, d. 23, q. 2, a. 1 et a. 2)-->
+         </ref>) 
+      assentimur per fidem  
       <lb ed="#L" n="22"/>acquisitam quam per infusam. Quod si verum esset, 
       pri<lb ed="#L" n="23" break="no"/>ma ratio formalis infusae fidei, non esset veritas increata, 
       <lb ed="#L" n="24"/>sed creata. Quare fides nostra non inniteretur tanquam  
       <lb ed="#L" n="25"/>suo fundamento diuinae veritati, sed humanae. Deinde 
       <lb ed="#L" n="26"/>cum assensus conclusionis non sit certior principiorum 
-      <lb ed="#L" n="27"/>ssensu, vt Aristoteles 1. post. lib. demonstrat. Si fides 
+      <lb ed="#L" n="27"/>sensu, vt <ref xml:id="Z4Yt34-d1e191-Rd1e798">Aristoteles 1. post. lib.</ref> demonstrat. Si fides 
       in<lb ed="#L" n="28" break="no"/>fusa fide acquisita niteretur, tunc Deum esse trinum, cui 
       <lb ed="#L" n="29"/>assentimur per infusam fidem, non esset nobis, aut firmius 
       <lb ed="#L" n="30"/>aut certius quam ecclesiam esse veracem: cui iuxta horum 
@@ -363,7 +389,7 @@
       <lb ed="#L" n="17"/>nino contingit. Cum ergo Prophetae &amp; Apostoli 
       assen<lb ed="#L" n="18" break="no"/>tirentur articulis fidei, quia Deus reuelauit: eandem quoque 
       <lb ed="#L" n="19"/>nos credendi rationem habebimus. Nisi forte fides nostra 
-      <lb ed="#L" n="20"/>non est virts Theologica, cuius videlicet prima &amp; formalis 
+      <lb ed="#L" n="20"/>non est virtus Theologica, cuius videlicet prima &amp; formalis 
       <lb ed="#L" n="21"/>ratio, si his credimus, non diuina sed humana veritas est. 
       </p>
             <p xml:id="Z4Yt34-d1e191-d1e761">
@@ -373,17 +399,17 @@
       <lb ed="#L" n="25"/>&amp; Moysi. Item, Qui credit in me, non credit in me, sed in 
       <lb ed="#L" n="26"/>eum qui misit me, &amp; caetera, quae sequuntur: &amp; ad Thessal. 
       <lb ed="#L" n="27"/>Gratias agimus Deo, quoniam cum accepissetis a nobis 
-      <lb ed="#L" n="28"/>verbum auditus fidei, accepistis illud, non vt verbum ho 
-      <lb ed="#L" n="29"/>minum, sedssicut est vere, verbum Dei. 
+      <lb ed="#L" n="28"/>verbum auditus fidei, accepistis illud, non vt verbum 
+      ho<lb ed="#L" n="29" break="no"/>minum, sedssicut est vere, verbum Dei. 
       </p>
             <p xml:id="Z4Yt34-d1e191-d1e781">
                <lb ed="#L" n="30"/>His vero tribus certis stabilibusque sententijs illa etiam  
       <lb ed="#L" n="31"/>coniuncta est, vltimam fidei nostrae resolutionem fieri in 
-      <lb ed="#L" n="32"/>causam interiorem efficientem, hoc est, in Deum mouen 
-      <lb ed="#L" n="33"/>tem ad credendum. V. O. huic articulo. Deus est trinus, &amp;  
-      <lb ed="#L" n="34"/>huic ecclesia non potest errare, &amp; caeteris vniuersis doctri 
-      <lb ed="#L" n="35"/>nae Christianae principiis assentio per infusam fidem. Non 
-      <lb ed="#L" n="36"/>O Ioannes dixerit, aut quiuis alius homo, sed O Deus 
+      <lb ed="#L" n="32"/>causam interiorem efficientem, hoc est, in Deum 
+      mouen<lb ed="#L" n="33" break="no"/>tem ad credendum. V. G. huic articulo. Deus est trinus, &amp;  
+      <lb ed="#L" n="34"/>huic ecclesia non potest errare, &amp; caeteris vniuersis 
+      doctri<lb ed="#L" n="35" break="no"/>nae Christianae principiis assentio per infusam fidem. Non 
+      <lb ed="#L" n="36"/>quod Ioannes dixerit, aut quiuis alius homo, sed quod Deus 
       re<lb ed="#L" n="37" break="no"/>uelauerit. Huic autem. Deus reuelauit, immediate credo 
       <lb ed="#L" n="38"/>a Deo motus per instinctum speciale. Itaque ex parte 
       ob<lb ed="#L" n="39" break="no"/>iecti ratio formalis mouens est, diuina veritas reuelans: 
@@ -391,17 +417,17 @@
       <pb ed="#L" n="56"/>
                <lb ed="#L" n="1"/>sed illa tamen non sufficit ad mouendum, nisi adsit causa 
       <lb ed="#L" n="2"/>interior, hoc est, Deus etiam mouens per gratuitum 
-      spe<lb ed="#L" n="3" break="no"/>cialemque concursum. D. Thomas. 2. 2. quaest. 2. art. 9. ad 
-      <lb ed="#L" n="4"/>8. August. 11. confess. cap. 3. Et licet fundamento in hoc 
+      spe<lb ed="#L" n="3" break="no"/>cialemque concursum. <ref xml:id="Z4Yt34-d1e191-Rd1e941">D. Thomas. 2. 2. quaest. 2. art. 9. ad 
+      <lb ed="#L" n="4"/>8.</ref> <ref xml:id="Z4Yt34-d1e191-Rd1e946">August. 11. confess. cap. 3.</ref> Et licet fundamento in hoc 
       <lb ed="#L" n="5"/>secundo iam iacto firmiter haereat, subsistit tamen eo 
       eti<lb ed="#L" n="6" break="no"/>am testimonio quod in argumento refertur. Hunc enim 
       <lb ed="#L" n="7"/>sensum habet quod Ioannes Apostolus dicit, si 
       testimo<lb ed="#L" n="8" break="no"/>nium hominis accipimus, testimonium Dei maius est. 
       At<lb ed="#L" n="9" break="no"/>qui, vnde credemus Apostole id esse Dei testimonium? 
-      <lb ed="#L" n="10"/>Qui creditcinquit in filium Dei, habet testimonium Dei 
+      <lb ed="#L" n="10"/>Qui credit (inquit) in filium Dei, habet testimonium Dei 
       <lb ed="#L" n="11"/>in se. Quod si rem hanc a capite arcessere, &amp; vnde omnia 
-      <lb ed="#L" n="12"/>manant videre volumus: illud tandem intelligamus opor 
-      <lb ed="#L" n="13"/>tet, habitum fidei in ordine ad Theologiae disciplinam  
+      <lb ed="#L" n="12"/>manant videre volumus: illud tandem intelligamus 
+      opor<lb ed="#L" n="13" break="no"/>tet, habitum fidei in ordine ad Theologiae disciplinam  
       <lb ed="#L" n="14"/>se habere, vt habitus intellectus se habet ad humanas 
       sci<lb ed="#L" n="15" break="no"/>entias &amp; facultates. Quemadmodum itaque intellectus 
       <lb ed="#L" n="16"/>noster in discursu disciplinarum naturalium, primo cum 
@@ -409,7 +435,7 @@
       <lb ed="#L" n="18"/>proficiscitur, quae videlicet a principijs positis 
       deriuan<lb ed="#L" n="19" break="no"/>tur: sic in cognitione supernaturalium rerum quaedam sunt 
       <lb ed="#L" n="20"/>principia supernaturalia, ex quorum fide fidelis animus 
-      <lb ed="#L" n="21"/>ad caetera inuestiganda procedit. Accedentem Cinquit,  
+      <lb ed="#L" n="21"/>ad caetera inuestiganda procedit. Accedentem (inquit)  
       <lb ed="#L" n="22"/>ad Deum oportet credere quia est, &amp; quod inquirentibus 
       <lb ed="#L" n="23"/>se remunerator sit, &amp; iterum, cum deberet is magistri esse 
       <lb ed="#L" n="24"/>propter tempus, rursum indigetis, vt doceamini quae sint 
@@ -419,7 +445,7 @@
       <lb ed="#L" n="28"/>Non rursus iacientes fundamentum poenitentiae, fidei ad 
       <lb ed="#L" n="29"/>Deum, baptismatum doctrinae, impositionis quoque 
       ma<lb ed="#L" n="30" break="no"/>nuum, resurrectionis mortuorum &amp; iudicij aeterni. 
-      Qui<lb ed="#L" n="31" break="no"/>bus rebus expositis facilecvt opinor intelligi potest, ve 
+      Qui<lb ed="#L" n="31" break="no"/>bus rebus expositis facile (vt opinor) intelligi potest, ve 
       <lb ed="#L" n="32"/>ra esse quae paulo ante sunt dicta: Hoc est oportere, huma 
       <lb ed="#L" n="33"/>na quaedam &amp; exteriora adminicula interuenire ad 
       cre<lb ed="#L" n="34" break="no"/>dendum: nec tamen ea esse idonea per se, nec fidei 
@@ -435,7 +461,7 @@
       <lb ed="#L" n="3"/>cta notissima. At ratio assentiendi formalis non est 
       quic<lb ed="#L" n="4" break="no"/>quam illorum: sed sunt illa quasi determinationes, &amp; 
       velu<lb ed="#L" n="5" break="no"/>ti conditiones sine quibus eiusmodi principia a 
-      discipu<lb ed="#L" n="6" break="no"/>Io non intelligerentur. Ratio autem formalis, lumen 
+      discipu<lb ed="#L" n="6" break="no"/>lo non intelligerentur. Ratio autem formalis, lumen 
       na<lb ed="#L" n="7" break="no"/>turale est inexistens: quo videlicet euidens ille assensus 
       <lb ed="#L" n="8"/>efficitur: vt &amp; lumen hoc exterius ratio formalis est, quae 
       <lb ed="#L" n="9"/>colores efficit euidentes. In hunc ergo modum, 
@@ -446,7 +472,7 @@
       </p>
             <p xml:id="Z4Yt34-d1e191-d1e928">
                <lb ed="#L" n="14"/>Iam si haec quae diximus sacris literis accommodaueris, 
-      <lb ed="#L" n="15"/>inuenies profecto, ea esse vsqueadeo consentanea, vt 
+      <lb ed="#L" n="15"/>inuenies profecto, ea esse vsque adeo consentanea, vt 
       ob<lb ed="#L" n="16" break="no"/>tinere a quouis aduersario debeamus. Huc enim 
       perti<lb ed="#L" n="17" break="no"/>net illud Ioannis 4. Iam non propter tuam loquelam ere 
       <lb ed="#L" n="18"/>dimus: ipsi enim audiuimus, &amp; scimus quia hic est vere Sal 
@@ -555,8 +581,8 @@
       <lb ed="#L" n="39"/>volebant, &amp; Manich. fidem astruere. Rogat igitur August. 
       <!--71.xml-->
       <pb ed="#L" n="60"/>
-               <lb ed="#L" n="1"/>ecquid facturi sint, si in hominem incidant, qui ne E 
-      <lb ed="#L" n="2"/>uangelio quidem credat: quoue genere persuasior 
+               <lb ed="#L" n="1"/>ecquid facturi sint, si in hominem incidant, qui ne 
+               E<lb ed="#L" n="2" break="no"/>uangelio quidem credat: quoue genere persuasior 
       <lb ed="#L" n="3"/>sint eum in suam sententiam adducturi. Certe se 
       affi<lb ed="#L" n="4" break="no"/>mat, non aliter potuisse adduci vt Euangelium amplecti 
       <lb ed="#L" n="5"/>retur, quam ecclesiae auctoritate victum. Non itaque 
@@ -571,6 +597,7 @@
       <lb ed="#L" n="14"/>ad hanc, sed ad diuinam auctoritatem fides librorum 
       di<lb ed="#L" n="15" break="no"/>uinorum referenda est. 
       </p>
+            <!-- response to fifth argument;  -->
             <p xml:id="Z4Yt34-d1e191-d1e1204">
                <lb ed="#L" n="16"/>Nec post haec in postremis illis tribus argumentis 
       elu<lb ed="#L" n="17" break="no"/>endis lectorem amplius morari volumus, sed ad ea, quae 
@@ -590,7 +617,11 @@
       <lb ed="#L" n="31"/>scilicet causas omnes dubias ipse idem pauio ante referri 
       <lb ed="#L" n="32"/>iusserat. Saepe autem vsu venire poterat, vt difficile 
       es<lb ed="#L" n="33" break="no"/>set &amp; ambiguum de propheta quopiam iudicium, &amp; 
-      va<lb ed="#L" n="34" break="no"/>riae, vt fit, discrepantesque sententiae. Testimonium vero 
+      va<lb ed="#L" n="34" break="no"/>riae, vt fit, discrepantesque sententiae. 
+               
+               <!-- possible break; response to a sixth and seventh argument -->
+               
+               Testimonium vero 
       <lb ed="#L" n="35"/>quod affertur ex Ioanne, quoniam simile est, simili quoque 
       <lb ed="#L" n="36"/>ratione conuellitur. Aliud vero ex prima ad Corinthios 
       <lb ed="#L" n="37"/>epist. non ita facile refelli potest: sed id constat, verba Pau 
