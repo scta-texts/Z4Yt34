@@ -44,7 +44,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="en">
     <front>
       <div xml:id="starts-on">
         <pb ed="#L" n="2"/>
@@ -55,30 +55,40 @@
         <head xml:id="Z4Yt34-d1e64-Hd1e106">Caput 1</head>
         <head xml:id="Z4Yt34-d1e64-Hd1e109" type="question-title">De totius operit partitione</head>
         <p xml:id="Z4Yt34-d1e64-d1e112">
-          <!--13.xml-->
-          <pb ed="#L" n="2"/>
-          <lb ed="#L" n="1"/>DE LOCIS 
-          <lb ed="#L" n="2"/>THEOLOGICIS 
-          <lb ed="#L" n="3"/>LIBER PRIMVS  
-          <lb ed="#L" n="4"/>caput primum. De totius operis 
-          <lb ed="#L" n="5"/>partitione.
+          On the theological places 
+          Book 1
+          Chapter 1
+          Concerning the division of the entire work
         </p>
         <p xml:id="Z4Yt34-d1e64-d1e130">
-          <lb ed="#L" n="6"/>DE locis ego Theologicis perpetuam 
-          <lb ed="#L" n="7"/>orationem habiturus, totam mox in 
-          <lb ed="#L" n="8"/>quatuordecim libros partiri consti 
-          <lb ed="#L" n="9" break="no"/>tui. Quorum primus breuiter 
-          enu<lb ed="#L" n="10" break="no"/>meret locos, e quibus idonea possit 
-          <lb ed="#L" n="11"/>argumenta depromere, siue 
-          conclu<lb ed="#L" n="12" break="no"/>siones suas Theologus probare 
-          cu<lb ed="#L" n="13" break="no"/>pit, seu refutare contrarias. Decem 
+          I, having continual prayer about the theological places,
+          have next decided to divide the whole into fourteen books.
+          The first of which will briefly enumerate the places, 
+          from which an individual is able to bring forth arguments 
+          or from which the theologians desires to prove his conclusions 
+          or to refute the contrary positions.
+          There will be ten that remain which 
+          teach more flowingly and more accurately 
+          than they contain <!-- should contineat be contineant? --> the force of each of the places, 
+          that is, when  certain arguments 
+          are only treated as probable. <!-- transl check -->
+          In the 12th and 13th it will be revealed 
+          of what use the places of this sort will have,
+          both in scholastic fights 
+          and also in the exposition of sacred letters. 
+          For in the opinion of the people 
+          what is the use of those things 
+          hardly sanely difficulty said <!-- should dictu be dictum -->
+          
+          
+          Decem 
           <lb ed="#L" n="14"/>reliqui erunt, qui fusius, &amp; accuratius doceant, quam vim  
           <lb ed="#L" n="15"/>vnusquisque, locorum contineat, hoc est, vnde argumenta 
           <lb ed="#L" n="16"/>certa, vnde vero probabilia solum eruantur. In duo 
           deci<lb ed="#L" n="17" break="no"/>mo &amp; tertio decimo disseretur, quem vsum eiusmodi loci 
           <lb ed="#L" n="18"/>habeant, tum in scholastica pugna, tum in sacrarum 
-          litera<lb ed="#L" n="19" break="no"/>rum expositione. Nam in concione populari quis eorum 
-          <lb ed="#L" n="20"/>sit vsus, haud sane difficile <unclear>dictu</unclear> est: sed praetereundum 
+          litera<lb ed="#L" n="19" break="no"/>rum expositone. Nam in concione populari quis eorum 
+          <lb ed="#L" n="20"/>sit vsus, haud sane difficile dictu est: sed praetereundum 
           ta<lb ed="#L" n="21" break="no"/>men, ne ab scholae instituto aliena uideatur oratio. 
           Po<lb ed="#L" n="22" break="no"/>stremus denique liber, quoniam non omnes loci omni 
           di<lb ed="#L" n="23" break="no"/>sputationi conueniunt, sigillatim ostendet, quibusnam 
