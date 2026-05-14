@@ -57,8 +57,8 @@
       <!--9.xml-->
                <pb ed="#L" n="1A"/>
                <lb ed="#L" n="1"/>FRATRI MEL 
-      <lb ed="#L" n="2"/>CHiORIS CAMI ORDI 
-      <lb ed="#L" n="3"/>NIS PRAEOICAVORVI 
+      <lb ed="#L" n="2"/>CHiORIS CAMI 
+      ORDI<lb ed="#L" n="3" break="no"/>NIS PRAEOICAVORVI 
       ETSA<lb ed="#L" n="4" break="no"/>CRaE VHEOLOGIAR PROVESSORIS 
       EpI<lb ed="#L" n="5" break="no"/>scopique Canariensis, ac primariae 
       ca<lb ed="#L" n="6" break="no"/>thedrae in academia Salmanticensi 
@@ -125,8 +125,8 @@
       <lb ed="#L" n="16"/>Titum ait, Christiani doctoris praecipuum 
       <lb ed="#L" n="17"/>institutum. Cuius explicandi desiderium 
       <lb ed="#L" n="18"/>omnino me mouit, vt de locis 
-      Theolo<lb ed="#L" n="19" break="no"/>gicis disputationem instituerem, viris do 
-      <lb ed="#L" n="20"/>ctis inisi me opinio fallitj non prorsus 
+      Theolo<lb ed="#L" n="19" break="no"/>gicis disputationem instituerem, viris 
+      do<lb ed="#L" n="20" break="no"/>ctis inisi me opinio fallitj non prorsus 
       in<lb ed="#L" n="21" break="no"/>eptam, indoctis vero magnopere neces 
       <lb ed="#L" n="22"/>sariam. Id autem eo libetius feci, quemd 
       <lb ed="#L" n="23"/>nemo Theologorum adhuc, quod equi 
@@ -136,8 +136,8 @@
       tractan<lb ed="#L" n="2" break="no"/>dum sumplit. cum praeter commune illam 
       <lb ed="#L" n="3"/>artendisserendi, quam a Dialecticis 
       acce<lb ed="#L" n="4" break="no"/>pimus, aliam Theoloous habeat necesse 
-      <lb ed="#L" n="5"/>sit, aliosqgeitem ad disputandum locos: vn 
-      <lb ed="#L" n="6"/>de argumenta non quasi communia &amp;  
+      <lb ed="#L" n="5"/>sit, aliosqgeitem ad disputandum locos: 
+      vn<lb ed="#L" n="6" break="no"/>de argumenta non quasi communia &amp;  
       <lb ed="#L" n="7"/>aliena, sed tamquam propria ducat &amp; suis 
       <lb ed="#L" n="8"/>dogmatis confirmandis &amp; aduersariorum 
       <lb ed="#L" n="9"/>sententiis refellendis. Hoc vero opus, 

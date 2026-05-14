@@ -56,8 +56,8 @@
             <p xml:id="Z4Yt34-d1e478-d1e109">
       <!--296.xml-->
                <pb ed="#L" n="285"/>
-               <lb ed="#L" n="1"/>DE AVCTORI 
-      <lb ed="#L" n="2"/>TATE COoRCILIORVM 
+               <lb ed="#L" n="1"/>DE 
+      AVCTORI<lb ed="#L" n="2" break="no"/>TATE COoRCILIORVM 
       <lb ed="#L" n="3"/>OyAE OARTO LOCOEST 
       <lb ed="#L" n="4"/>posita, Liber Quintus.
     </p>
@@ -196,8 +196,8 @@
       <lb ed="#L" n="5"/>vt in dubium vocari non debeat. 
       <lb ed="#L" n="6"/>Praeterea, concilium Constantien. definijt, concilium 
       <lb ed="#L" n="7"/>esse supra Papa, Florentinum autem sub Eugenio quarto, &amp;  
-      <lb ed="#L" n="8"/>Lateranense sub Leone decimo, contrarium dogma finie 
-      <lb ed="#L" n="9"/>runt : conciliorum ergo auctoritas infirma est.  
+      <lb ed="#L" n="8"/>Lateranense sub Leone decimo, contrarium dogma 
+      finie<lb ed="#L" n="9" break="no"/>runt : conciliorum ergo auctoritas infirma est.  
       </p>
             <p xml:id="Z4Yt34-d1e478-d1e411">
                <lb ed="#L" n="10"/>Rursum concilium Basiliense definit, esse haereticum 
