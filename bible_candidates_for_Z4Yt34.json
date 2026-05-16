@@ -3,7 +3,9 @@
     "Z4Yt34-d1e51-d1e138": [
       {
         "candidate_id": "tit1_9",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "tit1_9@13-21, partial quote with attribution \"ut Paulus ad Titum ait\""
       }
     ]
   },
@@ -11,7 +13,9 @@
     "Z4Yt34-d1e75-d1e116": [
       {
         "candidate_id": "tit1_9",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "full verse @1-21"
       }
     ]
   },
@@ -19,11 +23,13 @@
     "Z4Yt34-d1e113-d1e120": [
       {
         "candidate_id": "cant4_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps86_6",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -31,15 +37,21 @@
     "Z4Yt34-d1e124-d1e123": [
       {
         "candidate_id": "IIchr18_21",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "same text already encoded as Ireg22_22 parallel passage"
       },
       {
         "candidate_id": "ez14_9",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@2-13"
       },
       {
         "candidate_id": "Ireg22_23",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "Ireg22_23@1-22; \"Num igitur ecce dedit dominus spiritum mendacij...\""
       },
       {
         "candidate_id": "Ireg22_22",
@@ -53,55 +65,80 @@
       },
       {
         "candidate_id": "IIth2_10",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "spans IIth2_10@9-14 and IIth2_11@1-6; multi-verse"
       },
       {
         "candidate_id": "gen27_24",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "introduced with Isaac's question; encoded @1-9"
       },
       {
         "candidate_id": "mic2_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed to 'Michaeas ait'; encoded @1-10"
       },
       {
         "candidate_id": "sir11_14",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "introduced by 'inquit'; encoded @4-13"
       },
       {
         "candidate_id": "gen27_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as gen27_19@3-18"
       },
       {
         "candidate_id": "ex12_35",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as combined quote with ex12_36"
       },
       {
         "candidate_id": "ex12_36",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as combined quote with ex12_35"
       },
       {
         "candidate_id": "ez14_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "text in XML matches ez14_4 (not ez14_7); encoded as ez14_4@13-48"
       },
       {
         "candidate_id": "is63_17",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as is63_17@15-51"
       },
       {
         "candidate_id": "Icor4_8",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Icor4_8@1-10, cited as example of irony \"Et alio loco\""
       },
       {
         "candidate_id": "rom1_28",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "rom1_28@1-14, cited with attribution \"Apostoli dicentis\""
       },
       {
         "candidate_id": "IIchr18_22",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "already encoded as Ireg22_23 (parallel passage)"
       },
       {
         "candidate_id": "ez14_4",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -113,11 +150,15 @@
       },
       {
         "candidate_id": "rom3_4",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @1-8"
       },
       {
         "candidate_id": "num23_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as num23_19@1-7; attributed 'Et alio loco tandem'"
       }
     ],
     "Z4Yt34-d1e135-d1e227": [
@@ -131,27 +172,39 @@
       },
       {
         "candidate_id": "lc1_70",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "abbreviated with '& c.'; encoded @1-6"
       },
       {
         "candidate_id": "num23_19",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded both halves of verse @1-7 and @8-15 in d1e227"
       },
       {
         "candidate_id": "ps144_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "XML text matches ps144_13 (already encoded), not ps144_17; intersection is 'sanctus in omnibus operibus suis'"
       },
       {
         "candidate_id": "hebr6_18",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as combined quote with hebr6_19"
       },
       {
         "candidate_id": "hebr6_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as combined quote with hebr6_18"
       },
       {
         "candidate_id": "ps144_13",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Ps 144:13 fidelis dominus in omnibus verbis suis"
       }
     ]
   },
@@ -167,29 +220,40 @@
       },
       {
         "candidate_id": "rom8_23",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "thematic overlap only, no direct quotation"
       },
       {
         "candidate_id": "rom9_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom9_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as part of rom9_6-rom9_7-rom9_8 combined quote"
       },
       {
         "candidate_id": "hebr11_19",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "hebr11_19@1-9, attributed to Apostolus"
       }
     ],
     "Z4Yt34-d1e147-d1e372": [
       {
         "candidate_id": "ps104_25",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-13 full verse"
       },
       {
         "candidate_id": "gen20_7",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-23"
       },
       {
         "candidate_id": "IIsam16_11",
@@ -237,55 +301,80 @@
       },
       {
         "candidate_id": "IIchr18_22",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paraphrase \u2014 Cano describes God giving lying spirit, not a direct quote"
       },
       {
         "candidate_id": "IIsam12_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded in d1e372 paragraph"
       },
       {
         "candidate_id": "Ireg22_23",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paraphrase \u2014 same passage as IIchr18_22, not a direct quote"
       },
       {
         "candidate_id": "ios11_20",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded in d1e372 paragraph"
       },
       {
         "candidate_id": "rom1_27",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paraphrase as example, no attribution marker"
       },
       {
         "candidate_id": "sap11_25",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded in d1e372 paragraph"
       },
       {
         "candidate_id": "ex1_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paraphrase with 'Exodi 1. cap.' citation, not a direct quotation"
       },
       {
         "candidate_id": "num22_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as num22_20@10-20"
       },
       {
         "candidate_id": "rom9_22",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as rom9_22@1-11"
       },
       {
         "candidate_id": "IIsam16_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as IIsam16_10@13-19"
       },
       {
         "candidate_id": "num22_32",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "permission phrasing; encoded @9-18"
       },
       {
         "candidate_id": "rom9_17",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "ier1_8",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jer 1:8 Ne timeas a facie eorum quia tecum ego sum"
       }
     ],
     "Z4Yt34-d1e147-d1e1157": [
@@ -311,11 +400,15 @@
       },
       {
         "candidate_id": "gen42_16",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as gen42_16 (no range)"
       },
       {
         "candidate_id": "lam3_37",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @2-11"
       }
     ]
   },
@@ -355,19 +448,27 @@
     "Z4Yt34-d1e169-d1e264": [
       {
         "candidate_id": "deut18_21",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already included in multi-verse deut18_19-22 quote"
       },
       {
         "candidate_id": "deut18_19",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "already encoded as multi-verse deut18_19-22"
       },
       {
         "candidate_id": "deut18_20",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Deut 18:19-22 multi-verse; added source to existing quote element"
       },
       {
         "candidate_id": "deut18_22",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Deut 18:22 included in multi-verse deut18_19-22 quote"
       }
     ],
     "Z4Yt34-d1e169-d1e287": [
@@ -385,7 +486,9 @@
     "Z4Yt34-d1e169-d1e263": [
       {
         "candidate_id": "Icor2_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as Icor2_14@1-10 combined with Icor2_15"
       }
     ]
   },
@@ -465,11 +568,14 @@
       },
       {
         "candidate_id": "io21_24",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded without range \u2014 MS omits scripsit haec"
       },
       {
         "candidate_id": "act15_2",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -505,7 +611,9 @@
       },
       {
         "candidate_id": "io5_34",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as io5_34@9-14 'Sed haec dico vt vos salui sitis'"
       }
     ],
     "Z4Yt34-d1e191-d1e155": [
@@ -527,7 +635,9 @@
       },
       {
         "candidate_id": "act17_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paraphrase/narrative with 'Acto. 17' citation, not direct quote"
       },
       {
         "candidate_id": "io10_26",
@@ -543,11 +653,15 @@
     "Z4Yt34-d1e191-d1e505": [
       {
         "candidate_id": "io4_39",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-20 full verse"
       },
       {
         "candidate_id": "io4_53",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "@1-22 full verse"
       },
       {
         "candidate_id": "io10_41",
@@ -567,23 +681,33 @@
       },
       {
         "candidate_id": "act13_12",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "narrative recounting of Acts 13 event, not direct quote"
       },
       {
         "candidate_id": "io10_42",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "narrative recounting with 'dicebant', not Cano quoting scripture"
       },
       {
         "candidate_id": "io1_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "abbreviated reference 'hic venit in testimonium &c.', no direct quotation"
       },
       {
         "candidate_id": "io20_9",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded after already-encoded io20_8 quote"
       },
       {
         "candidate_id": "mc16_20",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "mc16_20@4-12, partial quote"
       },
       {
         "candidate_id": "rom10_14",
@@ -592,13 +716,16 @@
       },
       {
         "candidate_id": "io20_8",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e191-d1e513": [
       {
         "candidate_id": "mt16_17",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@6-24"
       },
       {
         "candidate_id": "io6_45",
@@ -622,43 +749,63 @@
       },
       {
         "candidate_id": "deut29_3",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded spanning deut29_3@4-10 and deut29_4@2-15; attribution 'inquit Moyses'"
       },
       {
         "candidate_id": "Icor12_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Icor12_3@15-23, attributed \"vt ad Corint.\""
       },
       {
         "candidate_id": "is50_4",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "is50_4@14-23, partial quote"
       },
       {
         "candidate_id": "rom10_16",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "text already encoded as is53_1 at first occurrence; second occurrence is inside io12_38 quote"
       },
       {
         "candidate_id": "act16_14",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @13-21"
       },
       {
         "candidate_id": "is53_1",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-10; explicit Esaias attribution"
       },
       {
         "candidate_id": "io12_37",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "nested inside outer quote block"
       },
       {
         "candidate_id": "io12_38",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "nested inside outer quote block"
       },
       {
         "candidate_id": "io6_44",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jn 6:44 Nemo potest venire ad me nisi Pater traxerit"
       },
       {
         "candidate_id": "io6_66",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jn 6:66 dixi vobis quod nemo potest venire ad me nisi ei datum a Patre"
       }
     ],
     "Z4Yt34-d1e191-d1e700": [
@@ -670,7 +817,9 @@
     "Z4Yt34-d1e191-d1e761": [
       {
         "candidate_id": "io12_44",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@6-19"
       },
       {
         "candidate_id": "io6_35",
@@ -678,7 +827,9 @@
       },
       {
         "candidate_id": "Ith2_13",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Ith2_13@4-33, attributed \"ad Thessal.\""
       }
     ],
     "Z4Yt34-d1e191-d1e781": [
@@ -711,11 +862,15 @@
     "Z4Yt34-d1e191-d1e928": [
       {
         "candidate_id": "IIpetr1_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as IIpetr1_19@2-24"
       },
       {
         "candidate_id": "io4_42",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @5-21; explicit Ioannis 4 attribution"
       }
     ],
     "Z4Yt34-d1e191-d1e1204": [
@@ -731,15 +886,21 @@
       },
       {
         "candidate_id": "Icor2_13",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Cano paraphrasing Paul's point, not a direct quote with attribution"
       },
       {
         "candidate_id": "IIreg4_27",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as IIreg4_27@27-32"
       },
       {
         "candidate_id": "iob42_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as iob42_3@10-19"
       }
     ]
   },
@@ -747,7 +908,9 @@
     "Z4Yt34-d1e214-d1e507": [
       {
         "candidate_id": "gen49_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as gen49_10@1-15"
       }
     ],
     "Z4Yt34-d1e214-d1e671": [
@@ -757,19 +920,26 @@
       },
       {
         "candidate_id": "Ichr17_13",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "already encoded as Ichr22_10 for the same quote"
       },
       {
         "candidate_id": "Ichr28_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "already encoded as Ichr22_10 for the same quote"
       },
       {
         "candidate_id": "hebr1_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "text encoded as Ichr22_10@7-17 (OT source); author argues this was originally about Solomon, not quoting Heb 1:5 directly"
       },
       {
         "candidate_id": "Ichr22_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e214-d1e883": [
@@ -783,11 +953,15 @@
     "Z4Yt34-d1e225-d1e147": [
       {
         "candidate_id": "bar3_38",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "quote mediated through Augustine's De civitate Dei citation, not direct Cano quotation"
       },
       {
         "candidate_id": "io17_3",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "abbreviated reference 'vt cognoscant te solum verum Deum', no standalone quote"
       }
     ],
     "Z4Yt34-d1e225-d1e292": [
@@ -813,29 +987,39 @@
       },
       {
         "candidate_id": "IImac1_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as IImac1_15@10-16"
       }
     ],
     "Z4Yt34-d1e225-d1e1021": [
       {
         "candidate_id": "rom3_4",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @3-8"
       }
     ],
     "Z4Yt34-d1e225-d1e1550": [
       {
         "candidate_id": "IIpetr3_15",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @7-18; attribution 'sic Petrus inquit'"
       }
     ],
     "Z4Yt34-d1e225-d1e1756": [
       {
         "candidate_id": "mc15_34",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "verse content discussed but not directly quoted; author explains why Hebrew words were retained"
       },
       {
         "candidate_id": "mt27_46",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "verse content discussed but not directly quoted; author explains why Hebrew words were retained"
       }
     ],
     "Z4Yt34-d1e225-d1e1887": [
@@ -845,25 +1029,33 @@
       },
       {
         "candidate_id": "ier30_9",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as ier30_9@2-9"
       }
     ],
     "Z4Yt34-d1e225-d1e1975": [
       {
         "candidate_id": "hebr2_3",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Heb 2:3 Quae cum initium accepisset...confirmata est"
       }
     ],
     "Z4Yt34-d1e225-d1e2014": [
       {
         "candidate_id": "hebr9_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as hebr9_15 (no range)"
       }
     ],
     "Z4Yt34-d1e225-d1e2334": [
       {
         "candidate_id": "act20_35",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @18-23; introduced as 'illa verba'"
       }
     ]
   },
@@ -875,11 +1067,15 @@
       },
       {
         "candidate_id": "Icor15_51",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @5-11; attribution 'in priore ad Corinthios epistolae dicitur'"
       },
       {
         "candidate_id": "mic5_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as mic5_2@1-11"
       }
     ]
   },
@@ -903,11 +1099,15 @@
     "Z4Yt34-d1e247-d1e1128": [
       {
         "candidate_id": "Icor7_34",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "verse discussed in context of textual variants between Greek and Latin; 'diuisa est vxor & virgo' appears as a proposed Greek-based reading, not a direct attribution"
       },
       {
         "candidate_id": "Icor7_33",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-16; verse cited in context of textual variants"
       }
     ]
   },
@@ -915,11 +1115,15 @@
     "Z4Yt34-d1e258-d1e120": [
       {
         "candidate_id": "gen26_20",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "narrative retelling of Gen 26 events as allegory, no attribution marker"
       },
       {
         "candidate_id": "gen26_22",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Gen 26:22 Profectus inde fodit alium puteum...Latitudo"
       }
     ],
     "Z4Yt34-d1e258-d1e534": [
@@ -929,7 +1133,9 @@
       },
       {
         "candidate_id": "is1_30",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @1-6; cited as 'Esa. 1. Vbi Latina editio habet'"
       }
     ],
     "Z4Yt34-d1e258-d1e846": [
@@ -941,7 +1147,9 @@
     "Z4Yt34-d1e258-d1e1011": [
       {
         "candidate_id": "IIpetr1_21",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-17 full verse"
       },
       {
         "candidate_id": "is50_4",
@@ -963,23 +1171,32 @@
       },
       {
         "candidate_id": "IIpetr1_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as IIpetr1_19@2-15 combined with IIpetr1_20"
       },
       {
         "candidate_id": "gal1_7",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as gal1_7@6-15"
       },
       {
         "candidate_id": "IIpetr1_20",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as part of combined IIpetr1_19-IIpetr1_20 quote"
       },
       {
         "candidate_id": "Icor2_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps118_18",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as ps118_18@1-9"
       }
     ]
   },
@@ -987,7 +1204,9 @@
     "Z4Yt34-d1e269-d1e242": [
       {
         "candidate_id": "lc19_26",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "@5-19 cited as proverbial expression"
       },
       {
         "candidate_id": "ier1_12",
@@ -1007,11 +1226,15 @@
       },
       {
         "candidate_id": "mt25_29",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "cited as proverb 'apud Hebraeos atque Hispanos', no attribution to Matthew"
       },
       {
         "candidate_id": "mt13_12",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel passage lc19_26 encoded instead; mt13_12 not directly quoted"
       }
     ],
     "Z4Yt34-d1e269-d1e484": [
@@ -1033,25 +1256,35 @@
       },
       {
         "candidate_id": "ps5_9",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "in text-critical variant discussion, not a theological proof-text quote"
       },
       {
         "candidate_id": "ios11_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as ios11_19@1-7"
       }
     ],
     "Z4Yt34-d1e269-d1e759": [
       {
         "candidate_id": "act27_9",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "in text-critical discussion of Vulgate translation, not a direct quote"
       },
       {
         "candidate_id": "io1_27",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "in text-critical discussion of Vulgate translation, not a direct quote"
       },
       {
         "candidate_id": "io1_15",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io1_15@14-26, partial quote attributed \"Et Ioannis primo\""
       }
     ],
     "Z4Yt34-d1e269-d1e805": [
@@ -1071,7 +1304,9 @@
       },
       {
         "candidate_id": "ps11_7",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as ps11_7@1-7"
       }
     ]
   },
@@ -1079,11 +1314,15 @@
     "Z4Yt34-d1e281-d1e118": [
       {
         "candidate_id": "io1_33",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @15-23; attribution 'vt Ioannis 1. cap. dicitur'"
       },
       {
         "candidate_id": "IItim4_13",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as IItim4_13@1-8"
       }
     ],
     "Z4Yt34-d1e281-d1e183": [
@@ -1107,19 +1346,27 @@
       },
       {
         "candidate_id": "Icor7_12",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "quote appears within Ambrose's citation of Paul, not a direct Cano-to-scripture quotation"
       },
       {
         "candidate_id": "IIcor11_21",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as IIcor11_21@8-17"
       },
       {
         "candidate_id": "mt19_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as mt19_8@3-19"
       },
       {
         "candidate_id": "Icor7_10",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "paraphrase within Origen's argument citing Paul; not direct MS quotation"
       }
     ]
   },
@@ -1127,7 +1374,9 @@
     "Z4Yt34-d1e292-d1e214": [
       {
         "candidate_id": "Icor15_15",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "full verse @1-21"
       },
       {
         "candidate_id": "mt5_18",
@@ -1135,7 +1384,8 @@
       },
       {
         "candidate_id": "Icor15_14",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -1143,11 +1393,15 @@
     "Z4Yt34-d1e303-d1e116": [
       {
         "candidate_id": "Icor7_40",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-17 full verse"
       },
       {
         "candidate_id": "Icor2_12",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "multi-verse Icor2:12-13; \"non spiritum huius mundi accepimus...\""
       },
       {
         "candidate_id": "io6_39",
@@ -1155,45 +1409,64 @@
       },
       {
         "candidate_id": "IIcor11_17",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @1-10; attribution 'Paulus ipse explicat, inquiens'"
       },
       {
         "candidate_id": "IIcor12_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @1-6; follows from Paul discussion"
       },
       {
         "candidate_id": "io14_24",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "relevant quote encoded as io7_16 not io14_24"
       },
       {
         "candidate_id": "io14_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as io14_26@12-21"
       },
       {
         "candidate_id": "Icor2_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse Icor2:12-13"
       },
       {
         "candidate_id": "IIcor11_16",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "IIcor11_16@1-12, full quote"
       },
       {
         "candidate_id": "IIcor12_6",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "IIcor12_6@3-11, partial quote"
       },
       {
         "candidate_id": "mt10_19",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "mt10_19@5-18, attributed \"Nolite, inquit\""
       },
       {
         "candidate_id": "io7_16",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @6-15"
       }
     ],
     "Z4Yt34-d1e303-d1e389": [
       {
         "candidate_id": "lc10_16",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e303-d1e647": [
@@ -1215,11 +1488,15 @@
       },
       {
         "candidate_id": "mt1_17",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @1-8; attribution 'inquit'"
       },
       {
         "candidate_id": "mc15_25",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as mc15_25@1-7"
       }
     ]
   },
@@ -1227,7 +1504,9 @@
     "Z4Yt34-d1e320-d1e132": [
       {
         "candidate_id": "IItim3_17",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "IItim3_17@1-10, attributed to Paulus"
       }
     ],
     "Z4Yt34-d1e320-d1e414": [
@@ -1245,15 +1524,21 @@
       },
       {
         "candidate_id": "IIpetr3_16",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @14-29; attribution 'Petrus ait' (paraphrase/indirect)"
       },
       {
         "candidate_id": "eph4_12",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "no explicit attribution marker; embedded in Cano's commentary"
       },
       {
         "candidate_id": "qoh7_30",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @15-24; attributed to Solomon"
       }
     ]
   },
@@ -1271,23 +1556,32 @@
       },
       {
         "candidate_id": "lc1_4",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc1_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse lc1_1 through lc1_4 combined quote"
       },
       {
         "candidate_id": "lc1_1",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as part of lc1_1 through lc1_4 combined quote"
       },
       {
         "candidate_id": "ier31_33",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jer 31:33 dabo legem meam in visceribus eorum"
       },
       {
         "candidate_id": "lc1_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Luke 1:1-4 multi-verse quote introduced by inquiens"
       }
     ],
     "Z4Yt34-d1e342-d1e249": [
@@ -1311,17 +1605,23 @@
       },
       {
         "candidate_id": "ps43_2",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @1-8; attribution 'Propheta...cum ait'"
       }
     ],
     "Z4Yt34-d1e342-d1e553": [
       {
         "candidate_id": "IItim2_2",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-18 full verse"
       },
       {
         "candidate_id": "IIio1_12",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "@1-20 full verse"
       },
       {
         "candidate_id": "Icor2_6",
@@ -1333,31 +1633,45 @@
       },
       {
         "candidate_id": "Icor11_23",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as Icor11_23@1-9"
       },
       {
         "candidate_id": "IItim1_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as IItim1_13@1-8"
       },
       {
         "candidate_id": "Icor11_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as Icor11_2@1-16"
       },
       {
         "candidate_id": "is59_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as is59_21@15-31"
       },
       {
         "candidate_id": "mt4_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded in XML as mt4_6@4-13"
       },
       {
         "candidate_id": "Icor2_2",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Icor2_2@1-11, attributed \"Non iudicaui, inquit\""
       },
       {
         "candidate_id": "ier31_33",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jer 31:33 Dabo legem meam in visceribus eorum"
       }
     ]
   },
@@ -1365,7 +1679,8 @@
     "Z4Yt34-d1e353-d1e336": [
       {
         "candidate_id": "gen2_23",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -1377,15 +1692,20 @@
       },
       {
         "candidate_id": "io16_14",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "io16_12",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of io16_12/io16_13/io16_14 multi-verse quote"
       },
       {
         "candidate_id": "io16_13",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "encoded with io16_12 and io16_14 as multi-verse"
       }
     ]
   },
@@ -1393,7 +1713,8 @@
     "Z4Yt34-d1e376-d1e116": [
       {
         "candidate_id": "Icor11_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "gal1_9",
@@ -1406,21 +1727,28 @@
     "Z4Yt34-d1e387-d1e116": [
       {
         "candidate_id": "IIcor3_3",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "allusion to 2Cor 3:3 without attribution marker; embedded in Cano's commentary"
       },
       {
         "candidate_id": "Itim6_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as Itim6_20@1-13"
       }
     ],
     "Z4Yt34-d1e387-d1e350": [
       {
         "candidate_id": "IIio1_12",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "IIio1_12@1-20; \"plura habens vobis scribere, nolui per chartam...\""
       },
       {
         "candidate_id": "IItim3_14",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e387-d1e749": [
@@ -1438,7 +1766,8 @@
       },
       {
         "candidate_id": "IItim2_2",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -1446,47 +1775,67 @@
     "Z4Yt34-d1e404-d1e238": [
       {
         "candidate_id": "ier5_4",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "ier5:1+4+5 multi-verse, skipping vv2-3"
       },
       {
         "candidate_id": "deut28_35",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 'a planta pedis' phrase encoded as is1_6 not deut28_35"
       },
       {
         "candidate_id": "ier32_32",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 similar content encoded as ier2_26"
       },
       {
         "candidate_id": "iob2_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 'a planta pedis' phrase encoded as is1_6 not iob2_7"
       },
       {
         "candidate_id": "ier2_29",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as ier2_29@1-10"
       },
       {
         "candidate_id": "is1_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as is1_3@2-9"
       },
       {
         "candidate_id": "ier5_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded within multi-verse quote ier5_1 ier5_4 ier5_5"
       },
       {
         "candidate_id": "is1_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ier2_26",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "ier2_26@7-20, attributed \"Et posterior, Confusi sunt, ait\""
       },
       {
         "candidate_id": "ier2_27",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "ier5_1",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "already encoded as multi-verse ier5_1/ier5_4/ier5_5"
       }
     ],
     "Z4Yt34-d1e404-d1e319": [
@@ -1502,35 +1851,47 @@
       },
       {
         "candidate_id": "lc18_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e404-d1e456": [
       {
         "candidate_id": "rom8_17",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @1-11; attribution 'inqt'"
       },
       {
         "candidate_id": "Ipetr3_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as Ipetr3_20@20-26"
       },
       {
         "candidate_id": "io10_27",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded combined with io10_28"
       },
       {
         "candidate_id": "Iio2_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io10_28",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "encoded with io10_27"
       }
     ],
     "Z4Yt34-d1e404-d1e550": [
       {
         "candidate_id": "Iio3_9",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "Iio3:6+9+10 non-consecutive verses cited together"
       },
       {
         "candidate_id": "Iio5_1",
@@ -1550,19 +1911,27 @@
       },
       {
         "candidate_id": "Iio5_18",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 text uses 1Jn 3:6+9+10 not 1Jn 5:18"
       },
       {
         "candidate_id": "hebr12_22",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "updated existing hebr12_23 quote to include hebr12_22@2-11 and hebr12_23@1-11"
       },
       {
         "candidate_id": "Iio3_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "Iio3_10 already encoded as part of multi-source quote Iio3_6 Iio3_9 Iio3_10 at line 278"
       },
       {
         "candidate_id": "hebr12_23",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded without range; MS omits et iudicem omnium Deum"
       }
     ],
     "Z4Yt34-d1e404-d1e610": [
@@ -1578,17 +1947,22 @@
       },
       {
         "candidate_id": "io10_27",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e404-d1e900": [
       {
         "candidate_id": "ier8_8",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse ier8:8-10; \"Quomodo dicitis sapientes nos sumus...\""
       },
       {
         "candidate_id": "is56_10",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse is56:10-11; attributed to Isaiah in context"
       },
       {
         "candidate_id": "IIchr15_13",
@@ -1616,19 +1990,27 @@
       },
       {
         "candidate_id": "ier6_13",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel to ier8_10 which is already encoded in multi-verse ier8:8-10 quote; ier6_13 text not directly quoted"
       },
       {
         "candidate_id": "is56_11",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse is56:10-11"
       },
       {
         "candidate_id": "ier8_9",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ier8:8-10"
       },
       {
         "candidate_id": "ier8_10",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ier8:8-10"
       }
     ]
   },
@@ -1636,17 +2018,23 @@
     "Z4Yt34-d1e415-d1e116": [
       {
         "candidate_id": "Icor1_9",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "1 Cor 1:9 Fidelis Deus"
       }
     ],
     "Z4Yt34-d1e415-d1e268": [
       {
         "candidate_id": "rom8_30",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "rom8_30@1-18; \"Nam quos praedestinauit, hos & vocauit...\""
       },
       {
         "candidate_id": "IItim2_20",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "2 Tim 2:20 vessels of honor"
       }
     ]
   },
@@ -1670,27 +2058,38 @@
       },
       {
         "candidate_id": "eph4_16",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded without @range (paraphrase); attribution 'inquit'"
       },
       {
         "candidate_id": "prov20_9",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as prov20_9@1-11"
       },
       {
         "candidate_id": "Iio1_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps142_2",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-16"
       },
       {
         "candidate_id": "qoh7_21",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-13"
       },
       {
         "candidate_id": "eph4_11",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Eph 4:11 gifts of apostles etc."
       }
     ],
     "Z4Yt34-d1e426-d1e273": [
@@ -1708,67 +2107,96 @@
       },
       {
         "candidate_id": "Iio3_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "relevant phrase already encoded as Iio3_10"
       },
       {
         "candidate_id": "io1_12",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded @5-16; attribution 'ait'"
       },
       {
         "candidate_id": "mt13_24",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parable described in Cano's narrative without direct quote tags"
       },
       {
         "candidate_id": "mt13_42",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "partial phrase in Cano's narrative without attribution"
       },
       {
         "candidate_id": "mt13_50",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parable description in narrative, not direct quote"
       },
       {
         "candidate_id": "mt18_23",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parable described narratively, quote encoded as mt22_2"
       },
       {
         "candidate_id": "Icor12_13",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as Icor12_13@2-11"
       },
       {
         "candidate_id": "Icor6_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as Icor6_15@3-14"
       },
       {
         "candidate_id": "mt5_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded in XML as mt5_15@1-8"
       },
       {
         "candidate_id": "mt18_17",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio3_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Iio3_10@1-9, partial quote with preceding Iio3_8 text"
       },
       {
         "candidate_id": "mt5_14",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-11"
       },
       {
         "candidate_id": "eph5_8",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom12_5",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph2_19",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Eph 2:19 citizens of saints"
       },
       {
         "candidate_id": "mt22_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Mt 22:2 parable of wedding feast"
       }
     ],
     "Z4Yt34-d1e426-d1e472": [
@@ -1786,7 +2214,8 @@
       },
       {
         "candidate_id": "Icor4_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ]
   },
@@ -1802,19 +2231,23 @@
       },
       {
         "candidate_id": "Ireg8_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded"
       },
       {
         "candidate_id": "Ireg8_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ex19_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ex19_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e437-d1e195": [
@@ -1882,29 +2315,36 @@
       },
       {
         "candidate_id": "mt28_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as mt28_20@9-18"
       },
       {
         "candidate_id": "lc1_33",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps131_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps88_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e437-d1e319": [
       {
         "candidate_id": "io14_17",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "io17_17",
@@ -1912,57 +2352,79 @@
       },
       {
         "candidate_id": "io14_16",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as io14_16@2-14 io14_17 multi-source"
       },
       {
         "candidate_id": "io16_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io14_26",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io14_26@11-21, attributed \"Et postea, Paracletus autem\""
       },
       {
         "candidate_id": "io17_19",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io17_19@1-14, partial quote"
       },
       {
         "candidate_id": "is59_21",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded without range; MS paraphrase omits middle phrase"
       },
       {
         "candidate_id": "mt28_20",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @10-18"
       },
       {
         "candidate_id": "io17_20",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e437-d1e467": [
       {
         "candidate_id": "eph4_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded"
       },
       {
         "candidate_id": "eph4_12",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as eph4_12@1-10"
       },
       {
         "candidate_id": "ier43_2",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "ier43_2@16-24, quoted as rhetorical objection"
       },
       {
         "candidate_id": "mt18_17",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "mt18_17@8-19, attributed \"vulgatum illud Domini testimonium\""
       },
       {
         "candidate_id": "eph4_7",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-10"
       },
       {
         "candidate_id": "eph4_16",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e437-d1e924": [
@@ -1980,7 +2442,8 @@
       },
       {
         "candidate_id": "lc10_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       }
     ]
   },
@@ -2000,21 +2463,28 @@
     "Z4Yt34-d1e449-d1e188": [
       {
         "candidate_id": "mt28_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as mt28_17@2-7"
       },
       {
         "candidate_id": "mc16_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt28_16",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "mt28_16@1-12, partial quote"
       }
     ],
     "Z4Yt34-d1e449-d1e364": [
       {
         "candidate_id": "eph5_23",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as eph5_23@7-13"
       }
     ]
   },
@@ -2030,33 +2500,47 @@
       },
       {
         "candidate_id": "lev8_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paraphrase reference to Aaron ordination details, no direct quote marker"
       },
       {
         "candidate_id": "ex32_26",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "ex32_26@7-19, partial quote"
       }
     ],
     "Z4Yt34-d1e460-d1e173": [
       {
         "candidate_id": "ag2_15",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@6-30"
       },
       {
         "candidate_id": "Icor1_2",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse Icor1:2-5"
       },
       {
         "candidate_id": "Icor1_5",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse Icor1:2-5"
       },
       {
         "candidate_id": "Icor1_4",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "multi-verse Icor1:2-5; \"ecce sic ad Corinth. Apostolus loquitur: Paulus Ecclesiae...\""
       },
       {
         "candidate_id": "ez9_4",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "ez9_4@14-29; \"Signa Thau super frontes virorum gementium...\""
       },
       {
         "candidate_id": "Icor5_2",
@@ -2066,7 +2550,9 @@
       },
       {
         "candidate_id": "Ith1_1",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 low intersectionCount, verse not quoted in paragraph"
       },
       {
         "candidate_id": "phm1_4",
@@ -2078,87 +2564,128 @@
       },
       {
         "candidate_id": "ez3_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: Quid dicat ei Dominus audiamus"
       },
       {
         "candidate_id": "gal3_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: Item ex epistola ad Galatas"
       },
       {
         "candidate_id": "IIth1_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 'gratia et pax' formula overlap with 1 Cor 1:2-5 already encoded"
       },
       {
         "candidate_id": "gal1_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 'gratia et pax' formula overlap with 1 Cor 1:2-5 already encoded"
       },
       {
         "candidate_id": "ps11_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded as multi-verse ps11_2+ps11_3@1-7, 'Saluum inquit me fas... Vana locuti sunt vnusquisque'"
       },
       {
         "candidate_id": "ps11_6",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded as ps11_6@1-8, 'Propter miseriam inopum & gemitum pauperum nunc exurgam'"
       },
       {
         "candidate_id": "Icor3_3",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "col1_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "candidate misidentified: text quotes 1 Cor 1:2 which is already encoded as Icor1_2 multi-verse quote; col1_2 not present"
       },
       {
         "candidate_id": "Icor1_13",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Icor1_13@1-15, full verse"
       },
       {
         "candidate_id": "Icor3_2",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Icor3_2@1-18, full verse"
       },
       {
         "candidate_id": "ag2_6",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "ag2_6 already encoded as part of multi-source quote ag2_5 ag2_6"
       },
       {
         "candidate_id": "gal6_1",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "gal6_1@1-13, partial quote"
       },
       {
         "candidate_id": "ag2_14",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @4-13; MS has the question/response from ag2_14"
       },
       {
         "candidate_id": "ag2_5",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @3-18 with ag2_6@11-18; quote spans both verses"
       },
       {
         "candidate_id": "IIcor1_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes 1 Cor 1:2-3 as example; all share gratia et pax formula"
       },
       {
         "candidate_id": "IIth1_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes 1 Cor 1:2-3 as example; all share gratia et pax formula"
       },
       {
         "candidate_id": "Icor1_3",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse Icor1:2-5"
       },
       {
         "candidate_id": "eph1_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes 1 Cor 1:2-3 as example; all share gratia et pax formula"
       },
       {
         "candidate_id": "phil1_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes 1 Cor 1:2-3 as example; all share gratia et pax formula"
       },
       {
         "candidate_id": "phm1_3",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes 1 Cor 1:2-3 as example; all share gratia et pax formula"
       },
       {
         "candidate_id": "rom1_7",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph quotes 1 Cor 1:2-3 as example; all share gratia et pax formula"
       }
     ],
     "Z4Yt34-d1e460-d1e416": [
@@ -2168,11 +2695,15 @@
       },
       {
         "candidate_id": "tob1_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "narrative description of Tobias, no direct quote marker"
       },
       {
         "candidate_id": "mt5_15",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "Augustine paraphrase, not direct quote"
       }
     ],
     "Z4Yt34-d1e460-d1e563": [
@@ -2198,19 +2729,27 @@
       },
       {
         "candidate_id": "mt17_19",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: in alio loco (within Hieronymus argument)"
       },
       {
         "candidate_id": "mt9_22",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: Dominus aiebat (within Hieronymus argument)"
       },
       {
         "candidate_id": "Icor12_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as Icor12_14@3-9"
       },
       {
         "candidate_id": "mt28_20",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "mt28_20@9-18, partial quote"
       }
     ],
     "Z4Yt34-d1e460-d1e732": [
@@ -2220,21 +2759,28 @@
       },
       {
         "candidate_id": "lc11_33",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "already encoded as mt5_15, parallel passage"
       },
       {
         "candidate_id": "mt5_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt5_15",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "@1-11"
       }
     ],
     "Z4Yt34-d1e460-d1e804": [
       {
         "candidate_id": "Ipetr3_21",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "Ipetr3_21@1-17; \"Quod & vos nunc similis formae saluos facit baptisma... &c.\""
       }
     ],
     "Z4Yt34-d1e460-d1e960": [
@@ -2248,53 +2794,75 @@
       },
       {
         "candidate_id": "ps73_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "loose allusion in list without attribution marker"
       },
       {
         "candidate_id": "ier3_22",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as ier3_22@1-7"
       },
       {
         "candidate_id": "Iio2_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "is1_2",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "cant2_2",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "cant2_2@1-9, full verse"
       }
     ],
     "Z4Yt34-d1e460-d1e1275": [
       {
         "candidate_id": "ez16_9",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ez16:9-13"
       },
       {
         "candidate_id": "ez16_11",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ez16:9-13"
       },
       {
         "candidate_id": "ez16_12",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "multi-verse ez16:9-13; \"Laui te aqua & emundaui...\" cited re baptism"
       },
       {
         "candidate_id": "ez16_13",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ez16:9-13"
       },
       {
         "candidate_id": "tit3_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "not directly quoted; paragraph discusses baptism and Ezekiel passage"
       },
       {
         "candidate_id": "ez16_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ez16:9-13"
       },
       {
         "candidate_id": "eph5_27",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "theological commentary on verse, no direct quote"
       }
     ],
     "Z4Yt34-d1e460-d1e1428": [
@@ -2304,7 +2872,9 @@
       },
       {
         "candidate_id": "ps118_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as ps118_1@3-11"
       }
     ],
     "Z4Yt34-d1e460-d1e1465": [
@@ -2314,79 +2884,112 @@
       },
       {
         "candidate_id": "Iio5_18",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 encoded as Iio3_9 (parallel phrase)"
       },
       {
         "candidate_id": "Iio3_9",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Iio3_9@1-9, partial quote"
       }
     ],
     "Z4Yt34-d1e460-d1e1535": [
       {
         "candidate_id": "Iio2_6",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-13 full verse"
       },
       {
         "candidate_id": "Iio2_9",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-13 full verse"
       },
       {
         "candidate_id": "Iio3_6",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-16 full verse"
       },
       {
         "candidate_id": "Iio3_7",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio2_3",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: Item capite secundo"
       },
       {
         "candidate_id": "Iio3_9",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: Item capite tertio (sequence Iio3_7-9)"
       },
       {
         "candidate_id": "Iio5_18",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 passage is Iio3_9"
       },
       {
         "candidate_id": "io3_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "candidate_id likely misidentified; encoded as Iio3_8 (1 John 3:8)"
       },
       {
         "candidate_id": "Iio3_4",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Iio3_4@1-7, 'Omnis qui facit peccatum & iniquitatem facit', attributed 'Item capite tertio'"
       },
       {
         "candidate_id": "Iio2_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio1_5",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "already encoded as Iio1_5+Iio1_6"
       },
       {
         "candidate_id": "Iio2_15",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @10-19"
       },
       {
         "candidate_id": "rom7_20",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "text uses rom7_17 language (already encoded); rom7_20 false positive"
       },
       {
         "candidate_id": "rom7_17",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "Iio1_6",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "encoded with Iio1_5 as multi-verse @1-12"
       }
     ],
     "Z4Yt34-d1e460-d1e1637": [
       {
         "candidate_id": "Iio5_18",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "already encoded (2 occurrences); attribution: Item in fine epistolae"
       },
       {
         "candidate_id": "Iio4_8",
@@ -2398,15 +3001,21 @@
       },
       {
         "candidate_id": "Iio5_3",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "woven in as scriptural statement"
       },
       {
         "candidate_id": "Iio3_9",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Iio3_9 is encoded in d1e460-d1e1465; not directly quoted in d1e1637"
       },
       {
         "candidate_id": "Iio3_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Iio3_10@1-24, full verse"
       }
     ],
     "Z4Yt34-d1e460-d1e1871": [
@@ -2424,21 +3033,27 @@
       },
       {
         "candidate_id": "rom8_24",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 not quoted in paragraph; low intersectionCount"
       }
     ],
     "Z4Yt34-d1e460-d1e2296": [
       {
         "candidate_id": "ps118_85",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded as ps118_85+86 multi-verse; attribution: Item"
       },
       {
         "candidate_id": "ps2_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor1_18",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -2446,25 +3061,35 @@
     "Z4Yt34-d1e478-d1e164": [
       {
         "candidate_id": "mt27_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: Mantth. 27"
       },
       {
         "candidate_id": "mt26_59",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "mt26_59@1-11"
       }
     ],
     "Z4Yt34-d1e478-d1e186": [
       {
         "candidate_id": "mal2_8",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-17 full verse"
       },
       {
         "candidate_id": "mal2_7",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "mal2_7@1-16; \"Labia enim sacerdotis custodient scientiam...\" Malachy 2"
       },
       {
         "candidate_id": "is56_10",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse is56:10-11; citation attributed to Isaiah"
       },
       {
         "candidate_id": "ier2_8",
@@ -2484,7 +3109,9 @@
       },
       {
         "candidate_id": "is56_11",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse is56:10-11"
       },
       {
         "candidate_id": "lev26_40",
@@ -2496,21 +3123,28 @@
       },
       {
         "candidate_id": "ier18_18",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "ez7_26",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "@10-22"
       }
     ],
     "Z4Yt34-d1e478-d1e316": [
       {
         "candidate_id": "mt18_19",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "encoded as part of mt18:19-20 multi-verse quote with mt18_20"
       },
       {
         "candidate_id": "mt18_20",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "mt18:19-20 multi-verse"
       }
     ]
   },
@@ -2518,15 +3152,21 @@
     "Z4Yt34-d1e489-d1e199": [
       {
         "candidate_id": "act20_28",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-15"
       },
       {
         "candidate_id": "mal2_7",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-16 full verse"
       },
       {
         "candidate_id": "ex19_9",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse ex19:9,21,22,24; \"Veniam, inquit dominus Moysi...\""
       },
       {
         "candidate_id": "deut17_11",
@@ -2542,35 +3182,51 @@
       },
       {
         "candidate_id": "act15_2",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded as act15_6 (actual matching verse); attribution: Actorum 15. capite tradit Lucas"
       },
       {
         "candidate_id": "deut17_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded as deut17_8+9; attribution: ait"
       },
       {
         "candidate_id": "is60_2",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "allusion woven into conditional clause without attribution"
       },
       {
         "candidate_id": "ex19_21",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ex19:9,21,22,24"
       },
       {
         "candidate_id": "ex19_22",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse ex19:9,21,22,24"
       },
       {
         "candidate_id": "rom2_28",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "verse 28 text embedded in running prose leading into encoded rom2_29 quote; not directly quoted"
       },
       {
         "candidate_id": "eph4_11",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "@1-17 full verse"
       },
       {
         "candidate_id": "rom2_29",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "@2-21"
       }
     ]
   },
@@ -2590,7 +3246,9 @@
       },
       {
         "candidate_id": "Icor1_10",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @12-21"
       }
     ],
     "Z4Yt34-d1e511-d1e1041": [
@@ -2618,7 +3276,9 @@
     "Z4Yt34-d1e523-d1e660": [
       {
         "candidate_id": "deut17_12",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-20 full verse"
       },
       {
         "candidate_id": "act16_4",
@@ -2626,7 +3286,8 @@
       },
       {
         "candidate_id": "deut17_9",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e523-d1e804": [
@@ -2638,15 +3299,20 @@
     "Z4Yt34-d1e523-d1e1705": [
       {
         "candidate_id": "io14_26",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded"
       },
       {
         "candidate_id": "io15_15",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@15-26, attributed 'Ioannis is.'"
       },
       {
         "candidate_id": "ps86_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "language echoes psalm but embedded in author's own argument without quotation markers"
       }
     ],
     "Z4Yt34-d1e523-d1e2411": [
@@ -2672,17 +3338,23 @@
     "Z4Yt34-d1e534-d1e116": [
       {
         "candidate_id": "Icor1_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as Icor1_26@3-11"
       },
       {
         "candidate_id": "act20_28",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paraphrase embedded in author's argument without quotation markers"
       }
     ],
     "Z4Yt34-d1e534-d1e201": [
       {
         "candidate_id": "io11_50",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@4-16"
       },
       {
         "candidate_id": "io11_49",
@@ -2690,17 +3362,23 @@
       },
       {
         "candidate_id": "io11_51",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io11_51@1-14"
       }
     ],
     "Z4Yt34-d1e534-d1e283": [
       {
         "candidate_id": "ier32_40",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "paraphrase, no range"
       },
       {
         "candidate_id": "is54_9",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "is54:9 @1-22"
       },
       {
         "candidate_id": "Icor10_11",
@@ -2726,23 +3404,33 @@
       },
       {
         "candidate_id": "ez37_26",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@2-9, introduced by 'Item'"
       },
       {
         "candidate_id": "hebr5_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "same text as hebr7_17; only one occurrence encoded as hebr7_17"
       },
       {
         "candidate_id": "hebr7_17",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@4-11, 'Tu es sacerdos in aeternum secundum ordinem Melchisedech'"
       },
       {
         "candidate_id": "ier31_35",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-9, 'Haec dicit Dominus qui dat solem in lumine dier.'"
       },
       {
         "candidate_id": "lc22_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@3-10, attributed 'Et rursum'"
       },
       {
         "candidate_id": "ier31_32",
@@ -2751,29 +3439,40 @@
       },
       {
         "candidate_id": "ier31_36",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "ier31_36@1-6"
       },
       {
         "candidate_id": "io14_16",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io14_16@2-14"
       },
       {
         "candidate_id": "is54_8",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @11-20; spans page break"
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc1_33",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "@1-13 full verse"
       }
     ],
     "Z4Yt34-d1e534-d1e433": [
       {
         "candidate_id": "is22_22",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "multi-verse is22:19,21,22,23; \"Esaiae 22. cap. scriptum est. Expellam te...\""
       },
       {
         "candidate_id": "is22_25",
@@ -2783,21 +3482,29 @@
       },
       {
         "candidate_id": "is22_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse is22:19,21-23"
       },
       {
         "candidate_id": "is22_23",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse is22:19,21-23"
       },
       {
         "candidate_id": "is22_21",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse is22:19,21-23"
       }
     ],
     "Z4Yt34-d1e534-d1e477": [
       {
         "candidate_id": "eph4_13",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "eph4_13@1-18; \"donec occurramus omnes in vnitatem fidei...\" citation to Christ giving pastores & doctores"
       },
       {
         "candidate_id": "Ith4_17",
@@ -2805,37 +3512,53 @@
       },
       {
         "candidate_id": "deut28_35",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "not present in this paragraph"
       },
       {
         "candidate_id": "iob2_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "not present in this paragraph"
       },
       {
         "candidate_id": "is1_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "allusion via tanquam, no attribution marker"
       },
       {
         "candidate_id": "rom9_29",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: idem propheta...fatetur inquiens"
       }
     ],
     "Z4Yt34-d1e534-d1e1865": [
       {
         "candidate_id": "lc22_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "not quoted; paragraph quotes mt26_26 and io6_55+57; lc22_19 false positive"
       },
       {
         "candidate_id": "mt26_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as mt26_26@16-22"
       },
       {
         "candidate_id": "io6_55",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "multi-source io6_55 io6_57, truncated with &c., attributed 'scriptum est...rursum'"
       },
       {
         "candidate_id": "io6_57",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded together with io6_55 as multi-source quote"
       }
     ]
   },
@@ -2843,11 +3566,15 @@
     "Z4Yt34-d1e554-d1e358": [
       {
         "candidate_id": "lc22_32",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as lc22_32@12-17"
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-22"
       }
     ],
     "Z4Yt34-d1e554-d1e417": [
@@ -2861,27 +3588,37 @@
     "Z4Yt34-d1e576-d1e160": [
       {
         "candidate_id": "mt16_17",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse mt16:17-18; citation \"ex altero apud Matthaeum testimonio\""
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse mt16:17-18"
       }
     ],
     "Z4Yt34-d1e576-d1e289": [
       {
         "candidate_id": "lc22_32",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "lc22:31-32 multi-verse"
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paraphrase embedded in author's argument without quotation markers"
       }
     ],
     "Z4Yt34-d1e576-d1e445": [
       {
         "candidate_id": "act15_7",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@11-31"
       },
       {
         "candidate_id": "io11_49",
@@ -2893,25 +3630,35 @@
       },
       {
         "candidate_id": "prov16_10",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: vt Prouerb. 26. c. dicitur (incorrect chapter, but clearly prov16_10)"
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@10-22, attributed 'Matthaei 16'"
       }
     ],
     "Z4Yt34-d1e576-d1e552": [
       {
         "candidate_id": "deut17_12",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "part of existing deut17:8-12 multi-verse quote, updated source attribute"
       },
       {
         "candidate_id": "deut17_9",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "part of existing deut17:8-12 multi-verse quote, updated source attribute"
       },
       {
         "candidate_id": "ex18_22",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse ex18:19-23; citation \"illo Exodi testimonio\" from Bernardus"
       },
       {
         "candidate_id": "deut17_8",
@@ -2941,15 +3688,18 @@
       },
       {
         "candidate_id": "deut17_11",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "ex18_20",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "ex18_23",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "ex4_16",
@@ -2961,47 +3711,69 @@
       },
       {
         "candidate_id": "deut12_18",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 deut12/16 verses not in this paragraph"
       },
       {
         "candidate_id": "deut12_5",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 deut12/16 verses not in this paragraph"
       },
       {
         "candidate_id": "deut16_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 deut12/16 verses not in this paragraph"
       },
       {
         "candidate_id": "deut16_2",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 deut12/16 verses not in this paragraph"
       },
       {
         "candidate_id": "deut16_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 deut12/16 verses not in this paragraph"
       },
       {
         "candidate_id": "deut16_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 deut12/16 verses not in this paragraph"
       },
       {
         "candidate_id": "deut14_25",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 deut14_25 not relevant to this passage on papal succession"
       },
       {
         "candidate_id": "ex18_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse ex18:19-23"
       },
       {
         "candidate_id": "lc22_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@3-10, already encoded in d1e576-d1e552"
       },
       {
         "candidate_id": "deut17_10",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "already encoded as multi-verse deut17_8 through deut17_12"
       },
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "already encoded as mt16_17+mt16_18"
       }
     ]
   },
@@ -3009,7 +3781,9 @@
     "Z4Yt34-d1e588-d1e120": [
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as mt16_18@6-15 in Anacletus quotation"
       }
     ],
     "Z4Yt34-d1e588-d1e347": [
@@ -3021,7 +3795,9 @@
     "Z4Yt34-d1e588-d1e615": [
       {
         "candidate_id": "mt16_18",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "mt16_18@6-15"
       }
     ]
   },
@@ -3029,7 +3805,9 @@
     "Z4Yt34-d1e610-d1e256": [
       {
         "candidate_id": "lc22_32",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as lc22_32@3-17 in Agatho's profession of faith"
       }
     ]
   },
@@ -3047,7 +3825,9 @@
       },
       {
         "candidate_id": "lc22_32",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded without range; MS paraphrase omits autem and aliquando conversus"
       }
     ],
     "Z4Yt34-d1e621-d1e499": [
@@ -3057,7 +3837,9 @@
       },
       {
         "candidate_id": "act15_7",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "act15_7@21-31"
       }
     ]
   },
@@ -3076,7 +3858,9 @@
     "Z4Yt34-d1e632-d1e637": [
       {
         "candidate_id": "ps43_6",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-14 full verse"
       },
       {
         "candidate_id": "Iio3_23",
@@ -3090,21 +3874,29 @@
     "Z4Yt34-d1e632-d1e957": [
       {
         "candidate_id": "mt18_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as mt18_15 without range"
       },
       {
         "candidate_id": "io20_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@7-14, Sicut misit me pater & ego mitto vos"
       }
     ],
     "Z4Yt34-d1e632-d1e1806": [
       {
         "candidate_id": "io14_16",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-14"
       },
       {
         "candidate_id": "io20_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@7-14, sicut misit me pater & ego mitto vos"
       }
     ]
   },
@@ -3120,7 +3912,9 @@
       },
       {
         "candidate_id": "ps34_13",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "bibliographic reference to psalm only, not a direct quote"
       }
     ]
   },
@@ -3128,7 +3922,8 @@
     "Z4Yt34-d1e672-d1e534": [
       {
         "candidate_id": "Icor15_40",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e672-d1e630": [
@@ -3150,61 +3945,88 @@
     "Z4Yt34-d1e672-d1e1557": [
       {
         "candidate_id": "io19_33",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "verse referenced but not directly quoted"
       }
     ],
     "Z4Yt34-d1e672-d1e1605": [
       {
         "candidate_id": "rom12_3",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@14-29"
       },
       {
         "candidate_id": "eph4_14",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse eph4:11,12,14"
       },
       {
         "candidate_id": "eph4_11",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse eph4:11,12,14 (v13 absent); citation \"Habetur autem ad Ephe4. in haec verba\""
       },
       {
         "candidate_id": "qoh12_11",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "qoh12_11@1-19; \"Verba sapientium, ait, sicut stimuli...\""
       },
       {
         "candidate_id": "rom12_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "continuation of rom12_3 quote; attribution: illud apostoli ad Ro. 12"
       },
       {
         "candidate_id": "Icor14_29",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Icor14_29@1-8, 'prophetae inquit apostolus duo aut tres dicant & caeteri diiudicent', cited '1. ad Corin. 14.'"
       },
       {
         "candidate_id": "Icor14_37",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paraphrase without attribution markers; not a direct quotation"
       },
       {
         "candidate_id": "sir8_11",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "sir8_12 already encoded; sir8_11 not directly quoted"
       },
       {
         "candidate_id": "ez34_23",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "ez34_23@2-9"
       },
       {
         "candidate_id": "sir8_12",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "sir8_12@1-10"
       },
       {
         "candidate_id": "eph4_12",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse eph4:11,12,14"
       },
       {
         "candidate_id": "Icor14_36",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "ier3_15",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "@1-13 full verse"
       }
     ],
     "Z4Yt34-d1e672-d1e2185": [
@@ -3218,15 +4040,21 @@
     "Z4Yt34-d1e672-d1e2243": [
       {
         "candidate_id": "io14_16",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-14"
       },
       {
         "candidate_id": "ps81_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-8, Ego dixi dij estis & filij excelsi omnes (in Jerome quotation)"
       },
       {
         "candidate_id": "phm1_5",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded without range; MS omits caritatem tuam"
       }
     ]
   },
@@ -3234,39 +4062,55 @@
     "Z4Yt34-d1e733-d1e417": [
       {
         "candidate_id": "mt23_30",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "mt23:29-32 multi-verse"
       },
       {
         "candidate_id": "eph4_13",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt23_32",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc10_16",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as lc10_16@1-11"
       },
       {
         "candidate_id": "mt23_29",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse mt23:29-32"
       },
       {
         "candidate_id": "mt23_31",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse mt23:29-32"
       },
       {
         "candidate_id": "eph4_11",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "already encoded as part of eph4_11@1-17 multi-verse quote"
       },
       {
         "candidate_id": "eph4_14",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "eph4_14@1-11"
       },
       {
         "candidate_id": "eph4_12",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as multi-verse eph4_11+12+13"
       }
     ]
   },
@@ -3280,11 +4124,15 @@
       },
       {
         "candidate_id": "io13_10",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paraphrased via Augustine's citation, not directly quoted from scripture"
       },
       {
         "candidate_id": "io15_3",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-10"
       }
     ]
   },
@@ -3292,7 +4140,9 @@
     "Z4Yt34-d1e753-d1e277": [
       {
         "candidate_id": "IItim3_17",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as multi-verse IItim3_16+17"
       }
     ]
   },
@@ -3310,29 +4160,40 @@
       },
       {
         "candidate_id": "prov5_20",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: Prouerb. 5. (via argumentantur ex illo)"
       },
       {
         "candidate_id": "Icor1_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "already encoded as Icor1_19@4-10 with Icor1_20"
       },
       {
         "candidate_id": "col2_8",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-10"
       },
       {
         "candidate_id": "Icor1_20",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "encoded with Icor1_19"
       },
       {
         "candidate_id": "qoh1_14",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e793-d1e259": [
       {
         "candidate_id": "Itim6_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "quotation spans paragraphs d1e253/d1e259/d1e264; attribution '1. ad Timoth. 6.' is in d1e253; text too fragmented to encode in d1e259"
       }
     ],
     "Z4Yt34-d1e793-d1e264": [
@@ -3344,17 +4205,23 @@
     "Z4Yt34-d1e793-d1e269": [
       {
         "candidate_id": "Icor2_6",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase of verse in context, range 6-14"
       }
     ],
     "Z4Yt34-d1e793-d1e315": [
       {
         "candidate_id": "IIcor10_5",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "IIcor10_5@2-17; citation \"secunda ad Corinth. cap. decimo\""
       },
       {
         "candidate_id": "IIcor10_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@2-14, Arma Christianae militiae non carnalia sunt..."
       }
     ]
   },
@@ -3370,11 +4237,15 @@
     "Z4Yt34-d1e824-d1e114": [
       {
         "candidate_id": "col1_28",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "indirect speech paraphrase; only in omni inquit sapientia directly quoted (3 words)"
       },
       {
         "candidate_id": "sap7_17",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "sap7_17@1-14"
       }
     ]
   },
@@ -3390,11 +4261,15 @@
       },
       {
         "candidate_id": "lc23_47",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "composite with mt27_54; 'glorificauit Deum' from Lc, 'Vere filius Dei erat iste' from Mt; encoded without range"
       },
       {
         "candidate_id": "act3_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@6-27, hunc quem vos videtis & nostis..."
       }
     ],
     "Z4Yt34-d1e834-d1e199": [
@@ -3414,55 +4289,79 @@
       },
       {
         "candidate_id": "IImac7_28",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive or paraphrase in indirect speech without attribution"
       },
       {
         "candidate_id": "Ichr16_32",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive or paraphrase in indirect speech without attribution"
       },
       {
         "candidate_id": "act17_25",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive or paraphrase in indirect speech without attribution"
       },
       {
         "candidate_id": "ag2_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive or paraphrase in indirect speech without attribution"
       },
       {
         "candidate_id": "ier51_48",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive or paraphrase in indirect speech without attribution"
       },
       {
         "candidate_id": "neh9_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive or paraphrase in indirect speech without attribution"
       },
       {
         "candidate_id": "act15_8",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ap14_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "text not found in paragraph; paragraph is about act14 miracles"
       },
       {
         "candidate_id": "act14_16",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "MS quotes act14_15 (already encoded); act14_16 not explicitly quoted"
       },
       {
         "candidate_id": "act4_24",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "phrase is from act14_15 (MS says Acto.14), not act4_24"
       },
       {
         "candidate_id": "ex20_11",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "common phrase; MS citation is act14_15, not Exodus"
       },
       {
         "candidate_id": "io9_30",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "act4_14",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 text discusses Acts 14 but not Acts 4:14"
       }
     ]
   },
@@ -3474,27 +4373,38 @@
       },
       {
         "candidate_id": "rom1_19",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: apostolus...reuocauit. inquit"
       },
       {
         "candidate_id": "sap13_5",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "woven into prose without attribution marker"
       },
       {
         "candidate_id": "ps93_9",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc10_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@6-18, edentes & bibentes quae apud illos sunt, dignus est enim operarius mercede sua"
       },
       {
         "candidate_id": "ps4_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-8, signatum est super nos lumen vultus tui domine"
       },
       {
         "candidate_id": "rom1_20",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-13"
       }
     ]
   },
@@ -3524,27 +4434,39 @@
       },
       {
         "candidate_id": "sap9_14",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attribution: inquit sapiens"
       },
       {
         "candidate_id": "Icor2_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "thematic paraphrase embedded as purpose clause, not a direct quotation"
       },
       {
         "candidate_id": "col2_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-10, hoc autem dico vt nemo vos decipiat in sublimitate sermonis"
       },
       {
         "candidate_id": "ps127_1",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "ps127_1@3-12"
       },
       {
         "candidate_id": "Icor8_2",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded @1-12"
       },
       {
         "candidate_id": "qoh9_11",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "@14-27"
       }
     ]
   },
@@ -3556,7 +4478,8 @@
       },
       {
         "candidate_id": "tit1_12",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ]
   },
@@ -3564,11 +4487,14 @@
     "Z4Yt34-d1e914-d1e114": [
       {
         "candidate_id": "ier23_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@15-22, qui visionem cordis sui loquuntur non de ore domini"
       },
       {
         "candidate_id": "iob35_11",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -3576,7 +4502,9 @@
     "Z4Yt34-d1e964-d1e114": [
       {
         "candidate_id": "prov16_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "prov16_10@1-10"
       }
     ]
   },
@@ -3584,7 +4512,9 @@
     "Z4Yt34-d1e1015-d1e374": [
       {
         "candidate_id": "mt2_16",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "historical narrative paraphrase, no quote marker"
       }
     ]
   },
@@ -3596,17 +4526,23 @@
       },
       {
         "candidate_id": "deut25_5",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-source deut25_5+deut25_6, accipiet eam frater eius..."
       },
       {
         "candidate_id": "deut25_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "multi-source deut25_5+deut25_6, ...primogenitum ex ea filium nomine illius appellabit"
       }
     ],
     "Z4Yt34-d1e1038-d1e437": [
       {
         "candidate_id": "mc6_3",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "@1-21 full verse minus final clause"
       },
       {
         "candidate_id": "lc8_20",
@@ -3614,15 +4550,19 @@
       },
       {
         "candidate_id": "act1_14",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed with Acto. cap. 1., subdit"
       },
       {
         "candidate_id": "mc3_32",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "mt12_47",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1038-d1e709": [
@@ -3654,15 +4594,20 @@
       },
       {
         "candidate_id": "gen13_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited with Vt ibi"
       },
       {
         "candidate_id": "num23_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited with Item"
       },
       {
         "candidate_id": "lc1_34",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1038-d1e1113": [
@@ -3684,11 +4629,15 @@
       },
       {
         "candidate_id": "io2_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "attributed: statim in secundi capitis initio"
       },
       {
         "candidate_id": "io13_29",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io13_29@12-20"
       }
     ],
     "Z4Yt34-d1e1038-d1e1314": [
@@ -3698,23 +4647,29 @@
       },
       {
         "candidate_id": "io1_27",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_43",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "io1_43@1-9: In crastinum voluit exire in Galilaeam"
       }
     ],
     "Z4Yt34-d1e1038-d1e1577": [
       {
         "candidate_id": "lc2_48",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1038-d1e1803": [
       {
         "candidate_id": "ier29_10",
-        "intersectionCount": 15
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "ier29_10@5-26; citation \"Item Hieremies. 29.\""
       },
       {
         "candidate_id": "IIchr12_7",
@@ -3858,33 +4813,45 @@
       },
       {
         "candidate_id": "IIchr36_21",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited: 2. Paral. cap. 36. vbi haec verba scripta sunt"
       },
       {
         "candidate_id": "ier25_11",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps89_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@8-19, Si autem in potentatibus 80. anni & amplius eorum labor & dolor"
       },
       {
         "candidate_id": "zac1_12",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@9-23, Vsquequo ait non miserebetis Hierusalem..."
       },
       {
         "candidate_id": "dan9_2",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "auto-detected as already encoded in XML from prior session"
       }
     ],
     "Z4Yt34-d1e1038-d1e2231": [
       {
         "candidate_id": "ier25_11",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "direct quote with attribution to 'Hieremiae 25', range 11-19"
       },
       {
         "candidate_id": "ier29_10",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1038-d1e2532": [
@@ -3894,47 +4861,64 @@
       },
       {
         "candidate_id": "dan9_2",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Ego inquit attribution \u2014 paraphrase of Daniel speaking"
       },
       {
         "candidate_id": "hab1_13",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom8_33",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-8, Quis accusabit aduersus electos Dei? Deus qui iustificat"
       },
       {
         "candidate_id": "zac1_12",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "zac1_12@9-23: Vsquequo Domine non misereberis Hierusalem (Pagnino translation)"
       },
       {
         "candidate_id": "ier12_1",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "hab1_14",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Hab 1:14 Et facies homines quasi pisces maris et quasi reptile"
       },
       {
         "candidate_id": "rom8_34",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Rom 8:34 Quis est qui condemnet Christus Iesus qui mortuus est"
       }
     ],
     "Z4Yt34-d1e1038-d1e2790": [
       {
         "candidate_id": "ag2_4",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1038-d1e2834": [
       {
         "candidate_id": "ag2_19",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-24 full verse"
       },
       {
         "candidate_id": "ag2_16",
-        "intersectionCount": 15
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "ag2_16@1-18; citation \"Aggaei 2.\" with \"Et nunc ponite corda\""
       },
       {
         "candidate_id": "ag2_11",
@@ -3942,7 +4926,9 @@
       },
       {
         "candidate_id": "esd2_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "summary paraphrase only: numerantur illi qui ascenderunt, not a direct quote"
       }
     ],
     "Z4Yt34-d1e1038-d1e3205": [
@@ -3952,7 +4938,9 @@
       },
       {
         "candidate_id": "esd6_15",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "esd6_15@6-18: compleuerunt domum Dei istam vsque ad diem tertium mensis Adar"
       }
     ],
     "Z4Yt34-d1e1038-d1e3438": [
@@ -3964,7 +4952,9 @@
     "Z4Yt34-d1e1038-d1e3510": [
       {
         "candidate_id": "IIchr36_9",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-21 full verse"
       },
       {
         "candidate_id": "IIchr12_13",
@@ -4000,39 +4990,55 @@
       },
       {
         "candidate_id": "IIchr36_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 verse about Sedecias not directly quoted, author discusses scribal errors in numerals"
       },
       {
         "candidate_id": "IIchr36_2",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 Ioachaz verse not quoted; intersection from shared words regnare coepisset etc."
       },
       {
         "candidate_id": "IIreg23_31",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 same as IIchr36_2"
       },
       {
         "candidate_id": "ier52_29",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited in series of three captivities from Jer 52 vulgata lectio"
       },
       {
         "candidate_id": "IIchr15_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIchr24_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "verse about Joash not cited in this paragraph about scribal number errors"
       },
       {
         "candidate_id": "IIreg24_8",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-9, Decem & octo annorum erat Ioachim cum regnare coepisset"
       },
       {
         "candidate_id": "ier52_28",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIsam5_4",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "2 Sam 5:4 Filius triginta annorum erat David cum regnare coepisset"
       }
     ],
     "Z4Yt34-d1e1038-d1e3740": [
@@ -4058,19 +5064,27 @@
     "Z4Yt34-d1e1049-d1e559": [
       {
         "candidate_id": "IIchr21_4",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse IIchr21:1,3,4"
       },
       {
         "candidate_id": "IIchr21_1",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse IIchr21:1,3,4"
       },
       {
         "candidate_id": "IIreg11_2",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph references David/Bathsheba narrative but IIreg11:2 is about Iosaba/Joash"
       },
       {
         "candidate_id": "IIchr21_3",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse IIchr21:1,3,4; cited from \"secundi Paralip. libri cap. 21\""
       },
       {
         "candidate_id": "IIchr22_9",
@@ -4118,69 +5132,100 @@
       },
       {
         "candidate_id": "IIchr14_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "OT historical verse in paragraph about classical historians \u2014 false positive"
       },
       {
         "candidate_id": "IIreg12_18",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "OT historical verse in paragraph about classical historians \u2014 false positive"
       },
       {
         "candidate_id": "Ireg15_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "OT historical verse in paragraph about classical historians \u2014 false positive"
       },
       {
         "candidate_id": "Ireg2_10",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "OT historical verse in paragraph about classical historians \u2014 false positive"
       },
       {
         "candidate_id": "IIchr22_11",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "text quotes 2Kgs11:1-2 (IIreg11) not 2Chr22:11 parallel"
       },
       {
         "candidate_id": "IIreg14_16",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no dormivit formula for this king in this paragraph"
       },
       {
         "candidate_id": "IIreg15_38",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no dormivit formula for this king in this paragraph"
       },
       {
         "candidate_id": "IIreg21_18",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no dormivit formula for this king in this paragraph"
       },
       {
         "candidate_id": "IIreg8_24",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "MS quotes 2Chr21:1 (Josaphat dormivit), not 2Kgs8:24 (Joram dormivit)"
       },
       {
         "candidate_id": "Ireg11_43",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no 1Kgs11:43 dormivit formula in this paragraph"
       },
       {
         "candidate_id": "Ireg16_28",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no 1Kgs16:28 dormivit formula in this paragraph"
       },
       {
         "candidate_id": "IIreg16_20",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive - shared proper names from Kings genealogy; no direct quotation"
       },
       {
         "candidate_id": "Ireg14_31",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive - shared proper names from Kings genealogy; no direct quotation"
       },
       {
         "candidate_id": "Ireg15_24",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive - shared proper names from Kings genealogy; no direct quotation"
       },
       {
         "candidate_id": "Ireg22_51",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive - shared proper names from Kings genealogy; no direct quotation"
       }
     ],
     "Z4Yt34-d1e1049-d1e1078": [
       {
         "candidate_id": "gen9_19",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1049-d1e1436": [
@@ -4198,11 +5243,15 @@
     "Z4Yt34-d1e1049-d1e3171": [
       {
         "candidate_id": "ps148_5",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "ps32_9 encoded instead \u2014 same verse text, ps32_9 more likely in Trinitarian/creation context"
       },
       {
         "candidate_id": "ps32_9",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "ps32_9@2-11: Ipse dixit et facta sunt ipse mandavit et creata sunt"
       }
     ]
   },
@@ -4216,7 +5265,8 @@
       },
       {
         "candidate_id": "gen9_6",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1089-d1e280": [
@@ -4238,27 +5288,38 @@
       },
       {
         "candidate_id": "prov2_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-11, quia Dominus dat sapientiam & ex ore eius prudentia & scientia"
       },
       {
         "candidate_id": "rom1_21",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "rom1_21@1-16"
       },
       {
         "candidate_id": "IItim3_17",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "IItim3_17@1-10: ut perfectus sit homo Dei ad omne opus bonum instructus"
       },
       {
         "candidate_id": "io20_31",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "io20_31 without range \u2014 MS omits middle phrase quia Iesus est Christus Filius Dei"
       },
       {
         "candidate_id": "lc1_77",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "lc1_77@1-10: ad dandam scientiam salutis plebi eius in remissionem peccatorum eorum"
       },
       {
         "candidate_id": "Icor12_8",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ]
   },
@@ -4272,15 +5333,20 @@
     "Z4Yt34-d1e1100-d1e914": [
       {
         "candidate_id": "hebr11_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "woven into theological argument without attribution marker"
       },
       {
         "candidate_id": "eph2_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps86_6",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Ps 86:6 Dominus narrabit in scripturis populorum et principum"
       }
     ]
   },
@@ -4288,41 +5354,55 @@
     "Z4Yt34-d1e1112-d1e119": [
       {
         "candidate_id": "hebr11_16",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "hebr11:10 + hebr11:16@1-18 two separate quotes"
       },
       {
         "candidate_id": "hebr11_35",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "hebr11_39",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "hebr11_40",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "hebr11_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded (hebr11:10+16 two separate quotes)"
       },
       {
         "candidate_id": "hebr11_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@6-13, Credere enim oportet accedentem ad Deum quia est"
       }
     ],
     "Z4Yt34-d1e1112-d1e583": [
       {
         "candidate_id": "is50_4",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "woven into prose without attribution"
       },
       {
         "candidate_id": "sap8_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "woven into prose without explicit attribution"
       },
       {
         "candidate_id": "rom8_24",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ]
   },
@@ -4336,7 +5416,9 @@
     "Z4Yt34-d1e1123-d1e758": [
       {
         "candidate_id": "tit3_9",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paraphrase without attribution markers; not a direct quotation"
       }
     ]
   },
@@ -4356,7 +5438,9 @@
     "Z4Yt34-d1e1134-d1e568": [
       {
         "candidate_id": "gen2_7",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@10-22"
       },
       {
         "candidate_id": "Icor11_24",
@@ -4372,49 +5456,66 @@
       },
       {
         "candidate_id": "io17_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 io17_22 is encoded; io17_11 not in paragraph"
       },
       {
         "candidate_id": "io15_26",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@5-12, Quem ego mittam vobis a patre spiritum veritatis"
       },
       {
         "candidate_id": "io17_22",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "io17_22@3-15: Claritatem quam dedisti mihi dedi eis ut sint unum sicut nos unum sumus"
       }
     ],
     "Z4Yt34-d1e1134-d1e711": [
       {
         "candidate_id": "IIcor5_8",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "IIcor5:6-8 multi-verse"
       },
       {
         "candidate_id": "IIcor5_6",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor5_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "IIcor4_17",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "IIcor4_17@7-19: momentaneum et leve tribulationis nostrae aeternum gloriae pondus operatur"
       }
     ],
     "Z4Yt34-d1e1134-d1e891": [
       {
         "candidate_id": "mt18_18",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "text quotes mt16_19 not mt18_18"
       }
     ],
     "Z4Yt34-d1e1134-d1e991": [
       {
         "candidate_id": "mt26_39",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "io20_21",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@7-14, Sicut misit me pater & ego mitto vos"
       }
     ]
   },
@@ -4430,31 +5531,40 @@
     "Z4Yt34-d1e1156-d1e119": [
       {
         "candidate_id": "act28_22",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1156-d1e314": [
       {
         "candidate_id": "IIpetr2_21",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "IIpetr2_21@1-13"
       }
     ],
     "Z4Yt34-d1e1156-d1e1199": [
       {
         "candidate_id": "Icor13_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Icor13_10@1-11"
       }
     ],
     "Z4Yt34-d1e1156-d1e1340": [
       {
         "candidate_id": "Itim6_3",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "1 Tim 6:3 Si quis aliter docet et non acquiescit sanis sermonibus"
       }
     ],
     "Z4Yt34-d1e1156-d1e1787": [
       {
         "candidate_id": "Itim6_3",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@6-20"
       },
       {
         "candidate_id": "IIcor13_13",
@@ -4480,7 +5590,9 @@
       },
       {
         "candidate_id": "deut13_13",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "not found in paragraph"
       },
       {
         "candidate_id": "deut13_6",
@@ -4490,13 +5602,16 @@
       },
       {
         "candidate_id": "deut13_8",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "deut13_8@5-15"
       }
     ],
     "Z4Yt34-d1e1156-d1e2154": [
       {
         "candidate_id": "mc16_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ]
   },
@@ -4512,7 +5627,8 @@
     "Z4Yt34-d1e1179-d1e351": [
       {
         "candidate_id": "is3_2",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ]
   },
@@ -4520,7 +5636,9 @@
     "Z4Yt34-d1e1201-d1e167": [
       {
         "candidate_id": "hebr7_27",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "hebr7_27@1-22; follows apostoli testimonium about Hebrews 7 priesthood"
       },
       {
         "candidate_id": "hebr7_28",
@@ -4530,29 +5648,40 @@
       },
       {
         "candidate_id": "hebr7_25",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "hebr7_25@3-18"
       },
       {
         "candidate_id": "hebr7_24",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse hebr7_23+hebr7_24 quote"
       },
       {
         "candidate_id": "hebr7_26",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "hebr7_26@1-17: Talis enim decebat ut nobis esset pontifex sanctus innocens impollutus segregatus a peccatoribus et excelsiori caelis factus"
       },
       {
         "candidate_id": "hebr7_23",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Heb 7:23-24 multi-verse Et alij quidem plures facti sunt sacerdotes...sempiternum habet sacerdotium"
       }
     ],
     "Z4Yt34-d1e1201-d1e245": [
       {
         "candidate_id": "hebr9_26",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "full verse @1-21"
       },
       {
         "candidate_id": "hebr9_25",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1201-d1e301": [
@@ -4562,27 +5691,38 @@
       },
       {
         "candidate_id": "hebr10_18",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Apostolus asserit attribution"
       },
       {
         "candidate_id": "hebr10_12",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "hebr10_11",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@2-18, omnis sacerdos stat quotidie ministrans..."
       },
       {
         "candidate_id": "hebr10_26",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-14, Si enim volontarie peccamus post acceptam notitiam veritatis..."
       },
       {
         "candidate_id": "hebr10_1",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "hebr10_1@1-24: umbram habens lex futurorum bonorum ... nunquam potest accedentes perfectos facere"
       },
       {
         "candidate_id": "hebr10_2",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Heb 10:2 alioquin cessassent offerri ideo quod nullam haberent conscientiam"
       }
     ],
     "Z4Yt34-d1e1201-d1e586": [
@@ -4598,7 +5738,9 @@
     "Z4Yt34-d1e1201-d1e684": [
       {
         "candidate_id": "hebr7_25",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "hebr7_25@3-18"
       }
     ],
     "Z4Yt34-d1e1201-d1e954": [
@@ -4614,7 +5756,9 @@
       },
       {
         "candidate_id": "hebr13_16",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "hebr13_16@1-11"
       }
     ],
     "Z4Yt34-d1e1201-d1e1257": [
@@ -4628,15 +5772,20 @@
       },
       {
         "candidate_id": "hebr5_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph discusses figurative language, no Heb 5:1 quote"
       },
       {
         "candidate_id": "iac1_27",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "mc12_33",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@20-30, diligere proximum ut seipsum maius est omnibus holocautomatis"
       }
     ],
     "Z4Yt34-d1e1201-d1e1500": [
@@ -4648,13 +5797,17 @@
       },
       {
         "candidate_id": "mal1_10",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@13-28, Non est mihi voluntas in vobis... & sacrificium non suscipiam de manu vestra"
       }
     ],
     "Z4Yt34-d1e1201-d1e1535": [
       {
         "candidate_id": "hebr13_15",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "@1-15 full verse"
       },
       {
         "candidate_id": "mal1_11",
@@ -4662,7 +5815,8 @@
       },
       {
         "candidate_id": "mal3_3",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1201-d1e1702": [
@@ -4678,11 +5832,15 @@
       },
       {
         "candidate_id": "Icor11_24",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel Lc22_19 already encoded; this is Lukan version not 1Cor"
       },
       {
         "candidate_id": "lc22_20",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "lc22_20@7-18"
       }
     ],
     "Z4Yt34-d1e1201-d1e1914": [
@@ -4694,11 +5852,15 @@
     "Z4Yt34-d1e1201-d1e1992": [
       {
         "candidate_id": "Icor11_24",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "words of institution already encoded as lc22_19 in this paragraph"
       },
       {
         "candidate_id": "lc22_19",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "lc22_19@12-19 and @20-24: Hoc est corpus meum quod pro vobis tradetur / Hoc facite in meam commemorationem"
       }
     ],
     "Z4Yt34-d1e1201-d1e2075": [
@@ -4722,39 +5884,53 @@
       },
       {
         "candidate_id": "hebr5_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Sacerdos in aeternum cited as Thomas Aquinas hymn, not direct biblical attribution"
       },
       {
         "candidate_id": "hebr7_12",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "inquit attribution: Transsato inquit sacerdotio"
       },
       {
         "candidate_id": "hebr7_17",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "same as hebr5_6 \u2014 cited as Aquinas hymn"
       }
     ],
     "Z4Yt34-d1e1201-d1e2616": [
       {
         "candidate_id": "ap13_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Apocal. 1O. attribution"
       }
     ],
     "Z4Yt34-d1e1201-d1e2727": [
       {
         "candidate_id": "lc22_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@12-24, Hoc est corpus meum quod pro vobis datur"
       }
     ],
     "Z4Yt34-d1e1201-d1e2795": [
       {
         "candidate_id": "hebr5_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "vt ad Hebraeos tradit Apostolus attribution"
       }
     ],
     "Z4Yt34-d1e1201-d1e2993": [
       {
         "candidate_id": "gen4_4",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Respexit quippe Deus ad Abel \u2014 direct reference to Genesis account"
       }
     ],
     "Z4Yt34-d1e1201-d1e3139": [
@@ -4768,11 +5944,14 @@
       },
       {
         "candidate_id": "tit1_5",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Et in epistola ad Titum attribution"
       },
       {
         "candidate_id": "IItim1_6",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1201-d1e3587": [
@@ -4790,59 +5969,84 @@
       },
       {
         "candidate_id": "act2_38",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "in rhetorical question series without direct attribution"
       },
       {
         "candidate_id": "hebr10_35",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "in series of Heb references: & tandem, Nolite amittere"
       },
       {
         "candidate_id": "hebr7_22",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "in epistola ad Hebraeos 6. 7. attribution"
       },
       {
         "candidate_id": "ps50_11",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "not found in paragraph"
       },
       {
         "candidate_id": "tit3_5",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "in rhetorical question series without direct attribution"
       },
       {
         "candidate_id": "hebr10_26",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded; attributed with 'in haec verba', range @1-14"
       },
       {
         "candidate_id": "hebr9_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "is38_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps31_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Beati quorum remissae already encoded as rom4_7@1-10"
       },
       {
         "candidate_id": "rom7_17",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "rom7_20",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "quote already encoded as rom7_17@4-13 in same paragraph"
       },
       {
         "candidate_id": "mt28_19",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@6-15, baptizantes eos in nomine patris & filij & spiritus sancti"
       },
       {
         "candidate_id": "rom4_7",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "rom4_7@1-10: Beati quorum remissae sunt iniquitates et quorum tecta sunt peccata"
       },
       {
         "candidate_id": "IIcor7_1",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "2 Cor 7:1 emundemus nos ab omni inquinamento carnis et spiritus"
       }
     ],
     "Z4Yt34-d1e1201-d1e4387": [
@@ -4852,21 +6056,28 @@
       },
       {
         "candidate_id": "Icor11_24",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 commemoratio overlap, verse not directly quoted"
       },
       {
         "candidate_id": "hebr10_1",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "lc22_19",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "lc22_19 no range (paraphrase recall)"
       }
     ],
     "Z4Yt34-d1e1201-d1e4576": [
       {
         "candidate_id": "IIcor7_1",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@6-18"
       },
       {
         "candidate_id": "mt5_23",
@@ -4878,29 +6089,40 @@
       },
       {
         "candidate_id": "gen4_4",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "indirect: Irenaeus citing Abel story, not direct biblical quote"
       },
       {
         "candidate_id": "prov15_27",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited in Item series"
       },
       {
         "candidate_id": "prov16_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "cited in Item series"
       },
       {
         "candidate_id": "sap8_1",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "sap8_1@1-12: attingit a fine usque ad finem fortiter et disponit omnia suaviter"
       },
       {
         "candidate_id": "IItim2_21",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "2 Tim 2:21 Siquis emundauerit se ab istis erit vas in honorem"
       }
     ],
     "Z4Yt34-d1e1201-d1e5209": [
       {
         "candidate_id": "tob4_11",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1201-d1e5617": [
@@ -4912,7 +6134,9 @@
     "Z4Yt34-d1e1201-d1e6287": [
       {
         "candidate_id": "rom3_24",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about sacrifice, verse not found"
       }
     ]
   },
@@ -4926,27 +6150,36 @@
     "Z4Yt34-d1e1212-d1e223": [
       {
         "candidate_id": "io5_20",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io5_20@1-11"
       }
     ],
     "Z4Yt34-d1e1212-d1e245": [
       {
         "candidate_id": "hebr1_9",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps44_8",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "already encoded as hebr1_9@1-16 (Heb 1:9 cites Ps 44:8)"
       },
       {
         "candidate_id": "is53_11",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "is53_11@1-9"
       }
     ],
     "Z4Yt34-d1e1212-d1e276": [
       {
         "candidate_id": "hebr2_10",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "@1-22 full verse"
       },
       {
         "candidate_id": "act2_26",
@@ -4962,41 +6195,56 @@
       },
       {
         "candidate_id": "act2_27",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded with ps15_9+ps15_10 as multi-verse (cum dixisset attribution)"
       },
       {
         "candidate_id": "ps15_10",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded with ps15_9 as multi-verse (cum dixisset attribution)"
       },
       {
         "candidate_id": "ap5_12",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "is40_10",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "text already tagged as is62_11; content matches is62_11 not is40_10"
       },
       {
         "candidate_id": "is62_11",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1212-d1e363": [
       {
         "candidate_id": "Icor13_11",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "already encoded in quote spanning Icor13_10-12"
       },
       {
         "candidate_id": "Icor13_12",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "Icor13:10-12 multi-verse"
       },
       {
         "candidate_id": "Icor13_10",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@11-18, Et vidimus gloriam eius gloriam quasi unigeniti a patre"
       }
     ],
     "Z4Yt34-d1e1212-d1e459": [
@@ -5008,7 +6256,9 @@
     "Z4Yt34-d1e1212-d1e524": [
       {
         "candidate_id": "sap8_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about fathers on incarnation, sap8_1 not quoted"
       }
     ],
     "Z4Yt34-d1e1212-d1e598": [
@@ -5020,35 +6270,51 @@
       },
       {
         "candidate_id": "ier14_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about Christ as witness, ier14_8 not quoted"
       },
       {
         "candidate_id": "IIpetr1_18",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "continuation of IIpetr1_17 quote; encoded @1-15"
       },
       {
         "candidate_id": "col2_9",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'Et iterum'; encoded @1-8"
       },
       {
         "candidate_id": "io1_14",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced as 'testimonium illud est'; encoded @6-22"
       },
       {
         "candidate_id": "is55_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-9, Ecce testem populis dedi eum ducem ac praeceptorem gentibus"
       },
       {
         "candidate_id": "mt17_5",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "already encoded as IIpetr1_17; parallel passage"
       },
       {
         "candidate_id": "mt3_17",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "already encoded as IIpetr1_17; parallel passage"
       },
       {
         "candidate_id": "IIpetr1_16",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "2 Pet 1:16 Non indoctas fabulas secuti notam facimus virtutem"
       }
     ],
     "Z4Yt34-d1e1212-d1e757": [
@@ -5062,17 +6328,22 @@
     "Z4Yt34-d1e1212-d1e788": [
       {
         "candidate_id": "io1_17",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "io1_16",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "spans io1_16 and io1_17; encoded as multi-verse @1-7 and @7-14"
       }
     ],
     "Z4Yt34-d1e1212-d1e929": [
       {
         "candidate_id": "io1_18",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'subditur'; encoded @1-13"
       }
     ],
     "Z4Yt34-d1e1212-d1e981": [
@@ -5094,29 +6365,40 @@
       },
       {
         "candidate_id": "io3_32",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "professus est inquiens attribution"
       },
       {
         "candidate_id": "io1_8",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "io1_8@1-10"
       },
       {
         "candidate_id": "io17_24",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "io3_11",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jn 3:11 quia quod scimus loquimur et quod vidimus testamur"
       },
       {
         "candidate_id": "io3_13",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jn 3:13 Nemo ascendit in caelum nisi qui descendit de caelo"
       }
     ],
     "Z4Yt34-d1e1212-d1e1081": [
       {
         "candidate_id": "io3_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@2-16, Nemo ascendit in caelum nisi qui descendit de caelo Filius hominis"
       }
     ],
     "Z4Yt34-d1e1212-d1e1116": [
@@ -5132,21 +6414,28 @@
       },
       {
         "candidate_id": "io5_31",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph quotes io8_14 (already encoded); io5_31 not directly quoted"
       },
       {
         "candidate_id": "io8_55",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       }
     ],
     "Z4Yt34-d1e1212-d1e1148": [
       {
         "candidate_id": "IIcor3_7",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-27 full verse"
       },
       {
         "candidate_id": "IIcor3_11",
-        "intersectionCount": 11
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "@1-14 full verse"
       },
       {
         "candidate_id": "Iio2_4",
@@ -5154,21 +6443,29 @@
       },
       {
         "candidate_id": "Iio2_3",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "ait attribution"
       },
       {
         "candidate_id": "col2_3",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Illud huius generis videtur esse \u2014 cited as biblical argument"
       },
       {
         "candidate_id": "IIcor3_10",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "2 Cor 3:10 Nam nec glorificatum est quod claruit"
       }
     ],
     "Z4Yt34-d1e1212-d1e1260": [
       {
         "candidate_id": "hebr1_4",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-10, tanto melior angelis effectus quanto differentius prae illis nomen hereditavit"
       }
     ],
     "Z4Yt34-d1e1212-d1e1382": [
@@ -5178,49 +6475,69 @@
       },
       {
         "candidate_id": "mt3_16",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Remigius comments on Mt3:16 but verse not directly quoted"
       }
     ],
     "Z4Yt34-d1e1212-d1e1566": [
       {
         "candidate_id": "io3_30",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Item series \u2014 cited scriptural example"
       },
       {
         "candidate_id": "IIchr17_12",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'Item'; encoded @1-9"
       },
       {
         "candidate_id": "lc16_15",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "encoded @16-24"
       },
       {
         "candidate_id": "Isam2_26",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "Isam2_26@1-12"
       }
     ],
     "Z4Yt34-d1e1212-d1e1625": [
       {
         "candidate_id": "io5_19",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jn 5:19 Non potest Filius a se facere quicquam nisi quod viderit Patrem"
       }
     ],
     "Z4Yt34-d1e1212-d1e1786": [
       {
         "candidate_id": "gen18_21",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Ambrosius probat ex illo attribution"
       },
       {
         "candidate_id": "deut13_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'vbi nos habemus'; encoded @8-19"
       },
       {
         "candidate_id": "ps13_2",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "only ps52_3 text present (Deus de coelo); ps13_2 (Dominus) not in paragraph"
       },
       {
         "candidate_id": "ps52_3",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "ps52_3@1-12"
       }
     ],
     "Z4Yt34-d1e1212-d1e1838": [
@@ -5234,15 +6551,21 @@
       },
       {
         "candidate_id": "ps16_6",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Vt ibi citation example"
       },
       {
         "candidate_id": "is53_10",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'ait'; encoded @8-16"
       },
       {
         "candidate_id": "is53_11",
-        "intersectionCount": 6
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "is53_11@1-9"
       }
     ],
     "Z4Yt34-d1e1212-d1e1900": [
@@ -5252,21 +6575,29 @@
       },
       {
         "candidate_id": "ps2_8",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "inquit attribution (misattributed to Isaiah in MS)"
       },
       {
         "candidate_id": "is62_12",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "text not found in paragraph; no direct quotation"
       }
     ],
     "Z4Yt34-d1e1212-d1e2174": [
       {
         "candidate_id": "is53_4",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "is53_4@1-10: vere languores nostros ipse tulit et dolores nostros ipse portavit"
       },
       {
         "candidate_id": "is53_5",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "is53_5@3-22: vulneratus est propter iniquitates nostras ... liuore atque dolore eius sanati sumus"
       }
     ],
     "Z4Yt34-d1e1212-d1e2309": [
@@ -5292,37 +6623,51 @@
       },
       {
         "candidate_id": "mt22_31",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph quotes mt22_32 (already encoded); mt22_31 not directly quoted"
       },
       {
         "candidate_id": "sap2_23",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced as 'Alterum'; encoded @2-12"
       },
       {
         "candidate_id": "sir21_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'de qua illud habes'; encoded @1-7"
       },
       {
         "candidate_id": "mt22_32",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-16, Non est Deus mortuorum sed viuentium"
       },
       {
         "candidate_id": "sap2_24",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-8, Inuidia autem diaboli mors introiuit in orbem terrarum"
       },
       {
         "candidate_id": "mt10_28",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "qoh12_7",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "second occurrence; first is in d1e595"
       }
     ],
     "Z4Yt34-d1e1223-d1e445": [
       {
         "candidate_id": "ps72_16",
-        "intersectionCount": 2
+        "intersectionCount": 2,
+        "status": "encoded"
       },
       {
         "candidate_id": "ps93_11",
@@ -5330,21 +6675,29 @@
       },
       {
         "candidate_id": "ps72_17",
-        "intersectionCount": 7
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "ps72_16+ps72_17 @1-8+@1-10: Existimabam ut cognoscere ... intelligam in novissimis eorum"
       },
       {
         "candidate_id": "ps93_12",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Ps 93:12 Beatus homo quem tu erudieris"
       }
     ],
     "Z4Yt34-d1e1223-d1e595": [
       {
         "candidate_id": "IIcor5_8",
-        "intersectionCount": 12
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "IIcor5:6@7-13 + IIcor5:8@1-15 multi-verse"
       },
       {
         "candidate_id": "mt10_28",
-        "intersectionCount": 14
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "mt10_28@2-25; \"Nolite timere eos qui occidunt corpus...\" Matth. 10."
       },
       {
         "candidate_id": "is22_13",
@@ -5352,47 +6705,65 @@
       },
       {
         "candidate_id": "Icor15_32",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "referens illam insipientium vocem \u2014 Apostle citing it"
       },
       {
         "candidate_id": "IIcor5_6",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded"
       },
       {
         "candidate_id": "gen37_35",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "attributed 'Gene. 37'; encoded @15-21"
       },
       {
         "candidate_id": "phil1_23",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-14, Desiderium habens dissolui et esse cum Christo multo magis melius"
       },
       {
         "candidate_id": "qoh12_7",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Et spiritus redeat ad Deum qui dedit illum"
       },
       {
         "candidate_id": "iob21_13",
-        "intersectionCount": 8
+        "intersectionCount": 8,
+        "status": "encoded"
       },
       {
         "candidate_id": "Icor15_19",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "already encoded in prior session"
       },
       {
         "candidate_id": "io12_25",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Jn 12:25 qui odit animam suam in hoc mundo in vitam aeternam"
       }
     ],
     "Z4Yt34-d1e1223-d1e758": [
       {
         "candidate_id": "sap9_13",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-14, Quis enim hominum poterit scire consilium Dei..."
       }
     ],
     "Z4Yt34-d1e1223-d1e842": [
       {
         "candidate_id": "gen1_21",
-        "intersectionCount": 13
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "partial verse @1-16"
       },
       {
         "candidate_id": "gen1_11",
@@ -5404,55 +6775,77 @@
       },
       {
         "candidate_id": "gen2_7",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "de corpore ait attribution"
       },
       {
         "candidate_id": "qoh12_5",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "ante dixerat attribution"
       },
       {
         "candidate_id": "gen1_25",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "text not found in paragraph; no direct quotation"
       },
       {
         "candidate_id": "qoh12_7",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Qoh 12:7 Et spiritus redeat ad Deum"
       }
     ],
     "Z4Yt34-d1e1223-d1e1058": [
       {
         "candidate_id": "sap2_6",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-7, Venite ergo & fruamur bonis quae sunt..."
       },
       {
         "candidate_id": "iob35_11",
-        "intersectionCount": 9
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "Job 35:11 qui docet nos super iumenta terrae"
       }
     ],
     "Z4Yt34-d1e1223-d1e1277": [
       {
         "candidate_id": "sap2_22",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@2-13"
       }
     ],
     "Z4Yt34-d1e1223-d1e1330": [
       {
         "candidate_id": "ps13_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "qui dixisset in corde suo attribution \u2014 short quote Non est Deus"
       },
       {
         "candidate_id": "ps52_1",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "same content as ps13_1; encoded as ps13_1 since same verse"
       }
     ],
     "Z4Yt34-d1e1223-d1e1374": [
       {
         "candidate_id": "Icor15_19",
-        "intersectionCount": 10
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "@1-13 full verse"
       },
       {
         "candidate_id": "rom1_27",
-        "intersectionCount": 3
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "ex Apostolo afferre attribution"
       }
     ],
     "Z4Yt34-d1e1223-d1e1398": [
@@ -5462,11 +6855,15 @@
       },
       {
         "candidate_id": "ps72_3",
-        "intersectionCount": 4
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "introduced by 'inquit'; encoded @1-7"
       },
       {
         "candidate_id": "ps72_16",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "@1-8, Existimabam ut cognoscerem hoc labor est ante me"
       }
     ],
     "Z4Yt34-d1e1223-d1e1479": [
@@ -5476,7 +6873,9 @@
       },
       {
         "candidate_id": "sap2_23",
-        "intersectionCount": 5
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded as sap2_23@1-12 in XML"
       }
     ]
   }
