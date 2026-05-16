@@ -402,7 +402,7 @@
           <lb ed="#L" n="23"/>non vere filios Iosaphat germanosque Ioran, sed 
           Natha<lb ed="#L" n="24" break="no"/>nis posteros fuisse. Quod vt mireris, imo execreris etiam,  
           <lb ed="#L" n="25"/>verba subscribenda sunt, quae secundi Paralip. libri cap. 
-          <lb ed="#L" n="26"/>21. leguntur. <quote source="http://scta.info/resource/IIchr21_1 http://scta.info/resource/IIchr21_3 http://scta.info/resource/IIchr21_4">Dormiuit, inquit, Iosaphat cum patribus
+          <lb ed="#L" n="26"/>21. leguntur. <quote xml:id="Z4Yt34-d1e1049-Qd1e855" source="http://scta.info/resource/IIchr21_1 http://scta.info/resource/IIchr21_3 http://scta.info/resource/IIchr21_4">Dormiuit, inquit, Iosaphat cum patribus
           <lb ed="#L" n="27"/>suis, &amp; sepultus est cum eis in ciuitate Dauid:
           regnauit<lb ed="#L" n="28" break="no"/>que Ioran filius eius pro eo, qui habuit fratres fi lios
           Io<lb ed="#L" n="29" break="no"/>saphat, Azariam, &amp; Iahiel, &amp; Rachariam, &amp; Azariam,
@@ -511,7 +511,7 @@
           <lb ed="#L" n="10"/>confici posse. Primum, quod Berosus iste Annianus 
           scri<lb ed="#L" n="11" break="no"/>bit, Noe praeter tres primores filios Sem, Chan, &amp; Iaphet,  
           <lb ed="#L" n="12"/>plures alios post diluuium genuisse: quod sacris literis vi 
-          <lb ed="#L" n="13"/>detur esse contrarium. Tres isti, inquit, <quote source="http://scta.info/resource/gen9_19@3-14">filij sunt Noe, &amp;  
+          <lb ed="#L" n="13"/>detur esse contrarium. Tres isti, inquit, <quote xml:id="Z4Yt34-d1e1049-Qd1e1092" source="http://scta.info/resource/gen9_19@3-14">filij sunt Noe, &amp;  
           <lb ed="#L" n="14"/>ab his disseminatum est omne genus hominum super 
           vni<lb ed="#L" n="15" break="no"/>uersam terram.</quote> Non ergo alij filij Noe fuerunt, qui 
           colo<lb ed="#L" n="16" break="no"/>nias orbis terrarum praecipuas, Noe iubente constituerint. 
@@ -1010,7 +1010,7 @@
           su<lb ed="#L" n="12" break="no"/>metur. Quae omnino res locum habet, cum quae narrant 
           <lb ed="#L" n="13"/>historici, ea vel ipsi se vidisse testantur, vel ab his, qui 
           <lb ed="#L" n="14"/>viderunt, accepisse. Qualia sunt pleraque in epistolis Am 
-          <lb ed="#L" n="15"/>brosij, <name>Cypriani</name>, <name>Hieronymi</name>, <name>Augustini</name>, in libris 
+          <lb ed="#L" n="15"/>brosij, <name xml:id="Z4Yt34-d1e1049-Nd1e2171">Cypriani</name>, <name xml:id="Z4Yt34-d1e1049-Nd1e2173">Hieronymi</name>, <name xml:id="Z4Yt34-d1e1049-Nd1e2175">Augustini</name>, in libris 
           quo<lb ed="#L" n="16" break="no"/>que huius de Ciuitate Dei, in dialogis Gregorij, 
           breui<lb ed="#L" n="17" break="no"/>ter in omnibus fere doctorum ecclesiae probatissimorum 
           <lb ed="#L" n="18"/>scriptis: in quibus mendacium suspicari, quod ad 
@@ -1019,7 +1019,7 @@
           vi<lb ed="#L" n="21" break="no"/>ri sanctissimi atque optimi id consequi meruerunt: vt in 
           <lb ed="#L" n="22"/>rebus eiusmodi, quas vel spectasse se, vel ab alijs fide 
           di<lb ed="#L" n="23" break="no"/>gnis, qui spectarint, se audisse testati sunt, fides omnino 
-          <lb ed="#L" n="24"/>illis habeatur. Qua in re <name>Erasmus Roterodamus</name>, alijque 
+          <lb ed="#L" n="24"/>illis habeatur. Qua in re <name xml:id="Z4Yt34-d1e1049-Nd1e2197">Erasmus Roterodamus</name>, alijque 
           <lb ed="#L" n="25"/>iuniores quidam, saepe ac licenter errarunt. Quid enim 
           <lb ed="#L" n="26"/>liberius, licentius, immoderatius dici potuit, quam 
           Hie<lb ed="#L" n="27" break="no"/>ronymum asserentem, Matthaei euangelium Hebraicum 
@@ -1154,7 +1154,7 @@
           <lb ed="#L" n="33"/>Ioannis Baptistae, nouellae quidem reuelationes sunt, &amp; 
           <lb ed="#L" n="34"/>nonnulli eas Catholici legunt, sed cum hoc ad 
           Catholi<lb ed="#L" n="35" break="no"/>corum manus peruenerit, beati Pauli apostoli sententia 
-          <lb ed="#L" n="36"/>praecedat: <quote source="http://scta.info/resource/Ith5_21@1-7">Omnia probate, quod bonum est tenete.</quote> 
+          <lb ed="#L" n="36"/>praecedat: <quote xml:id="Z4Yt34-d1e1049-Qd1e2491" source="http://scta.info/resource/Ith5_21@1-7">Omnia probate, quod bonum est tenete.</quote> 
           Ha<lb ed="#L" n="37" break="no"/>ctenus Gelasius. 
           </p>
         <p xml:id="Z4Yt34-d1e1049-d1e2487">
@@ -1512,7 +1512,7 @@
           <lb ed="#L" n="16"/>In primo certe ecclesiasticae historiae suae libro, filium 
           <lb ed="#L" n="17"/>dicit paternae voluntatis executorem, qui post patrem 
           <lb ed="#L" n="18"/>omnium sit causa &amp; origo. Item, cum illum psalmi versi 
-          <lb ed="#L" n="19"/>culum attulisset, <quote source="http://scta.info/resource/ps32_9@2-11">Ipse dixit &amp; facta sunt, ipse mandauit &amp;
+          <lb ed="#L" n="19"/>culum attulisset, <quote xml:id="Z4Yt34-d1e1049-Qd1e3261" source="http://scta.info/resource/ps32_9@2-11">Ipse dixit &amp; facta sunt, ipse mandauit &amp;
           <lb ed="#L" n="20"/>creata sunt</quote> : subiecit, Quibus verbis propheta patrem 
           <lb ed="#L" n="21"/>inducit factorem, tanquam vniuersalem principem 
           rega<lb ed="#L" n="22" break="no"/>li suo nutu praecipientem: sermonem vero Dei illi 

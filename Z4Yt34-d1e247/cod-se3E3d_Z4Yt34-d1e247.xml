@@ -237,7 +237,7 @@
           <!--122.xml-->
           <pb ed="#L" n="111"/>
           <lb ed="#L" n="1"/>lem: &amp; historia mulieris adulterae apud Ioannem: Imo 
-          <lb ed="#L" n="2"/>&amp; illud egregium de Trinttate testimonium, <quote source="http://scta.info/resource/Iio5_7@2-6">tres sunt
+          <lb ed="#L" n="2"/>&amp; illud egregium de Trinttate testimonium, <quote xml:id="Z4Yt34-d1e247-Qd1e486" source="http://scta.info/resource/Iio5_7@2-6">tres sunt
           <lb ed="#L" n="3"/>qui testimonium dant in caelo, Pater, verbum, &amp; Spiritus
           <lb ed="#L" n="4"/>sanctus,</quote> &amp;c. ex Graecorum mendis ante aliquot annos no 
           <lb ed="#L" n="5"/>bis fuerat detractum: vt &amp; Marci extremam coronidem, 
@@ -537,7 +537,7 @@
           </p>
         <p xml:id="Z4Yt34-d1e247-d1e1128">
           <lb ed="#L" n="3"/>Alter habetur prioris ad Corinthios septimo. Nam,  
-          <lb ed="#L" n="4"/>vbi nos legimus, <quote source="http://scta.info/resource/Icor7_33@1-16">Qui cum vxore est, solicitus est quae sunt
+          <lb ed="#L" n="4"/>vbi nos legimus, <quote xml:id="Z4Yt34-d1e247-Qd1e1130" source="http://scta.info/resource/Icor7_33@1-16">Qui cum vxore est, solicitus est quae sunt
           <lb ed="#L" n="5"/>mundi, quomodo placeat vxori, &amp; diuisus est,</quote> isti ex 
           <lb ed="#L" n="6"/>Graecocyt aiunto fonte, sic vertunt: Qui cum Vxore est,  
           <lb ed="#L" n="7"/>cogitat quae sunt mundi, quomodo placeat vxori, diuisa 

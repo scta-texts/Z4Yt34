@@ -66,7 +66,7 @@
           spiri<lb ed="#L" n="6" break="no"/>tu sancto dictante sacri auctores exceperunt. Quos 
           igi<lb ed="#L" n="7" break="no"/>tur tales esse constiterit, eos dubio procul certissimos 
           <lb ed="#L" n="8"/>ac verissimos esse credemus. Quemadmodum 
-          <ref><name>Augusti<lb ed="#L" n="9" break="no"/>nus</name> lib. de Ciuitate Dei. 11. cap. 3.</ref> &amp; <ref>libr. confes: cap. 15.</ref> 
+          <ref xml:id="Z4Yt34-d1e113-Rd1e128"><name xml:id="Z4Yt34-d1e113-Nd1e129">Augusti<lb ed="#L" n="9" break="no"/>nus</name> lib. de Ciuitate Dei. 11. cap. 3.</ref> &amp; <ref xml:id="Z4Yt34-d1e113-Rd1e135">libr. confes: cap. 15.</ref> 
           <lb ed="#L" n="10"/>&amp; epist. 7. ad Marcellinum. &amp; epis. 19. ad Hieron7. &amp; li. 1. 
           <lb ed="#L" n="11"/>de doct. Chri. cap. 37. &amp; lib. 2. de bapt. cont. Donat. ca. 3. 
           <lb ed="#L" n="12"/>&amp; in prooemio. 3. lib. de Trinit. docet, resumit, inculcat. 
@@ -75,9 +75,9 @@
           cor<lb ed="#L" n="15" break="no"/>ruet. Corruetque adeo ciuitas illa Dei, cuius fundamenta 
           <lb ed="#L" n="16"/>in montibus sanctis, &amp; in scripturis principum qui fuerunt 
           <lb ed="#L" n="17"/>in ea. Quarum scripturarum auctor est non homo, sed 
-          <lb ed="#L" n="18"/>Deus. <quote source="http://scta.info/resource/ps86_6@1-12">Dominus enim narrabit in scripturis populorum,
+          <lb ed="#L" n="18"/>Deus. <quote xml:id="Z4Yt34-d1e113-Qd1e157" source="http://scta.info/resource/ps86_6@1-12">Dominus enim narrabit in scripturis populorum,
           <lb ed="#L" n="19"/>&amp; principum horum qui fuerunt in ea.</quote> Dominus itaque 
-          hu<lb ed="#L" n="20" break="no"/>ius loci auctoritatem tuetur, tuentur &amp; principes. <quote source="http://scta.info/resource/cant4_4@11-18">Turris
+          hu<lb ed="#L" n="20" break="no"/>ius loci auctoritatem tuetur, tuentur &amp; principes. <quote xml:id="Z4Yt34-d1e113-Qd1e164" source="http://scta.info/resource/cant4_4@11-18">Turris
           <lb ed="#L" n="21"/>quippe Dauid est, &amp; mille clypei pendent ex ea, omnis
           <lb ed="#L" n="22"/>armatura fortium.</quote> Quam omnino rem, quoniam in 
           ter<lb ed="#L" n="23" break="no"/>tio decimo libro sumus latius explicaturi, satis hic fuerit 

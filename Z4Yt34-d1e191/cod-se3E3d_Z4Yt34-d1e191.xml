@@ -75,7 +75,7 @@
           <lb ed="#L" n="33"/>quidem propter se non accipiat ab homine testimonium: 
           <lb ed="#L" n="34"/>sed oblatum tamen propter aliorum vtilitatem non 
           re<lb ed="#L" n="35" break="no"/>pudiet. In eundem quoque sensum deinde subinfert.
-          <quote source="http://scta.info/resource/io5_41@1-5">Cla<lb ed="#L" n="36" break="no"/>ritatem ab hominibus non accipio,</quote> cum tamen Petrus 
+          <quote xml:id="Z4Yt34-d1e191-Qd1e165" source="http://scta.info/resource/io5_41@1-5">Cla<lb ed="#L" n="36" break="no"/>ritatem ab hominibus non accipio,</quote> cum tamen Petrus 
           <lb ed="#L" n="37"/>dictus sit sua morte Deum glorificasse, Ac de primo 
           qui<lb ed="#L" n="38" break="no"/>dem argumento satis.
         </p>
@@ -237,22 +237,22 @@
           Hinc illud est, quod cum 
           <lb ed="#L" n="13"/>dixisset Moyses Domino, non credent mihi, Dominus ei 
           <lb ed="#L" n="14"/>dedit potestatem signa faciendi. Hinc rursum illud, 
-          <quote source="http://scta.info/resource/mc16_20@4-12">Prae<lb ed="#L" n="15" break="no"/>dicauerunt vbique. Domino cooperante, &amp; sermonem
+          <quote xml:id="Z4Yt34-d1e191-Qd1e559" source="http://scta.info/resource/mc16_20@4-12">Prae<lb ed="#L" n="15" break="no"/>dicauerunt vbique. Domino cooperante, &amp; sermonem
           <lb ed="#L" n="16"/>confirmante sequentibus signis.</quote> Huc illa pertinent, hic 
           <lb ed="#L" n="17"/>venit in testimonium, &amp;c. vt omnes crederent per illum. 
           <lb ed="#L" n="18"/>Et <name xml:id="Z4Yt34-d1e191-Nd1e564">Sergius Paulus</name> vir prudens cum vidisset factum, 
           cre<lb ed="#L" n="19" break="no"/>didit, admirans super doctrina Domini. Acto. 13. Et 
           Cen<lb ed="#L" n="20" break="no"/>turio videns quod fuerat, glorificauit Deum dicens: 
-          Ve<lb ed="#L" n="21" break="no"/>re filius Dei erat iste. Lucae 23. <quote source="http://scta.info/resource/io4_53@1-22">Et cognouit pater quod
+          Ve<lb ed="#L" n="21" break="no"/>re filius Dei erat iste. Lucae 23. <quote xml:id="Z4Yt34-d1e191-Qd1e580" source="http://scta.info/resource/io4_53@1-22">Et cognouit pater quod
           <lb ed="#L" n="22"/>illa hora esset in qua dixit ei Iesus filius tuus viuit, &amp;
-          cre<lb ed="#L" n="23" break="no"/>didit ipse &amp; domus eius tota,</quote> &amp; paulo ante. <quote source="http://scta.info/resource/io4_39@1-20">Ex ciuitate
+          cre<lb ed="#L" n="23" break="no"/>didit ipse &amp; domus eius tota,</quote> &amp; paulo ante. <quote xml:id="Z4Yt34-d1e191-Qd1e587" source="http://scta.info/resource/io4_39@1-20">Ex ciuitate
           <lb ed="#L" n="24"/>autem illa multi crediderunt in eum Samaritanorum,
           pro<lb ed="#L" n="25" break="no"/>pter verbum mulieris testimonium perhibentis, quia
           di<lb ed="#L" n="26" break="no"/>xit mihi omnia quaecunque feci:</quote> &amp; multi venerunt ad 
-          Ie<lb ed="#L" n="27" break="no"/>sum, &amp; dicebant : <quote source="http://scta.info/resource/io10_41@9-13">Quia Ioannes quidem signum fecit
+          Ie<lb ed="#L" n="27" break="no"/>sum, &amp; dicebant : <quote xml:id="Z4Yt34-d1e191-Qd1e598" source="http://scta.info/resource/io10_41@9-13">Quia Ioannes quidem signum fecit
           nul<lb ed="#L" n="28" break="no"/>lum:</quote> Omnia autem quaecunque dixit Ioannes de hoc
-          ve<lb ed="#L" n="29" break="no"/>ra erant. Et Ioann. 2O. <quote source="http://scta.info/resource/io20_8@3-15">Introiuit ille discipulus qui
-          vene<lb ed="#L" n="30" break="no"/>rat primus ad monumentum, &amp; vidit &amp; credidit.</quote> <quote source="http://scta.info/resource/io20_9@1-10">Nondum
+          ve<lb ed="#L" n="29" break="no"/>ra erant. Et Ioann. 2O. <quote xml:id="Z4Yt34-d1e191-Qd1e606" source="http://scta.info/resource/io20_8@3-15">Introiuit ille discipulus qui
+          vene<lb ed="#L" n="30" break="no"/>rat primus ad monumentum, &amp; vidit &amp; credidit.</quote> <quote xml:id="Z4Yt34-d1e191-Qd1e611" source="http://scta.info/resource/io20_9@1-10">Nondum
           <lb ed="#L" n="31"/>enim sciebant scripturam: quia oportuit eum a mortuis
           <lb ed="#L" n="32"/>resurgere.</quote> Philippus denique &amp; Petrus non vtcunque 
           <lb ed="#L" n="33"/>fidem Eunucho, Cornelioque proposuere: sed &amp; causas 
@@ -271,16 +271,16 @@
           <lb ed="#L" n="3"/>c. 21.</ref> &amp; alias saepe, <quote xml:id="Z4Yt34-d1e191-Qd1e635">quin sacrae literae id quoque docent. 
           <lb ed="#L" n="4"/>Quam speciosi, inquit, pedes euangelixantium pacem, 
           e<lb ed="#L" n="5" break="no"/>uangelizantium bona: sed non omnes obediunt 
-          Euange<lb ed="#L" n="6" break="no"/>lio. Esaias enim dicit, <quote source="http://scta.info/resource/is53_1@1-10">Domine, quis credidit auditui
+          Euange<lb ed="#L" n="6" break="no"/>lio. Esaias enim dicit, <quote xml:id="Z4Yt34-d1e191-Qd1e664" source="http://scta.info/resource/is53_1@1-10">Domine, quis credidit auditui
           no<lb ed="#L" n="7" break="no"/>stro, &amp; brachium Domini cui reuelatum est?</quote> Item nolite 
-          <lb ed="#L" n="8"/>murmurare inuicem: <quote source="http://scta.info/resource/io6_44@1-12">Nemo potest venire ad me, nisi
-          pa<lb ed="#L" n="9" break="no"/>ter, qui misit me, traxerit eum:</quote> <quote source="http://scta.info/resource/io6_45@1-19">est scriptum in Prophetis,
+          <lb ed="#L" n="8"/>murmurare inuicem: <quote xml:id="Z4Yt34-d1e191-Qd1e672" source="http://scta.info/resource/io6_44@1-12">Nemo potest venire ad me, nisi
+          pa<lb ed="#L" n="9" break="no"/>ter, qui misit me, traxerit eum:</quote> <quote xml:id="Z4Yt34-d1e191-Qd1e677" source="http://scta.info/resource/io6_45@1-19">est scriptum in Prophetis,
           <lb ed="#L" n="10"/>&amp; erunt omnes docibiles Dei. Omnis, qui audiuit a patre
           <lb ed="#L" n="11"/>&amp; didicit, venit ad me.</quote> Et inferius, quibusdam discipulis 
-          <lb ed="#L" n="12"/>dicentibus, <quote source="http://scta.info/resource/io6_61@8-15">durus est hic sermo, &amp; quis potest eum
-          audi<lb ed="#L" n="13" break="no"/>re ?</quote> propterea cinquit Dominus, <quote source="http://scta.info/resource/io6_66@4-18">dixi vobis quod nemo
+          <lb ed="#L" n="12"/>dicentibus, <quote xml:id="Z4Yt34-d1e191-Qd1e686" source="http://scta.info/resource/io6_61@8-15">durus est hic sermo, &amp; quis potest eum
+          audi<lb ed="#L" n="13" break="no"/>re ?</quote> propterea cinquit Dominus, <quote xml:id="Z4Yt34-d1e191-Qd1e691" source="http://scta.info/resource/io6_66@4-18">dixi vobis quod nemo
           <lb ed="#L" n="14"/>potest venire ad me, nisi fuerit ei datum a patre meo,</quote> &amp; alio 
-          <lb ed="#L" n="15"/>loco, <quote source="http://scta.info/resource/io12_37@1-11 http://scta.info/resource/io12_38@8-18">Cum autem tanta signa fecisset coram eis, non
+          <lb ed="#L" n="15"/>loco, <quote xml:id="Z4Yt34-d1e191-Qd1e699" source="http://scta.info/resource/io12_37@1-11 http://scta.info/resource/io12_38@8-18">Cum autem tanta signa fecisset coram eis, non
           cre<lb ed="#L" n="16" break="no"/>debant in eum: vt sermo Esaiae impleretur, Domine, quis
           <lb ed="#L" n="17"/>credidit auditui nostro, &amp; brachium Domini cui
           reuela<lb ed="#L" n="18" break="no"/>tum est</quote></quote>, &amp;c. Externae igitur omnes &amp; humanae 
@@ -288,30 +288,30 @@
           ho<lb ed="#L" n="20" break="no"/>minibus conpetenter ea quae sunt fidei proponantur. Sed 
           <lb ed="#L" n="21"/>necessaria est insuper causa interior, hoc est, diuinum 
           <lb ed="#L" n="22"/>quoddam lumen incitans ad credendum, &amp; oculi quidam  
-          <lb ed="#L" n="23"/>interni Dei beneficio ad videndum dati. <quote source="http://scta.info/resource/deut29_3@4-10 http://scta.info/resource/deut29_4@2-15">Viderunt
+          <lb ed="#L" n="23"/>interni Dei beneficio ad videndum dati. <quote xml:id="Z4Yt34-d1e191-Qd1e719" source="http://scta.info/resource/deut29_3@4-10 http://scta.info/resource/deut29_4@2-15">Viderunt
     (in<lb ed="#L" n="24" break="no"/>quit Moyses) oculi tui signa illa portentaque ingentia, &amp;
           <lb ed="#L" n="25"/>non dedit tibi Dominus cor ad intelligendum, &amp; aures
           <lb ed="#L" n="26"/>ad audiendum, nec oculos ad videndum.</quote> Hoc quoque 
           <lb ed="#L" n="27"/>sua voce dilucide confirmauit Christus <name xml:id="Z4Yt34-d1e191-Nd1e690">Petro</name> inquiens, 
-          <lb ed="#L" n="28"/><quote source="http://scta.info/resource/mt16_17@6-24">Beatus es <name xml:id="Z4Yt34-d1e191-Nd1e694">Simon Bariona</name>, quia caro &amp; sanguis non
+          <lb ed="#L" n="28"/><quote xml:id="Z4Yt34-d1e191-Qd1e735" source="http://scta.info/resource/mt16_17@6-24">Beatus es <name xml:id="Z4Yt34-d1e191-Nd1e694">Simon Bariona</name>, quia caro &amp; sanguis non
           reue<lb ed="#L" n="29" break="no"/>lauit tibi, sed pater meus qui in coelis est.</quote> Certe Petrus 
           <lb ed="#L" n="30"/>audierat Ioannis Baptistae testimonium, quo aperta voce 
           <lb ed="#L" n="31"/>clamauerat, Christum esse filium Dei. Multa insuper 
           Chri<lb ed="#L" n="32" break="no"/>sti miracula viderat, &amp; tamen post haec omnia non aut 
           te<lb ed="#L" n="33" break="no"/>stimonio, aut auctoritati Ioannis, non miraculis visis, fidei 
           <lb ed="#L" n="34"/>confessionem Christus assignat, sed diuinae reuelationi
-          <lb ed="#L" n="35"/>Et ad Thessalonicenses, <quote source="http://scta.info/resource/Ith2_13@4-33">Gratias agimus Deo, quoniam
+          <lb ed="#L" n="35"/>Et ad Thessalonicenses, <quote xml:id="Z4Yt34-d1e191-Qd1e756" source="http://scta.info/resource/Ith2_13@4-33">Gratias agimus Deo, quoniam
           <lb ed="#L" n="36"/>cum accepissetis a nobis verbum auditus fidei, accepistis
           <lb ed="#L" n="37"/>illud, non vt verbum hominum, sed sicut est vere, verbum
           <lb ed="#L" n="38"/>Dei, qui operatur in vobis, qui credidistis.</quote> Sunt &amp; alia 
           <lb ed="#L" n="39"/>pleraque sacrarum literarum testimonia in huius rei 
-          confir<!--65.xml--><pb ed="#L" n="54"/><lb ed="#L" n="1" break="no"/>mationem. vt ad Corint. <quote source="http://scta.info/resource/Icor12_3@15-23">Nemo potest dicere Dominus
+          confir<!--65.xml--><pb ed="#L" n="54"/><lb ed="#L" n="1" break="no"/>mationem. vt ad Corint. <quote xml:id="Z4Yt34-d1e191-Qd1e772" source="http://scta.info/resource/Icor12_3@15-23">Nemo potest dicere Dominus
           <lb ed="#L" n="2"/>Iesus nisi in Spiritu sancto,</quote> &amp; caetera quae sequuntur. Et 
           <lb ed="#L" n="3"/>rursum inter spiritus charismata Paulus enumerat fidem: 
-          <lb ed="#L" n="4"/>&amp; alibi, non sumus sufficientes, &amp;c. Et apud Lucam: <quote source="http://scta.info/resource/act16_14@13-21">
+          <lb ed="#L" n="4"/>&amp; alibi, non sumus sufficientes, &amp;c. Et apud Lucam: <quote xml:id="Z4Yt34-d1e191-Qd1e781" source="http://scta.info/resource/act16_14@13-21">
           Quae<lb ed="#L" n="5" break="no"/>dam mulier colens Deum audiuit Paulum, cuius
           Domi<lb ed="#L" n="6" break="no"/>nus aperuit cor intendere his quae dicebantur a Paulo,</quote> 
-          <lb ed="#L" n="7"/>Et illud <quote source="http://scta.info/resource/is50_4@14-23">erigit mane, mane erigit mihi aurem. Dominus
+          <lb ed="#L" n="7"/>Et illud <quote xml:id="Z4Yt34-d1e191-Qd1e791" source="http://scta.info/resource/is50_4@14-23">erigit mane, mane erigit mihi aurem. Dominus
           <lb ed="#L" n="8"/>deus aperuit mihi aurem, vt audiam quasi magistrum.</quote> Dies 
           <lb ed="#L" n="9"/>me deficiet si omnia velim commemorare, quibus 
           secun<lb ed="#L" n="10" break="no"/>dum hoc fundamentum stabilitur.
@@ -367,7 +367,7 @@
           <!--66.xml-->
           <pb ed="#L" n="55"/>
           <lb ed="#L" n="1"/>teneo, non ex eo fides mea labefactaretur. Iuxta Pausi 
-          A<lb ed="#L" n="2" break="no"/>postoli praescriptum illud, <quote source="http://scta.info/resource/gal1_8@2-9">Licet nos aut Angelus de
+          A<lb ed="#L" n="2" break="no"/>postoli praescriptum illud, <quote xml:id="Z4Yt34-d1e191-Qd1e900" source="http://scta.info/resource/gal1_8@2-9">Licet nos aut Angelus de
           coe<lb ed="#L" n="3" break="no"/>lo euangelizet nobis,</quote> &amp;c. Nostrae igitur fidei assensio 
           <lb ed="#L" n="4"/>humanis causis, &amp; incitamentis non innititur, quae scilicet 
           <lb ed="#L" n="5"/>fides acquisita sectatur. Quare ne mens nostra vacillet, 
@@ -396,9 +396,9 @@
           <lb ed="#L" n="22"/>Nec desunt sacrarum testimonia literarum in huius rei 
           <lb ed="#L" n="23"/>confirmationem, vt illud, crediderunt Domino, &amp; 
           Moy<lb ed="#L" n="24" break="no"/>si seruo eius. Non dixit Moysi &amp; Domino, sed Domino 
-          <lb ed="#L" n="25"/>&amp; Moysi. Item, <quote source="http://scta.info/resource/io12_44@6-19">Qui credit in me, non credit in me, sed in
+          <lb ed="#L" n="25"/>&amp; Moysi. Item, <quote xml:id="Z4Yt34-d1e191-Qd1e960" source="http://scta.info/resource/io12_44@6-19">Qui credit in me, non credit in me, sed in
           <lb ed="#L" n="26"/>eum qui misit me,</quote> &amp; caetera, quae sequuntur: &amp; ad Thessal. 
-          <lb ed="#L" n="27"/><quote source="http://scta.info/resource/Ith2_13@4-33">Gratias agimus Deo, quoniam cum accepissetis a nobis
+          <lb ed="#L" n="27"/><quote xml:id="Z4Yt34-d1e191-Qd1e967" source="http://scta.info/resource/Ith2_13@4-33">Gratias agimus Deo, quoniam cum accepissetis a nobis
           <lb ed="#L" n="28"/>verbum auditus fidei, accepistis illud, non vt verbum
           ho<lb ed="#L" n="29" break="no"/>minum, sedssicut est vere, verbum Dei.</quote> 
           </p>
@@ -475,7 +475,7 @@
           <lb ed="#L" n="14"/>Iam si haec quae diximus sacris literis accommodaueris, 
           <lb ed="#L" n="15"/>inuenies profecto, ea esse vsque adeo consentanea, vt 
           ob<lb ed="#L" n="16" break="no"/>tinere a quouis aduersario debeamus. Huc enim
-          perti<lb ed="#L" n="17" break="no"/>net illud Ioannis 4. <quote source="http://scta.info/resource/io4_42@5-21">Iam non propter tuam loquelam ere
+          perti<lb ed="#L" n="17" break="no"/>net illud Ioannis 4. <quote xml:id="Z4Yt34-d1e191-Qd1e1156" source="http://scta.info/resource/io4_42@5-21">Iam non propter tuam loquelam ere
           <lb ed="#L" n="18"/>dimus: ipsi enim audiuimus, &amp; scimus quia hic est vere
           Sal<lb ed="#L" n="19" break="no"/>uator mundi.</quote> Vt illa alia praetereamus, quae retro sunt no 
           <lb ed="#L" n="20"/>bis commemorata. Nam quarto argumento refellendo 
@@ -527,7 +527,7 @@
           <lb ed="#L" n="25"/>non solum Philosophus auctor est, sed nullo etiam 
           philoe<lb ed="#L" n="26" break="no"/>sopho auctore experimur. Quamobrem Iudaeo, cul vetus 
           <lb ed="#L" n="27"/>testamentum certius est, nouum ex veteri suademus. 
-          <quote source="http://scta.info/resource/IIpetr1_19@2-24">Ha<lb ed="#L" n="28" break="no"/>bemus, inquit, firmiorem propheticum sermonem, cui 
+          <quote xml:id="Z4Yt34-d1e191-Qd1e1270" source="http://scta.info/resource/IIpetr1_19@2-24">Ha<lb ed="#L" n="28" break="no"/>bemus, inquit, firmiorem propheticum sermonem, cui 
           be<lb ed="#L" n="29" break="no"/>ne facitis attendentes, quasi lucernae lucenti in calinoso 
           <lb ed="#L" n="30"/>loco, donec dies illucescat, &amp; lucifer oriatur in cordibus 
           <lb ed="#L" n="31"/>vestris,</quote> &amp; Actor. 17. Ii qui cum auiditate verbum Pauli 
@@ -635,10 +635,10 @@
           <!--72.xml-->
           <pb ed="#L" n="61"/>
           <lb ed="#L" n="1"/>iudicat in vniuersum omnia: quomodo Elisaeus anima, 
-          in<lb ed="#L" n="2" break="no"/>quit <quote source="http://scta.info/resource/IIreg4_27@27-32">eius in amaritudine est, &amp; Dominus celauit a me</quote>? 
+          in<lb ed="#L" n="2" break="no"/>quit <quote xml:id="Z4Yt34-d1e191-Qd1e1500" source="http://scta.info/resource/IIreg4_27@27-32">eius in amaritudine est, &amp; Dominus celauit a me</quote>? 
           <lb ed="#L" n="3"/>3. Reg. 4. Quomodo Iob, cum multa se ignorare argume 
           <lb ed="#L" n="4"/>tis certis cognouisset, ignorationem suam fatetur 
-          inqui<lb ed="#L" n="5" break="no"/>ens, <quote source="http://scta.info/resource/iob42_3@10-19">insipienter locutus sum, &amp; quae vltra modum
+          inqui<lb ed="#L" n="5" break="no"/>ens, <quote xml:id="Z4Yt34-d1e191-Qd1e1509" source="http://scta.info/resource/iob42_3@10-19">insipienter locutus sum, &amp; quae vltra modum
           exce<lb ed="#L" n="6" break="no"/>dunt scientiam meam</quote>? Iob 38. 39. 40. 41. 42. Quomodo 
           <lb ed="#L" n="7"/>Apostoli non intelligebant, quae dicebantur? Lucae iS. 
           <lb ed="#L" n="8"/>Quomodo Petrus &amp; Ioannes nondum sciebant scriptura, 
@@ -647,7 +647,7 @@
           Quomo<lb ed="#L" n="11" break="no"/>do Petus non iudicauit simulationem suam esse Euangelio 
           <lb ed="#L" n="12"/>contrariam? Quomodo rursus idem absit Domine, inqut,  
           <lb ed="#L" n="13"/>quia nunquam manducaui omne commune &amp; immundu: 
-          <quote source="http://scta.info/resource/act10_17@3-11"><lb ed="#L" n="14"/>Haesitauit enim intra se quidnam esset visio quam
+          <quote xml:id="Z4Yt34-d1e191-Qd1e1530" source="http://scta.info/resource/act10_17@3-11"><lb ed="#L" n="14"/>Haesitauit enim intra se quidnam esset visio quam
           vidis<lb ed="#L" n="15" break="no"/>set.</quote> Actor. 1O. Expediant mihi, si possunt, Lutherani: 
           cur<lb ed="#L" n="16" break="no"/>Eunuchus, in quo sine dubio spiritus Dei erat, locum Esaiae 
           <lb ed="#L" n="17"/>sine externo doctore expedire non poterat. Acto. 8. Ex- 
@@ -697,7 +697,7 @@
           <lb ed="#L" n="20"/>ecclesiam de scripturis earumque sensu iudicare, id est, 
           dis<lb ed="#L" n="21" break="no"/>cernere humanam a diuina, verum a falso. Atque ecclesia 
           <lb ed="#L" n="22"/>sine vsurpata auctoritate, quemadmodum ante 
-          constitui<lb ed="#L" n="23" break="no"/>mus, hanc habet a Christo facultatem, <quote source="http://scta.info/resource/is59_21@8-31">spiritus, inquit,
+          constitui<lb ed="#L" n="23" break="no"/>mus, hanc habet a Christo facultatem, <quote xml:id="Z4Yt34-d1e191-Qd1e1642" source="http://scta.info/resource/is59_21@8-31">spiritus, inquit,
           <lb ed="#L" n="24"/>meus, qui est in te, &amp; verba mea, quae posui in ore tuo, non
           <lb ed="#L" n="25"/>recedent de ore seminis tui vsque in sempiternum.</quote> De qua 
           <lb ed="#L" n="26"/>re quoniam alio loco: sumus fuse disputaturi, nihil est 
